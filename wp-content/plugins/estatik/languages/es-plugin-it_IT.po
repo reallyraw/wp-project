@@ -1,0 +1,4979 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Estatik\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-01 12:43+0000\n"
+"PO-Revision-Date: 2019-08-01 19:12+0000\n"
+"Last-Translator: estatik4wp@gmail.com <estatik4wp@gmail.com>\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: ru_RU\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SearchPath-0: estatik\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Loco-Target-Locale: en_GB\n"
+"X-Loco-Version: 2.3.0; wp-4.9.10"
+
+#: functions.php:219
+msgid "Ver"
+msgstr "Ver"
+
+#: functions.php:305
+#, php-format
+msgid "%g bath"
+msgstr "%g bagno"
+
+#: functions.php:305
+#, php-format
+msgid "%g baths"
+msgstr "%g bagni"
+
+#: functions.php:339
+#, php-format
+msgid "%g bed"
+msgstr "%g letto"
+
+#: functions.php:339
+#, php-format
+msgid "%g beds"
+msgstr "%g letti"
+
+#: functions.php:440 classes/class-property.php:385
+msgid "Call for price"
+msgstr "Chiama per il prezzo"
+
+#: functions.php:758
+#: subscriptions/classes/pages/class-subscription-list-page.php:103
+msgid "Featured"
+msgstr "In Vetrina"
+
+#: functions.php:759
+msgid "Hot"
+msgstr "Caldo"
+
+#: functions.php:760 rets/functions.php:503
+msgid "Open House"
+msgstr "Casa aperta"
+
+#: functions.php:761
+msgid "Foreclosure"
+msgstr "Proprietà all'asta"
+
+#: functions.php:1654 functions.php:1657
+msgid "Edit property"
+msgstr "Modifica proprietà"
+
+#: functions.php:1739
+msgid "Item didn't added to the wishlist"
+msgstr "L'articolo non è stato aggiunto alla lista dei desideri"
+
+#: functions.php:1742
+msgid "Incorrect wishlist action."
+msgstr "Azione lista dei desideri errata."
+
+#: functions.php:1745
+msgid "Incorrect property type."
+msgstr "Tipo di proprietà errato."
+
+#: functions.php:1748
+msgid "Incorrect property."
+msgstr "Proprietà errata"
+
+#: functions.php:1751 classes/class-saved-search-component.php:93
+msgid "Invalid security nonce. Please, refresh the page."
+msgstr "Nonce di sicurezza non valido. Per favore, aggiorna la pagina."
+
+#: functions.php:1917
+msgid "New listings matching your saved search"
+msgstr "Nuovi annunci corrispondenti alla ricerca salvata"
+
+#: functions.php:1937
+msgid "Daily"
+msgstr "Quotidiano"
+
+#: functions.php:1944
+msgid "Weekly"
+msgstr "Settimanalmente"
+
+#: functions.php:1951
+msgid "Monthly"
+msgstr ""
+"Mensile\n"
+
+#: functions.php:2006 functions.php:2007
+msgid "Estatik Shortcode Builder"
+msgstr "Estatik Shortcode Builder"
+
+#: functions.php:2210 admin/classes/pages/class-settings-page.php:92
+msgid "Disclaimer"
+msgstr "Disconoscimento"
+
+#: functions.php:2408 admin/templates/settings/sharing-tab.php:13
+msgid "Facebook"
+msgstr "Facebook"
+
+#: functions.php:2412 admin/templates/settings/sharing-tab.php:7
+msgid "Twitter"
+msgstr "Twitter"
+
+#: functions.php:2416
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: functions.php:2420
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: functions.php:2424
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: functions.php:2428
+msgid "Youtube"
+msgstr "Youtube"
+
+#: templates/search.php:3
+msgid "Search properties"
+msgstr "Cerca proprietà"
+
+#: templates/content-archive.php:29
+msgid "No image"
+msgstr "Nessuna immagine"
+
+#: templates/content-archive.php:116
+msgid "View on map"
+msgstr "Visualizza sulla mappa"
+
+#: templates/content-archive.php:120 rets/templates/actualization-tab.php:126
+#: rets/templates/actualization-tab.php:138
+msgid "Details"
+msgstr "Dettagli"
+
+#: templates/archive-properties.php:15
+msgid "Properties"
+msgstr "Immobili"
+
+#: templates/archive-properties.php:29 rets/ajax.php:410
+#: subscriptions/classes/class-subscription-table-shortcode.php:29
+#: classes/shortcodes/class-subscription-paypal-response-page-shortcode.php:24
+msgid "Nothing to display."
+msgstr "Niente da mostrare."
+
+#: templates/powered.php:6
+#, php-format
+msgid "Powered by <a href=\"%s\" target=\"_blank\">Estatik</a>"
+msgstr "Basato su <a href=\"%s\" target=\"_blank\"> Estatik </a>"
+
+#: subscriptions/functions.php:16
+msgid "Week"
+msgstr "Settimana"
+
+#: subscriptions/functions.php:17
+msgid "Month"
+msgstr ""
+"Mese\n"
+
+#: subscriptions/functions.php:18
+msgid "Year"
+msgstr "Anno"
+
+#: subscriptions/functions.php:160
+msgid "PayPal Subscription"
+msgstr ""
+"Abbonamento PayPal\n"
+
+#: subscriptions/functions.php:489
+msgid "subscription plan"
+msgstr ""
+"piano di abbonamento\n"
+
+#: subscriptions/functions.php:496
+#, php-format
+msgid "Your subscription is expired, please update your %s."
+msgstr "Il tuo abbonamento è scaduto, aggiorna %s."
+
+#: subscriptions/functions.php:501
+#, php-format
+msgid ""
+"You subscription plan doesn't allow to publish more than %s listings, please "
+"update your %s or unpublish some properties."
+msgstr ""
+"Il piano di abbonamento non consente di pubblicare più di %s elenchi, "
+"aggiorna %s o annulla la pubblicazione di alcune proprietà."
+
+#: subscriptions/functions.php:508
+#, php-format
+msgid ""
+"Your have no subscription to publish new properties, please update your %s."
+msgstr "Non hai un abbonamento per pubblicare nuove proprietà, aggiorna %s."
+
+#: rets/functions.php:44
+msgid "Each 2 min"
+msgstr "Ogni 2 min"
+
+#: rets/functions.php:45
+msgid "Each 5 min"
+msgstr "Ogni 5 min"
+
+#: rets/functions.php:46
+msgid "Once Weekly"
+msgstr ""
+"Una volta alla settimana\n"
+
+#: rets/functions.php:47
+msgid "Once a Month"
+msgstr "Una volta al mese"
+
+#: rets/functions.php:500 classes/class-estatik-init.php:1321
+msgid "Property"
+msgstr "Proprietà"
+
+#: rets/functions.php:501 classes/class-property.php:322
+#: classes/class-property.php:329 admin/classes/class-fbuilder-helper.php:393
+#: templates/shortcodes/register.php:28
+#: classes/pages/class-property-single-page.php:190
+#: classes/pages/class-property-single-page.php:428
+#: admin/templates/property/filter.php:45
+#: admin/classes/widgets/class-request-widget.php:44
+#: subscriptions/classes/pages/class-order-list-page.php:107
+msgid "Agent"
+msgstr "Agente"
+
+#: rets/functions.php:502 classes/class-estatik-init.php:1342
+msgid "Room"
+msgstr "Camera"
+
+#: rets/functions.php:504 admin/classes/class-property-metabox.php:102
+#: management/classes/shortcodes/class-prop-management-shortcode.php:209
+msgid "Media"
+msgstr "Media"
+
+#: rets/functions.php:907
+msgid "Pages"
+msgstr "Pagine"
+
+#: rets/functions.php:910
+msgid "First"
+msgstr "Primo"
+
+#: rets/functions.php:915
+msgid "Prev"
+msgstr "Prev"
+
+#: rets/functions.php:926
+msgid "Next"
+msgstr ""
+"Il prossimo\n"
+
+#: rets/functions.php:927
+msgid "Last"
+msgstr "Scorso"
+
+#: rets/functions.php:1290 rets/functions.php:1305
+msgid "Display label"
+msgstr "Etichetta di visualizzazione"
+
+#: rets/functions.php:1293 rets/functions.php:1307
+msgid "Alternative label for display on frontend"
+msgstr "Etichetta alternativa per la visualizzazione sul frontend"
+
+#: rets/ajax.php:96
+#, php-format
+msgid "Automatically used %s resource."
+msgstr "Risorsa %s utilizzata automaticamente."
+
+#: rets/ajax.php:388
+#, php-format
+msgid ""
+"Please, set %s MLS ID field on the %s tab for <b>%s</b> resource of <b>%s</b>"
+" class."
+msgstr ""
+"Impostare il campo ID MLS %s nella scheda %s per la risorsa <b>%s</b> della "
+"classe <b>%s</b>."
+
+#: rets/ajax.php:390 rets/ajax.php:407
+#: rets/templates/partials/property-table.php:98
+#: rets/classes/pages/class-mls-rets-page.php:91
+msgid "Manage fields"
+msgstr "Gestisci i campi"
+
+#: rets/ajax.php:406
+#, php-format
+msgid "Please, set MLS fields on the %s tab."
+msgstr "Per favore, imposta i campi MLS nella scheda %s."
+
+#: rets/ajax.php:438
+msgid "Start import entities."
+msgstr "Inizia l'importazione di entità."
+
+#: rets/ajax.php:500
+msgid "Nothing to import."
+msgstr ""
+"Niente da importare.\n"
+
+#: rets/ajax.php:508
+msgid "Finish."
+msgstr "Finire."
+
+#: rets/ajax.php:525
+msgid "Incorrect actualizer form request. Please, contact the support"
+msgstr ""
+"Richiesta modulo attualizzatore errata. Si prega di contattare l'assistenza"
+
+#: rets/ajax.php:580
+msgid "Delete on value"
+msgstr "Elimina sul valore"
+
+#: rets/ajax.php:584 rets/ajax.php:642
+#, php-format
+msgid "-- Select %s value --"
+msgstr "-- Seleziona il valore %s --"
+
+#: rets/ajax.php:638
+msgid "Unpublish on value"
+msgstr "Annulla pubblicazione sul valore"
+
+#: classes/class-settings-container.php:91
+msgid "sq ft"
+msgstr "sq ft"
+
+#: classes/class-settings-container.php:92
+msgid "m²"
+msgstr "m²"
+
+#: classes/class-settings-container.php:93
+msgid "acres"
+msgstr "acri"
+
+#: classes/class-settings-container.php:94
+msgid "hectares"
+msgstr "ettari"
+
+#: classes/class-settings-container.php:95
+msgid "m³"
+msgstr "m³"
+
+#: classes/class-settings-container.php:125
+msgid "List"
+msgstr "Elenco"
+
+#: classes/class-settings-container.php:126
+msgid "2 Columns"
+msgstr "2 colonne"
+
+#: classes/class-settings-container.php:127
+msgid "3 Columns"
+msgstr "3 colonne"
+
+#: classes/class-settings-container.php:133
+msgid "Left layout"
+msgstr "Layout a sinistra"
+
+#: classes/class-settings-container.php:134
+msgid "Right layout"
+msgstr "Destro disposizione"
+
+#: classes/class-settings-container.php:135
+msgid "Center layout"
+msgstr "Layout centrale"
+
+#: classes/class-settings-container.php:165
+msgid "After price"
+msgstr "Valuta dopo il prezzo"
+
+#: classes/class-settings-container.php:166
+msgid "Before price"
+msgstr "Valuta prima del prezzo"
+
+#: classes/class-settings-container.php:171 classes/class-property.php:336
+#: management/classes/class-prop-management-init.php:137
+#: rets/templates/actualization-tab.php:80
+#: rets/templates/scheduler-import-tab.php:129
+#: management/classes/table/class-post-list-table.php:59
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:34
+#: admin/templates/shortcode-builder/params/es_search_form-params.php:14
+msgid "Title"
+msgstr "Titolo"
+
+#: classes/class-settings-container.php:171 classes/class-property.php:516
+#: management/templates/filter.php:56
+#: management/classes/class-prop-management-init.php:139
+#: admin/classes/class-property-metabox.php:101
+#: templates/emails/saved-search.php:54
+#: management/classes/shortcodes/class-prop-management-shortcode.php:207
+#: admin/templates/property/filter.php:59
+#: admin/templates/settings/sharing-tab.php:61
+#: admin/classes/widgets/class-search-widget.php:639
+#: admin/classes/pages/class-property-list-page.php:154
+#: templates/property/pdf/footer.php:4
+msgid "Address"
+msgstr "Indirizzo"
+
+#: classes/class-settings-container.php:187
+msgid "Light"
+msgstr "Luce"
+
+#: classes/class-settings-container.php:187
+msgid "Dark"
+msgstr "Buio"
+
+#: classes/class-settings-container.php:226
+msgid "Single Photo"
+msgstr "Foto singola"
+
+#: classes/class-settings-container.php:227
+msgid "Photo Gallery"
+msgstr ""
+"Galleria fotografica\n"
+
+#: classes/class-settings-container.php:227
+msgid ""
+"If thumb images do not look ok on PDF flyer, please re-upload them in "
+"Add/Edit single property page -> Media"
+msgstr ""
+"Se le immagini con il pollice non sembrano a posto sul volantino PDF, "
+"ricaricarle nella pagina Aggiungi / Modifica singola proprietà -> Media"
+
+#: classes/class-settings-container.php:234
+msgid "Disable"
+msgstr "Disattivare"
+
+#: classes/class-settings-container.php:235
+msgid "Enable"
+msgstr "Abilitare"
+
+#: classes/class-settings-container.php:258 classes/class-property.php:498
+msgid "Excerpt"
+msgstr "Estratto"
+
+#: classes/class-settings-container.php:259 classes/class-property.php:507
+#: admin/classes/class-fbuilder-helper.php:368
+#: classes/pages/class-property-single-page.php:104
+#: classes/pages/class-property-single-page.php:410
+#: templates/shortcodes/partials/my-profile-tab.php:121
+msgid "Description"
+msgstr "Descrizione"
+
+#: classes/class-settings-container.php:298 classes/class-estatik-init.php:1381
+#: classes/class-estatik-init.php:1382 management/templates/filter.php:14
+#: management/classes/class-prop-management-init.php:140
+#: admin/classes/class-taxonomy.php:95 rets/templates/logger-popup.php:16
+#: admin/templates/property/filter.php:19
+#: admin/classes/pages/class-property-list-page.php:156
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:89
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:51
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:51
+msgid "Category"
+msgstr "Categoria"
+
+#: classes/class-settings-container.php:299 classes/class-estatik-init.php:1391
+#: classes/class-estatik-init.php:1392 classes/class-agent.php:169
+#: management/templates/filter.php:34
+#: management/classes/class-prop-management-init.php:142
+#: admin/classes/class-taxonomy.php:96
+#: classes/pages/class-property-single-page.php:507
+#: admin/templates/property/filter.php:39
+#: admin/classes/pages/class-agent-list.php:254
+#: admin/classes/pages/class-property-list-page.php:160
+#: admin/classes/pages/class-user-list.php:285
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:47
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:9
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:9
+msgid "Status"
+msgstr "Stato"
+
+#: classes/class-settings-container.php:300 classes/class-estatik-init.php:1401
+#: classes/class-estatik-init.php:1402 management/templates/filter.php:24
+#: management/classes/class-prop-management-init.php:141
+#: admin/classes/class-taxonomy.php:97
+#: classes/pages/class-property-single-page.php:506
+#: admin/templates/property/filter.php:29
+#: admin/classes/pages/class-property-list-page.php:158
+#: admin/templates/fields-builder/forms/field-form.php:43
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:60
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:22
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:22
+msgid "Type"
+msgstr "Tipo"
+
+#: classes/class-settings-container.php:301 classes/class-estatik-init.php:1461
+#: admin/classes/class-taxonomy.php:101
+#: admin/templates/settings/general-tab.php:97
+#: admin/classes/pages/class-data-manager-page.php:61
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:242
+msgid "Labels"
+msgstr "Etichette"
+
+#: classes/class-settings-container.php:329
+msgid "Automatic"
+msgstr "Automatico"
+
+#: classes/class-settings-container.php:330
+msgid "Manual"
+msgstr "Manuale"
+
+#: classes/class-settings-container.php:414
+msgid "Required"
+msgstr "Richiesto"
+
+#: classes/class-settings-container.php:415
+msgid "Optional"
+msgstr "Opzionale"
+
+#: classes/class-html-helper.php:22
+msgid "Field type parameter can't be empty"
+msgstr "Il parametro del tipo di campo non può essere vuoto"
+
+#: classes/class-html-helper.php:124
+#: admin/classes/widgets/class-search-widget.php:209
+msgid "Choose value"
+msgstr "Scegli il valore"
+
+#: classes/class-html-helper.php:175
+msgid "Link name"
+msgstr "Nome del link"
+
+#: classes/class-html-helper.php:176
+msgid "Link URL"
+msgstr "Link URL"
+
+#: classes/class-html-helper.php:186
+msgid "Date From"
+msgstr "Data da"
+
+#: classes/class-html-helper.php:187
+msgid "Date to"
+msgstr ""
+"\n"
+"7/5000\n"
+"Data a"
+
+#: classes/class-property.php:312 management/templates/filter.php:42
+#: admin/classes/widgets/class-request-widget.php:120
+#: admin/classes/pages/class-property-list-page.php:148
+msgid "Property ID"
+msgstr "Rif. Immobile"
+
+#: classes/class-property.php:326
+msgid "-- Choose agent --"
+msgstr "-- Scegli agente --"
+
+#: classes/class-property.php:345 management/templates/filter.php:64
+#: management/classes/class-prop-management-init.php:138
+#: classes/pages/class-property-single-page.php:502
+#: admin/templates/property/filter.php:64
+#: admin/templates/settings/general-tab.php:103
+#: admin/classes/pages/class-property-list-page.php:152
+msgid "Date added"
+msgstr "Data di aggiunta"
+
+#: classes/class-property.php:350
+msgid "Post Updated"
+msgstr "Post aggiornato"
+
+#: classes/class-property.php:358 admin/classes/class-fbuilder-helper.php:19
+#: subscriptions/classes/class-subscription-table.php:41
+#: subscriptions/classes/class-subscription.php:76
+#: subscriptions/classes/pages/class-subscription-list-page.php:105
+#: subscriptions/classes/pages/class-order-list-page.php:58
+#: subscriptions/classes/pages/class-order-list-page.php:106
+msgid "Price"
+msgstr "Prezzo"
+
+#: classes/class-property.php:371
+msgid "Is Open House"
+msgstr "È Open House"
+
+#: classes/class-property.php:378
+msgid "Price note"
+msgstr "Nota di prezzo"
+
+#: classes/class-property.php:395 templates/emails/saved-search.php:60
+#: classes/pages/class-property-single-page.php:508
+msgid "Bedrooms"
+msgstr "Camere da Letto"
+
+#: classes/class-property.php:405 templates/emails/saved-search.php:63
+#: classes/pages/class-property-single-page.php:509
+msgid "Bathrooms"
+msgstr "Bagni"
+
+#: classes/class-property.php:416
+#: classes/pages/class-property-single-page.php:510
+msgid "Floors"
+msgstr "Piani"
+
+#: classes/class-property.php:426 admin/classes/class-fbuilder-helper.php:20
+#: templates/partials/map-property-overlay.php:52
+#: templates/emails/saved-search.php:71
+msgid "Area"
+msgstr "Superficie"
+
+#: classes/class-property.php:453
+#: classes/pages/class-property-single-page.php:504
+msgid "Lot size"
+msgstr "Superficie del terreno"
+
+#: classes/class-property.php:481
+#: classes/pages/class-property-single-page.php:511
+msgid "Year built"
+msgstr "Anno di costruzione"
+
+#: classes/class-property.php:489 admin/templates/property/filter.php:54
+msgid "MLS #"
+msgstr "MLS #"
+
+#: classes/class-property.php:518
+msgid "Address, City, ZIP"
+msgstr "Indirizzo, Città, CAP"
+
+#: classes/class-property.php:526
+msgid "Update Photo Date \\ Timestamp"
+msgstr "Aggiorna foto data \\ Data e ora"
+
+#: classes/class-property.php:531
+msgid "Keywords"
+msgstr "Parole"
+
+#: classes/class-property.php:538
+msgid "Latitude"
+msgstr "Latitudine"
+
+#: classes/class-property.php:552
+msgid "Longitude"
+msgstr "Longitudine"
+
+#: classes/class-property.php:570
+msgid "Images"
+msgstr "Immagini"
+
+#: classes/class-property.php:580 classes/class-address-components.php:46
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:163
+msgid "Country"
+msgstr "Nazione"
+
+#: classes/class-property.php:586 classes/class-property.php:599
+#: classes/class-property.php:612 classes/class-estatik-init.php:951
+msgid "Select location"
+msgstr "Seleziona la posizione"
+
+#: classes/class-property.php:593 classes/class-address-components.php:44
+#: classes/class-address-components.php:45
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:178
+msgid "State"
+msgstr "Stato"
+
+#: classes/class-property.php:606 classes/class-address-components.php:42
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:193
+msgid "City"
+msgstr "Città"
+
+#: classes/class-property.php:619
+msgid "Postcode"
+msgstr "Codice postale"
+
+#: classes/class-property.php:626 classes/class-property.php:627
+#: classes/class-address-components.php:41
+#: admin/classes/class-fbuilder-helper.php:374
+#: classes/pages/class-property-single-page.php:368
+#: classes/pages/class-property-single-page.php:416
+msgid "Neighborhood"
+msgstr "Quartiere"
+
+#: classes/class-property.php:638 classes/class-property.php:639
+#: classes/class-address-components.php:40
+msgid "Street"
+msgstr "Indirizzo"
+
+#: classes/class-property.php:652
+msgid "Property MLS ID"
+msgstr "ID MLS proprietà"
+
+#: classes/class-property.php:657 classes/class-room.php:93
+#: classes/class-agent.php:197
+msgid "RETS Class"
+msgstr "Classe RETS"
+
+#: classes/class-property.php:663 classes/class-room.php:103
+#: classes/class-agent.php:202
+msgid "RETS Resource"
+msgstr "Risorsa RETS"
+
+#: classes/class-property.php:669 classes/class-agent.php:179
+msgid "Agent MLS ID"
+msgstr "ID MLS Agente"
+
+#: classes/class-property.php:675 classes/class-agent.php:192
+msgid "MLS Update date"
+msgstr "Data aggiornamento MLS"
+
+#: classes/class-property.php:708 classes/class-room.php:46
+#, php-format
+msgid "-- Choose %s --"
+msgstr "-- Scegli %s --"
+
+#: classes/class-property.php:773 classes/class-agent.php:184
+msgid "New field"
+msgstr ""
+"Nuovo campo\n"
+
+#: classes/class-address-components.php:38
+msgid "St. №"
+msgstr "St. №"
+
+#: classes/class-address-components.php:39
+msgid "District"
+msgstr "Quartiere"
+
+#: classes/class-address-components.php:43
+msgid "County"
+msgstr "Contea"
+
+#: classes/class-address-components.php:47
+msgid "Postal code"
+msgstr "Codice postale"
+
+#: classes/class-address-components.php:50
+msgid "Unknown"
+msgstr "sconosciuto"
+
+#: classes/class-estatik-init.php:463
+msgid "Estatik Agent"
+msgstr "Agente Estatik"
+
+#: classes/class-estatik-init.php:477
+msgid "Estatik Buyer"
+msgstr "Compratore di Estatik"
+
+#: classes/class-estatik-init.php:939
+msgid "Something was wrong. Please, contact the support."
+msgstr "C'era qualcosa di sbagliato. Per favore, contatta il supporto."
+
+#: classes/class-estatik-init.php:940
+msgid "Remove image"
+msgstr "Rimuovi immagine"
+
+#: classes/class-estatik-init.php:941
+#: management/classes/class-prop-management-init.php:199
+msgid "Remove"
+msgstr "Rimuovere"
+
+#: classes/class-estatik-init.php:942
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:40
+msgid "Yes"
+msgstr "Si"
+
+#: classes/class-estatik-init.php:943
+msgid "Generating"
+msgstr "Generazione"
+
+#: classes/class-estatik-init.php:944
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:43
+msgid "No"
+msgstr "No"
+
+#: classes/class-estatik-init.php:945
+msgid "Loading filter fields"
+msgstr "Caricamento dei campi filtro"
+
+#: classes/class-estatik-init.php:946
+msgid "Saved"
+msgstr "Salvato"
+
+#: classes/class-estatik-init.php:947
+msgid "Loading Shortcode Attributes..."
+msgstr "Caricamento attributi shortcode ..."
+
+#: classes/class-estatik-init.php:948
+msgid "Saving"
+msgstr "Salvataggio"
+
+#: classes/class-estatik-init.php:949
+msgid "Error"
+msgstr "Errore"
+
+#: classes/class-estatik-init.php:950
+msgid "Ok"
+msgstr "Ok"
+
+#: classes/class-estatik-init.php:952
+msgid "Sort by"
+msgstr "Ordina per"
+
+#: classes/class-estatik-init.php:953
+msgid "Enable if you need to use multiselect feature for this drop-down field."
+msgstr ""
+"Abilitare se è necessario utilizzare la funzionalità di selezione multipla "
+"per questo campo a discesa."
+
+#: classes/class-estatik-init.php:954
+msgid "Are you sure you want to delete this item?"
+msgstr "Sei sicuro di voler eliminare questo articolo?"
+
+#: classes/class-estatik-init.php:955
+#, php-format
+msgid "The RETS integration feature <br>is available in %s version."
+msgstr "La funzione di integrazione RETS <br> è disponibile nella versione %s."
+
+#: classes/class-estatik-init.php:956
+msgid "Premium"
+msgstr "Premium"
+
+#: classes/class-estatik-init.php:957
+#: admin/classes/pages/class-settings-page.php:87
+msgid "Color"
+msgstr "Colore"
+
+#: classes/class-estatik-init.php:958
+msgid "If zoom field is empty then google map calculate zoom automatically."
+msgstr ""
+"Se il campo di zoom è vuoto, google map calcola automaticamente lo zoom."
+
+#: classes/class-estatik-init.php:959
+msgid "Icons"
+msgstr "Icone"
+
+#: classes/class-estatik-init.php:960
+msgid "Replace photo"
+msgstr "Sostituisci foto"
+
+#: classes/class-estatik-init.php:961
+msgid "Select one or more entities for import."
+msgstr "Seleziona una o più entità per l'importazione."
+
+#: classes/class-estatik-init.php:962
+msgid ""
+"Select how often cron will send requests to MLS server. We would recommend "
+"Each 2 min."
+msgstr ""
+"Seleziona la frequenza con cui cron invierà le richieste al server MLS. "
+"Consigliamo ogni 2 minuti."
+
+#: classes/class-estatik-init.php:963
+msgid ""
+"How many listings it will pull during 1 server connection. 5 is recommended."
+msgstr ""
+"Quanti elenchi tirerà durante 1 connessione al server. 5 è raccomandato."
+
+#: classes/class-estatik-init.php:964
+msgid ""
+"Means that import will never stop working and constantly will be checking "
+"and importing newly added MLS listings."
+msgstr ""
+"Significa che l'importazione non smetterà mai di funzionare e controllerà e "
+"importerà costantemente elenchi MLS appena aggiunti."
+
+#: classes/class-estatik-init.php:965
+msgid "Loading"
+msgstr "Caricamento in corso"
+
+#: classes/class-estatik-init.php:966
+msgid "Hold down Ctrl key to drag multiple fields at once."
+msgstr ""
+"Tenere premuto il tasto Ctrl per trascinare più campi contemporaneamente."
+
+#: classes/class-estatik-init.php:967
+msgid "Copied"
+msgstr "Copiato"
+
+#: classes/class-estatik-init.php:1037
+msgid ""
+"Your account is not approved, please contact admin of this website to get "
+"approved."
+msgstr ""
+"Il tuo account non è approvato, ti preghiamo di contattare l'amministratore "
+"di questo sito per ottenere l'approvazione."
+
+#: classes/class-estatik-init.php:1063 classes/class-manage-users.php:173
+msgid "Account disabled."
+msgstr "Account disabilitato."
+
+#. Name of the plugin
+#. Author of the plugin
+#: classes/class-estatik-init.php:1114 classes/class-estatik-init.php:1115
+#: classes/class-manage-users.php:233 classes/class-manage-users.php:246
+#: classes/class-manage-users.php:259 classes/class-manage-users.php:271
+#: admin/classes/class-shelterzoom.php:432
+#: subscriptions/classes/class-subscription-init.php:288
+#: subscriptions/classes/payments/class-paypal-subscription-payment-method.php:124
+msgid "Estatik"
+msgstr "Estatik"
+
+#: classes/class-estatik-init.php:1127 classes/class-estatik-init.php:1128
+#: admin/templates/dashboard/dashboard.php:4
+msgid "Dashboard"
+msgstr "Pannello di controllo"
+
+#: classes/class-estatik-init.php:1137 classes/class-estatik-init.php:1138
+#: classes/shortcodes/class-my-listing-shortcode.php:21
+#: admin/templates/dashboard/dashboard.php:14
+#: admin/templates/property/list.php:11
+msgid "My listings"
+msgstr "I miei annunci"
+
+#: classes/class-estatik-init.php:1145 classes/class-estatik-init.php:1146
+msgid "Add new property"
+msgstr "Aggiungi nuova proprietà"
+
+#: classes/class-estatik-init.php:1153 classes/class-estatik-init.php:1154
+msgid "Data Manager"
+msgstr "Gestione Dati"
+
+#: classes/class-estatik-init.php:1163 classes/class-estatik-init.php:1164
+msgid "Buyers"
+msgstr "Gli acquirenti"
+
+#: classes/class-estatik-init.php:1170 classes/class-estatik-init.php:1171
+msgid "Add New Buyer"
+msgstr "Aggiungi nuovo acquirente"
+
+#: classes/class-estatik-init.php:1180 classes/class-estatik-init.php:1181
+#: classes/shortcodes/class-agent-list-shortcode.php:12
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:117
+msgid "Agents"
+msgstr "Agents"
+
+#: classes/class-estatik-init.php:1187 classes/class-estatik-init.php:1188
+msgid "Add New Agent"
+msgstr "Aggiungi nuovo agente"
+
+#: classes/class-estatik-init.php:1196 classes/class-estatik-init.php:1197
+msgid "CSV Import"
+msgstr "Importazione CSV"
+
+#: classes/class-estatik-init.php:1206 classes/class-estatik-init.php:1207
+#: subscriptions/classes/class-subscription-init.php:456
+#: subscriptions/classes/class-subscription-init.php:471
+msgid "Subscriptions"
+msgstr ""
+"Sottoscrizioni\n"
+
+#: classes/class-estatik-init.php:1214 classes/class-estatik-init.php:1215
+msgid "Add subscription"
+msgstr "Aggiungi abbonamento"
+
+#: classes/class-estatik-init.php:1222 classes/class-estatik-init.php:1223
+#: subscriptions/classes/class-subscription-init.php:486
+msgid "Orders"
+msgstr ""
+"Ordini\n"
+
+#: classes/class-estatik-init.php:1231 classes/class-estatik-init.php:1232
+#: admin/templates/fields-builder/main.php:13
+msgid "Fields builder"
+msgstr "Costruttore di campi"
+
+#: classes/class-estatik-init.php:1240 classes/class-estatik-init.php:1241
+#: admin/templates/dashboard/dashboard.php:38
+#: admin/templates/settings/settings.php:6
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: classes/class-estatik-init.php:1250 classes/class-estatik-init.php:1251
+msgid "Demo content"
+msgstr "Contenuto demo"
+
+#: classes/class-estatik-init.php:1261 classes/class-estatik-init.php:1262
+#: admin/templates/migration/migration.php:5
+msgid "Migration"
+msgstr "Migrazione"
+
+#: classes/class-estatik-init.php:1344
+#: classes/pages/class-property-single-page.php:144
+msgid "Rooms"
+msgstr "Camere"
+
+#: classes/class-estatik-init.php:1355 classes/class-estatik-init.php:1357
+msgid "Saved Search"
+msgstr "Ricerca salvata"
+
+#: classes/class-estatik-init.php:1411 classes/class-estatik-init.php:1412
+msgid "Room Type"
+msgstr "Tipo di stanza"
+
+#: classes/class-estatik-init.php:1421
+msgid "Room Features"
+msgstr "Caratteristiche della stanza"
+
+#: classes/class-estatik-init.php:1422
+msgid "Room Feature"
+msgstr "Caratteristica della stanza"
+
+#: classes/class-estatik-init.php:1431 classes/class-room.php:25
+#: admin/classes/class-taxonomy.php:98
+#: admin/classes/class-fbuilder-helper.php:380
+#: classes/pages/class-property-single-page.php:215
+#: classes/pages/class-property-single-page.php:369
+#: classes/pages/class-property-single-page.php:434
+#: classes/pages/class-property-single-page.php:461
+#: management/classes/shortcodes/class-prop-management-shortcode.php:208
+#: admin/classes/pages/class-data-manager-page.php:57
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:216
+msgid "Features"
+msgstr "Caratteristiche"
+
+#: classes/class-estatik-init.php:1432
+msgid "Feature"
+msgstr "Caratteristica"
+
+#: classes/class-estatik-init.php:1441 classes/class-estatik-init.php:1442
+#: admin/classes/class-taxonomy.php:99
+#: classes/pages/class-property-single-page.php:505
+msgid "Rent period"
+msgstr "Periodo di affitto"
+
+#: classes/class-estatik-init.php:1451 classes/class-estatik-init.php:1452
+#: admin/classes/class-taxonomy.php:100
+#: classes/pages/class-property-single-page.php:465
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:229
+msgid "Amenities"
+msgstr "Servizi Accessori"
+
+#: classes/class-estatik-init.php:1462
+msgid "Label"
+msgstr "Etichetta"
+
+#: classes/class-room.php:18
+msgid "Types"
+msgstr "Tipi"
+
+#: classes/class-room.php:64 admin/classes/pages/class-data-manager-page.php:69
+msgid "Dimensions"
+msgstr "Dimensioni"
+
+#: classes/class-room.php:69
+#: admin/templates/widgets/es-property-map-form.php:66
+#: admin/templates/settings/map-tab.php:61
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:73
+msgid "Width"
+msgstr "Larghezza"
+
+#: classes/class-room.php:74
+msgid "Level"
+msgstr "Livello"
+
+#: classes/class-room.php:79
+msgid "Length"
+msgstr "Lunghezza"
+
+#: classes/class-room.php:87
+msgid "Property identifier"
+msgstr "Identificatore di proprietà"
+
+#: classes/class-room.php:98
+msgid "Room MLS ID"
+msgstr "ID MLS camera"
+
+#: classes/class-user.php:27 templates/shortcodes/register.php:37
+#: subscriptions/classes/class-subscription-table.php:36
+#: admin/templates/agents/profile.php:32 admin/templates/buyers/profile.php:29
+#: admin/classes/widgets/class-request-widget.php:117
+#: templates/shortcodes/partials/my-profile-tab.php:39
+#: subscriptions/classes/pages/class-subscription-list-page.php:97
+#: subscriptions/classes/pages/class-order-list-page.php:103
+msgid "Name"
+msgstr "Nome"
+
+#: classes/class-user.php:31
+msgid "Profile Image"
+msgstr "Immagine del profilo"
+
+#: classes/class-user.php:36 admin/classes/class-fbuilder-helper.php:27
+#: templates/shortcodes/register.php:73
+msgid "Tel"
+msgstr "Tel"
+
+#: classes/class-user.php:182 classes/class-agent.php:397
+msgid "Email or username is empty."
+msgstr "Email o nome utente è vuoto."
+
+#: classes/class-saved-search-component.php:85
+#: classes/class-saved-search-component.php:89
+msgid "Choose search fields"
+msgstr "Scegli i campi di ricerca"
+
+#: classes/class-saved-search-component.php:115
+#: classes/class-saved-search-component.php:142
+msgid "Incorrect security nonce, please refresh the page."
+msgstr "Nonce sicurezza non corretto, si prega di aggiornare la pagina."
+
+#: classes/class-saved-search-component.php:127
+msgid "The update method successfully changed."
+msgstr "Il metodo di aggiornamento è stato modificato correttamente."
+
+#: classes/class-saved-search-component.php:129
+msgid "Incorrect update method"
+msgstr "Metodo di aggiornamento errato"
+
+#: classes/class-saved-search-component.php:133
+#: classes/class-saved-search-component.php:201
+msgid "Incorrect entity"
+msgstr "Entità errata"
+
+#: classes/class-saved-search-component.php:155
+msgid "The title successfully changed."
+msgstr "Il titolo è cambiato con successo."
+
+#: classes/class-saved-search-component.php:160
+msgid "Incorrect saved search entity."
+msgstr "Entità di ricerca salvata errata"
+
+#: classes/class-saved-search-component.php:163
+msgid "The title field is required."
+msgstr "Il campo del titolo è obbligatorio."
+
+#: classes/class-saved-search-component.php:192
+#, php-format
+msgid "The saved search %s successfully removed."
+msgstr "La ricerca salvata% s è stata rimossa correttamente."
+
+#: classes/class-saved-search-component.php:198
+msgid "You have no permissions for remove this search."
+msgstr "Non hai permessi per rimuovere questa ricerca."
+
+#: classes/class-saved-search.php:175
+msgid "Daily Update"
+msgstr "Avviso giornaliero"
+
+#: classes/class-saved-search.php:176
+msgid "Weekly Update"
+msgstr "Aggiornamento settimanale"
+
+#: classes/class-saved-search.php:177
+msgid "Monthly Update"
+msgstr ""
+"Aggiornamento mensile\n"
+
+#: classes/class-saved-search.php:178
+msgid "No Update"
+msgstr "Nessun avviso"
+
+#: classes/class-post-duplicate.php:33
+msgid "Property for clone doesn't exists."
+msgstr "La proprietà per il clone non esiste."
+
+#: classes/class-post-duplicate.php:51 management/templates/manage-block.php:19
+#: admin/templates/property/filter.php:96
+msgid "Copy"
+msgstr "Copia"
+
+#: classes/class-property-pdf.php:203
+msgid "Basic Facts"
+msgstr "Fatti basilari"
+
+#: classes/class-manage-users.php:84
+#: admin/classes/pages/class-user-profile-page.php:155
+msgid "User successfully saved"
+msgstr "Utente salvato con successo"
+
+#: classes/class-manage-users.php:104
+#: admin/classes/pages/class-user-profile-page.php:177
+msgid "User doesn't save"
+msgstr "L'utente non salva"
+
+#: classes/class-manage-users.php:207
+msgid "Someone has requested a password reset for the following account:"
+msgstr ""
+"Qualcuno ha richiesto una reimpostazione della password per il seguente "
+"account:"
+
+#: classes/class-manage-users.php:209
+#, php-format
+msgid "Username: %s"
+msgstr "Nome utente: %s"
+
+#: classes/class-manage-users.php:210
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr "Se questo è stato un errore, ignora questa email e non accadrà nulla."
+
+#: classes/class-manage-users.php:211
+msgid "To reset your password, visit the following address:"
+msgstr "Per reimpostare la password, visitare il seguente indirizzo:"
+
+#: classes/class-manage-users.php:235
+#, php-format
+msgid ""
+"Please, create a registration page with <b>[es_register]</b> shortcode and "
+"set it on %s page."
+msgstr ""
+"Crea una pagina di registrazione con lo shortcode <b> [es_register] </ b> e "
+"impostala sulla pagina %s."
+
+#: classes/class-manage-users.php:248
+#, php-format
+msgid ""
+"Please, create a login page with <b>[es_login]</b> shortcode and set it on "
+"%s page."
+msgstr ""
+"Crea una pagina di accesso con lo shortcode <b> [es_login] </ b> e impostala "
+"sulla pagina %s."
+
+#: classes/class-manage-users.php:261
+#, php-format
+msgid ""
+"Please, create a password reset page with <b>[es_reset_pwd]</b> shortcode "
+"and set it on %s page."
+msgstr ""
+"Crea una pagina di reimpostazione della password con lo shortcode <b> "
+"[es_reset_pwd] </ b> e impostala sulla pagina %s."
+
+#: classes/class-manage-users.php:305
+msgid "Captcha validation failed."
+msgstr "Convalida captcha fallita."
+
+#: classes/class-manage-users.php:309
+msgid "Can't connect to google services. Please, contact the support."
+msgstr ""
+"Impossibile connettersi ai servizi Google. Per favore, contatta il supporto."
+
+#: classes/class-manage-users.php:313
+msgid "Invalid recaptcha."
+msgstr "Recaptcha non valido."
+
+#: classes/class-manage-users.php:342
+msgid ""
+"You are registered at our website. <br>Your username and password were sent "
+"to your email address."
+msgstr ""
+"Sei registrato sul nostro sito web. <br> Nome utente e password sono stati "
+"inviati al tuo indirizzo email."
+
+#: classes/class-manage-users.php:347
+msgid "You are not registered to our website. <br>Please, contact a support."
+msgstr ""
+"Non sei registrato al nostro sito web. <br> Si prega di contattare un "
+"supporto."
+
+#: classes/class-manage-users.php:350
+msgid "You are not registered to our website. <br>Invalid user role."
+msgstr "Non sei registrato al nostro sito web. <br> Ruolo utente non valido."
+
+#: classes/class-manage-users.php:366
+msgid "You are logged out."
+msgstr "Sei disconnesso."
+
+#: classes/class-manage-users.php:494
+msgid "Password successfully changed."
+msgstr "Password cambiata con successo."
+
+#: classes/class-manage-users.php:508
+msgid "New password emailed to you."
+msgstr "Nuova password inviata per email."
+
+#: classes/class-manage-users.php:541 classes/class-manage-users.php:581
+msgid "New user registered"
+msgstr "Nuovo utente registrato"
+
+#: classes/class-agent.php:131
+msgid "User login"
+msgstr "Login utente"
+
+#: classes/class-agent.php:137 admin/classes/class-fbuilder-helper.php:26
+#: templates/shortcodes/register.php:55 admin/templates/agents/profile.php:44
+#: admin/templates/buyers/profile.php:43
+#: admin/classes/widgets/class-request-widget.php:118
+#: templates/property/pdf/footer.php:3
+msgid "Email"
+msgstr "Email"
+
+#: classes/class-agent.php:143
+msgid "URL"
+msgstr "URL"
+
+#: classes/class-agent.php:149
+msgid "Nickname"
+msgstr ""
+"Soprannome\n"
+
+#: classes/class-agent.php:154 templates/shortcodes/register.php:64
+#: templates/property/agent.php:70 admin/templates/agents/profile.php:50
+#: admin/templates/agents/filter.php:16
+#: admin/classes/pages/class-agent-list.php:251
+#: admin/classes/pages/class-user-list.php:280
+#: templates/shortcodes/partials/my-profile-tab.php:70
+msgid "Company"
+msgstr "Azienda"
+
+#: classes/class-agent.php:159 templates/property/agent.php:40
+#: admin/templates/agents/profile.php:110 admin/templates/agents/filter.php:25
+#: admin/classes/pages/class-agent-list.php:253
+#: admin/classes/pages/class-user-list.php:282
+msgid "Rating"
+msgstr "Valutazione"
+
+#: classes/class-agent.php:164 templates/shortcodes/register.php:91
+#: admin/templates/agents/profile.php:120 admin/templates/buyers/profile.php:66
+msgid "About"
+msgstr "Circa"
+
+#: classes/class-agent.php:173
+#: templates/shortcodes/partials/my-profile-tab.php:24
+msgid "Profile image"
+msgstr "Immagine del profilo"
+
+#: classes/class-agent.php:188 admin/classes/pages/class-agent-list.php:176
+#: admin/classes/pages/class-user-list.php:190
+msgid "Disabled"
+msgstr "Disabilitato"
+
+#: classes/class-agent.php:250
+msgid "Bad"
+msgstr "Male"
+
+#: classes/class-agent.php:251
+msgid "Poor"
+msgstr "Povero"
+
+#: classes/class-agent.php:252
+msgid "Regular"
+msgstr "Regolare"
+
+#: classes/class-agent.php:253
+msgid "Good"
+msgstr "Buono"
+
+#: classes/class-agent.php:254
+msgid "Excellent"
+msgstr "Eccellente"
+
+#: classes/class-archive-sorting.php:120
+msgid "Most recent"
+msgstr "Piu recente"
+
+#: classes/class-archive-sorting.php:121
+msgid "Highest price"
+msgstr "Prezzo più alto"
+
+#: classes/class-archive-sorting.php:122
+msgid "Lowest price"
+msgstr "Prezzo più basso"
+
+#: classes/class-archive-sorting.php:123
+msgid "Most popular"
+msgstr "Più popolare"
+
+#: management/templates/manage-property.php:20
+msgid "Enter your listing details below and click 'Save' button to finish."
+msgstr ""
+"Inserisci i dettagli della scheda di seguito e fai clic sul pulsante "
+"\"Salva\" per terminare."
+
+#: management/templates/manage-property.php:23
+#: management/templates/properties.php:16
+#: admin/templates/dashboard/dashboard.php:20
+#: admin/templates/property/list.php:12
+#: admin/templates/fields-builder/forms/section-form.php:24
+#: admin/templates/fields-builder/forms/field-form.php:28
+msgid "Add new"
+msgstr "Aggiungere nuova"
+
+#: management/templates/manage-property.php:24
+msgid "Save & Close"
+msgstr "Salva & Chiudi"
+
+#: management/templates/no_access_2.php:11
+msgid "You have no permissions for access to this page."
+msgstr "Non hai i permessi per accedere a questa pagina."
+
+#: management/templates/manage-block.php:6 admin/templates/agents/filter.php:46
+#: admin/templates/buyers/filter.php:25 admin/templates/property/filter.php:87
+msgid "Manage"
+msgstr "Gestisci"
+
+#: management/templates/manage-block.php:10
+#: admin/templates/agents/filter.php:47 admin/templates/buyers/filter.php:26
+#: admin/templates/property/filter.php:90
+msgid "Select / deselect all"
+msgstr "Seleziona / deseleziona tutto"
+
+#: management/templates/manage-block.php:14
+#: admin/templates/property/filter.php:93
+msgid "Please select properties you want to copy."
+msgstr "Si prega di selezionare gli immobili che si desidera copiare."
+
+#: management/templates/manage-block.php:15
+#: admin/templates/property/filter.php:94
+msgid "Are you sure you want to copy these items?"
+msgstr "Sei sicuro di voler copiare questi elementi?"
+
+#: management/templates/manage-block.php:24
+#: admin/templates/property/filter.php:99
+msgid "Please select properties you want to delete."
+msgstr "Si prega di selezionare gli immobili che si desidera eliminare."
+
+#: management/templates/manage-block.php:25
+#: admin/templates/agents/filter.php:48 admin/templates/buyers/filter.php:27
+#: admin/templates/property/filter.php:100
+msgid "Are you sure you want to delete these items?"
+msgstr "Sei sicuro di voler eliminare questi elementi?"
+
+#: management/templates/manage-block.php:28
+#: rets/templates/actualization-tab.php:147
+#: rets/templates/scheduler-import-tab.php:166
+#: admin/templates/agents/filter.php:48 admin/templates/buyers/filter.php:27
+#: admin/templates/property/filter.php:102
+#: rets/templates/partials/credentials-list.php:33
+msgid "Delete"
+msgstr "Elimina"
+
+#: management/templates/manage-block.php:33
+#: admin/templates/property/filter.php:105
+msgid "Please select properties you want to publish."
+msgstr "Si prega di selezionare gli immobili che si desidera pubblicare."
+
+#: management/templates/manage-block.php:34
+#: admin/templates/property/filter.php:106
+msgid "Are you sure you want to publish these items?"
+msgstr "Sei sicuro di voler pubblicare questi articoli?"
+
+#: management/templates/manage-block.php:36
+#: admin/templates/property/filter.php:108
+msgid "Publish"
+msgstr "Pubblica"
+
+#: management/templates/manage-block.php:40
+#: admin/templates/property/filter.php:111
+msgid "Please select properties you want to unpublish."
+msgstr ""
+"Si prega di selezionare gli immobili di cui si desidera annullare la "
+"pubblicazione."
+
+#: management/templates/manage-block.php:41
+#: admin/templates/property/filter.php:112
+msgid "Are you sure you want to unpublish these items?"
+msgstr "Sei sicuro di voler annullare la pubblicazione di questi elementi?"
+
+#: management/templates/manage-block.php:43
+#: admin/templates/property/filter.php:114
+msgid "Unpublish"
+msgstr "Annulla pubblicazione"
+
+#: management/templates/table.php:36 templates/shortcodes/my-listing.php:32
+#: classes/shortcodes/class-property-map-shortcode.php:162
+#: templates/shortcodes/partials/saved-homes-tab.php:33
+msgid "Nothing to display"
+msgstr "Niente da mostrare"
+
+#: management/templates/no_access.php:12
+#, php-format
+msgid "You are not Agent. Please %s as Agent to submit your properties."
+msgstr "Non sei un agente. %s come agente per inviare le tue proprietà."
+
+#: management/templates/no_access.php:13 templates/shortcodes/register.php:13
+#: templates/shortcodes/register.php:135
+msgid "Register"
+msgstr "Registrazione"
+
+#: management/templates/no_access.php:14 management/templates/no_access.php:15
+#: admin/templates/settings/shelter-zoom-tab.php:30
+msgid "Login"
+msgstr "Accesso"
+
+#: management/templates/filter.php:5 admin/templates/agents/filter.php:11
+#: admin/templates/property/filter.php:10
+msgid "Filter by"
+msgstr "Filtra per"
+
+#: management/templates/filter.php:69
+#: admin/templates/data-manager/address-item.php:8
+#: admin/templates/agents/filter.php:41 admin/templates/buyers/filter.php:20
+#: admin/templates/widgets/es-search-widget.php:58
+#: admin/templates/property/filter.php:80
+msgid "Search"
+msgstr "Cerca"
+
+#: management/templates/filter.php:71 rets/templates/actualization-tab.php:127
+#: rets/templates/actualization-tab.php:139
+#: admin/templates/agents/filter.php:42 admin/templates/buyers/filter.php:21
+#: admin/templates/widgets/es-search-widget.php:55
+#: admin/templates/property/filter.php:81
+msgid "Reset"
+msgstr "Annulla"
+
+#: management/templates/404.php:2
+msgid "The page you requested could not be found."
+msgstr "La pagina richiesta non è stata trovata."
+
+#: management/classes/class-prop-management-init.php:135
+#: management/classes/table/class-post-list-table.php:58
+#: admin/classes/pages/class-user-list.php:277
+msgid "ID"
+msgstr "ID"
+
+#: management/classes/class-prop-management-init.php:136
+#: admin/classes/pages/class-property-list-page.php:150
+msgid "Image"
+msgstr "Immagine"
+
+#: management/classes/class-prop-management-init.php:194
+#: rets/templates/actualization-tab.php:144
+#: rets/templates/scheduler-import-tab.php:163
+msgid "Edit"
+msgstr "Modificare"
+
+#: management/classes/class-prop-management-init.php:268
+#, php-format
+msgid "Property %s is successfully created."
+msgstr "La proprietà %s è stata creata correttamente."
+
+#: management/classes/class-prop-management-init.php:270
+#, php-format
+msgid "Property %s is successfully created. Please, wait for approve."
+msgstr ""
+"La proprietà %s è stata creata correttamente. Per favore, attendi "
+"l'approvazione."
+
+#: management/classes/class-prop-management-init.php:306
+#, php-format
+msgid "Post %s successfully copied."
+msgstr "Post %s copiato correttamente."
+
+#: management/classes/class-prop-management-init.php:323
+#, php-format
+msgid "The property #%s successfully removed."
+msgstr "La proprietà #%s è stata rimossa correttamente."
+
+#: management/classes/class-prop-management-init.php:336
+#, php-format
+msgid "The property #%s successfully published."
+msgstr "La proprietà #%s è stata pubblicata correttamente."
+
+#: management/classes/class-prop-management-init.php:341
+msgid "You have no permission to publish properties."
+msgstr "Non sei autorizzato a pubblicare proprietà."
+
+#: management/classes/class-prop-management-init.php:351
+#, php-format
+msgid "The property #%s successfully unpublished."
+msgstr "La proprietà #%s non è stata pubblicata correttamente."
+
+#: admin/classes/class-estatik-upgrade.php:24
+msgid "Messenger can't to be empty."
+msgstr "Messenger non può essere vuoto."
+
+#: admin/classes/class-estatik-upgrade.php:28
+msgid "File can't to be empty."
+msgstr "Il file non può essere vuoto."
+
+#: admin/classes/class-estatik-upgrade.php:44
+msgid ""
+"Please, install zip extension for PHP. http://php.net/manual/ru/book.zip.php"
+msgstr ""
+"Per favore, installa l'estensione zip per PHP. http://php.net/manual/ru/book."
+"zip.php"
+
+#: admin/classes/class-estatik-upgrade.php:60
+msgid ""
+"Invalid array structure. The Archive should not consist plugin sub folder in "
+"archive."
+msgstr ""
+"Struttura di array non valida. L'archivio non dovrebbe contenere "
+"sottocartella plugin in archivio."
+
+#: admin/classes/class-estatik-upgrade.php:68
+msgid "Estatik successfully upgraded!"
+msgstr "Estatik aggiornato con successo!"
+
+#: admin/classes/class-demo-setup.php:101
+msgid "Start setup data."
+msgstr "Avvia i dati di configurazione."
+
+#: admin/classes/class-demo-setup.php:138
+#, php-format
+msgid "Created %s page."
+msgstr "Creata la pagina di% s."
+
+#: admin/classes/class-demo-setup.php:220
+#, php-format
+msgid "Property %s successfully imported."
+msgstr "Proprietà %s importata con successo."
+
+#: admin/classes/class-demo-setup.php:228
+#: admin/classes/class-demo-setup.php:243
+msgid "Setup finished."
+msgstr "Installazione completata."
+
+#: admin/classes/class-demo-setup.php:626
+msgid "List layout"
+msgstr "Elenco dell'elenco"
+
+#: admin/classes/class-demo-setup.php:631
+msgid "Log In"
+msgstr "Accesso"
+
+#: admin/classes/class-demo-setup.php:636
+msgid "Grid layout"
+msgstr "Layout della griglia"
+
+#: admin/classes/class-demo-setup.php:641
+msgid "Reset password"
+msgstr "Resetta la password"
+
+#: admin/classes/class-demo-setup.php:646
+msgid "Advanced Search & Slideshow"
+msgstr "Ricerca avanzata e presentazione"
+
+#: admin/classes/class-demo-setup.php:653
+msgid "Front-end management"
+msgstr "Gestione front-end"
+
+#: admin/classes/class-demo-setup.php:658
+#: classes/shortcodes/class-profile-shortcode.php:140
+msgid "My Profile"
+msgstr "Il mio profilo"
+
+#: admin/classes/class-demo-setup.php:663
+msgid "Agents list"
+msgstr "Elenco degli agenti"
+
+#: admin/classes/class-demo-setup.php:668
+msgid "Registration"
+msgstr "Registrazione"
+
+#: admin/classes/class-demo-setup.php:673
+#: classes/shortcodes/class-property-map-shortcode.php:12
+#: admin/classes/pages/class-settings-page.php:74
+msgid "Map view"
+msgstr "Vista mappa"
+
+#: admin/classes/class-demo-setup.php:678
+msgid "Search Results"
+msgstr "risultati di ricerca"
+
+#: admin/classes/class-data-manager-currency-item.php:31
+msgid "Currency already exists."
+msgstr "La valuta esiste già."
+
+#: admin/classes/class-data-manager-currency-item.php:51
+#: admin/classes/class-data-manager-term-item.php:72
+#: admin/classes/class-data-manager-label-item.php:39
+#: admin/classes/class-data-manager-item.php:127
+msgid "Item is successfully created."
+msgstr "L'articolo è stato creato con successo."
+
+#: admin/classes/class-data-manager-currency-item.php:56
+msgid "Please, fill the currency code and label."
+msgstr "Si prega di compilare il codice di valuta e l'etichetta."
+
+#: admin/classes/class-data-manager-currency-item.php:59
+#: admin/classes/class-data-manager-term-item.php:84
+#: admin/classes/class-data-manager-term-item.php:123
+#: admin/classes/class-data-manager-address-item.php:59
+#: admin/classes/class-data-manager-label-item.php:55
+#: admin/classes/class-data-manager-item.php:133
+#: admin/classes/class-data-manager-item.php:163
+#: admin/classes/class-data-manager-item.php:186
+msgid "Invalid ajax request."
+msgstr "Richiesta Ajax non valida."
+
+#: admin/classes/class-data-manager-term-item.php:80
+#: admin/classes/class-data-manager-label-item.php:51
+msgid "Item doesn't create. Please contact support."
+msgstr "L'oggetto non crea. Si prega di contattare l'assistenza."
+
+#: admin/classes/class-data-manager-term-item.php:108
+#: admin/classes/class-data-manager-address-item.php:57
+#: admin/classes/class-data-manager-item.php:158
+msgid "Item is successfully deleted."
+msgstr "L'articolo è stato cancellato con successo."
+
+#: admin/classes/class-data-manager-term-item.php:116
+msgid "Item doesn't delete. Please contact support."
+msgstr "L'articolo non viene eliminato. Si prega di contattare l'assistenza."
+
+#: admin/classes/class-data-manager-term-item.php:120
+msgid "Item doesn't exists."
+msgstr "L'articolo non esiste."
+
+#: admin/classes/class-data-manager-label-item.php:110
+msgid "Item doesn't updated. Please contact support."
+msgstr "L'articolo non viene aggiornato. Si prega di contattare l'assistenza."
+
+#: admin/classes/class-data-manager-label-item.php:112
+msgid "Color successfully changed."
+msgstr "Il colore è cambiato con successo."
+
+#: admin/classes/class-data-manager-item.php:109
+msgid "Item already exists."
+msgstr "L'articolo esiste già."
+
+#: admin/classes/class-data-manager-item.php:160
+msgid "Nothing for delete."
+msgstr "Niente da eliminare."
+
+#: admin/classes/class-data-manager-item.php:184
+msgid "Item has been selected."
+msgstr "L'oggetto è stato selezionato"
+
+#: admin/classes/class-fbuilder-helper.php:17
+msgid "Text"
+msgstr "Testo"
+
+#: admin/classes/class-fbuilder-helper.php:18
+msgid "Number"
+msgstr "Numero"
+
+#: admin/classes/class-fbuilder-helper.php:21
+msgid "File"
+msgstr "File"
+
+#: admin/classes/class-fbuilder-helper.php:22
+msgid "Select"
+msgstr "Selezionare"
+
+#: admin/classes/class-fbuilder-helper.php:23
+msgid "Text area"
+msgstr "Area di testo"
+
+#: admin/classes/class-fbuilder-helper.php:24
+msgid "Date"
+msgstr "Data"
+
+#: admin/classes/class-fbuilder-helper.php:25
+msgid "Date time"
+msgstr "Data e ora"
+
+#: admin/classes/class-fbuilder-helper.php:28
+msgid "Url"
+msgstr "Url"
+
+#: admin/classes/class-fbuilder-helper.php:354
+#: classes/pages/class-property-single-page.php:367
+#: classes/pages/class-property-single-page.php:396
+msgid "Basic facts"
+msgstr "Elementi di base"
+
+#: admin/classes/class-fbuilder-helper.php:387
+#: classes/pages/class-property-single-page.php:170
+#: classes/pages/class-property-single-page.php:370
+#: classes/pages/class-property-single-page.php:422
+msgid "Video"
+msgstr "Video"
+
+#: admin/classes/class-property-metabox.php:74
+msgid "Property data"
+msgstr "Dati di proprietà"
+
+#: admin/classes/class-property-metabox.php:100
+#: management/classes/shortcodes/class-prop-management-shortcode.php:206
+msgid "Basic information"
+msgstr "Informazioni di base"
+
+#: admin/classes/class-shelterzoom.php:159
+msgid "Offer"
+msgstr ""
+"Offrire\n"
+
+#: admin/classes/class-shelterzoom.php:160
+msgid "Rent"
+msgstr "Affitto"
+
+#: admin/classes/class-shelterzoom.php:169
+msgid "On the left side"
+msgstr ""
+"Sul lato sinistro\n"
+
+#: admin/classes/class-shelterzoom.php:170
+msgid "On the right side"
+msgstr ""
+"Dal lato giusto\n"
+
+#: admin/classes/class-shelterzoom.php:173
+msgid "Small"
+msgstr "Piccolo"
+
+#: admin/classes/class-shelterzoom.php:174
+msgid "Medium"
+msgstr "Medio"
+
+#: admin/classes/class-shelterzoom.php:210
+msgid "ShelterZoom saved"
+msgstr "ShelterZoom salvato"
+
+#: admin/classes/class-shelterzoom.php:214
+msgid "ShelterZoom Universal ID"
+msgstr "ShelterZoom ID universale"
+
+#: admin/classes/class-shelterzoom.php:231
+msgid "ShelterZoom"
+msgstr "ShelterZoom"
+
+#: admin/classes/class-shelterzoom.php:285
+msgid "Property successfully saved on ShelterZoom side."
+msgstr "Proprietà salvata correttamente sul lato ShelterZoom."
+
+#: admin/classes/class-shelterzoom.php:288
+#: admin/classes/class-shelterzoom.php:291
+#, php-format
+msgid "Property isn't saved on ShelterZoom side. Error: %s"
+msgstr "La proprietà non viene salvata sul lato ShelterZoom. Errori: %s"
+
+#: admin/classes/class-shelterzoom.php:335
+msgid "Property successfully removed on ShelterZoom side."
+msgstr "Proprietà rimossa correttamente sul lato ShelterZoom."
+
+#: admin/classes/class-shelterzoom.php:337
+#: admin/classes/class-shelterzoom.php:340
+#, php-format
+msgid "Property isn't removed on ShelterZoom side. Error: %s"
+msgstr "La proprietà non viene rimossa dal lato ShelterZoom. Errori: %s"
+
+#: templates/shortcodes/login.php:5 templates/shortcodes/login.php:26
+msgid "Log in"
+msgstr "Accesso"
+
+#: templates/shortcodes/login.php:14
+#: templates/shortcodes/partials/my-profile-tab.php:45
+#: rets/templates/partials/connect-form.php:34
+msgid "Username"
+msgstr "Nome utente"
+
+#: templates/shortcodes/login.php:21 admin/templates/agents/profile.php:74
+#: admin/templates/buyers/profile.php:57
+#: admin/templates/settings/shelter-zoom-tab.php:35
+#: templates/shortcodes/partials/my-profile-tab.php:106
+#: rets/templates/partials/connect-form.php:41
+msgid "Password"
+msgstr "Parola d'ordine"
+
+#: templates/shortcodes/login.php:31
+msgid "I forgot my password"
+msgstr "Ho dimenticato la mia password"
+
+#: templates/shortcodes/login.php:35
+msgid "I need to register for a new account"
+msgstr "Devo registrarmi per un nuovo account"
+
+#: templates/shortcodes/login.php:51 templates/shortcodes/register.php:145
+#: templates/shortcodes/reset.php:47
+msgid "You are already logged in."
+msgstr "Sei già loggato."
+
+#: templates/shortcodes/login.php:52 templates/shortcodes/register.php:146
+#: templates/shortcodes/reset.php:48
+msgid "Logout"
+msgstr "Disconnettersi"
+
+#: templates/shortcodes/register.php:3
+#: admin/templates/widgets/es-request-widget.php:10
+msgid "Terms of Use"
+msgstr "Termini d'uso"
+
+#: templates/shortcodes/register.php:4
+#: admin/templates/widgets/es-request-widget.php:11
+msgid "Privacy Policy"
+msgstr "Informativa sulla privacy"
+
+#: templates/shortcodes/register.php:24
+msgid "Register As"
+msgstr "Registrati come"
+
+#: templates/shortcodes/register.php:27
+msgid "Buyer"
+msgstr "Acquirente"
+
+#: templates/shortcodes/register.php:46 admin/templates/agents/profile.php:38
+#: admin/templates/buyers/profile.php:36
+msgid "User name"
+msgstr "Nome utente"
+
+#: templates/shortcodes/register.php:82
+msgid "Www"
+msgstr "Www"
+
+#: templates/shortcodes/register.php:100
+msgid "Photo/Logo"
+msgstr "Carica foto"
+
+#: templates/shortcodes/register.php:107
+msgid "Upload photo"
+msgstr "Carica una foto"
+
+#: templates/shortcodes/register.php:119
+#: admin/templates/widgets/es-request-widget.php:61
+#, php-format
+msgid "I agree to the %s and %s"
+msgstr "Accetto i %s e %s è REGISTRATI"
+
+#: templates/shortcodes/reset.php:14
+msgid "Restore password"
+msgstr "Ripristina password"
+
+#: templates/shortcodes/reset.php:21
+msgid "Enter new password"
+msgstr "Inserire una nuova password"
+
+#: templates/shortcodes/reset.php:23
+msgid "Username or email address"
+msgstr "Username o Indirizzo Email"
+
+#: templates/shortcodes/reset.php:34
+msgid "Get new password"
+msgstr "Ottieni una nuova password"
+
+#: templates/partials/map-property-overlay.php:57
+msgid "More details"
+msgstr ""
+"Più dettagli\n"
+
+#: templates/partials/request-form-response.php:2
+msgid "Your message was sent"
+msgstr "Il tuo messaggio è stato inviato"
+
+#: templates/partials/request-form-response.php:4
+#: admin/templates/demo-content/demo-step.php:52
+#: admin/templates/demo-content/demo-step.php:74
+msgid "Back"
+msgstr "Indietro"
+
+#: templates/partials/request-form-response.php:6
+msgid "Your message was'nt sent"
+msgstr "Il tuo messaggio non è stato inviato"
+
+#: templates/partials/request-form-response.php:8
+msgid "Try again"
+msgstr "Riprova"
+
+#: templates/property/agent.php:21
+msgid "Agent profile image"
+msgstr "Immagine del profilo dell'agente"
+
+#: templates/property/agent.php:32 templates/property/agent.php:34
+msgid "Properties Qty"
+msgstr "Proprietà Qtà"
+
+#: templates/emails/saved-search.php:2
+msgid "These new homes match your saved search"
+msgstr "Queste nuove case corrispondono alla tua ricerca salvata"
+
+#: templates/emails/saved-search.php:77
+msgid "View More Details"
+msgstr "Visualizza maggiori dettagli"
+
+#: templates/emails/saved-search.php:94
+msgid "See All"
+msgstr "Vedi tutto"
+
+#: subscriptions/templates/table.php:42
+msgid "Total"
+msgstr "Totale"
+
+#: subscriptions/templates/table.php:43
+msgid "Proceed"
+msgstr "Procedere"
+
+#: subscriptions/classes/class-subscription-table.php:37
+msgid "All listing"
+msgstr "Tutto l'elenco"
+
+#: subscriptions/classes/class-subscription-table.php:38
+msgid "Featured listings"
+msgstr "Elenchi in primo piano"
+
+#: subscriptions/classes/class-subscription-table.php:42
+msgid "Renewal Price"
+msgstr "Prezzo di rinnovo"
+
+#: subscriptions/classes/class-subscription.php:44
+msgid "Property Qty"
+msgstr "Qtà proprietà"
+
+#: subscriptions/classes/class-subscription.php:54
+msgid "Featured Qty"
+msgstr "Qtà in evidenza"
+
+#: subscriptions/classes/class-subscription.php:60
+#: rets/templates/actualization-tab.php:81
+msgid "Period"
+msgstr ""
+"Periodo\n"
+
+#: subscriptions/classes/class-subscription.php:66
+#: admin/classes/pages/class-settings-page.php:70
+msgid "Currency"
+msgstr "Valuta"
+
+#: subscriptions/classes/class-subscription.php:84
+msgid "Renewal price"
+msgstr "Prezzo di rinnovo"
+
+#: subscriptions/classes/class-subscription.php:89
+msgid "-- Select trial period --"
+msgstr "-- Seleziona periodo di prova --"
+
+#: subscriptions/classes/class-subscription.php:90
+msgid "Trial"
+msgstr "Prova"
+
+#: subscriptions/classes/class-subscription-table-shortcode.php:24
+msgid "Please, set PayPal credintials on Estatik subscription settings page."
+msgstr ""
+"Per favore, imposta le credenziali PayPal nella pagina delle impostazioni "
+"dell'abbonamento Estatik."
+
+#: subscriptions/classes/class-subscription-table-shortcode.php:26
+msgid "Please, set PayPal success page on Estatik subscription settings page."
+msgstr ""
+"Per favore, imposta la pagina di successo di PayPal nella pagina delle "
+"impostazioni dell'abbonamento Estatik."
+
+#: subscriptions/classes/class-subscription-table-shortcode.php:52
+msgid "Subscription table"
+msgstr ""
+"Tabella di abbonamento\n"
+
+#: subscriptions/classes/class-subscription-init.php:289
+msgid "Agent of this post has no permission for publish this property."
+msgstr ""
+"L'agente di questo post non ha l'autorizzazione per pubblicare questa "
+"proprietà."
+
+#: subscriptions/classes/class-subscription-init.php:323
+msgid "You subscription plan doesn't allow to publish more listings."
+msgstr "Il piano di abbonamento non consente di pubblicare più elenchi."
+
+#: subscriptions/classes/class-subscription-init.php:359
+msgid "You subscription plan doesn't allow to publish more featured listings."
+msgstr ""
+"Il piano di abbonamento non consente di pubblicare altri elenchi in primo "
+"piano."
+
+#: subscriptions/classes/class-subscription-init.php:405
+msgid "Estatik Subscription"
+msgstr "Abbonamento Estatik"
+
+#: subscriptions/classes/class-subscription-init.php:443
+msgid "Subscription is expired."
+msgstr "L'abbonamento è scaduto."
+
+#: subscriptions/classes/class-subscription-init.php:469
+#: admin/templates/agents/profile.php:94
+#: subscriptions/classes/pages/class-order-list-page.php:105
+msgid "Subscription"
+msgstr "Sottoscrizione"
+
+#: subscriptions/classes/class-subscription-init.php:472
+msgid "Edit subscription"
+msgstr "Modifica abbonamento"
+
+#: subscriptions/classes/class-subscription-init.php:484
+msgid "Order"
+msgstr ""
+"Ordine\n"
+
+#: subscriptions/classes/class-subscription-metabox.php:31
+msgid "Subscription data"
+msgstr "Dati di abbonamento"
+
+#: rets/templates/dep-fields.php:8 rets/templates/scheduler-import-tab.php:131
+msgid "Resource"
+msgstr "Risorsa"
+
+#: rets/templates/dep-fields.php:22
+msgid "Classes"
+msgstr "Classi"
+
+#: rets/templates/dep-fields.php:25
+msgid "Loading..."
+msgstr "Caricamento in corso..."
+
+#: rets/templates/actualization-tab.php:18
+msgid "Actualize listings"
+msgstr "Attualizzare gli elenchi"
+
+#: rets/templates/actualization-tab.php:21
+msgid ""
+"To setup and launch synchronization schedule, please select below Resource, "
+"Class and Entity and click Configure."
+msgstr ""
+"Per impostare e avviare la pianificazione della sincronizzazione, "
+"selezionare sotto Risorsa, Classe ed Entità e fare clic su Configura."
+
+#: rets/templates/actualization-tab.php:27
+#: rets/templates/actualization-tab.php:84
+#: rets/templates/custom-import-tab.php:21 rets/templates/fields-tab.php:24
+#: rets/templates/scheduler-import-tab.php:45
+msgid "Entity"
+msgstr "Entità"
+
+#: rets/templates/actualization-tab.php:40
+msgid "Configure"
+msgstr "Configurazione"
+
+#: rets/templates/actualization-tab.php:62
+#: rets/templates/scheduler-import-tab.php:109
+msgid "Schedules list"
+msgstr "Elenco degli orari"
+
+#: rets/templates/actualization-tab.php:68
+#: rets/templates/scheduler-import-tab.php:117
+msgid "Please select schedules you want to delete."
+msgstr "Seleziona le pianificazioni che desideri eliminare."
+
+#: rets/templates/actualization-tab.php:69
+#: rets/templates/scheduler-import-tab.php:118
+msgid "Are you sure you want to delete these schedules?"
+msgstr "Sei sicuro di voler eliminare questi programmi?"
+
+#: rets/templates/actualization-tab.php:70
+#: rets/templates/scheduler-import-tab.php:119
+msgid "Remove selected"
+msgstr "Rimuovi i selezionati"
+
+#: rets/templates/actualization-tab.php:82
+#: rets/templates/custom-import-tab.php:35
+#: rets/templates/scheduler-import-tab.php:65
+#: rets/templates/scheduler-import-tab.php:135
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:107
+#: admin/templates/widgets/es-property-map-form.php:76
+#: rets/templates/partials/actualizer-form.php:46
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:96
+#: admin/templates/shortcode-builder/params/es_search_map-params.php:3
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:109
+msgid "Limit"
+msgstr "Limite"
+
+#: rets/templates/actualization-tab.php:83
+msgid "Actions"
+msgstr "Azioni"
+
+#: rets/templates/actualization-tab.php:85
+msgid "Checked"
+msgstr "Verificato"
+
+#: rets/templates/actualization-tab.php:86
+msgid "Updated"
+msgstr "Aggiornato"
+
+#: rets/templates/actualization-tab.php:87
+msgid "Deleted"
+msgstr "Eliminata"
+
+#: rets/templates/actualization-tab.php:127
+#: rets/templates/actualization-tab.php:139
+msgid "Press Press if you want to reset values in Updated/Deleted column."
+msgstr ""
+"Premere Premere se si desidera ripristinare i valori nella colonna "
+"Aggiornato / Eliminato."
+
+#: rets/templates/actualization-tab.php:127
+#: rets/templates/actualization-tab.php:139
+msgid "Are you sure you want to reset Updated / Deleted values?"
+msgstr "Sei sicuro di voler ripristinare i valori aggiornati / eliminati?"
+
+#: rets/templates/actualization-tab.php:153
+#: rets/templates/scheduler-import-tab.php:172
+msgid "The List is empty!"
+msgstr "L'elenco è vuoto!"
+
+#: rets/templates/custom-import-tab.php:10 rets/templates/fields-tab.php:16
+#: rets/classes/pages/class-mls-rets-page.php:290
+msgid "Manual Import"
+msgstr "Importazione manuale"
+
+#: rets/templates/custom-import-tab.php:13
+#, php-format
+msgid ""
+"To import listings manually, please configure settings below and select "
+"which listings you want to import. Then click Save button. %s you will find "
+"additional information."
+msgstr ""
+"Per importare gli elenchi manualmente, configura le impostazioni di seguito "
+"e seleziona gli elenchi che desideri importare. Quindi fare clic sul "
+"pulsante Salva. %s troverai informazioni aggiuntive."
+
+#: rets/templates/custom-import-tab.php:14
+msgid "Here"
+msgstr "Qui"
+
+#: rets/templates/custom-import-tab.php:44 rets/templates/fields-tab.php:37
+msgid "Submit"
+msgstr "Sottoscrivi"
+
+#: rets/templates/logger-popup.php:13
+msgid "Log ID"
+msgstr "ID registro"
+
+#: rets/templates/logger-popup.php:14
+msgid "Entity ID"
+msgstr "ID entità"
+
+#: rets/templates/logger-popup.php:15
+msgid "Log Message"
+msgstr "Registra messaggio"
+
+#: rets/templates/logger-popup.php:17
+msgid "UserID"
+msgstr "ID utente"
+
+#: rets/templates/logger-popup.php:18
+msgid "DateTime"
+msgstr "Data e ora"
+
+#: rets/templates/logger-popup.php:35
+msgid "Nothing to show"
+msgstr "Niente da mostrare"
+
+#: rets/templates/fields-tab.php:10
+msgid "Fields Settings"
+msgstr "Impostazioni dei campi"
+
+#: rets/templates/fields-tab.php:13
+#, php-format
+msgid ""
+"You must assign fields you need for selected resourse, class and entity "
+"below. Click Submit button to view the fields. If there is no Estatik field "
+"for selected MLS field, please use Custom field in drop-down. </br>Check out "
+"our detailed tutorial %s. \n"
+"</br>Once you configured the fields, go to %s or %s tab to make the import."
+msgstr ""
+"È necessario assegnare i campi necessari per la risorsa selezionata, la "
+"classe e l'entità di seguito. Fare clic sul pulsante Invia per visualizzare "
+"i campi. Se non esiste un campo Estatik per il campo MLS selezionato, "
+"utilizzare il campo Personalizzato nel menu a discesa. </br> Guarda il "
+"nostro tutorial dettagliato %s.\n"
+"</br> Dopo aver configurato i campi, vai alla scheda %s o %s per effettuare "
+"l'importazione."
+
+#: rets/templates/fields-tab.php:15 rets/templates/partials/connect-form.php:20
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:69
+#: admin/templates/shortcode-builder/params/es_subscription_table-params.php:1
+#: admin/templates/shortcode-builder/params/es_subscription_paypal_response_page-params.php:1
+msgid "here"
+msgstr "qui"
+
+#: rets/templates/fields-tab.php:17
+#: rets/classes/pages/class-mls-rets-page.php:285
+msgid "Automatic Import"
+msgstr "Importazione automatica"
+
+#: rets/templates/fields-tab.php:45
+msgid "Choose entity fields for import"
+msgstr "Scegli i campi entità per l'importazione"
+
+#: rets/templates/fields-tab.php:52 rets/templates/fields-tab.php:53
+msgid "-- Choose RETS fields --"
+msgstr "-- Scegli i campi RETS --"
+
+#: rets/templates/fields-tab.php:63
+msgid "Quick Search"
+msgstr "Ricerca rapida"
+
+#: rets/templates/scheduler-import-tab.php:15
+msgid "Edit Schedule"
+msgstr "Modifica programma"
+
+#: rets/templates/scheduler-import-tab.php:18
+msgid "Create Schedule"
+msgstr "Crea programma"
+
+#: rets/templates/scheduler-import-tab.php:22
+#, php-format
+msgid ""
+"If you want to launch automatic import of listings, please configure import "
+"schedule here and set up cron jobs on your hosting. Read these %s to make "
+"everything correctly."
+msgstr ""
+"Se vuoi avviare l'importazione automatica degli elenchi, configura qui il "
+"programma di importazione e imposta cron job sul tuo hosting. Leggi questi "
+"%s per rendere tutto correttamente."
+
+#: rets/templates/scheduler-import-tab.php:23
+msgid "instructions"
+msgstr "Istruzioni"
+
+#: rets/templates/scheduler-import-tab.php:30
+#: rets/templates/partials/actualizer-form.php:33
+msgid "Schedules"
+msgstr "Orari"
+
+#: rets/templates/scheduler-import-tab.php:74
+msgid "Offset"
+msgstr ""
+"Compensare\n"
+
+#: rets/templates/scheduler-import-tab.php:82
+msgid "Existing property"
+msgstr "Proprietà esistente"
+
+#: rets/templates/scheduler-import-tab.php:85
+msgid "Overwrite"
+msgstr ""
+"Sovrascrivere\n"
+
+#: rets/templates/scheduler-import-tab.php:86
+msgid "Skip"
+msgstr "Salta"
+
+#: rets/templates/scheduler-import-tab.php:92
+msgid "Enable non-stop import"
+msgstr "Abilita importazione non-stop"
+
+#: rets/templates/scheduler-import-tab.php:100
+#: admin/templates/agents/profile.php:24 admin/templates/buyers/profile.php:21
+#: admin/templates/upgrade-pro/upgrade-pro.php:10
+#: admin/templates/settings/settings.php:14
+#: templates/shortcodes/partials/saved-searches-tab.php:30
+#: templates/shortcodes/partials/my-profile-tab.php:129
+#: rets/templates/partials/connect-form.php:158
+msgid "Save"
+msgstr "Salva"
+
+#: rets/templates/scheduler-import-tab.php:130
+#: rets/classes/class-mls-rets-init.php:276
+#: rets/classes/class-mls-rets-init.php:278
+msgid "Schedule"
+msgstr "Programma"
+
+#: rets/templates/scheduler-import-tab.php:132
+msgid "Query"
+msgstr "Domanda"
+
+#: rets/templates/scheduler-import-tab.php:133
+msgid "Last Import"
+msgstr "Ultima importazione"
+
+#: rets/templates/scheduler-import-tab.php:134
+msgid "Executed"
+msgstr "Eseguito"
+
+#: rets/templates/scheduler-import-tab.php:136
+msgid "Items count"
+msgstr "Gli articoli contano"
+
+#: rets/templates/rets.php:8
+msgid "MLS RETS IMPORT"
+msgstr "MLS RETS IMPORT"
+
+#: rets/templates/rets.php:13
+msgid "Please fill up your credentials and click save to finish."
+msgstr "Compila le tue credenziali e fai clic su Salva per terminare."
+
+#: rets/classes/class-rets-import-room.php:56
+#, php-format
+msgid "Property room %s already exists."
+msgstr "La proprietà room %s esiste già."
+
+#: rets/classes/class-mls-rets-init.php:73
+msgid "The RETS access successfully removed."
+msgstr "L'accesso RETS è stato rimosso correttamente."
+
+#: rets/classes/class-mls-rets-init.php:81
+#: rets/classes/class-mls-rets-init.php:174
+msgid "Incorrect or empty rets access."
+msgstr "Accesso rets errato o vuoto."
+
+#: rets/classes/class-mls-rets-init.php:166
+msgid "Connection is successful!"
+msgstr "La connessione è riuscita!"
+
+#: rets/classes/class-mls-rets-init.php:242
+msgid "RETS Profile UID"
+msgstr "UID profilo RETS"
+
+#: rets/classes/class-mls-rets-init.php:260
+#: rets/classes/class-mls-rets-init.php:261
+msgid "MLS RETS Import"
+msgstr "Importazione MLS RETS"
+
+#: rets/classes/class-mls-rets-init.php:289
+#: rets/classes/class-mls-rets-init.php:291
+msgid "Actualizer"
+msgstr "Attualizzatore"
+
+#: rets/classes/class-rets-media.php:23
+msgid "Entity Relation ID"
+msgstr "ID relazione entità"
+
+#: rets/classes/class-rets-media.php:26
+msgid "Image Unique ID"
+msgstr "ID univoco dell'immagine"
+
+#: rets/classes/class-rets-media.php:29
+msgid "Image data / url"
+msgstr "Dati immagine / URL"
+
+#: rets/classes/class-rets-import-property.php:53
+#, php-format
+msgid "Property %s already exists."
+msgstr "La proprietà %s esiste già."
+
+#: rets/classes/class-rets-import-property.php:289
+#: rets/classes/class-rets-import-agent.php:157
+msgid "Images via Media resource doesn't exist."
+msgstr "Le immagini tramite la risorsa multimediale non esistono."
+
+#: rets/classes/class-rets-import-property.php:303
+msgid "Property images doesn't exist."
+msgstr "Le immagini delle proprietà non esistono."
+
+#: rets/classes/class-rets-import-property.php:338
+#: rets/classes/class-rets-import-agent.php:202
+msgid ""
+"Image URL is empty. Please, use disable <b>Use remote images</b> and <b>Use "
+"object locations</b> options."
+msgstr ""
+"L'URL dell'immagine è vuoto. Utilizza le opzioni disabilita <b> Usa immagini "
+"remote </b> e <b> Usa posizioni oggetti </b>."
+
+#: rets/classes/class-rets-import-agent.php:171
+msgid "Agent images doesn't exist."
+msgstr "Le immagini degli agenti non esistono."
+
+#: classes/shortcodes/class-labels-shortcode.php:12
+msgid "Properties By Labels"
+msgstr "Proprietà per etichette"
+
+#: classes/shortcodes/class-state-shortcode.php:12
+msgid "Properties By State"
+msgstr "Proprietà per Stato"
+
+#: classes/shortcodes/class-profile-shortcode.php:11
+msgid "User profile"
+msgstr "Profilo utente"
+
+#: classes/shortcodes/class-profile-shortcode.php:130
+#: templates/shortcodes/partials/saved-searches-tab.php:10
+msgid "Saved Searches"
+msgstr "Ricerche salvate"
+
+#: classes/shortcodes/class-profile-shortcode.php:135
+#: templates/shortcodes/partials/saved-homes-tab.php:9
+msgid "Saved Homes"
+msgstr "Case salvate"
+
+#: classes/shortcodes/class-profile-shortcode.php:145
+msgid "My Listings"
+msgstr ""
+"Le mie inserzioni\n"
+
+#: classes/shortcodes/class-city-shortcode.php:12
+msgid "Properties By City"
+msgstr "Proprietà per città"
+
+#: classes/shortcodes/class-property-slideshow-shortcode.php:12
+msgid "Slideshow"
+msgstr "Presentazione"
+
+#: classes/shortcodes/class-restore-password-shortcode.php:41
+msgid "Restore Password"
+msgstr "Ripristina password"
+
+#: classes/shortcodes/class-cheapest-props-shortcode.php:12
+msgid "Cheapest Properties"
+msgstr "Proprietà più economiche"
+
+#: classes/shortcodes/class-search-shortcode.php:12
+msgid "Search results"
+msgstr "Risultati di ricerca"
+
+#: classes/shortcodes/class-features-shortcode.php:12
+msgid "Properties by Features"
+msgstr "Proprietà per caratteristiche"
+
+#: classes/shortcodes/class-expensive-props-shortcode.php:12
+msgid "Expensive Properties"
+msgstr "Proprietà costose"
+
+#: classes/shortcodes/class-search-form-shortcode.php:16
+msgid "Search form"
+msgstr "Modulo di ricerca"
+
+#: classes/shortcodes/class-map-search-shortcode.php:12
+msgid "Map search"
+msgstr "Ricerca sulla mappa"
+
+#: classes/shortcodes/class-country-shortcode.php:12
+msgid "Properties By Country"
+msgstr "Proprietà per paese"
+
+#: classes/shortcodes/class-subscription-paypal-response-page-shortcode.php:42
+msgid "Subscription PayPal"
+msgstr "Abbonamento PayPal"
+
+#: classes/shortcodes/class-agent-listing-shortcode.php:12
+msgid "Agent Listings"
+msgstr "Elenchi degli agenti"
+
+#: classes/shortcodes/class-featured-props-shortcode.php:12
+msgid "Featured Properties"
+msgstr "Proprietà in primo piano"
+
+#: classes/shortcodes/class-single-shortcode.php:12
+msgid "Single property"
+msgstr "Singolo immobile"
+
+#: classes/shortcodes/class-agent-register-shortcode.php:13
+msgid "Register form"
+msgstr "Modulo di registrazione"
+
+#: classes/shortcodes/class-category-shortcode.php:12
+msgid "Properties By Category"
+msgstr "Proprietà per categoria"
+
+#: classes/shortcodes/class-latest-props-shortcode.php:12
+msgid "Latest Properties"
+msgstr "Ultime proprietà"
+
+#: classes/shortcodes/class-login-shortcode.php:11
+msgid "Login form"
+msgstr "Modulo di accesso"
+
+#: classes/pages/class-property-single-page.php:125
+msgid "View on map / Neighborhood"
+msgstr "Mappa / Quartiere"
+
+#: classes/pages/class-property-single-page.php:371
+msgid "Agent contact"
+msgstr "Contatto agente"
+
+#: classes/pages/class-property-single-page.php:503
+msgid "Area size"
+msgstr "Dimensioni Area"
+
+#: classes/pages/class-property-single-page.php:601
+msgid "To top"
+msgstr "Torna in alto"
+
+#: management/classes/shortcodes/class-prop-management-shortcode.php:12
+msgid "Listings management"
+msgstr "Gestione degli elenchi"
+
+#: admin/templates/data-manager/term-item.php:26
+#: admin/templates/data-manager/label-item.php:53
+#: admin/templates/data-manager/item.php:38
+#: admin/templates/agents/profile.php:170
+#: admin/templates/buyers/profile.php:109
+#: admin/templates/property/custom-fields.php:22
+msgid "text/number"
+msgstr "text / numero"
+
+#: admin/templates/data-manager/term-item.php:28
+#: admin/templates/data-manager/label-item.php:54
+#: admin/templates/data-manager/item.php:40
+#: admin/templates/data-manager/currency-item.php:40
+msgid "Add new item"
+msgstr "Aggiungi nuovo elemento"
+
+#: admin/templates/data-manager/currencies-tab.php:7
+#: admin/classes/pages/class-data-manager-page.php:65
+msgid "Currencies"
+msgstr "Valute"
+
+#: admin/templates/data-manager/dimensions-tab.php:7
+msgid "Area & Lot size unit"
+msgstr "Area e unità di misura del lotto"
+
+#: admin/templates/data-manager/currency-item.php:37
+msgid "Currency code (USD)"
+msgstr "Codice valuta (USD)"
+
+#: admin/templates/data-manager/currency-item.php:38
+msgid "Currency label ($)"
+msgstr "Etichetta della valuta ($)"
+
+#: admin/templates/data-manager/data-manager.php:4
+#: admin/templates/dashboard/dashboard.php:26
+msgid "Data manager"
+msgstr "Gestore dati"
+
+#: admin/templates/data-manager/data-manager.php:11
+msgid "Are you sure you want to delete it?"
+msgstr "Sei sicuro di volerlo cancellare?"
+
+#: admin/templates/agents/profile.php:14
+msgid "Agent info"
+msgstr "Informazioni sull'agente"
+
+#: admin/templates/agents/profile.php:23
+msgid "Please fill up your agent information below and click save to finish."
+msgstr ""
+"Compila le informazioni del tuo agente di seguito e fai clic su Salva per "
+"terminare."
+
+#: admin/templates/agents/profile.php:56
+msgid "Sold properties"
+msgstr "Proprietà vendute"
+
+#: admin/templates/agents/profile.php:62 admin/templates/buyers/profile.php:50
+#: templates/shortcodes/partials/my-profile-tab.php:59
+msgid "Telephone"
+msgstr "Telefono"
+
+#: admin/templates/agents/profile.php:68
+#: templates/shortcodes/partials/my-profile-tab.php:76
+msgid "Website"
+msgstr "Sito web"
+
+#: admin/templates/agents/profile.php:82
+msgid "Subscription plan"
+msgstr ""
+"Piano di abbonamento\n"
+
+#: admin/templates/agents/profile.php:85
+msgid "Expired"
+msgstr "Scaduto"
+
+#: admin/templates/agents/profile.php:87
+#: admin/classes/pages/class-agent-list.php:174
+#: admin/classes/pages/class-user-list.php:188
+msgid "Active"
+msgstr "Attivo"
+
+#: admin/templates/agents/profile.php:96
+msgid "-- Subscription plan --"
+msgstr "-- Piano di abbonamento --"
+
+#: admin/templates/agents/profile.php:126 admin/templates/buyers/profile.php:73
+msgid "Profile photo"
+msgstr "Foto profilo"
+
+#: admin/templates/agents/profile.php:128
+#: admin/templates/settings/general-tab.php:187
+#: admin/templates/settings/email-tab.php:7
+msgid "Add image(s) to agent"
+msgstr "Aggiungi immagine / i all'agente"
+
+#: admin/templates/agents/profile.php:128
+#: admin/templates/agents/profile.php:129 admin/templates/buyers/profile.php:76
+#: admin/templates/buyers/profile.php:77 admin/templates/property/media.php:29
+#: admin/templates/property/media.php:30
+#: admin/templates/settings/general-tab.php:187
+#: admin/templates/settings/general-tab.php:188
+#: admin/templates/settings/email-tab.php:7
+#: admin/templates/settings/email-tab.php:8
+msgid "Add image(s)"
+msgstr "Aggiungi immagine (s)"
+
+#: admin/templates/agents/profile.php:145
+msgid "Social media Links"
+msgstr "Link ai social media"
+
+#: admin/templates/agents/profile.php:171
+#: admin/templates/buyers/profile.php:110
+#: admin/templates/property/custom-fields.php:23
+msgid "Add new field"
+msgstr "Aggiungere nuovo campo"
+
+#: admin/templates/agents/filter.php:34 admin/templates/buyers/filter.php:13
+msgid "By Name"
+msgstr "Per nome"
+
+#: admin/templates/agents/filter.php:48 admin/templates/buyers/filter.php:27
+msgid "Please select agent you want to delete."
+msgstr "Si prega di selezionare l'agente che si desidera eliminare."
+
+#: admin/templates/agents/filter.php:49 admin/templates/buyers/filter.php:28
+msgid "Please select agent you want to active."
+msgstr "Si prega di selezionare l'agente che si desidera attivare."
+
+#: admin/templates/agents/filter.php:49 admin/templates/buyers/filter.php:28
+msgid "Are you sure you want to activate these agents?"
+msgstr "Sei sicuro di voler attivare questi agenti?"
+
+#: admin/templates/agents/filter.php:49 admin/templates/buyers/filter.php:28
+msgid "Activate"
+msgstr "Attivare"
+
+#: admin/templates/agents/filter.php:50 admin/templates/buyers/filter.php:29
+msgid "Please select agent you want to deactivate."
+msgstr "Si prega di selezionare l'agente che si desidera disattivare."
+
+#: admin/templates/agents/filter.php:50 admin/templates/buyers/filter.php:29
+msgid "Are you sure you want to deactivate these agents?"
+msgstr "Sei sicuro di voler disattivare questi agenti?"
+
+#: admin/templates/agents/filter.php:50 admin/templates/buyers/filter.php:29
+msgid "Deactivate"
+msgstr "Disattivare"
+
+#: admin/templates/dashboard/dashboard.php:32
+msgid "Fields Builder"
+msgstr "Costruttore di campi"
+
+#: admin/templates/dashboard/dashboard.php:45
+msgid "Get support"
+msgstr "Richiedi Assistenza"
+
+#: admin/templates/dashboard/dashboard.php:51
+msgid "Step-by-step guide"
+msgstr "Guida passo passo"
+
+#: admin/templates/dashboard/dashboard.php:57
+msgid "FAQ"
+msgstr "FAQ"
+
+#: admin/templates/dashboard/dashboard.php:63
+msgid "Video Tutorial"
+msgstr "Tutorial Video"
+
+#: admin/templates/dashboard/dashboard.php:69
+msgid "Submit a ticket"
+msgstr "Invia un Ticket"
+
+#: admin/templates/dashboard/dashboard.php:79
+#: admin/templates/settings/map-tab.php:90
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: admin/templates/dashboard/dashboard.php:92
+msgid "Changelog"
+msgstr "Changelog"
+
+#: admin/templates/dashboard/dashboard.php:106
+msgid "Choose your theme"
+msgstr "Seleziona il tuo Tema"
+
+#: admin/templates/dashboard/dashboard.php:122
+msgid "Upgrade Options"
+msgstr "Opzioni di aggiornamento"
+
+#: admin/templates/dashboard/dashboard.php:128
+msgid "PRO Pack"
+msgstr "Pacchetto PRO"
+
+#: admin/templates/dashboard/dashboard.php:129
+msgid ""
+"Unlock advanced features like PDF flyer, Map view, Frontend Submission, "
+"Agents, Subscriptions, CSV import, White Label, etc. PLUS choose one of "
+"Estatik Themes for FREE!"
+msgstr ""
+"Sblocca funzionalità avanzate come volantino PDF, visualizzazione mappa, "
+"invio frontend, agenti, iscrizioni, importazione CSV, etichetta bianca, ecc. "
+"PLUS scegli uno dei temi Estatik GRATIS!"
+
+#: admin/templates/dashboard/dashboard.php:135
+msgid "Developer's Pack"
+msgstr "Pack dello sviluppatore"
+
+#: admin/templates/dashboard/dashboard.php:136
+msgid ""
+"Great deal for developers! Save money and get Estatik PRO with absolutely "
+"ALL available Estatik Themes. <b>unlimited</b> unlimited number of websites "
+"& get <b>lifetime</b> Estatik updates!"
+msgstr ""
+"Ottimo affare per gli sviluppatori! Risparmia denaro e ottieni Estatik PRO "
+"con TUTTI i temi di Estatik disponibili. <b> Numero illimitato </ b> di siti "
+"Web e ricevi <b> durata </ b> aggiornamenti di Estatik!"
+
+#: admin/templates/dashboard/dashboard.php:142
+msgid "Premium Pack"
+msgstr "Pacchetto Premium"
+
+#: admin/templates/dashboard/dashboard.php:143
+msgid ""
+"All-inclusive Estatik Package with MLS organic import tool via RETS. Sit "
+"back and let us handle everything! Click here to read details."
+msgstr ""
+"Pacchetto Estatik completo con lo strumento di importazione organica MLS "
+"tramite RETS. Siediti e lasciaci gestire tutto! Clicca qui per leggere i "
+"dettagli."
+
+#: admin/templates/migration/migration.php:12
+msgid ""
+"To update the previous version to major version 3.* you need to migrate your "
+"listings \n"
+"                    as the new version of the plugin requires. Before doing "
+"this, please make sure that your version \n"
+"                    of the plugin doesn't have custom changes of the code."
+msgstr ""
+"Per aggiornare la versione precedente alla versione principale 3. * è "
+"necessario migrare le tue schede\n"
+"                   come richiede la nuova versione del plugin. Prima di fare "
+"ciò, assicurati che la tua versione \n"
+"                   del plugin non abbia modifiche personalizzate del codice."
+
+#: admin/templates/migration/migration.php:17
+msgid ""
+"Migration process may take some time, especially if you have lots of "
+"properties added. \n"
+"                    Please be patient."
+msgstr ""
+"Il processo di migrazione potrebbe richiedere del tempo, specialmente se "
+"sono state aggiunte molte proprietà.\n"
+"                     Per favore sii paziente."
+
+#: admin/templates/migration/migration.php:20
+msgid "Migrate"
+msgstr "Migrare"
+
+#: admin/templates/buyers/profile.php:20
+msgid "Please fill up your user information below and click save to finish."
+msgstr ""
+"Si prega di compilare le informazioni utente qui sotto e fare clic su Salva "
+"per finire."
+
+#: admin/templates/buyers/profile.php:76
+msgid "Add image(s) to user"
+msgstr "Aggiungi immagine (s) per utente"
+
+#: admin/templates/demo-content/demo-step.php:7
+msgid "Step 1. Estatik Pages Setup"
+msgstr "Passo 1. Installazione di Estatik Pages"
+
+#: admin/templates/demo-content/demo-step.php:8
+msgid ""
+"Please select the pages you want to setup below and click Next step to "
+"continue. Estatik will create a few listings with demo content and ready-to-"
+"use page you will select below."
+msgstr ""
+"Si prega di selezionare le pagine che si desidera impostare di seguito e "
+"fare clic su Passaggio successivo per continuare. Estatik creerà alcuni "
+"elenchi con contenuti dimostrativi e una pagina pronta per l'uso che "
+"selezionerai di seguito."
+
+#: admin/templates/demo-content/demo-step.php:24
+#: admin/templates/demo-content/demo-step.php:53
+msgid "Next step"
+msgstr "Passo successivo"
+
+#: admin/templates/demo-content/demo-step.php:28
+msgid "Step 2. Setup keys"
+msgstr "Passaggio 2. Chiavi di installazione"
+
+#: admin/templates/demo-content/demo-step.php:29
+msgid ""
+"Add your Google Map API key and Recaptcha keys below. It's required for "
+"Search and Request info widgets."
+msgstr ""
+"Aggiungi la tua chiave API Google Maps e le chiavi Recaptcha di seguito. È "
+"richiesto per i widget di ricerca e richiesta di informazioni."
+
+#: admin/templates/demo-content/demo-step.php:35
+#: admin/templates/demo-content/demo-step.php:41
+#: admin/templates/demo-content/demo-step.php:47
+msgid "Get My Key"
+msgstr "Ottieni la mia chiave"
+
+#: admin/templates/demo-content/demo-step.php:57
+msgid "Step 3. Demo listings setup"
+msgstr "Passaggio 3. Configurazione degli elenchi demo"
+
+#: admin/templates/demo-content/demo-step.php:58
+msgid ""
+"To import demo listings, please click on Import button or click Finish if "
+"you want to skip this step."
+msgstr ""
+"Per importare elenchi demo, fare clic sul pulsante Importa o fare clic su "
+"Fine se si desidera saltare questo passaggio."
+
+#: admin/templates/demo-content/demo-step.php:70
+#: rets/templates/partials/property-table.php:39
+#: rets/templates/partials/property-table.php:118
+msgid "Import"
+msgstr "Importare"
+
+#: admin/templates/demo-content/demo-step.php:75
+msgid "Finish"
+msgstr "Finire"
+
+#: admin/templates/demo-content/finished-step.php:7
+msgid "You did it!"
+msgstr "Ce l'hai fatta!"
+
+#: admin/templates/demo-content/finished-step.php:8
+msgid "What to do next:"
+msgstr "Cosa fare dopo:"
+
+#: admin/templates/demo-content/finished-step.php:15
+msgid "View demo listings"
+msgstr "Visualizza le inserzioni demo"
+
+#: admin/templates/demo-content/finished-step.php:22
+msgid "Add my first listing"
+msgstr "Aggiungi il mio primo elenco"
+
+#: admin/templates/demo-content/finished-step.php:30
+msgid "Go to estatik dashboard"
+msgstr "Vai alla dashboard di estatik"
+
+#: admin/templates/demo-content/start-step.php:7
+msgid "Thank you for choosing Estatik "
+msgstr "Grazie per aver scelto Estatik"
+
+#: admin/templates/demo-content/start-step.php:9
+msgid "We are so happy you joined us"
+msgstr "Siamo così felici che ti sei unito a noi"
+
+#: admin/templates/demo-content/start-step.php:10
+#, php-format
+msgid ""
+"Grab your instant <b>5% off on any Estatik products</b> using coupon code "
+"below"
+msgstr ""
+"Prendi subito il <b> 5% di sconto su tutti i prodotti Estatik </ b> "
+"utilizzando il codice coupon qui sotto"
+
+#: admin/templates/demo-content/start-step.php:15
+msgid "THANKYOU"
+msgstr "GRAZIE"
+
+#: admin/templates/demo-content/start-step.php:22
+#: admin/templates/demo-content/start-step.php:24
+msgid "Skip demo setup"
+msgstr "Ignora configurazione demo"
+
+#: admin/templates/demo-content/start-step.php:27
+msgid "Setup DEMO"
+msgstr "Imposta DEMO"
+
+#: admin/templates/fields-builder/main.php:17
+msgid ""
+"Here you can add new sections and fields that you can find in Add new "
+"listing. Please add Sections first via Listing sections tab and then "
+"continue with fields. To add new field, please configure the fields below "
+"and click Create button."
+msgstr ""
+"Qui puoi aggiungere nuove sezioni e campi che puoi trovare in Aggiungi nuovo "
+"elenco. Aggiungi prima le sezioni tramite la scheda Elenco sezioni e poi "
+"continua con i campi. Per aggiungere un nuovo campo, configura i campi "
+"sottostanti e fai clic sul pulsante Crea."
+
+#: admin/templates/widgets/es-search-widget.php:63
+#: admin/templates/widgets/es-search-widget.php:65
+msgid "Save search"
+msgstr "Salva ricerca"
+
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:39
+msgid "Show arrows"
+msgstr "Mostra le frecce"
+
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:50
+msgid "Slide Effect"
+msgstr "Effetto diapositiva"
+
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:61
+msgid "Filter data"
+msgstr "Filtra i dati"
+
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:62
+#: admin/templates/widgets/es-property-map-form.php:31
+msgid "-- Select parameters for filtering --"
+msgstr "-- Seleziona i parametri per il filtraggio --"
+
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:87
+msgid "Min Price"
+msgstr "Prezzo minimo"
+
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:92
+msgid "Max Price"
+msgstr "Prezzo massimo"
+
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:97
+msgid "Listings IDs"
+msgstr "ID di elenco"
+
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:102
+msgid "Space between slides"
+msgstr "Spazio tra le diapositive"
+
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:112
+msgid "Slides to show"
+msgstr "Diapositive da mostrare"
+
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:118
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:11
+#: admin/templates/shortcode-builder/params/es_search-params.php:7
+#: admin/templates/shortcode-builder/params/es_profile-params.php:3
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:81
+#: admin/templates/shortcode-builder/params/es_search_form-params.php:59
+msgid "Layout"
+msgstr "Disposición"
+
+#: admin/templates/widgets/es-search-widget-form.php:31
+msgid "Search Title"
+msgstr "Cerca titolo"
+
+#: admin/templates/widgets/es-search-widget-form.php:37
+#: admin/templates/widgets/es-property-map-form.php:56
+#: admin/classes/pages/class-settings-page.php:66
+msgid "Layouts"
+msgstr "layout"
+
+#: admin/templates/widgets/es-search-widget-form.php:47
+msgid "Show unit converter"
+msgstr "Mostra convertitore unità"
+
+#: admin/templates/widgets/es-search-widget-form.php:52
+msgid "Enable save search"
+msgstr "Abilita salva la ricerca"
+
+#: admin/templates/widgets/es-search-widget-form.php:58
+msgid "Add search field"
+msgstr "Aggiungi campo di ricerca"
+
+#: admin/templates/widgets/es-search-widget-form.php:60
+msgid "-- Select field --"
+msgstr "-- Seleziona campo --"
+
+#: admin/templates/widgets/es-property-map-form.php:26
+msgid "Map Title:"
+msgstr "Titolo della mappa:"
+
+#: admin/templates/widgets/es-property-map-form.php:71
+#: admin/templates/settings/map-tab.php:66
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:80
+msgid "Height"
+msgstr "Altezza"
+
+#: admin/templates/widgets/es-request-widget-form.php:8
+msgid "Learn more about this property"
+msgstr "Ulteriori informazioni su questa proprietà"
+
+#: admin/templates/widgets/es-request-widget-form.php:11
+msgid ""
+"Hi, I`m interested in the property. Please send me more information about it."
+" Thank you!"
+msgstr ""
+"Ciao, sono interessato alla proprietà. Per favore, inviami maggiori "
+"informazioni a riguardo. Grazie!"
+
+#: admin/templates/widgets/es-request-widget-form.php:18
+#: admin/templates/widgets/es-request-widget.php:23
+msgid "Estatik Request Info from"
+msgstr "Estatik Richiedi informazioni da"
+
+#: admin/templates/widgets/es-request-widget-form.php:22
+msgid "Request title"
+msgstr "Richiedi titolo"
+
+#: admin/templates/widgets/es-request-widget-form.php:27
+msgid "Request Message"
+msgstr "Richiedi un messaggio"
+
+#: admin/templates/widgets/es-request-widget-form.php:32
+msgid "Disable Name field"
+msgstr "Disabilita il campo Nome"
+
+#: admin/templates/widgets/es-request-widget-form.php:37
+msgid "Disable Phone number field"
+msgstr "Disattiva il campo Numero di telefono"
+
+#: admin/templates/widgets/es-request-widget-form.php:42
+msgid "Send Message To"
+msgstr "Invia messaggio a"
+
+#: admin/templates/widgets/es-request-widget-form.php:53
+msgid "Another email"
+msgstr "Un'altra email"
+
+#: admin/templates/widgets/es-request-widget-form.php:58
+msgid "Email subject"
+msgstr "Oggetto dell'email"
+
+#: admin/templates/widgets/es-request-widget.php:40
+msgid "Your name"
+msgstr "Il tuo nome"
+
+#: admin/templates/widgets/es-request-widget.php:45
+msgid "Your email"
+msgstr "La tua email"
+
+#: admin/templates/widgets/es-request-widget.php:50
+msgid "Phone number"
+msgstr "Numero di telefono"
+
+#: admin/templates/widgets/es-request-widget.php:78
+msgid "Send"
+msgstr "Inviare"
+
+#: admin/templates/upgrade-pro/upgrade-pro.php:4
+msgid "Upload downloaded estatik pro / premium"
+msgstr "Carica scaricato estatik pro / premium"
+
+#: admin/templates/upgrade-pro/upgrade-pro.php:9
+msgid ""
+"Please upload your Estatik Pro / Premium version in zip format and click "
+"upload to finish for update to new Version."
+msgstr ""
+"Carica la tua versione di Estatik Pro / Premium in formato zip e fai clic su "
+"carica per completare l'aggiornamento alla nuova versione."
+
+#: admin/templates/upgrade-pro/upgrade-pro.php:14
+msgid "Upload archive"
+msgstr "Carica archivio"
+
+#: admin/templates/shortcode-builder/popup.php:38
+msgid "Insert shortcode"
+msgstr "Inserisci lo shortcode"
+
+#: admin/templates/shortcode-builder/popup.php:39
+msgid "Please click on a drop-down list and pick up the required shortcode."
+msgstr "Fare clic su un elenco a discesa e raccogliere lo shortcode richiesto."
+
+#: admin/templates/shortcode-builder/popup.php:43
+msgid "Select a shortcode"
+msgstr "Seleziona un codice"
+
+#: admin/templates/shortcode-builder/popup.php:46
+msgid "Choose shortcode"
+msgstr "Scegli lo shortcode"
+
+#: admin/templates/shortcode-builder/popup.php:62
+msgid "Cancel"
+msgstr "Annulla"
+
+#: admin/templates/shortcode-builder/popup.php:63
+msgid "Generate Shortcode"
+msgstr "Genera Shortcode"
+
+#: admin/templates/property/metabox.php:36
+#, php-format
+msgid ""
+"Please enter Google Map API key in <a href=\"%s\" target=\"_blank\">General "
+"Settings</a> of the plugin."
+msgstr ""
+"Inserisci la chiave API di Google Maps nelle <a href=\"%s\" "
+"target=\"_blank\"> Impostazioni generali </a> del plug-in."
+
+#: admin/templates/property/media.php:7
+msgid ""
+"Here you can add video and upload images. Please enter video code in iframe "
+"format, e.g. -"
+msgstr ""
+"Qui puoi aggiungere video e caricare immagini. Inserisci il codice video nel "
+"formato iframe, ad es. -"
+
+#: admin/templates/property/media.php:17
+msgid "Embed the code"
+msgstr "Incorpora il codice"
+
+#: admin/templates/property/media.php:29
+msgid "Add image(s) to property"
+msgstr "Aggiungi immagine (s) alla proprietà"
+
+#: admin/templates/property/media.php:50
+#, php-format
+msgid ""
+"Your theme has no <a href=\"%s\" target=\"_blank\">post thumbnail support</a>"
+"."
+msgstr ""
+"Il tuo tema non ha <a href=\"%s\" target=\"_blank\"> supporto per le "
+"miniature post </a>."
+
+#: admin/templates/property/filter.php:69
+msgid "MLS Profile"
+msgstr "Profilo MLS"
+
+#: admin/templates/property/filter.php:71
+msgid "-- None --"
+msgstr "-- Nessuno --"
+
+#: admin/templates/property/filter.php:120
+msgid "Please select properties."
+msgstr "Seleziona le proprietà."
+
+#: admin/templates/property/filter.php:121
+msgid "Are you sure you want to attach this agent to selected properties?"
+msgstr ""
+"Sei sicuro di voler collegare questo agente alle proprietà selezionate?"
+
+#: admin/templates/property/filter.php:123
+msgid "Assign Agent"
+msgstr "Assegna agente"
+
+#: admin/templates/settings/currency-tab.php:7
+msgid "Default currency"
+msgstr "Valuta predefinita"
+
+#: admin/templates/settings/currency-tab.php:10
+msgid "Choose currency"
+msgstr "Scegli Valuta"
+
+#: admin/templates/settings/currency-tab.php:13
+msgid "Price format"
+msgstr "Formato prezzo"
+
+#: admin/templates/settings/currency-tab.php:18
+msgid "Currency sign place"
+msgstr "Posizione simbolo valuta"
+
+#: admin/templates/settings/disclaimer-tab.php:11
+#: admin/templates/settings/general-tab.php:11
+msgid "-- Select page --"
+msgstr "-- Seleziona pagina --"
+
+#: admin/templates/settings/disclaimer-tab.php:19
+msgid "Enable disclaimer"
+msgstr "Abilita disclaimer"
+
+#: admin/templates/settings/disclaimer-tab.php:23
+msgid ""
+"Enable this option if you want to show disclaimer text on single property "
+"page"
+msgstr ""
+"Abilitare questa opzione se si desidera mostrare il testo della "
+"dichiarazione di non responsabilità su una singola pagina delle proprietà"
+
+#: admin/templates/settings/disclaimer-tab.php:26
+msgid "Disclaimer Text"
+msgstr "Disclaimer Testo"
+
+#: admin/templates/settings/settings.php:13
+msgid "Please fill up your settings details and click save to finish"
+msgstr ""
+"Si prega di compilare i dettagli delle impostazioni e fare clic su Salva per "
+"terminare"
+
+#: admin/templates/settings/general-tab.php:19
+msgid "Enable white label"
+msgstr "Abilita etichetta bianca"
+
+#: admin/templates/settings/general-tab.php:23
+msgid ""
+"Enable this option if you want to remove estatik logo and powered by link on "
+"estatik pages"
+msgstr ""
+"Abilitare questa opzione se si desidera rimuovere il logo estatik e "
+"alimentato dal collegamento nelle pagine estatik"
+
+#: admin/templates/settings/general-tab.php:26
+msgid "Powered by link"
+msgstr "Link Powered by"
+
+#: admin/templates/settings/general-tab.php:32
+msgid "Number of listings per page"
+msgstr "Numero di annunci per pagina"
+
+#: admin/templates/settings/general-tab.php:37
+msgid "Custom Property Slug URI"
+msgstr "URI Slug proprietà personalizzate"
+
+#: admin/templates/settings/general-tab.php:42
+msgid "Custom Property Name"
+msgstr "Nome proprietà personalizzata"
+
+#: admin/templates/settings/general-tab.php:47
+msgid "Listing publishing"
+msgstr "Pubblicazione di elenchi"
+
+#: admin/templates/settings/general-tab.php:51
+msgid "Show price"
+msgstr "Mostra il prezzo"
+
+#: admin/templates/settings/general-tab.php:57
+msgid "Disable Property Featured Image"
+msgstr "Disabilitare l'immagine in primo piano"
+
+#: admin/templates/settings/general-tab.php:63
+msgid "Title / Address"
+msgstr "Titolo / indirizzo"
+
+#: admin/templates/settings/general-tab.php:67
+msgid "Show Address"
+msgstr "Mostra indirizzo"
+
+#: admin/templates/settings/general-tab.php:73
+msgid "Enable Buyers"
+msgstr "Abilita gli acquirenti"
+
+#: admin/templates/settings/general-tab.php:79
+msgid "Hide Property Top Bar"
+msgstr "Nascondi barra superiore proprietà"
+
+#: admin/templates/settings/general-tab.php:85
+msgid "Enable Wishlist"
+msgstr "Abilita la Wishlist"
+
+#: admin/templates/settings/general-tab.php:91
+msgid "Disable meta:og tags"
+msgstr "Disabilita meta: og tag"
+
+#: admin/templates/settings/general-tab.php:109
+msgid "Date format"
+msgstr "Formato data"
+
+#: admin/templates/settings/general-tab.php:114
+msgid "Theme style"
+msgstr "Stile a tema"
+
+#: admin/templates/settings/general-tab.php:119
+msgid "Privacy Policy Checkbox"
+msgstr " Sulla privacy checkbox"
+
+#: admin/templates/settings/general-tab.php:123
+msgid "Terms of Use page"
+msgstr "Pagina Termini d'uso"
+
+#: admin/templates/settings/general-tab.php:128
+msgid "Privacy Policy page"
+msgstr "Pagina sulla privacy"
+
+#: admin/templates/settings/general-tab.php:133
+msgid "Show/hide Contact Agent tab"
+msgstr "Mostra / nascondi la scheda Contatta agente"
+
+#: admin/templates/settings/general-tab.php:139
+msgid "Registration page"
+msgstr "Pagina di registrazione"
+
+#: admin/templates/settings/general-tab.php:144
+msgid "Login page"
+msgstr "Pagina di login"
+
+#: admin/templates/settings/general-tab.php:149
+msgid "Reset password page"
+msgstr "Reimposta la pagina della password"
+
+#: admin/templates/settings/general-tab.php:154
+msgid "Property management page"
+msgstr "Pagina di gestione della proprietà"
+
+#: admin/templates/settings/general-tab.php:159
+msgid "Agent listings page"
+msgstr "Pagina degli elenchi degli agenti"
+
+#: admin/templates/settings/general-tab.php:164
+msgid "Search page"
+msgstr "Pagina di ricerca"
+
+#: admin/templates/settings/general-tab.php:169
+msgid "Google map API key"
+msgstr "Chiave API mappa di Google"
+
+#: admin/templates/settings/general-tab.php:173
+msgid "Google Recaptcha SiteKey"
+msgstr "Google Recaptcha SiteKey"
+
+#: admin/templates/settings/general-tab.php:177
+msgid "Google Recaptcha SecretKey"
+msgstr "Google Recaptcha SecretKey"
+
+#: admin/templates/settings/general-tab.php:184
+msgid "Admin and PDF Logo image"
+msgstr "Immagine amministratore e logo PDF"
+
+#: admin/templates/settings/general-tab.php:204
+msgid "Admin Logo Width"
+msgstr "Larghezza logo amministratore"
+
+#: admin/templates/settings/general-tab.php:208
+msgid "Admin Logo Height"
+msgstr "Altezza logo amministratore"
+
+#: admin/templates/settings/general-tab.php:213
+msgid "MLS connection"
+msgstr "Connessione MLS"
+
+#: admin/templates/settings/general-tab.php:218
+#: rets/templates/partials/credentials-list.php:22
+#: rets/templates/partials/connect-form.php:162
+msgid "Disconnect"
+msgstr "Disconnect"
+
+#: admin/templates/settings/layouts-tab.php:10
+msgid "Listings layout"
+msgstr "Layout annunci"
+
+#: admin/templates/settings/layouts-tab.php:28
+msgid "Single property layout"
+msgstr "Single property layout"
+
+#: admin/templates/settings/sharing-tab.php:19
+msgid "Google+"
+msgstr "Google+"
+
+#: admin/templates/settings/sharing-tab.php:25
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: admin/templates/settings/sharing-tab.php:31
+msgid "PDF flyer"
+msgstr "Volantino PDF"
+
+#: admin/templates/settings/sharing-tab.php:38
+msgid "PDF flyer layout"
+msgstr ""
+"Layout del volantino PDF\n"
+
+#: admin/templates/settings/sharing-tab.php:42
+msgid "Map Zoom"
+msgstr "Zoom Mappa"
+
+#: admin/templates/settings/sharing-tab.php:49
+msgid "QR Code"
+msgstr "QR Code"
+
+#: admin/templates/settings/sharing-tab.php:53
+#: admin/classes/widgets/class-request-widget.php:119
+#: templates/property/pdf/footer.php:2
+msgid "Phone"
+msgstr "Telefono"
+
+#: admin/templates/settings/sharing-tab.php:57
+#: templates/shortcodes/partials/my-profile-tab.php:53
+msgid "E-mail"
+msgstr "E-mail"
+
+#: admin/templates/settings/sharing-tab.php:66
+msgid "Sections to show"
+msgstr "Sezioni da mostrare"
+
+#: admin/templates/settings/email-tab.php:4
+msgid "Email Logo Image"
+msgstr "Email Logo Image"
+
+#: admin/templates/settings/color-tab.php:7
+msgid "Main color"
+msgstr "Colore principale"
+
+#: admin/templates/settings/color-tab.php:9
+msgid "Select color for Details and Search buttons"
+msgstr "Seleziona il colore per i pulsanti Dettagli e Cerca"
+
+#: admin/templates/settings/color-tab.php:14
+msgid "Secondary color"
+msgstr "Colore secondario"
+
+#: admin/templates/settings/color-tab.php:16
+msgid "Select color for widgets background and other grey elements"
+msgstr "Seleziona il colore per lo sfondo dei widget e altri elementi grigi"
+
+#: admin/templates/settings/color-tab.php:21
+msgid "Reset button color"
+msgstr "Ripristina colore pulsante"
+
+#: admin/templates/settings/color-tab.php:23
+msgid "Select color for reset button of search widget"
+msgstr ""
+"Seleziona il colore per il pulsante di ripristino del widget di ricerca"
+
+#: admin/templates/settings/color-tab.php:28
+msgid "Frame color"
+msgstr "Colore del telaio"
+
+#: admin/templates/settings/color-tab.php:30
+msgid "Change color for listing box border appearing when hovering it"
+msgstr ""
+"Cambiare colore per il bordo della finestra di elenco che appare al "
+"passaggio del mouse"
+
+#: admin/templates/settings/map-tab.php:10
+msgid "Set map markers"
+msgstr "Imposta gli indicatori della mappa"
+
+#: admin/templates/settings/map-tab.php:14
+msgid "Select taxonomy"
+msgstr "Seleziona tassonomia"
+
+#: admin/templates/settings/map-tab.php:24
+msgid "Select term"
+msgstr "Seleziona il termine"
+
+#: admin/templates/settings/map-tab.php:59
+msgid "Extra settings"
+msgstr "Impostazioni extra"
+
+#: admin/templates/settings/map-tab.php:71
+msgid "Number of listings to show"
+msgstr ""
+"Numero di elenchi da mostrare\n"
+
+#: admin/templates/settings/map-tab.php:76
+msgid ""
+"Zoom <i class=\"fa fa-question-circle js-tooltipster-zoom\" aria-"
+"hidden=\"true\"></i>"
+msgstr ""
+"Zoom <i class=\"fa fa-question-circle js-tooltipster-zoom\" aria-"
+"hidden=\"true\"></i>"
+
+#: admin/templates/settings/map-tab.php:82
+msgid "Enable Clusters"
+msgstr "Abilita i cluster"
+
+#: admin/templates/settings/map-tab.php:91
+msgid ""
+"Please create pages with shortcodes below to display map on your website"
+msgstr ""
+"Crea pagine con codici brevi di seguito per visualizzare la mappa sul tuo "
+"sito web"
+
+#: admin/templates/settings/map-tab.php:97
+msgid "All properties"
+msgstr "Tutte le proprietà"
+
+#: admin/templates/settings/map-tab.php:102
+msgid "Properties by type"
+msgstr "Proprietà per tipo"
+
+#: admin/templates/settings/map-tab.php:107
+msgid "Properties by category"
+msgstr "Proprietà per categoria"
+
+#: admin/templates/settings/map-tab.php:112
+msgid "Properties by status"
+msgstr "Proprietà per stato"
+
+#: admin/templates/settings/map-tab.php:117
+msgid "Properties by rent period"
+msgstr "Proprietà per periodo di affitto"
+
+#: admin/templates/settings/map-tab.php:122
+msgid "Num properties for display"
+msgstr "Num proprietà per la visualizzazione"
+
+#: admin/templates/settings/map-tab.php:127
+#: admin/templates/settings/map-tab.php:132
+msgid "Specific properties"
+msgstr "Proprietà specifiche"
+
+#: admin/templates/settings/shelter-zoom-tab.php:16
+#, php-format
+msgid ""
+"Please register first at <a href=\"%s\" target=\"_blank\">ShelterZoom</a> as "
+"affiliate and enter your login and password here to get API key."
+msgstr ""
+"Per prima cosa registrati su <a href=\"%s\" target=\"_blank\"> ShelterZoom "
+"</a> come affiliato e inserisci qui login e password per ottenere la chiave "
+"API."
+
+#: admin/templates/settings/shelter-zoom-tab.php:18
+msgid "Enable ShelterZoom API"
+msgstr "Abilita l'API ShelterZoom"
+
+#: admin/templates/settings/shelter-zoom-tab.php:25
+msgid "Partner credentials"
+msgstr ""
+"Credenziali del partner\n"
+
+#: admin/templates/settings/shelter-zoom-tab.php:26
+msgid "ShelterZoom ID"
+msgstr "ShelterZoom ID"
+
+#: admin/templates/settings/shelter-zoom-tab.php:40
+msgid "API Key"
+msgstr "Chiave API"
+
+#: admin/templates/settings/shelter-zoom-tab.php:51
+msgid "Layout settings"
+msgstr "Impostazioni di Layout"
+
+#: admin/templates/settings/shelter-zoom-tab.php:52
+msgid "ShelterZoom Layout"
+msgstr "ShelterZoom Layout"
+
+#: admin/templates/settings/shelter-zoom-tab.php:57
+msgid "Rent Now Category"
+msgstr "Noleggia ora la categoria"
+
+#: admin/templates/settings/shelter-zoom-tab.php:60
+#: admin/templates/settings/shelter-zoom-tab.php:70
+msgid "-- Select category --"
+msgstr "-- Seleziona categoria --"
+
+#: admin/templates/settings/shelter-zoom-tab.php:67
+msgid "Offer Now Category"
+msgstr ""
+"Offri ora la categoria\n"
+
+#: admin/templates/settings/shelter-zoom-tab.php:77
+msgid "ShelterZoom Icon"
+msgstr "Icona ShelterZoom"
+
+#: admin/templates/import/import.php:6
+msgid "Import properties"
+msgstr "Importa proprietà"
+
+#: admin/templates/import/import.php:14
+msgid ""
+"Please Import your property detail with CSV sample and click save to finish"
+msgstr ""
+"Importare i dettagli della proprietà con un campione CSV e fare clic su "
+"Salva per terminare"
+
+#: admin/templates/import/import.php:15
+msgid "Download Sample File"
+msgstr "Scarica il file di esempio"
+
+#: admin/templates/import/import.php:17
+msgid "Start import"
+msgstr "Inizia l'importazione"
+
+#: admin/templates/import/import.php:25
+msgid "Choose source file"
+msgstr "Scegli il file sorgente"
+
+#: admin/templates/import/import.php:31
+msgid "Property status"
+msgstr "Stato della proprietà"
+
+#: admin/templates/import/import.php:43
+msgid "Skip first line"
+msgstr "Salta la prima riga"
+
+#: admin/templates/import/import.php:50
+msgid "Choose Import Fields"
+msgstr "Scegli i campi di importazione"
+
+#: admin/templates/import/import.php:52
+msgid "Choose fields for import"
+msgstr "Scegli i campi per l'importazione"
+
+#: admin/templates/import/import.php:61
+msgid "CSV delimiter"
+msgstr "Delimitatore CSV"
+
+#: admin/classes/migration/class-property-migration.php:298
+#, php-format
+msgid "Agent #%s saving failed"
+msgstr "Il salvataggio dell'agente #%s non è riuscito"
+
+#: admin/classes/migration/class-property-migration.php:351
+#, php-format
+msgid "Agent #%s successfully migrated."
+msgstr "Agente #%s migrato correttamente."
+
+#: admin/classes/migration/class-property-migration.php:433
+msgid " doesn't exist."
+msgstr "non esiste."
+
+#: admin/classes/migration/class-property-migration.php:450
+msgid " already migrated."
+msgstr "già migrato."
+
+#: admin/classes/migration/class-property-migration.php:463
+msgid " isn't updated"
+msgstr "non è aggiornato"
+
+#: admin/classes/migration/class-property-migration.php:556
+#, php-format
+msgid "Property %s image: %s"
+msgstr "Proprietà %s immagine: %s"
+
+#: admin/classes/migration/class-property-migration.php:626
+#, php-format
+msgid "Property %s successfully migrated"
+msgstr "Proprietà %s migrata con successo"
+
+#: admin/classes/widgets/class-property-slideshow-widget.php:13
+msgid "Estatik Slideshow"
+msgstr "Presentazione di Estatik"
+
+#: admin/classes/widgets/class-property-map-widget.php:13
+msgid "Estatik Map View"
+msgstr "Vista sulla mappa di Estatik"
+
+#: admin/classes/widgets/class-property-map-widget.php:14
+msgid "Shows your listings on the map"
+msgstr "Mostra i tuoi annunci sulla mappa"
+
+#: admin/classes/widgets/class-widget.php:48
+msgid "Archive page"
+msgstr "Pagina di archivio"
+
+#: admin/classes/widgets/class-widget.php:49
+msgid "Single Page"
+msgstr "Pagina Singola"
+
+#: admin/classes/widgets/class-widget.php:50
+msgid "Single Property Page"
+msgstr "Pagina singola proprietà"
+
+#: admin/classes/widgets/class-widget.php:51
+msgid "Archive Property Page"
+msgstr "Archivia pagina delle proprietà"
+
+#: admin/classes/widgets/class-widget.php:52
+msgid "Category Page"
+msgstr "Pagina Categoria"
+
+#: admin/classes/widgets/class-widget.php:53
+msgid "Search Page"
+msgstr "Pagina di Ricerca"
+
+#: admin/classes/widgets/class-widget.php:54
+msgid "Author Page"
+msgstr "Pagina Autore"
+
+#: admin/classes/widgets/class-widget.php:81
+msgid "Show on pages:"
+msgstr "Mostra su pagine:"
+
+#: admin/classes/widgets/class-widget.php:92
+msgid "Select pages"
+msgstr "Seleziona pagine"
+
+#: admin/classes/widgets/class-widget.php:119
+msgid "All pages"
+msgstr "Tutte le pagine"
+
+#: admin/classes/widgets/class-widget.php:120
+msgid "Show on checked pages"
+msgstr "Mostra su pagine selezionate"
+
+#: admin/classes/widgets/class-widget.php:121
+msgid "Hide on checked pages"
+msgstr "Nascondi nelle pagine selezionate"
+
+#: admin/classes/widgets/class-search-widget.php:13
+msgid "Estatik Search"
+msgstr "Ricerca Estatik"
+
+#: admin/classes/widgets/class-search-widget.php:14
+msgid "Estatik Search is advanced search widget developed for Estatik plugins."
+msgstr ""
+"Estatik Search è un widget di ricerca avanzato sviluppato per i plugin "
+"Estatik."
+
+#: admin/classes/widgets/class-search-widget.php:24
+msgid "WP Search Page"
+msgstr "Pagina di ricerca di WP"
+
+#: admin/classes/widgets/class-search-widget.php:35
+msgid "Search page:"
+msgstr "Pagina di ricerca:"
+
+#: admin/classes/widgets/class-search-widget.php:52
+#: admin/templates/shortcode-builder/params/es_profile-params.php:7
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:75
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:85
+#: admin/templates/shortcode-builder/params/es_search_form-params.php:63
+msgid "Horizontal"
+msgstr "Orizzontale"
+
+#: admin/classes/widgets/class-search-widget.php:52
+#: admin/templates/shortcode-builder/params/es_profile-params.php:6
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:74
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:84
+#: admin/templates/shortcode-builder/params/es_search_form-params.php:62
+msgid "Vertical"
+msgstr "Verticale"
+
+#: admin/classes/widgets/class-search-widget.php:251
+msgid "min"
+msgstr "min"
+
+#: admin/classes/widgets/class-search-widget.php:252
+msgid "max"
+msgstr "max"
+
+#: admin/classes/widgets/class-request-widget.php:30
+msgid "Estatik Request Form"
+msgstr "Modulo di richiesta Estatik"
+
+#: admin/classes/widgets/class-request-widget.php:31
+msgid "Displayed only on single property page."
+msgstr "Visualizzato solo sulla pagina delle singole proprietà."
+
+#: admin/classes/widgets/class-request-widget.php:43
+msgid "Admin"
+msgstr "Admin"
+
+#: admin/classes/widgets/class-request-widget.php:45
+msgid "Admin & Agent"
+msgstr "Amministratore & Agente"
+
+#: admin/classes/widgets/class-request-widget.php:46
+msgid "Other email"
+msgstr ""
+"Altra email\n"
+
+#: admin/classes/widgets/class-request-widget.php:106
+msgid "Invalid captcha."
+msgstr "CAPTCHA non valido."
+
+#: admin/classes/widgets/class-request-widget.php:121
+msgid "Property Link"
+msgstr "Link di proprietà"
+
+#: admin/classes/widgets/class-request-widget.php:122
+msgid "Property Address"
+msgstr "Indirizzo della proprietà"
+
+#: admin/classes/widgets/class-request-widget.php:123
+msgid "Request"
+msgstr "Richiesta"
+
+#: admin/classes/widgets/class-request-widget.php:130
+#, php-format
+msgid "Request about property #%s"
+msgstr "Richiesta sulla proprietà #%s"
+
+#: admin/classes/widgets/class-request-widget.php:134
+msgid "Thank you for your message! We will contact you as soon as we can."
+msgstr "Grazie per il vostro messaggio! Ti contatteremo al più presto."
+
+#: admin/classes/widgets/class-request-widget.php:136
+msgid "Your message wasn't sent. Please, contact support."
+msgstr ""
+"Il tuo messaggio non è stato inviato Per favore, contatta l'assistenza."
+
+#: admin/classes/widgets/class-request-widget.php:140
+msgid "Incorrect post."
+msgstr "Post non corretto"
+
+#: admin/classes/pages/class-import-page.php:111
+msgid "File is empty or incorrect file format."
+msgstr "Il file è un formato di file vuoto o errato."
+
+#: admin/classes/pages/class-import-page.php:116
+msgid "File isn't uploaded. Check permissions for upload directory."
+msgstr ""
+"Il file non è caricato. Controlla le autorizzazioni per la directory di "
+"upload."
+
+#: admin/classes/pages/class-import-page.php:142
+msgid "Done!"
+msgstr "Fatto!"
+
+#: admin/classes/pages/class-fields-builder-page.php:36
+#, php-format
+msgid ""
+"If you lack some fields, please go to <a href=\"%s\">Fields Builder</a> and "
+"add your own custom fields."
+msgstr ""
+"Se ti mancano alcuni campi, vai a <a href=\"%s\"> Fields Builder </a> e "
+"aggiungi i tuoi campi personalizzati."
+
+#: admin/classes/pages/class-fields-builder-page.php:91
+msgid "Listing fields"
+msgstr "Campi di elenchi"
+
+#: admin/classes/pages/class-fields-builder-page.php:96
+msgid "Listing sections"
+msgstr "Elenco delle sezioni"
+
+#: admin/classes/pages/class-fields-builder-page.php:142
+#, php-format
+msgid "Field %s successfully created."
+msgstr "Campo %s creato con successo."
+
+#: admin/classes/pages/class-fields-builder-page.php:144
+#, php-format
+msgid "Field %s doesn't created."
+msgstr "Il campo %s non è stato creato."
+
+#: admin/classes/pages/class-fields-builder-page.php:175
+#, php-format
+msgid "Section %s successfully created."
+msgstr "Sezione %s creata con successo."
+
+#: admin/classes/pages/class-fields-builder-page.php:177
+#, php-format
+msgid "Section %s doesn't created."
+msgstr "La sezione %s non è stata creata."
+
+#: admin/classes/pages/class-fields-builder-page.php:208
+msgid "Field successfully restored."
+msgstr "Campo ripristinato con successo."
+
+#: admin/classes/pages/class-fields-builder-page.php:211
+#: admin/classes/pages/class-fields-builder-page.php:249
+#, php-format
+msgid "Field #%s isn't exist."
+msgstr "Il campo #%s non esiste."
+
+#: admin/classes/pages/class-fields-builder-page.php:246
+#, php-format
+msgid "Field %s successfully removed."
+msgstr "Il campo %s è stato rimosso con successo."
+
+#: admin/classes/pages/class-fields-builder-page.php:271
+#, php-format
+msgid "Section %s successfully removed."
+msgstr "La sezione %s è stata rimossa correttamente."
+
+#: admin/classes/pages/class-fields-builder-page.php:274
+#, php-format
+msgid "Section #%s isn't exist."
+msgstr "La sezione #%s non esiste."
+
+#: admin/classes/pages/class-agent-list.php:250
+msgid "Agent ID"
+msgstr "ID agente"
+
+#: admin/classes/pages/class-agent-list.php:252
+#: admin/classes/pages/class-user-list.php:281
+msgid "Properties Q-ty"
+msgstr "Proprietà Qtà"
+
+#: admin/classes/pages/class-user-profile-page.php:66
+msgid "Buyer Info"
+msgstr "Informazioni sull'acquirente"
+
+#: admin/classes/pages/class-user-profile-page.php:70
+msgid "Agent Info"
+msgstr "Informazioni Sull'agente"
+
+#: admin/classes/pages/class-dashboard-page.php:100
+msgid "3.8.9 (July, 29, 2019) "
+msgstr "3.8.9 (July, 29, 2019) "
+
+#: admin/classes/pages/class-dashboard-page.php:108
+msgid "3.8.8 (July, 10, 2019)"
+msgstr "3.8.8 (July, 10, 2019)"
+
+#: admin/classes/pages/class-dashboard-page.php:129
+msgid "3.8.7.1 (May, 16, 2019)"
+msgstr "3.8.7.1 (May, 16, 2019)"
+
+#: admin/classes/pages/class-dashboard-page.php:133
+msgid "3.8.7 (May, 16, 2019)"
+msgstr "3.8.7 (May, 16, 2019)"
+
+#: admin/classes/pages/class-dashboard-page.php:143
+msgid "3.8.6 (April, 23, 2019)"
+msgstr "3.8.6 (April, 23, 2019)"
+
+#: admin/classes/pages/class-dashboard-page.php:152
+msgid "3.8.5 (April, 08, 2019)"
+msgstr "3.8.5 (April, 08, 2019)"
+
+#: admin/classes/pages/class-dashboard-page.php:171
+msgid "3.8.4 (March, 20, 2019)"
+msgstr "3.8.4 (March, 20, 2019)"
+
+#: admin/classes/pages/class-dashboard-page.php:178
+msgid "3.8.3 (March, 05, 2019)"
+msgstr "3.8.3 (March, 05, 2019)"
+
+#: admin/classes/pages/class-dashboard-page.php:195
+msgid "3.8.2 (January, 16, 2019)"
+msgstr "3.8.2 (January, 16, 2019)"
+
+#: admin/classes/pages/class-dashboard-page.php:212
+msgid "3.8.1 (November, 09, 2018)"
+msgstr "3.8.1 (November, 09, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:230
+msgid "3.8.0 (November, 01, 2018)"
+msgstr "3.8.0 (November, 01, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:246
+msgid "3.7.2 (October, 03, 2018)"
+msgstr "3.7.2 (October, 03, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:258
+msgid "3.7.1 (September, 14, 2018)"
+msgstr "3.7.1 (September, 14, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:267
+msgid "3.7.0 (September, 7, 2018)"
+msgstr "3.7.0 (September, 7, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:284
+#: admin/classes/pages/class-dashboard-page.php:297
+msgid "3.6.6 (August, 14, 2018)"
+msgstr "3.6.6 (August, 14, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:314
+msgid "3.6.5 (July, 6, 2018)"
+msgstr "3.6.5 (July, 6, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:327
+msgid "3.6.4 (May 29, 2018)"
+msgstr "3.6.4 (May 29, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:339
+msgid "3.6.3 (May 05, 2018)"
+msgstr "3.6.3 (May 05, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:364
+msgid "3.6.2 (March 23, 2018)"
+msgstr "3.6.2 (March 23, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:376
+msgid "3.6.1 (March 12, 2018)"
+msgstr "3.6.1 (March 12, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:387
+msgid "3.6.0 (February 10, 2018)"
+msgstr "3.6.0 (February 10, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:397
+msgid "3.5.0 (January 25, 2018)"
+msgstr "3.5.0 (January 25, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:408
+msgid "3.4.0 (January 10, 2018)"
+msgstr "3.4.0 (January 10, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:421
+msgid "3.3.7 (December 29, 2017)"
+msgstr "3.3.7 (December 29, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:429
+msgid "3.3.6 (December 13, 2017)"
+msgstr "3.3.6 (December 13, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:442
+msgid "3.3.5 (November 15, 2017)"
+msgstr "3.3.5 (November 15, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:454
+msgid "3.3.4 (November 1, 2017)"
+msgstr "3.3.4 (November 1, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:471
+msgid "3.3.3 (October 9, 2017)"
+msgstr "3.3.3 (October 9, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:487
+msgid "3.3.2 (August 11, 2017)"
+msgstr "3.3.2 (August 11, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:492
+msgid "3.3.1 (July 21, 2017)"
+msgstr "3.3.1 (July 21, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:496
+msgid "3.3.0 (Juy 17, 2017)"
+msgstr "3.3.0 (Juy 17, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:505
+msgid "3.2.1 (July 8, 2017)"
+msgstr "3.2.1 (July 8, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:513
+msgid "3.2.0 (June, 17, 2017)"
+msgstr "3.2.0 (June, 17, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:522
+msgid "3.1.0 (MAY, 24, 2017)"
+msgstr "3.1.0 (MAY, 24, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:533
+msgid "3.0.2 (May, 10, 2017)"
+msgstr "3.0.2 (May, 10, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:543
+msgid "3.0.1 (APRIL, 18, 2017)"
+msgstr "3.0.1 (APRIL, 18, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:550
+msgid "3.0.0 (April, 12, 2017)"
+msgstr "3.0.0 (April, 12, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:566
+msgid "2.4.0 (September 26, 2016)"
+msgstr "2.4.0 (September 26, 2016)"
+
+#: admin/classes/pages/class-dashboard-page.php:570
+msgid "2.3.1 (August 21, 2016)"
+msgstr "2.3.1 (August 21, 2016)"
+
+#: admin/classes/pages/class-dashboard-page.php:574
+msgid "2.3.0 (August 15, 2016)"
+msgstr "2.3.0 (August 15, 2016)"
+
+#: admin/classes/pages/class-dashboard-page.php:580
+msgid "2.2.3 (March 30, 2016)"
+msgstr "2.2.3 (March 30, 2016)"
+
+#: admin/classes/pages/class-dashboard-page.php:591
+msgid "2.2.2 (November 21, 2015)"
+msgstr "2.2.2 (November 21, 2015)"
+
+#: admin/classes/pages/class-dashboard-page.php:601
+msgid "2.2.1 (October 22, 2015)"
+msgstr "2.2.1 (October 22, 2015)"
+
+#: admin/classes/pages/class-dashboard-page.php:605
+msgid "2.2.0 (October 22, 2015)"
+msgstr "2.2.0 (October 22, 2015)"
+
+#: admin/classes/pages/class-dashboard-page.php:617
+msgid "2.1.0 (July 7, 2015)"
+msgstr "2.1.0 (July 7, 2015)"
+
+#: admin/classes/pages/class-dashboard-page.php:631
+msgid "2.0.1"
+msgstr "2.0.1"
+
+#: admin/classes/pages/class-dashboard-page.php:637
+msgid "2.0 (May 16, 2015)"
+msgstr "2.0 (May 16, 2015)"
+
+#: admin/classes/pages/class-dashboard-page.php:648
+msgid "1.1.1"
+msgstr "1.1.1"
+
+#: admin/classes/pages/class-dashboard-page.php:653
+msgid "1.0.1"
+msgstr "1.0.1"
+
+#: admin/classes/pages/class-dashboard-page.php:658
+msgid "1.0.0 (March 24, 2015)"
+msgstr "1.0.0 (March 24, 2015)"
+
+#: admin/classes/pages/class-settings-page.php:33
+msgid "The Taxonomy is empty."
+msgstr "La tassonomia è vuota."
+
+#: admin/classes/pages/class-settings-page.php:36
+msgid "The Taxonomy doesn't exist"
+msgstr "La tassonomia non esiste"
+
+#: admin/classes/pages/class-settings-page.php:62
+#: rets/classes/pages/class-mls-rets-page.php:272
+msgid "General"
+msgstr "Generale"
+
+#: admin/classes/pages/class-settings-page.php:78
+msgid "Emails"
+msgstr "Emails"
+
+#: admin/classes/pages/class-settings-page.php:82
+msgid "Sharing & PDF"
+msgstr "Condivisione & PDF"
+
+#: admin/classes/pages/class-migration-page.php:141
+msgid "Estatik settings successfully migrated"
+msgstr "Le impostazioni di Estatik sono state migrate correttamente"
+
+#: admin/classes/pages/class-data-manager-page.php:53
+msgid "Properties details"
+msgstr "Dettagli immobili"
+
+#: admin/classes/pages/class-data-manager-page.php:73
+msgid "Addresses"
+msgstr "Indirizzi"
+
+#: admin/classes/import/class-import.php:43
+msgid "Source file can't to be empty."
+msgstr "Il file di origine non può essere vuoto."
+
+#: admin/classes/import/class-import.php:138
+msgid "Can't return a data provider. Source file is empty."
+msgstr ""
+"Impossibile restituire un fornitore di dati. Il file di origine è vuoto."
+
+#: admin/classes/import/class-import.php:264
+#, php-format
+msgid "File of %s field didn't upload"
+msgstr "Il file del campo %s non è stato caricato"
+
+#: admin/classes/import/class-import.php:287
+msgid "Image field"
+msgstr "Campo immagine"
+
+#: admin/classes/import/class-import.php:344
+msgid "Incorrect property address string or coordinates."
+msgstr "Stringa o coordinate dell'indirizzo di proprietà errate."
+
+#: admin/classes/import/class-import.php:362
+msgid " created!"
+msgstr "creato!"
+
+#: admin/classes/import/class-import.php:365
+msgid "Post isn't created!"
+msgstr "Il post non è stato creato!"
+
+#: admin/classes/import/class-data-provider.php:39
+msgid "File doesn't exist."
+msgstr "Il file non esiste."
+
+#: templates/shortcodes/partials/saved-searches-tab.php:12
+msgid ""
+"Your saved searches can be found here. You can delete or view new listings "
+"matching your searches."
+msgstr ""
+"Le tue ricerche salvate possono essere trovate qui. Puoi eliminare o "
+"visualizzare nuove inserzioni corrispondenti alle tue ricerche."
+
+#: templates/shortcodes/partials/saved-searches-tab.php:20
+#, php-format
+msgid "Saved Search #%s"
+msgstr "Ricerca salvata #%s"
+
+#: templates/shortcodes/partials/saved-searches-tab.php:73
+msgid "View Listings"
+msgstr "Visualizza le liste"
+
+#: templates/shortcodes/partials/saved-searches-tab.php:77
+msgid "Delete Search"
+msgstr "Elimina ricerca"
+
+#: templates/shortcodes/partials/saved-homes-tab.php:10
+msgid ""
+"Your saved homes can be found here. You can view details or delete your "
+"favourite listings."
+msgstr ""
+"Le tue case salvate possono essere trovate qui. È possibile visualizzare i "
+"dettagli o eliminare i tuoi elenchi preferiti."
+
+#: templates/shortcodes/partials/my-profile-tab.php:30
+msgid "Change Photo"
+msgstr "Cambia foto"
+
+#: templates/shortcodes/partials/my-profile-tab.php:112
+msgid "Confirm Password"
+msgstr "Conferma password"
+
+#: templates/property/pdf/footer.php:72
+msgid "Call us now"
+msgstr "Chiamaci ora"
+
+#: subscriptions/templates/widgets/dashboard-subscription.php:17
+msgid "Current subscription plan"
+msgstr "Piano di abbonamento attuale"
+
+#: subscriptions/templates/widgets/dashboard-subscription.php:26
+msgid "Property qty"
+msgstr "Qtà proprietà"
+
+#: subscriptions/templates/widgets/dashboard-subscription.php:34
+msgid "Featured qty"
+msgstr "Qtà in evidenza"
+
+#: subscriptions/templates/widgets/dashboard-subscription.php:43
+msgid "Amount"
+msgstr "Quantità"
+
+#: subscriptions/templates/widgets/dashboard-subscription.php:53
+msgid "Initial Amount"
+msgstr "Importo iniziale"
+
+#: subscriptions/templates/widgets/dashboard-subscription.php:63
+msgid "Subscription period"
+msgstr "Periodo di abbonamento"
+
+#: subscriptions/templates/widgets/dashboard-subscription.php:73
+msgid "Trial period"
+msgstr "Periodo di prova"
+
+#: subscriptions/templates/settings/tab.php:12
+msgid "Enable subscriptions"
+msgstr "Abilita abbonamenti"
+
+#: subscriptions/templates/settings/tab.php:20
+msgid "Subscription expired subject"
+msgstr "Oggetto scaduto abbonamento"
+
+#: subscriptions/templates/settings/tab.php:25
+msgid "Subscription expired message"
+msgstr "Messaggio scaduto abbonamento"
+
+#: subscriptions/templates/settings/tab.php:33
+msgid "Checkout page"
+msgstr "Pagina di pagamento"
+
+#: subscriptions/templates/settings/payment.php:4
+msgid "-- Select PayPal Success Page --"
+msgstr "-- Seleziona la pagina di successo di PayPal --"
+
+#: subscriptions/templates/settings/payment.php:12
+msgid "PayPal Subscription settings"
+msgstr ""
+"Impostazioni di abbonamento PayPal\n"
+
+#: subscriptions/templates/settings/payment.php:14
+msgid "PayPal mode"
+msgstr ""
+"Modalità PayPal\n"
+
+#: subscriptions/templates/settings/payment.php:19
+msgid "PayPal Username"
+msgstr ""
+"Nome utente PayPal\n"
+
+#: subscriptions/templates/settings/payment.php:23
+msgid "PayPal password"
+msgstr ""
+"Password PayPal\n"
+
+#: subscriptions/templates/settings/payment.php:27
+msgid "Signature"
+msgstr "Firma"
+
+#: subscriptions/templates/settings/payment.php:31
+msgid "PayPal Response Page"
+msgstr ""
+"Pagina di risposta PayPal\n"
+
+#: subscriptions/templates/settings/payment.php:39
+msgid ""
+"Use <b>[es_subscription_paypal_response_page]</b> shortcode if you want "
+"create a custom PayPal page."
+msgstr ""
+"Utilizza <b> [es_subscription_paypal_response_page] </b> se desideri creare "
+"una pagina PayPal personalizzata."
+
+#: subscriptions/templates/settings/payment.php:43
+msgid "PayPal Return URL"
+msgstr "URL di ritorno PayPal"
+
+#: subscriptions/templates/settings/payment.php:49
+msgid "PayPal Cancel URL"
+msgstr "PayPal Annulla URL"
+
+#: subscriptions/templates/settings/payment.php:55
+msgid "PayPal Notify URL (for IPN)"
+msgstr ""
+"URL di notifica PayPal (per IPN)\n"
+
+#: subscriptions/classes/pages/class-subscription-list-page.php:101
+msgid "Properties q-ty"
+msgstr "Proprietà qtà"
+
+#: subscriptions/classes/pages/class-order-list-page.php:104
+msgid "Order status"
+msgstr ""
+"Lo stato dell'ordine\n"
+
+#: subscriptions/classes/pages/class-order-list-page.php:135
+#: subscriptions/classes/pages/class-order-list-page.php:143
+#: subscriptions/classes/pages/class-order-list-page.php:151
+#: subscriptions/classes/pages/class-order-list-page.php:159
+msgid "Not set"
+msgstr ""
+"Non impostato\n"
+
+#: subscriptions/classes/payments/class-paypal-subscription-payment-method.php:264
+msgid "Live"
+msgstr "Live"
+
+#: subscriptions/classes/payments/class-paypal-subscription-payment-method.php:265
+msgid "Sandbox (test mode)"
+msgstr "Sandbox (modalità test)"
+
+#: subscriptions/classes/payments/class-paypal-subscription-payment-method.php:339
+#, php-format
+msgid "Payment successful. Your subscription plan is <b>%s</b>."
+msgstr ""
+"Pagamento andato a buon fine. Il tuo piano di abbonamento è %s.\n"
+
+#: subscriptions/classes/payments/class-paypal-subscription-payment-method.php:341
+msgid "Payment successful. Please, wait for PayPal approve."
+msgstr ""
+"Pagamento andato a buon fine. Attendi l'approvazione di PayPal.\n"
+
+#: subscriptions/classes/payments/class-paypal-subscription-payment-method.php:344
+msgid "Invalid PayPal subscription response."
+msgstr "Risposta di abbonamento PayPal non valida."
+
+#: subscriptions/classes/payments/class-paypal-subscription-payment-method.php:350
+msgid "Invalid PayPal Token or Order."
+msgstr "Token o ordine PayPal non validi."
+
+#: subscriptions/classes/payments/class-paypal-subscription-payment-method.php:409
+msgid "Payment successfully canceled."
+msgstr ""
+"Pagamento annullato con successo.\n"
+
+#: rets/templates/partials/filter-fields.php:35
+msgid "From"
+msgstr "A partire dal"
+
+#: rets/templates/partials/filter-fields.php:36
+msgid "To"
+msgstr "A"
+
+#: rets/templates/partials/filter-fields.php:49
+msgid "Set filter fields"
+msgstr "Imposta i campi filtro"
+
+#: rets/templates/partials/field.php:31
+msgid "-- Choose property field --"
+msgstr "-- Scegli campo proprietà --"
+
+#: rets/templates/partials/field.php:32
+msgid "-- NEW FIELD --"
+msgstr "-- NUOVO CAMPO --"
+
+#: rets/templates/partials/field.php:46
+msgid "-- Choose object type --"
+msgstr "-- Scegli il tipo di oggetto --"
+
+#: rets/templates/partials/field.php:60
+msgid "Filterable"
+msgstr "Filtrabile"
+
+#: rets/templates/partials/actualizer-form.php:56
+msgid "Delete entities"
+msgstr "Elimina entità"
+
+#: rets/templates/partials/actualizer-form.php:59
+msgid "Delete on field"
+msgstr "Elimina sul campo"
+
+#: rets/templates/partials/actualizer-form.php:62
+#: rets/templates/partials/actualizer-form.php:89
+#: rets/templates/partials/actualizer-form.php:114
+#: rets/templates/partials/actualizer-form.php:127
+msgid "--- Select field ---"
+msgstr "--- Seleziona campo ---"
+
+#: rets/templates/partials/actualizer-form.php:72
+#: rets/templates/partials/actualizer-form.php:99
+msgid "Loading ..."
+msgstr "Caricamento in corso ..."
+
+#: rets/templates/partials/actualizer-form.php:76
+msgid ""
+"Here you can map the field that will be checked and listings with this field "
+"value removed from your server. For example, when selected Status - Expired, "
+"it means all listings with Status Expired will be removed after "
+"synchronization."
+msgstr ""
+"Qui puoi mappare il campo che verrà controllato e gli elenchi con questo "
+"valore di campo rimosso dal tuo server. Ad esempio, quando selezionato Stato "
+"- Scaduto, significa che tutti gli elenchi con Stato scaduto verranno "
+"rimossi dopo la sincronizzazione."
+
+#: rets/templates/partials/actualizer-form.php:83
+msgid "Unpublish entities"
+msgstr "Entità non pubblicate"
+
+#: rets/templates/partials/actualizer-form.php:86
+msgid "Unpublish on field"
+msgstr "Annulla pubblicazione sul campo"
+
+#: rets/templates/partials/actualizer-form.php:103
+msgid ""
+"Here you can map the field for listings get unpublished. For example, Status "
+"- Pending."
+msgstr ""
+"Qui puoi mappare il campo per le inserzioni che non vengono pubblicate. Ad "
+"esempio, Stato - In sospeso."
+
+#: rets/templates/partials/actualizer-form.php:108
+msgid "Update entities"
+msgstr "Aggiorna entità"
+
+#: rets/templates/partials/actualizer-form.php:111
+msgid "Compare field"
+msgstr "Confronta campo"
+
+#: rets/templates/partials/actualizer-form.php:124
+msgid "Compare with"
+msgstr "Confrontare con"
+
+#: rets/templates/partials/actualizer-form.php:137
+msgid ""
+"Here you can map the field that will be checked to update or skip listings. "
+"For example MLS Update date = Last Change Date."
+msgstr ""
+"Qui puoi mappare il campo che verrà controllato per aggiornare o saltare gli "
+"elenchi. Ad esempio Data aggiornamento MLS = Data ultima modifica."
+
+#: rets/templates/partials/actualizer-form.php:145
+#: admin/templates/fields-builder/forms/section-form.php:14
+#: admin/templates/fields-builder/forms/field-form.php:14
+msgid "Update"
+msgstr "Aggiornare"
+
+#: rets/templates/partials/actualizer-form.php:147
+#: admin/templates/fields-builder/forms/section-form.php:17
+#: admin/templates/fields-builder/forms/field-form.php:18
+msgid "Create"
+msgstr "Creare"
+
+#: rets/templates/partials/actualizer-form.php:155
+msgid ""
+"You have no any predefined schedules. Please, contact the estatik support "
+"for check this problem."
+msgstr ""
+"Non hai programmi predefiniti. Contatta l'assistenza estatik per verificare "
+"questo problema."
+
+#: rets/templates/partials/property-table.php:38
+#, php-format
+msgid "Total: <b>%d</b> items"
+msgstr "Totale: <b>%d</b> elementi"
+
+#: rets/templates/partials/property-table.php:95
+#, php-format
+msgid "Please, set <b>%s</b> field in %s tab."
+msgstr "Per favore, imposta il campo <b>%s</b> nella scheda %s."
+
+#: rets/templates/partials/property-table.php:103
+msgid "Show values"
+msgstr "Mostra valori"
+
+#: rets/templates/partials/credentials-list.php:1
+msgid "RETS credentials list"
+msgstr "Elenco credenziali RETS"
+
+#: rets/templates/partials/credentials-list.php:3
+msgid ""
+"In this area you can check your multiple RETS profiles, edit credentials, "
+"connect/disconnect or remove them. "
+msgstr ""
+"In quest'area puoi controllare i tuoi profili RETS multipli, modificare le "
+"credenziali, collegarle / disconnetterle o rimuoverle."
+
+#: rets/templates/partials/credentials-list.php:26
+#: rets/templates/partials/connect-form.php:164
+msgid "Connect"
+msgstr "Collegare"
+
+#: rets/templates/partials/credentials-list.php:31
+msgid "Edit credentials"
+msgstr "Modifica credenziali"
+
+#: rets/templates/partials/connect-form.php:12
+msgid "Edit rets credentials"
+msgstr "Modifica reimposta credenziali"
+
+#: rets/templates/partials/connect-form.php:14
+msgid "Add rets credentials"
+msgstr "Aggiungi credenziali rets"
+
+#: rets/templates/partials/connect-form.php:19
+#, php-format
+msgid ""
+"Please enter here your RETS link and credentials that can be provided by "
+"your MLS provider. Read %s details."
+msgstr ""
+"Inserisci qui il tuo link RETS e le credenziali che possono essere fornite "
+"dal tuo provider MLS. Leggi i dettagli di %s."
+
+#: rets/templates/partials/connect-form.php:27
+msgid "RETS Login URL"
+msgstr "RETS URL di accesso"
+
+#: rets/templates/partials/connect-form.php:47
+msgid "Advanced"
+msgstr "Avanzati"
+
+#: rets/templates/partials/connect-form.php:52
+msgid "RETS Version"
+msgstr "Versione RETS"
+
+#: rets/templates/partials/connect-form.php:59
+msgid "User agent"
+msgstr "Agente utente"
+
+#: rets/templates/partials/connect-form.php:66
+msgid "User agent password"
+msgstr "Password agente utente"
+
+#: rets/templates/partials/connect-form.php:72
+msgid "Http authentication method"
+msgstr "Metodo di autenticazione http"
+
+#: rets/templates/partials/connect-form.php:75
+msgid "Digest"
+msgstr "Digerire"
+
+#: rets/templates/partials/connect-form.php:76
+msgid "Basic"
+msgstr "Di base"
+
+#: rets/templates/partials/connect-form.php:80
+msgid "Images q-ty per listing"
+msgstr "Qtà immagini per elenco"
+
+#: rets/templates/partials/connect-form.php:85
+msgid "Disable follow location"
+msgstr "Disabilita follow location"
+
+#: rets/templates/partials/connect-form.php:91
+msgid "Use object locations"
+msgstr "Usa posizioni degli oggetti"
+
+#: rets/templates/partials/connect-form.php:97
+msgid "Use remote images"
+msgstr "Usa immagini remote"
+
+#: rets/templates/partials/connect-form.php:103
+msgid "Disable thumbnails generation"
+msgstr "Disabilita la generazione di miniature"
+
+#: rets/templates/partials/connect-form.php:109
+msgid "Offset fix"
+msgstr ""
+"Correzione offset\n"
+
+#: rets/templates/partials/connect-form.php:115
+msgid "Skip first import image"
+msgstr "Salta la prima immagine di importazione"
+
+#: rets/templates/partials/connect-form.php:121
+msgid "Enable google address validation"
+msgstr "Abilita la convalida dell'indirizzo google"
+
+#: rets/templates/partials/connect-form.php:127
+msgid "Disable address formatting"
+msgstr "Disabilita la formattazione dell'indirizzo"
+
+#: rets/templates/partials/connect-form.php:133
+msgid "Disable Fields Select"
+msgstr "Disabilita campi Seleziona"
+
+#: rets/templates/partials/connect-form.php:139
+msgid "Use Post Method"
+msgstr "Usa il metodo Post"
+
+#: rets/templates/partials/connect-form.php:145
+msgid "Miscellaneous Search Error Fix"
+msgstr "Correzione di errori di ricerca vari"
+
+#: rets/classes/pages/class-mls-rets-page.php:27
+#, php-format
+msgid "%s RETS profile active now: <b>%s</b> (RETS User)"
+msgstr "Il profilo %s RETS è ora attivo: <b>%s</b> (utente RETS)"
+
+#: rets/classes/pages/class-mls-rets-page.php:51
+msgid "Credentials successfully saved."
+msgstr "Credenziali salvate correttamente."
+
+#: rets/classes/pages/class-mls-rets-page.php:57
+msgid "Credentials data are empty."
+msgstr "I dati delle credenziali sono vuoti."
+
+#: rets/classes/pages/class-mls-rets-page.php:81
+msgid "Resource, Class or Entity is empty. Please set these fields."
+msgstr "Risorsa, classe o entità è vuota. Si prega di impostare questi campi."
+
+#: rets/classes/pages/class-mls-rets-page.php:89
+#, php-format
+msgid ""
+"Schedule didn't saved! Please, set %s MLS ID field on the %s tab for <b>"
+"%s</b> resource of <b>%s</b> class."
+msgstr ""
+"Il programma non è stato salvato! Impostare il campo ID MLS %s nella scheda "
+"%s per la risorsa <b>%s</b> della classe <b>%s</b>."
+
+#: rets/classes/pages/class-mls-rets-page.php:152
+msgid "The Schedule successfully saved."
+msgstr "La pianificazione è stata salvata correttamente."
+
+#: rets/classes/pages/class-mls-rets-page.php:154
+msgid "Schedule didn'n saved: "
+msgstr "La pianificazione non è stata salvata:"
+
+#: rets/classes/pages/class-mls-rets-page.php:233
+msgid "Actualizator successfully saved."
+msgstr "Actualizator salvato con successo."
+
+#: rets/classes/pages/class-mls-rets-page.php:280
+msgid "Fields Configuration"
+msgstr "Configurazione dei campi"
+
+#: rets/classes/pages/class-mls-rets-page.php:295
+msgid "Synchronization"
+msgstr "Sincronizzazione"
+
+#: admin/templates/demo-content/partials/step-pagination.php:15
+msgid "Pages setup"
+msgstr "Impostazione delle pagine"
+
+#: admin/templates/demo-content/partials/step-pagination.php:19
+msgid "Setup keys"
+msgstr "Chiavi di installazione"
+
+#: admin/templates/demo-content/partials/step-pagination.php:23
+msgid "Demo listing"
+msgstr "Elenco demo"
+
+#: admin/templates/fields-builder/partials/_field.php:14
+#, php-format
+msgid "Machine name: <b>%s</b>"
+msgstr "Nome macchina: <b>%s</b>"
+
+#: admin/templates/fields-builder/partials/_field.php:14
+msgid "Copy to Clipboard"
+msgstr "Copia negli appunti"
+
+#: admin/templates/fields-builder/partials/_field.php:19
+#: admin/templates/fields-builder/partials/_field.php:29
+msgid "Remove field"
+msgstr "Rimuovi campo"
+
+#: admin/templates/fields-builder/partials/_field.php:22
+msgid "Edit field"
+msgstr "Modifica campo"
+
+#: admin/templates/fields-builder/partials/_field.php:26
+msgid "Restore field"
+msgstr "Ripristina campo"
+
+#: admin/templates/fields-builder/partials/_section.php:20
+msgid "Remove section"
+msgstr "Rimuovi la sezione"
+
+#: admin/templates/fields-builder/partials/_section.php:23
+msgid "Edit Section"
+msgstr "Modifica sezione"
+
+#: admin/templates/fields-builder/forms/section-form.php:13
+msgid "Update section"
+msgstr "Sezione di aggiornamento"
+
+#: admin/templates/fields-builder/forms/section-form.php:16
+msgid "Create section"
+msgstr "Crea sezione"
+
+#: admin/templates/fields-builder/forms/section-form.php:33
+msgid "Section Name"
+msgstr "Nome sezione"
+
+#: admin/templates/fields-builder/forms/section-form.php:39
+msgid "Show tab"
+msgstr "Mostra scheda"
+
+#: admin/templates/fields-builder/forms/section-form.php:51
+#: admin/templates/fields-builder/forms/field-form.php:105
+msgid "Visible for"
+msgstr "Visibile per"
+
+#: admin/templates/fields-builder/forms/section-form.php:53
+#: admin/templates/fields-builder/forms/field-form.php:107
+msgid "All Users"
+msgstr "Tutti gli utenti"
+
+#: admin/templates/fields-builder/forms/section-form.php:54
+#: admin/templates/fields-builder/forms/field-form.php:108
+msgid "Admins"
+msgstr "Amministratore"
+
+#: admin/templates/fields-builder/forms/section-form.php:55
+#: admin/templates/fields-builder/forms/field-form.php:109
+msgid "Admins & Agents"
+msgstr "Amministratori & Agenti"
+
+#: admin/templates/fields-builder/forms/field-form.php:13
+msgid "Update field"
+msgstr "Campo di aggiornamento"
+
+#: admin/templates/fields-builder/forms/field-form.php:17
+msgid "Create field"
+msgstr "Crea campo"
+
+#: admin/templates/fields-builder/forms/field-form.php:37
+msgid "Field Name"
+msgstr "Nome campo"
+
+#: admin/templates/fields-builder/forms/field-form.php:45
+msgid "-- Choose field type --"
+msgstr "-- Scegli il tipo di campo --"
+
+#: admin/templates/fields-builder/forms/field-form.php:66
+msgid "Page Section / Admin tab"
+msgstr ""
+"Sezione Pagina / scheda Amministratore\n"
+
+#: admin/templates/fields-builder/forms/field-form.php:78
+msgid "Mandatory"
+msgstr "Obbligatorio"
+
+#: admin/templates/fields-builder/forms/field-form.php:85
+msgid "Search Support"
+msgstr "Supporto di ricerca"
+
+#: admin/templates/fields-builder/forms/field-form.php:92
+msgid "CSV Import support"
+msgstr "Supporto all'importazione CSV"
+
+#: admin/templates/fields-builder/forms/field-form.php:99
+msgid "RETS Support"
+msgstr "RETS Supporto"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:4
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:3
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:3
+msgid "General settings"
+msgstr "Impostazioni generali"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:12
+msgid "Choose the layout for listings."
+msgstr "Scegli il layout per gli elenchi."
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:24
+msgid "Properties Per Page"
+msgstr "Proprietà per pagina"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:31
+msgid "Sort By"
+msgstr "Ordina per"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:34
+msgid "Select Sort"
+msgstr "Seleziona Ordina"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:76
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:38
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:38
+msgid "Rent Period"
+msgstr "Periodo di Affitto"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:105
+msgid "Show Properties"
+msgstr "Mostra proprietà"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:108
+#: admin/templates/shortcode-builder/params/es_single-params.php:10
+msgid "Type Property ID or Title"
+msgstr "Digitare l'ID di proprietà o il titolo"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:118
+msgid "Use this field to show listings of specific agent(s)."
+msgstr "Utilizzare questo campo per mostrare gli elenchi di agenti specifici."
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:135
+msgid "Show Filter"
+msgstr "Mostra filtro"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:145
+msgid "Address settings"
+msgstr "Impostazioni dell'indirizzo"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:151
+msgid "Address String"
+msgstr "Stringa di indirizzo"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:166
+msgid "Select Country"
+msgstr "Seleziona il paese"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:181
+msgid "Select State"
+msgstr "Seleziona stato"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:196
+msgid "Select City"
+msgstr "Seleziona città"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:210
+msgid "Specific Features"
+msgstr "Caratteristiche specifiche"
+
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:66
+msgid "Map settings"
+msgstr "Impostazioni della mappa"
+
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:69
+#, php-format
+msgid "You can setup map icons and color, enable clusters %s."
+msgstr "Puoi impostare icone e colori della mappa, abilitare i cluster% s."
+
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:87
+msgid "CSS Classes"
+msgstr "Classi CSS"
+
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:103
+#: admin/templates/shortcode-builder/params/es_search_map-params.php:10
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:116
+msgid "Show All Properties"
+msgstr "Mostra tutte le proprietà"
+
+#: admin/templates/shortcode-builder/params/es_listing_agent-params.php:4
+msgid "Agent Name"
+msgstr "Nome agente"
+
+#: admin/templates/shortcode-builder/params/es_single-params.php:5
+msgid "Show Property"
+msgstr "Mostra proprietà"
+
+#: admin/templates/shortcode-builder/params/es_single-params.php:6
+msgid "Please start typing the listing TITLE and select the correct one below."
+msgstr "Inizia a digitare il titolo TITLE e seleziona quello corretto sotto."
+
+#: admin/templates/shortcode-builder/params/es_search-params.php:8
+msgid "Choose the layout for listings on Search results page."
+msgstr ""
+"Scegli il layout per gli elenchi nella pagina dei risultati di ricerca."
+
+#: admin/templates/shortcode-builder/params/es_search_map-params.php:19
+msgid "Search Form Settings"
+msgstr "Impostazioni modulo di ricerca"
+
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:66
+msgid "Slider settings"
+msgstr "Impostazioni del dispositivo di scorrimento"
+
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:71
+msgid "Slider effect"
+msgstr "Effetto slider"
+
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:93
+msgid "Slides To Show"
+msgstr "Diapositive da mostrare"
+
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:100
+msgid "Margin"
+msgstr "Margine"
+
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:123
+msgid "Show Arrows"
+msgstr "Mostra frecce"
+
+#: admin/templates/shortcode-builder/params/es_subscription_table-params.php:1
+#: admin/templates/shortcode-builder/params/es_subscription_paypal_response_page-params.php:1
+#, php-format
+msgid "Please make sure you have configured Subscriptions settings %s."
+msgstr "Assicurati di aver configurato le impostazioni degli abbonamenti %s."
+
+#: admin/templates/shortcode-builder/params/es_search_form-params.php:22
+msgid "Search Result Page"
+msgstr "Pagina dei risultati di ricerca"
+
+#: admin/templates/shortcode-builder/params/es_search_form-params.php:23
+msgid "Select here the correct page with shortcode [es_search]."
+msgstr "Seleziona qui la pagina corretta con shortcode [es_search]."
+
+#: admin/templates/shortcode-builder/params/es_search_form-params.php:27
+msgid "Select page"
+msgstr "Seleziona la pagina"
+
+#: admin/templates/shortcode-builder/params/es_search_form-params.php:30
+msgid "-- Current Page --"
+msgstr "-- Pagina corrente --"
+
+#: admin/templates/shortcode-builder/params/es_search_form-params.php:46
+msgid "Search Fields"
+msgstr "Campi di ricerca"
+
+#: admin/templates/shortcode-builder/params/es_search_form-params.php:69
+msgid "Enable Save Search"
+msgstr "Abilita Salva ricerca"
+
+#: admin/templates/fields-builder/partials/options/file.php:4
+msgid "Mime types"
+msgstr "MIMO tipi"
+
+#: admin/templates/fields-builder/partials/options/file.php:8
+msgid "Show as thumbnail"
+msgstr "Mostra come miniatura"
+
+#: admin/templates/fields-builder/partials/options/number.php:4
+msgid "Min"
+msgstr "Min"
+
+#: admin/templates/fields-builder/partials/options/number.php:9
+msgid "Max"
+msgstr "Max"
+
+#: admin/templates/fields-builder/partials/options/number.php:14
+msgid "Step"
+msgstr "Passo"
+
+#: admin/templates/fields-builder/partials/options/number.php:18
+#: admin/templates/fields-builder/partials/options/range.php:3
+msgid "Show search range"
+msgstr "Mostra l'intervallo di ricerca"
+
+#: admin/templates/fields-builder/partials/options/multiple.php:15
+msgid "-- Input value --"
+msgstr "-- Valore di input --"
+
+#: admin/templates/fields-builder/partials/options/multiple.php:28
+msgid "Multiple"
+msgstr "Multiplo"
+
+#: admin/templates/fields-builder/partials/options/range.php:9
+msgid "Field range mode"
+msgstr "Modalità campo"
+
+#. Name of the plugin
+msgid "Estatik Premium"
+msgstr "Estatik Premium"
+
+#. Description of the plugin
+msgid "An advanced-featured Wordpress real estate plugin from Estatik."
+msgstr ""
+"Un plug-in immobiliare Wordpress dalle funzionalità avanzate di Estatik."
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://estatik.net"
+msgstr "http://estatik.net"

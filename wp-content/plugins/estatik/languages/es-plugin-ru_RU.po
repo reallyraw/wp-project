@@ -1,0 +1,5118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Estatik\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-01 12:43+0000\n"
+"PO-Revision-Date: 2019-08-08 09:47+0000\n"
+"Last-Translator: estatik4wp@gmail.com <estatik4wp@gmail.com>\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: ru_RU\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Loco-Target-Locale: ru_RU\n"
+"X-Poedit-SearchPath-0: estatik\n"
+"X-Loco-Version: 2.3.0; wp-4.9.10"
+
+#: functions.php:219
+msgid "Ver"
+msgstr "Версия"
+
+#: functions.php:305
+#, php-format
+msgid "%g bath"
+msgstr "%g ванна"
+
+#: functions.php:305
+#, php-format
+msgid "%g baths"
+msgstr "%g ванны"
+
+#: functions.php:339
+#, php-format
+msgid "%g bed"
+msgstr "%g кровать"
+
+#: functions.php:339
+#, php-format
+msgid "%g beds"
+msgstr "%g кроватей"
+
+#: functions.php:440 classes/class-property.php:385
+msgid "Call for price"
+msgstr "Позвоните, чтобы уточнить цену"
+
+#: functions.php:758
+#: subscriptions/classes/pages/class-subscription-list-page.php:103
+msgid "Featured"
+msgstr "Популярно"
+
+#: functions.php:759
+msgid "Hot"
+msgstr "Хит продаж"
+
+#: functions.php:760 rets/functions.php:503
+msgid "Open House"
+msgstr "Открытый дом"
+
+#: functions.php:761
+msgid "Foreclosure"
+msgstr "Продается"
+
+#: functions.php:1654 functions.php:1657
+msgid "Edit property"
+msgstr "Изменить объект"
+
+#: functions.php:1739
+msgid "Item didn't added to the wishlist"
+msgstr "Предмет не добавлен в список желаний"
+
+#: functions.php:1742
+msgid "Incorrect wishlist action."
+msgstr "Неверное действие списка желаний."
+
+#: functions.php:1745
+msgid "Incorrect property type."
+msgstr "Неверный тип объекта."
+
+#: functions.php:1748
+msgid "Incorrect property."
+msgstr "Неверный объект."
+
+#: functions.php:1751 classes/class-saved-search-component.php:93
+msgid "Invalid security nonce. Please, refresh the page."
+msgstr ""
+"Недопустимый одноразовый номер безопасности. Пожалуйста, обновите страницу."
+
+#: functions.php:1917
+msgid "New listings matching your saved search"
+msgstr ""
+"Новые списки, соответствующие вашему сохраненному поиску\n"
+
+#: functions.php:1937
+msgid "Daily"
+msgstr ""
+"Ежедневно\n"
+
+#: functions.php:1944
+msgid "Weekly"
+msgstr ""
+"Еженедельно\n"
+
+#: functions.php:1951
+msgid "Monthly"
+msgstr ""
+"Ежемесячно\n"
+
+#: functions.php:2006 functions.php:2007
+msgid "Estatik Shortcode Builder"
+msgstr "Estatik Shortcode Builder"
+
+#: functions.php:2210 admin/classes/pages/class-settings-page.php:92
+msgid "Disclaimer"
+msgstr "Отказ"
+
+#: functions.php:2408 admin/templates/settings/sharing-tab.php:13
+msgid "Facebook"
+msgstr "Facebook"
+
+#: functions.php:2412 admin/templates/settings/sharing-tab.php:7
+msgid "Twitter"
+msgstr "Twitter"
+
+#: functions.php:2416
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: functions.php:2420
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: functions.php:2424
+msgid "Linkedin"
+msgstr ""
+"Linkedin\n"
+
+#: functions.php:2428
+msgid "Youtube"
+msgstr "Youtube"
+
+#: templates/search.php:3
+msgid "Search properties"
+msgstr "Поиск недвижимости"
+
+#: templates/content-archive.php:29
+msgid "No image"
+msgstr "Нет изображения"
+
+#: templates/content-archive.php:116
+msgid "View on map"
+msgstr "На карте"
+
+#: templates/content-archive.php:120 rets/templates/actualization-tab.php:126
+#: rets/templates/actualization-tab.php:138
+msgid "Details"
+msgstr "Детали"
+
+#: templates/archive-properties.php:15
+msgid "Properties"
+msgstr "Недвижимость"
+
+#: templates/archive-properties.php:29 rets/ajax.php:410
+#: subscriptions/classes/class-subscription-table-shortcode.php:29
+#: classes/shortcodes/class-subscription-paypal-response-page-shortcode.php:24
+msgid "Nothing to display."
+msgstr "Нечего продемонстрировать."
+
+#: templates/powered.php:6
+#, php-format
+msgid "Powered by <a href=\"%s\" target=\"_blank\">Estatik</a>"
+msgstr "Работает на <a href=\"%s\" target=\"_blank\">Estatik</a>"
+
+#: subscriptions/functions.php:16
+msgid "Week"
+msgstr ""
+"Неделя\n"
+
+#: subscriptions/functions.php:17
+msgid "Month"
+msgstr ""
+"Месяц\n"
+
+#: subscriptions/functions.php:18
+msgid "Year"
+msgstr ""
+"Год\n"
+
+#: subscriptions/functions.php:160
+msgid "PayPal Subscription"
+msgstr ""
+"Подписка PayPal\n"
+
+#: subscriptions/functions.php:489
+msgid "subscription plan"
+msgstr "План подписки"
+
+#: subscriptions/functions.php:496
+#, php-format
+msgid "Your subscription is expired, please update your %s."
+msgstr "Срок действия вашей подписки истек, обновите %s."
+
+#: subscriptions/functions.php:501
+#, php-format
+msgid ""
+"You subscription plan doesn't allow to publish more than %s listings, please "
+"update your %s or unpublish some properties."
+msgstr ""
+"Ваш план подписки не позволяет публиковать более %s списков, обновите %s или "
+"отмените публикацию некоторых свойств."
+
+#: subscriptions/functions.php:508
+#, php-format
+msgid ""
+"Your have no subscription to publish new properties, please update your %s."
+msgstr "У вас нет подписки для публикации новых свойств, обновите %s."
+
+#: rets/functions.php:44
+msgid "Each 2 min"
+msgstr ""
+"Каждые 2 мин\n"
+
+#: rets/functions.php:45
+msgid "Each 5 min"
+msgstr ""
+"Каждые 5 мин\n"
+
+#: rets/functions.php:46
+msgid "Once Weekly"
+msgstr ""
+"Один раз в неделю\n"
+
+#: rets/functions.php:47
+msgid "Once a Month"
+msgstr ""
+"Раз в месяц\n"
+
+#: rets/functions.php:500 classes/class-estatik-init.php:1321
+msgid "Property"
+msgstr "Недвижимость"
+
+#: rets/functions.php:501 classes/class-property.php:322
+#: classes/class-property.php:329 admin/classes/class-fbuilder-helper.php:393
+#: templates/shortcodes/register.php:28
+#: classes/pages/class-property-single-page.php:190
+#: classes/pages/class-property-single-page.php:428
+#: admin/templates/property/filter.php:45
+#: admin/classes/widgets/class-request-widget.php:44
+#: subscriptions/classes/pages/class-order-list-page.php:107
+msgid "Agent"
+msgstr "Агент"
+
+#: rets/functions.php:502 classes/class-estatik-init.php:1342
+msgid "Room"
+msgstr "Номер"
+
+#: rets/functions.php:504 admin/classes/class-property-metabox.php:102
+#: management/classes/shortcodes/class-prop-management-shortcode.php:209
+msgid "Media"
+msgstr "Медиафайлы"
+
+#: rets/functions.php:907
+msgid "Pages"
+msgstr "Страницы"
+
+#: rets/functions.php:910
+msgid "First"
+msgstr ""
+"Первый\n"
+
+#: rets/functions.php:915
+msgid "Prev"
+msgstr "Предыдущая"
+
+#: rets/functions.php:926
+msgid "Next"
+msgstr ""
+"Следующий\n"
+
+#: rets/functions.php:927
+msgid "Last"
+msgstr ""
+"Прошлой\n"
+
+#: rets/functions.php:1290 rets/functions.php:1305
+msgid "Display label"
+msgstr ""
+"Показать ярлык\n"
+
+#: rets/functions.php:1293 rets/functions.php:1307
+msgid "Alternative label for display on frontend"
+msgstr ""
+"Альтернативная метка для отображения на веб-интерфейсе\n"
+
+#: rets/ajax.php:96
+#, php-format
+msgid "Automatically used %s resource."
+msgstr ""
+"Автоматически используется% s ресурс.\n"
+
+#: rets/ajax.php:388
+#, php-format
+msgid ""
+"Please, set %s MLS ID field on the %s tab for <b>%s</b> resource of <b>%s</b>"
+" class."
+msgstr ""
+"Пожалуйста, установите поле %s MLS ID на вкладке %s для ресурса <b>%s</ b> "
+"класса <b>%s</ b>."
+
+#: rets/ajax.php:390 rets/ajax.php:407
+#: rets/templates/partials/property-table.php:98
+#: rets/classes/pages/class-mls-rets-page.php:91
+msgid "Manage fields"
+msgstr "Управление полями"
+
+#: rets/ajax.php:406
+#, php-format
+msgid "Please, set MLS fields on the %s tab."
+msgstr "Пожалуйста, установите поля MLS на вкладке %s."
+
+#: rets/ajax.php:438
+msgid "Start import entities."
+msgstr "Начать импорт объектов."
+
+#: rets/ajax.php:500
+msgid "Nothing to import."
+msgstr ""
+"Нечего импортировать.\n"
+
+#: rets/ajax.php:508
+msgid "Finish."
+msgstr ""
+"Конец.\n"
+
+#: rets/ajax.php:525
+msgid "Incorrect actualizer form request. Please, contact the support"
+msgstr ""
+"Неправильный запрос формы актуализатора. Пожалуйста, свяжитесь со службой "
+"поддержки"
+
+#: rets/ajax.php:580
+msgid "Delete on value"
+msgstr ""
+"Удалить по значению\n"
+
+#: rets/ajax.php:584 rets/ajax.php:642
+#, php-format
+msgid "-- Select %s value --"
+msgstr ""
+"-- Выберите значение%s --\n"
+
+#: rets/ajax.php:638
+msgid "Unpublish on value"
+msgstr "Отменить публикацию по значению"
+
+#: classes/class-settings-container.php:91
+msgid "sq ft"
+msgstr "кв. ф."
+
+#: classes/class-settings-container.php:92
+msgid "m²"
+msgstr "m²"
+
+#: classes/class-settings-container.php:93
+msgid "acres"
+msgstr "акры"
+
+#: classes/class-settings-container.php:94
+msgid "hectares"
+msgstr "га"
+
+#: classes/class-settings-container.php:95
+msgid "m³"
+msgstr "m³"
+
+#: classes/class-settings-container.php:125
+msgid "List"
+msgstr "Список"
+
+#: classes/class-settings-container.php:126
+msgid "2 Columns"
+msgstr "2 Колонки"
+
+#: classes/class-settings-container.php:127
+msgid "3 Columns"
+msgstr "3 Колонки"
+
+#: classes/class-settings-container.php:133
+msgid "Left layout"
+msgstr "Левое расположение"
+
+#: classes/class-settings-container.php:134
+msgid "Right layout"
+msgstr "Правильный макет"
+
+#: classes/class-settings-container.php:135
+msgid "Center layout"
+msgstr "Расположение центра"
+
+#: classes/class-settings-container.php:165
+msgid "After price"
+msgstr "После цены"
+
+#: classes/class-settings-container.php:166
+msgid "Before price"
+msgstr "Перед ценой"
+
+#: classes/class-settings-container.php:171 classes/class-property.php:336
+#: management/classes/class-prop-management-init.php:137
+#: rets/templates/actualization-tab.php:80
+#: rets/templates/scheduler-import-tab.php:129
+#: management/classes/table/class-post-list-table.php:59
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:34
+#: admin/templates/shortcode-builder/params/es_search_form-params.php:14
+msgid "Title"
+msgstr "Название"
+
+#: classes/class-settings-container.php:171 classes/class-property.php:516
+#: management/templates/filter.php:56
+#: management/classes/class-prop-management-init.php:139
+#: admin/classes/class-property-metabox.php:101
+#: templates/emails/saved-search.php:54
+#: management/classes/shortcodes/class-prop-management-shortcode.php:207
+#: admin/templates/property/filter.php:59
+#: admin/templates/settings/sharing-tab.php:61
+#: admin/classes/widgets/class-search-widget.php:639
+#: admin/classes/pages/class-property-list-page.php:154
+#: templates/property/pdf/footer.php:4
+msgid "Address"
+msgstr "Адрес"
+
+#: classes/class-settings-container.php:187
+msgid "Light"
+msgstr "Светлый"
+
+#: classes/class-settings-container.php:187
+msgid "Dark"
+msgstr "Темный"
+
+#: classes/class-settings-container.php:226
+msgid "Single Photo"
+msgstr "Одиночная фотография"
+
+#: classes/class-settings-container.php:227
+msgid "Photo Gallery"
+msgstr ""
+"Фотогалерея\n"
+
+#: classes/class-settings-container.php:227
+msgid ""
+"If thumb images do not look ok on PDF flyer, please re-upload them in "
+"Add/Edit single property page -> Media"
+msgstr ""
+"Если на листочке PDF изображения большого пальца не выглядят нормально, "
+"повторно загрузите их на странице «Добавить / изменить одну страницу "
+"свойств» -> «Мультимедиа»"
+
+#: classes/class-settings-container.php:234
+msgid "Disable"
+msgstr "Запрещать"
+
+#: classes/class-settings-container.php:235
+msgid "Enable"
+msgstr "Включить"
+
+#: classes/class-settings-container.php:258 classes/class-property.php:498
+msgid "Excerpt"
+msgstr ""
+"Выдержка\n"
+
+#: classes/class-settings-container.php:259 classes/class-property.php:507
+#: admin/classes/class-fbuilder-helper.php:368
+#: classes/pages/class-property-single-page.php:104
+#: classes/pages/class-property-single-page.php:410
+#: templates/shortcodes/partials/my-profile-tab.php:121
+msgid "Description"
+msgstr "Описание"
+
+#: classes/class-settings-container.php:298 classes/class-estatik-init.php:1381
+#: classes/class-estatik-init.php:1382 management/templates/filter.php:14
+#: management/classes/class-prop-management-init.php:140
+#: admin/classes/class-taxonomy.php:95 rets/templates/logger-popup.php:16
+#: admin/templates/property/filter.php:19
+#: admin/classes/pages/class-property-list-page.php:156
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:89
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:51
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:51
+msgid "Category"
+msgstr "Категория"
+
+#: classes/class-settings-container.php:299 classes/class-estatik-init.php:1391
+#: classes/class-estatik-init.php:1392 classes/class-agent.php:169
+#: management/templates/filter.php:34
+#: management/classes/class-prop-management-init.php:142
+#: admin/classes/class-taxonomy.php:96
+#: classes/pages/class-property-single-page.php:507
+#: admin/templates/property/filter.php:39
+#: admin/classes/pages/class-agent-list.php:254
+#: admin/classes/pages/class-property-list-page.php:160
+#: admin/classes/pages/class-user-list.php:285
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:47
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:9
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:9
+msgid "Status"
+msgstr "Статус"
+
+#: classes/class-settings-container.php:300 classes/class-estatik-init.php:1401
+#: classes/class-estatik-init.php:1402 management/templates/filter.php:24
+#: management/classes/class-prop-management-init.php:141
+#: admin/classes/class-taxonomy.php:97
+#: classes/pages/class-property-single-page.php:506
+#: admin/templates/property/filter.php:29
+#: admin/classes/pages/class-property-list-page.php:158
+#: admin/templates/fields-builder/forms/field-form.php:43
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:60
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:22
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:22
+msgid "Type"
+msgstr "Тип"
+
+#: classes/class-settings-container.php:301 classes/class-estatik-init.php:1461
+#: admin/classes/class-taxonomy.php:101
+#: admin/templates/settings/general-tab.php:97
+#: admin/classes/pages/class-data-manager-page.php:61
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:242
+msgid "Labels"
+msgstr "Значки"
+
+#: classes/class-settings-container.php:329
+msgid "Automatic"
+msgstr ""
+"Автоматическая\n"
+
+#: classes/class-settings-container.php:330
+msgid "Manual"
+msgstr ""
+"Руководство\n"
+
+#: classes/class-settings-container.php:414
+msgid "Required"
+msgstr "Обязательный"
+
+#: classes/class-settings-container.php:415
+msgid "Optional"
+msgstr "Необязательный"
+
+#: classes/class-html-helper.php:22
+msgid "Field type parameter can't be empty"
+msgstr "Параметр типа поля не может быть пустым"
+
+#: classes/class-html-helper.php:124
+#: admin/classes/widgets/class-search-widget.php:209
+msgid "Choose value"
+msgstr "Выберите значение"
+
+#: classes/class-html-helper.php:175
+msgid "Link name"
+msgstr "Имя ссылки"
+
+#: classes/class-html-helper.php:176
+msgid "Link URL"
+msgstr ""
+"\n"
+"8/5000\n"
+"URL ссылки"
+
+#: classes/class-html-helper.php:186
+msgid "Date From"
+msgstr ""
+"\n"
+"9/5000\n"
+"Дата, с"
+
+#: classes/class-html-helper.php:187
+msgid "Date to"
+msgstr "Дата до"
+
+#: classes/class-property.php:312 management/templates/filter.php:42
+#: admin/classes/widgets/class-request-widget.php:120
+#: admin/classes/pages/class-property-list-page.php:148
+msgid "Property ID"
+msgstr "ID недвижимости"
+
+#: classes/class-property.php:326
+msgid "-- Choose agent --"
+msgstr ""
+"-- Выберите агента --\n"
+
+#: classes/class-property.php:345 management/templates/filter.php:64
+#: management/classes/class-prop-management-init.php:138
+#: classes/pages/class-property-single-page.php:502
+#: admin/templates/property/filter.php:64
+#: admin/templates/settings/general-tab.php:103
+#: admin/classes/pages/class-property-list-page.php:152
+msgid "Date added"
+msgstr "Дата добавления"
+
+#: classes/class-property.php:350
+msgid "Post Updated"
+msgstr "Сообщение обновлено"
+
+#: classes/class-property.php:358 admin/classes/class-fbuilder-helper.php:19
+#: subscriptions/classes/class-subscription-table.php:41
+#: subscriptions/classes/class-subscription.php:76
+#: subscriptions/classes/pages/class-subscription-list-page.php:105
+#: subscriptions/classes/pages/class-order-list-page.php:58
+#: subscriptions/classes/pages/class-order-list-page.php:106
+msgid "Price"
+msgstr "Цена"
+
+#: classes/class-property.php:371
+msgid "Is Open House"
+msgstr ""
+"День открытых дверей\n"
+
+#: classes/class-property.php:378
+msgid "Price note"
+msgstr "Ценовое примечание"
+
+#: classes/class-property.php:395 templates/emails/saved-search.php:60
+#: classes/pages/class-property-single-page.php:508
+msgid "Bedrooms"
+msgstr "Спальни"
+
+#: classes/class-property.php:405 templates/emails/saved-search.php:63
+#: classes/pages/class-property-single-page.php:509
+msgid "Bathrooms"
+msgstr "Ванные комнаты"
+
+#: classes/class-property.php:416
+#: classes/pages/class-property-single-page.php:510
+msgid "Floors"
+msgstr "Этажи"
+
+#: classes/class-property.php:426 admin/classes/class-fbuilder-helper.php:20
+#: templates/partials/map-property-overlay.php:52
+#: templates/emails/saved-search.php:71
+msgid "Area"
+msgstr "Площадь"
+
+#: classes/class-property.php:453
+#: classes/pages/class-property-single-page.php:504
+msgid "Lot size"
+msgstr "Весь участок"
+
+#: classes/class-property.php:481
+#: classes/pages/class-property-single-page.php:511
+msgid "Year built"
+msgstr "Год постройки"
+
+#: classes/class-property.php:489 admin/templates/property/filter.php:54
+msgid "MLS #"
+msgstr "MLS #"
+
+#: classes/class-property.php:518
+msgid "Address, City, ZIP"
+msgstr "Адрес, город, индекс"
+
+#: classes/class-property.php:526
+msgid "Update Photo Date \\ Timestamp"
+msgstr "Обновить  дату фото \\ Метка времени"
+
+#: classes/class-property.php:531
+msgid "Keywords"
+msgstr ""
+"Ключевые слова\n"
+
+#: classes/class-property.php:538
+msgid "Latitude"
+msgstr "Широта"
+
+#: classes/class-property.php:552
+msgid "Longitude"
+msgstr "Долгота"
+
+#: classes/class-property.php:570
+msgid "Images"
+msgstr "Изображений"
+
+#: classes/class-property.php:580 classes/class-address-components.php:46
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:163
+msgid "Country"
+msgstr "Страна"
+
+#: classes/class-property.php:586 classes/class-property.php:599
+#: classes/class-property.php:612 classes/class-estatik-init.php:951
+msgid "Select location"
+msgstr "Выберите место"
+
+#: classes/class-property.php:593 classes/class-address-components.php:44
+#: classes/class-address-components.php:45
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:178
+msgid "State"
+msgstr "Область"
+
+#: classes/class-property.php:606 classes/class-address-components.php:42
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:193
+msgid "City"
+msgstr "Город"
+
+#: classes/class-property.php:619
+msgid "Postcode"
+msgstr "Почтовый индекс"
+
+#: classes/class-property.php:626 classes/class-property.php:627
+#: classes/class-address-components.php:41
+#: admin/classes/class-fbuilder-helper.php:374
+#: classes/pages/class-property-single-page.php:368
+#: classes/pages/class-property-single-page.php:416
+msgid "Neighborhood"
+msgstr "Район / Местность"
+
+#: classes/class-property.php:638 classes/class-property.php:639
+#: classes/class-address-components.php:40
+msgid "Street"
+msgstr "Улица"
+
+#: classes/class-property.php:652
+msgid "Property MLS ID"
+msgstr "Недвижимость MLS ID"
+
+#: classes/class-property.php:657 classes/class-room.php:93
+#: classes/class-agent.php:197
+msgid "RETS Class"
+msgstr "RETS Класс"
+
+#: classes/class-property.php:663 classes/class-room.php:103
+#: classes/class-agent.php:202
+msgid "RETS Resource"
+msgstr "RETS Ресурс"
+
+#: classes/class-property.php:669 classes/class-agent.php:179
+msgid "Agent MLS ID"
+msgstr ""
+"MLS ID агента\n"
+
+#: classes/class-property.php:675 classes/class-agent.php:192
+msgid "MLS Update date"
+msgstr "Дата обновления MLS"
+
+#: classes/class-property.php:708 classes/class-room.php:46
+#, php-format
+msgid "-- Choose %s --"
+msgstr "-- Выберите %s --"
+
+#: classes/class-property.php:773 classes/class-agent.php:184
+msgid "New field"
+msgstr ""
+"Новое поле\n"
+
+#: classes/class-address-components.php:38
+msgid "St. №"
+msgstr "St. №"
+
+#: classes/class-address-components.php:39
+msgid "District"
+msgstr "Район"
+
+#: classes/class-address-components.php:43
+msgid "County"
+msgstr "Округ"
+
+#: classes/class-address-components.php:47
+msgid "Postal code"
+msgstr "Почтовый индекс"
+
+#: classes/class-address-components.php:50
+msgid "Unknown"
+msgstr "Неизвестный"
+
+#: classes/class-estatik-init.php:463
+msgid "Estatik Agent"
+msgstr "Агент по недвижимости"
+
+#: classes/class-estatik-init.php:477
+msgid "Estatik Buyer"
+msgstr "Покупатель Estatik "
+
+#: classes/class-estatik-init.php:939
+msgid "Something was wrong. Please, contact the support."
+msgstr "Что-то пошло не так. Пожалуйста, обратитесь в службу поддержки."
+
+#: classes/class-estatik-init.php:940
+msgid "Remove image"
+msgstr "Удалить изображение"
+
+#: classes/class-estatik-init.php:941
+#: management/classes/class-prop-management-init.php:199
+msgid "Remove"
+msgstr "Удалить"
+
+#: classes/class-estatik-init.php:942
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:40
+msgid "Yes"
+msgstr "Да"
+
+#: classes/class-estatik-init.php:943
+msgid "Generating"
+msgstr "Генерирование"
+
+#: classes/class-estatik-init.php:944
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:43
+msgid "No"
+msgstr "Нет"
+
+#: classes/class-estatik-init.php:945
+msgid "Loading filter fields"
+msgstr ""
+"Загрузка полей фильтра\n"
+
+#: classes/class-estatik-init.php:946
+msgid "Saved"
+msgstr "Сохраненный"
+
+#: classes/class-estatik-init.php:947
+msgid "Loading Shortcode Attributes..."
+msgstr "Загрузка атрибутов шорткода ..."
+
+#: classes/class-estatik-init.php:948
+msgid "Saving"
+msgstr "Сберегающий"
+
+#: classes/class-estatik-init.php:949
+msgid "Error"
+msgstr "Ошибка"
+
+#: classes/class-estatik-init.php:950
+msgid "Ok"
+msgstr "OK"
+
+#: classes/class-estatik-init.php:952
+msgid "Sort by"
+msgstr "Сортировать по"
+
+#: classes/class-estatik-init.php:953
+msgid "Enable if you need to use multiselect feature for this drop-down field."
+msgstr ""
+"Включите, если вам нужно использовать функцию множественного выбора для "
+"этого выпадающего поля."
+
+#: classes/class-estatik-init.php:954
+msgid "Are you sure you want to delete this item?"
+msgstr "Вы уверены, что хотите удалить этот элемент?"
+
+#: classes/class-estatik-init.php:955
+#, php-format
+msgid "The RETS integration feature <br>is available in %s version."
+msgstr ""
+"Функция интеграции RETS доступна в версии% s.\n"
+
+#: classes/class-estatik-init.php:956
+msgid "Premium"
+msgstr "Premium"
+
+#: classes/class-estatik-init.php:957
+#: admin/classes/pages/class-settings-page.php:87
+msgid "Color"
+msgstr "Цвет"
+
+#: classes/class-estatik-init.php:958
+msgid "If zoom field is empty then google map calculate zoom automatically."
+msgstr "Если поле зума пусто, то Google Map автоматически рассчитает масштаб."
+
+#: classes/class-estatik-init.php:959
+msgid "Icons"
+msgstr "Иконки"
+
+#: classes/class-estatik-init.php:960
+msgid "Replace photo"
+msgstr "Заменить фото"
+
+#: classes/class-estatik-init.php:961
+msgid "Select one or more entities for import."
+msgstr "Выберите один или несколько объектов для импорта."
+
+#: classes/class-estatik-init.php:962
+msgid ""
+"Select how often cron will send requests to MLS server. We would recommend "
+"Each 2 min."
+msgstr ""
+"Выберите, как часто cron будет отправлять запросы на сервер MLS. Мы бы "
+"рекомендовали каждые 2 мин."
+
+#: classes/class-estatik-init.php:963
+msgid ""
+"How many listings it will pull during 1 server connection. 5 is recommended."
+msgstr ""
+"Сколько списков он потянет за 1 соединение с сервером. 5 рекомендуется."
+
+#: classes/class-estatik-init.php:964
+msgid ""
+"Means that import will never stop working and constantly will be checking "
+"and importing newly added MLS listings."
+msgstr ""
+"Означает, что импорт никогда не перестанет работать и будет постоянно "
+"проверять и импортировать новые добавленные списки MLS."
+
+#: classes/class-estatik-init.php:965
+msgid "Loading"
+msgstr ""
+"Загрузка\n"
+
+#: classes/class-estatik-init.php:966
+msgid "Hold down Ctrl key to drag multiple fields at once."
+msgstr ""
+"Удерживайте клавишу Ctrl, чтобы перетащить несколько полей одновременно."
+
+#: classes/class-estatik-init.php:967
+msgid "Copied"
+msgstr "Скопированный"
+
+#: classes/class-estatik-init.php:1037
+msgid ""
+"Your account is not approved, please contact admin of this website to get "
+"approved."
+msgstr ""
+"Ваш аккаунт не одобрен, пожалуйста, свяжитесь с администратором этого сайта, "
+"чтобы получить одобрение."
+
+#: classes/class-estatik-init.php:1063 classes/class-manage-users.php:173
+msgid "Account disabled."
+msgstr "Учетная запись отключена."
+
+#. Name of the plugin
+#. Author of the plugin
+#: classes/class-estatik-init.php:1114 classes/class-estatik-init.php:1115
+#: classes/class-manage-users.php:233 classes/class-manage-users.php:246
+#: classes/class-manage-users.php:259 classes/class-manage-users.php:271
+#: admin/classes/class-shelterzoom.php:432
+#: subscriptions/classes/class-subscription-init.php:288
+#: subscriptions/classes/payments/class-paypal-subscription-payment-method.php:124
+msgid "Estatik"
+msgstr "Estatik"
+
+#: classes/class-estatik-init.php:1127 classes/class-estatik-init.php:1128
+#: admin/templates/dashboard/dashboard.php:4
+msgid "Dashboard"
+msgstr "Панель управления"
+
+#: classes/class-estatik-init.php:1137 classes/class-estatik-init.php:1138
+#: classes/shortcodes/class-my-listing-shortcode.php:21
+#: admin/templates/dashboard/dashboard.php:14
+#: admin/templates/property/list.php:11
+msgid "My listings"
+msgstr "Мои объявления"
+
+#: classes/class-estatik-init.php:1145 classes/class-estatik-init.php:1146
+msgid "Add new property"
+msgstr "Добавить объект"
+
+#: classes/class-estatik-init.php:1153 classes/class-estatik-init.php:1154
+msgid "Data Manager"
+msgstr "Менеджер данных"
+
+#: classes/class-estatik-init.php:1163 classes/class-estatik-init.php:1164
+msgid "Buyers"
+msgstr "Покупатели"
+
+#: classes/class-estatik-init.php:1170 classes/class-estatik-init.php:1171
+msgid "Add New Buyer"
+msgstr "Добавить нового покупателя"
+
+#: classes/class-estatik-init.php:1180 classes/class-estatik-init.php:1181
+#: classes/shortcodes/class-agent-list-shortcode.php:12
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:117
+msgid "Agents"
+msgstr ""
+"Агенты\n"
+
+#: classes/class-estatik-init.php:1187 classes/class-estatik-init.php:1188
+msgid "Add New Agent"
+msgstr ""
+"Добавить нового агента\n"
+
+#: classes/class-estatik-init.php:1196 classes/class-estatik-init.php:1197
+msgid "CSV Import"
+msgstr ""
+"CSV Import\n"
+
+#: classes/class-estatik-init.php:1206 classes/class-estatik-init.php:1207
+#: subscriptions/classes/class-subscription-init.php:456
+#: subscriptions/classes/class-subscription-init.php:471
+msgid "Subscriptions"
+msgstr "Подписки"
+
+#: classes/class-estatik-init.php:1214 classes/class-estatik-init.php:1215
+msgid "Add subscription"
+msgstr ""
+"Добавить подписку\n"
+
+#: classes/class-estatik-init.php:1222 classes/class-estatik-init.php:1223
+#: subscriptions/classes/class-subscription-init.php:486
+msgid "Orders"
+msgstr "Заказы"
+
+#: classes/class-estatik-init.php:1231 classes/class-estatik-init.php:1232
+#: admin/templates/fields-builder/main.php:13
+msgid "Fields builder"
+msgstr "Конфигуратор полей"
+
+#: classes/class-estatik-init.php:1240 classes/class-estatik-init.php:1241
+#: admin/templates/dashboard/dashboard.php:38
+#: admin/templates/settings/settings.php:6
+msgid "Settings"
+msgstr "Настройки"
+
+#: classes/class-estatik-init.php:1250 classes/class-estatik-init.php:1251
+msgid "Demo content"
+msgstr "Демо контент"
+
+#: classes/class-estatik-init.php:1261 classes/class-estatik-init.php:1262
+#: admin/templates/migration/migration.php:5
+msgid "Migration"
+msgstr "Перемещение"
+
+#: classes/class-estatik-init.php:1344
+#: classes/pages/class-property-single-page.php:144
+msgid "Rooms"
+msgstr "Номера"
+
+#: classes/class-estatik-init.php:1355 classes/class-estatik-init.php:1357
+msgid "Saved Search"
+msgstr "Сохраненный поиск"
+
+#: classes/class-estatik-init.php:1411 classes/class-estatik-init.php:1412
+msgid "Room Type"
+msgstr "Тип комнаты"
+
+#: classes/class-estatik-init.php:1421
+msgid "Room Features"
+msgstr "Особенности комнаты"
+
+#: classes/class-estatik-init.php:1422
+msgid "Room Feature"
+msgstr "Особенность комнаты"
+
+#: classes/class-estatik-init.php:1431 classes/class-room.php:25
+#: admin/classes/class-taxonomy.php:98
+#: admin/classes/class-fbuilder-helper.php:380
+#: classes/pages/class-property-single-page.php:215
+#: classes/pages/class-property-single-page.php:369
+#: classes/pages/class-property-single-page.php:434
+#: classes/pages/class-property-single-page.php:461
+#: management/classes/shortcodes/class-prop-management-shortcode.php:208
+#: admin/classes/pages/class-data-manager-page.php:57
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:216
+msgid "Features"
+msgstr "Характеристики"
+
+#: classes/class-estatik-init.php:1432
+msgid "Feature"
+msgstr "Особенность"
+
+#: classes/class-estatik-init.php:1441 classes/class-estatik-init.php:1442
+#: admin/classes/class-taxonomy.php:99
+#: classes/pages/class-property-single-page.php:505
+msgid "Rent period"
+msgstr "Срок аренды"
+
+#: classes/class-estatik-init.php:1451 classes/class-estatik-init.php:1452
+#: admin/classes/class-taxonomy.php:100
+#: classes/pages/class-property-single-page.php:465
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:229
+msgid "Amenities"
+msgstr "Удобства"
+
+#: classes/class-estatik-init.php:1462
+msgid "Label"
+msgstr "Значок"
+
+#: classes/class-room.php:18
+msgid "Types"
+msgstr ""
+"Типы\n"
+
+#: classes/class-room.php:64 admin/classes/pages/class-data-manager-page.php:69
+msgid "Dimensions"
+msgstr "Размеры"
+
+#: classes/class-room.php:69
+#: admin/templates/widgets/es-property-map-form.php:66
+#: admin/templates/settings/map-tab.php:61
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:73
+msgid "Width"
+msgstr ""
+"Ширина\n"
+
+#: classes/class-room.php:74
+msgid "Level"
+msgstr ""
+"Уровень\n"
+
+#: classes/class-room.php:79
+msgid "Length"
+msgstr ""
+"Длина\n"
+
+#: classes/class-room.php:87
+msgid "Property identifier"
+msgstr "Идентификатор недвижимости"
+
+#: classes/class-room.php:98
+msgid "Room MLS ID"
+msgstr "Номер MLS ID"
+
+#: classes/class-user.php:27 templates/shortcodes/register.php:37
+#: subscriptions/classes/class-subscription-table.php:36
+#: admin/templates/agents/profile.php:32 admin/templates/buyers/profile.php:29
+#: admin/classes/widgets/class-request-widget.php:117
+#: templates/shortcodes/partials/my-profile-tab.php:39
+#: subscriptions/classes/pages/class-subscription-list-page.php:97
+#: subscriptions/classes/pages/class-order-list-page.php:103
+msgid "Name"
+msgstr "Имя"
+
+#: classes/class-user.php:31
+msgid "Profile Image"
+msgstr "Изображение профиля"
+
+#: classes/class-user.php:36 admin/classes/class-fbuilder-helper.php:27
+#: templates/shortcodes/register.php:73
+msgid "Tel"
+msgstr "Тел.:"
+
+#: classes/class-user.php:182 classes/class-agent.php:397
+msgid "Email or username is empty."
+msgstr "Адрес электронной почты или имя пользователя пусто."
+
+#: classes/class-saved-search-component.php:85
+#: classes/class-saved-search-component.php:89
+msgid "Choose search fields"
+msgstr "Выберите поля поиска"
+
+#: classes/class-saved-search-component.php:115
+#: classes/class-saved-search-component.php:142
+msgid "Incorrect security nonce, please refresh the page."
+msgstr ""
+"Некорректный одноразовый номер безопасности, пожалуйста, обновите страницу."
+
+#: classes/class-saved-search-component.php:127
+msgid "The update method successfully changed."
+msgstr "Метод обновления успешно изменен."
+
+#: classes/class-saved-search-component.php:129
+msgid "Incorrect update method"
+msgstr "Неверный метод обновления"
+
+#: classes/class-saved-search-component.php:133
+#: classes/class-saved-search-component.php:201
+msgid "Incorrect entity"
+msgstr "Неверный объект"
+
+#: classes/class-saved-search-component.php:155
+msgid "The title successfully changed."
+msgstr "Название успешно изменено."
+
+#: classes/class-saved-search-component.php:160
+msgid "Incorrect saved search entity."
+msgstr "Неверно сохранен поисковый объект."
+
+#: classes/class-saved-search-component.php:163
+msgid "The title field is required."
+msgstr "Поле заголовка обязательно для заполнения."
+
+#: classes/class-saved-search-component.php:192
+#, php-format
+msgid "The saved search %s successfully removed."
+msgstr "Сохраненный поиск %s успешно удален."
+
+#: classes/class-saved-search-component.php:198
+msgid "You have no permissions for remove this search."
+msgstr "У вас нет прав для удаления этого поиска."
+
+#: classes/class-saved-search.php:175
+msgid "Daily Update"
+msgstr "Ежедневное обновление"
+
+#: classes/class-saved-search.php:176
+msgid "Weekly Update"
+msgstr ""
+"Еженедельное обновление\n"
+
+#: classes/class-saved-search.php:177
+msgid "Monthly Update"
+msgstr ""
+"Ежемесячное обновление\n"
+
+#: classes/class-saved-search.php:178
+msgid "No Update"
+msgstr "Без обновления"
+
+#: classes/class-post-duplicate.php:33
+msgid "Property for clone doesn't exists."
+msgstr "Объект для клона не существует."
+
+#: classes/class-post-duplicate.php:51 management/templates/manage-block.php:19
+#: admin/templates/property/filter.php:96
+msgid "Copy"
+msgstr "Копировать"
+
+#: classes/class-property-pdf.php:203
+msgid "Basic Facts"
+msgstr ""
+"Основные факты\n"
+
+#: classes/class-manage-users.php:84
+#: admin/classes/pages/class-user-profile-page.php:155
+msgid "User successfully saved"
+msgstr "Пользователь успешно сохранен"
+
+#: classes/class-manage-users.php:104
+#: admin/classes/pages/class-user-profile-page.php:177
+msgid "User doesn't save"
+msgstr "Пользователь не сохранен"
+
+#: classes/class-manage-users.php:207
+msgid "Someone has requested a password reset for the following account:"
+msgstr "Кто-то запросил сброс пароля для следующей учетной записи:"
+
+#: classes/class-manage-users.php:209
+#, php-format
+msgid "Username: %s"
+msgstr "Логин: %s"
+
+#: classes/class-manage-users.php:210
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+"Если это было ошибкой, просто проигнорируйте это письмо, и ничего не "
+"произойдет."
+
+#: classes/class-manage-users.php:211
+msgid "To reset your password, visit the following address:"
+msgstr "Чтобы сбросить пароль, посетите следующий адрес:"
+
+#: classes/class-manage-users.php:235
+#, php-format
+msgid ""
+"Please, create a registration page with <b>[es_register]</b> shortcode and "
+"set it on %s page."
+msgstr ""
+"Пожалуйста, создайте страницу регистрации с <b> [es_register] </ b> "
+"шорткодом и установите ее на странице %s."
+
+#: classes/class-manage-users.php:248
+#, php-format
+msgid ""
+"Please, create a login page with <b>[es_login]</b> shortcode and set it on "
+"%s page."
+msgstr ""
+"Пожалуйста, создайте страницу входа с помощью <b> [es_login] </ b> шорткода "
+"и установите ее на странице."
+
+#: classes/class-manage-users.php:261
+#, php-format
+msgid ""
+"Please, create a password reset page with <b>[es_reset_pwd]</b> shortcode "
+"and set it on %s page."
+msgstr ""
+"Пожалуйста, создайте страницу сброса пароля с помощью <b> [es_reset_pwd] </ "
+"b> шорткода и установите его на странице %s."
+
+#: classes/class-manage-users.php:305
+msgid "Captcha validation failed."
+msgstr "Проверка капчи не удалась."
+
+#: classes/class-manage-users.php:309
+msgid "Can't connect to google services. Please, contact the support."
+msgstr ""
+"Не удается подключиться к службам Google. Пожалуйста, обратитесь в службу "
+"поддержки."
+
+#: classes/class-manage-users.php:313
+msgid "Invalid recaptcha."
+msgstr "Неверное recaptcha."
+
+#: classes/class-manage-users.php:342
+msgid ""
+"You are registered at our website. <br>Your username and password were sent "
+"to your email address."
+msgstr ""
+"Вы зарегистрированы на нашем сайте. <br> Ваше имя пользователя и пароль были "
+"отправлены на ваш адрес электронной почты."
+
+#: classes/class-manage-users.php:347
+msgid "You are not registered to our website. <br>Please, contact a support."
+msgstr ""
+"Вы не зарегистрированы на нашем сайте. <br> Пожалуйста, обратитесь в службу "
+"поддержки."
+
+#: classes/class-manage-users.php:350
+msgid "You are not registered to our website. <br>Invalid user role."
+msgstr ""
+"Вы не зарегистрированы на нашем сайте. <br> Неверная роль пользователя."
+
+#: classes/class-manage-users.php:366
+msgid "You are logged out."
+msgstr "Вы вышли из системы."
+
+#: classes/class-manage-users.php:494
+msgid "Password successfully changed."
+msgstr "Пароль успешно изменен."
+
+#: classes/class-manage-users.php:508
+msgid "New password emailed to you."
+msgstr "Новый пароль отправлен вам по электронной почте."
+
+#: classes/class-manage-users.php:541 classes/class-manage-users.php:581
+msgid "New user registered"
+msgstr "Новый пользователь зарегистрирован"
+
+#: classes/class-agent.php:131
+msgid "User login"
+msgstr "Логин пользователя"
+
+#: classes/class-agent.php:137 admin/classes/class-fbuilder-helper.php:26
+#: templates/shortcodes/register.php:55 admin/templates/agents/profile.php:44
+#: admin/templates/buyers/profile.php:43
+#: admin/classes/widgets/class-request-widget.php:118
+#: templates/property/pdf/footer.php:3
+msgid "Email"
+msgstr "Email"
+
+#: classes/class-agent.php:143
+msgid "URL"
+msgstr "URL"
+
+#: classes/class-agent.php:149
+msgid "Nickname"
+msgstr ""
+"Кличка\n"
+
+#: classes/class-agent.php:154 templates/shortcodes/register.php:64
+#: templates/property/agent.php:70 admin/templates/agents/profile.php:50
+#: admin/templates/agents/filter.php:16
+#: admin/classes/pages/class-agent-list.php:251
+#: admin/classes/pages/class-user-list.php:280
+#: templates/shortcodes/partials/my-profile-tab.php:70
+msgid "Company"
+msgstr ""
+"Компания\n"
+
+#: classes/class-agent.php:159 templates/property/agent.php:40
+#: admin/templates/agents/profile.php:110 admin/templates/agents/filter.php:25
+#: admin/classes/pages/class-agent-list.php:253
+#: admin/classes/pages/class-user-list.php:282
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: classes/class-agent.php:164 templates/shortcodes/register.php:91
+#: admin/templates/agents/profile.php:120 admin/templates/buyers/profile.php:66
+msgid "About"
+msgstr "Дополнительная инфо"
+
+#: classes/class-agent.php:173
+#: templates/shortcodes/partials/my-profile-tab.php:24
+msgid "Profile image"
+msgstr "Изображение профиля"
+
+#: classes/class-agent.php:188 admin/classes/pages/class-agent-list.php:176
+#: admin/classes/pages/class-user-list.php:190
+msgid "Disabled"
+msgstr "Отключен"
+
+#: classes/class-agent.php:250
+msgid "Bad"
+msgstr ""
+"Плохой\n"
+
+#: classes/class-agent.php:251
+msgid "Poor"
+msgstr ""
+"Бедные\n"
+
+#: classes/class-agent.php:252
+msgid "Regular"
+msgstr "Регулярное"
+
+#: classes/class-agent.php:253
+msgid "Good"
+msgstr ""
+"Хорошо\n"
+
+#: classes/class-agent.php:254
+msgid "Excellent"
+msgstr ""
+"Отлично\n"
+
+#: classes/class-archive-sorting.php:120
+msgid "Most recent"
+msgstr "Самые последние"
+
+#: classes/class-archive-sorting.php:121
+msgid "Highest price"
+msgstr "Самая высокая цена"
+
+#: classes/class-archive-sorting.php:122
+msgid "Lowest price"
+msgstr "Самая низкая цена"
+
+#: classes/class-archive-sorting.php:123
+msgid "Most popular"
+msgstr "Самые популярные"
+
+#: management/templates/manage-property.php:20
+msgid "Enter your listing details below and click 'Save' button to finish."
+msgstr ""
+"Введите данные вашего списка ниже и нажмите кнопку «Сохранить», чтобы "
+"закончить."
+
+#: management/templates/manage-property.php:23
+#: management/templates/properties.php:16
+#: admin/templates/dashboard/dashboard.php:20
+#: admin/templates/property/list.php:12
+#: admin/templates/fields-builder/forms/section-form.php:24
+#: admin/templates/fields-builder/forms/field-form.php:28
+msgid "Add new"
+msgstr "Добавить"
+
+#: management/templates/manage-property.php:24
+msgid "Save & Close"
+msgstr "Сохранить и Закрыть"
+
+#: management/templates/no_access_2.php:11
+msgid "You have no permissions for access to this page."
+msgstr "У вас нет прав доступа к этой странице."
+
+#: management/templates/manage-block.php:6 admin/templates/agents/filter.php:46
+#: admin/templates/buyers/filter.php:25 admin/templates/property/filter.php:87
+msgid "Manage"
+msgstr "Управлять"
+
+#: management/templates/manage-block.php:10
+#: admin/templates/agents/filter.php:47 admin/templates/buyers/filter.php:26
+#: admin/templates/property/filter.php:90
+msgid "Select / deselect all"
+msgstr "Выбрать все / отменить выбор всех"
+
+#: management/templates/manage-block.php:14
+#: admin/templates/property/filter.php:93
+msgid "Please select properties you want to copy."
+msgstr "Пожалуйста, выберите объекты, которые вы хотите скопировать."
+
+#: management/templates/manage-block.php:15
+#: admin/templates/property/filter.php:94
+msgid "Are you sure you want to copy these items?"
+msgstr "Вы уверены, что хотите скопировать эти объекты?"
+
+#: management/templates/manage-block.php:24
+#: admin/templates/property/filter.php:99
+msgid "Please select properties you want to delete."
+msgstr "Пожалуйста, выберите объекты, которые вы хотите удалить."
+
+#: management/templates/manage-block.php:25
+#: admin/templates/agents/filter.php:48 admin/templates/buyers/filter.php:27
+#: admin/templates/property/filter.php:100
+msgid "Are you sure you want to delete these items?"
+msgstr "Вы уверены, что хотите удалить эти объекты?"
+
+#: management/templates/manage-block.php:28
+#: rets/templates/actualization-tab.php:147
+#: rets/templates/scheduler-import-tab.php:166
+#: admin/templates/agents/filter.php:48 admin/templates/buyers/filter.php:27
+#: admin/templates/property/filter.php:102
+#: rets/templates/partials/credentials-list.php:33
+msgid "Delete"
+msgstr "Удалить"
+
+#: management/templates/manage-block.php:33
+#: admin/templates/property/filter.php:105
+msgid "Please select properties you want to publish."
+msgstr "Пожалуйста, выберите объекты, которые вы хотите опубликовать."
+
+#: management/templates/manage-block.php:34
+#: admin/templates/property/filter.php:106
+msgid "Are you sure you want to publish these items?"
+msgstr "Вы уверены, что хотите опубликовать эти материалы?"
+
+#: management/templates/manage-block.php:36
+#: admin/templates/property/filter.php:108
+msgid "Publish"
+msgstr "Опубликовать"
+
+#: management/templates/manage-block.php:40
+#: admin/templates/property/filter.php:111
+msgid "Please select properties you want to unpublish."
+msgstr "Пожалуйста, выберите объекты, которые вы хотите снять с публикации."
+
+#: management/templates/manage-block.php:41
+#: admin/templates/property/filter.php:112
+msgid "Are you sure you want to unpublish these items?"
+msgstr "Вы уверены, что хотите отменить публикацию этих пунктов?"
+
+#: management/templates/manage-block.php:43
+#: admin/templates/property/filter.php:114
+msgid "Unpublish"
+msgstr "Отменить публикацию"
+
+#: management/templates/table.php:36 templates/shortcodes/my-listing.php:32
+#: classes/shortcodes/class-property-map-shortcode.php:162
+#: templates/shortcodes/partials/saved-homes-tab.php:33
+msgid "Nothing to display"
+msgstr "Нечего продемонстрировать"
+
+#: management/templates/no_access.php:12
+#, php-format
+msgid "You are not Agent. Please %s as Agent to submit your properties."
+msgstr ""
+"Вы не агент. Пожалуйста, %s в качестве агента, чтобы отправить ваши свойства."
+"\n"
+
+#: management/templates/no_access.php:13 templates/shortcodes/register.php:13
+#: templates/shortcodes/register.php:135
+msgid "Register"
+msgstr "Зарегистрироваться"
+
+#: management/templates/no_access.php:14 management/templates/no_access.php:15
+#: admin/templates/settings/shelter-zoom-tab.php:30
+msgid "Login"
+msgstr "Авторизоваться"
+
+#: management/templates/filter.php:5 admin/templates/agents/filter.php:11
+#: admin/templates/property/filter.php:10
+msgid "Filter by"
+msgstr "Сортировать по"
+
+#: management/templates/filter.php:69
+#: admin/templates/data-manager/address-item.php:8
+#: admin/templates/agents/filter.php:41 admin/templates/buyers/filter.php:20
+#: admin/templates/widgets/es-search-widget.php:58
+#: admin/templates/property/filter.php:80
+msgid "Search"
+msgstr "Поиск"
+
+#: management/templates/filter.php:71 rets/templates/actualization-tab.php:127
+#: rets/templates/actualization-tab.php:139
+#: admin/templates/agents/filter.php:42 admin/templates/buyers/filter.php:21
+#: admin/templates/widgets/es-search-widget.php:55
+#: admin/templates/property/filter.php:81
+msgid "Reset"
+msgstr "Сбросить"
+
+#: management/templates/404.php:2
+msgid "The page you requested could not be found."
+msgstr "Страница, которую вы ищете, не найдена."
+
+#: management/classes/class-prop-management-init.php:135
+#: management/classes/table/class-post-list-table.php:58
+#: admin/classes/pages/class-user-list.php:277
+msgid "ID"
+msgstr "ID"
+
+#: management/classes/class-prop-management-init.php:136
+#: admin/classes/pages/class-property-list-page.php:150
+msgid "Image"
+msgstr "Изображение"
+
+#: management/classes/class-prop-management-init.php:194
+#: rets/templates/actualization-tab.php:144
+#: rets/templates/scheduler-import-tab.php:163
+msgid "Edit"
+msgstr "Редактировать"
+
+#: management/classes/class-prop-management-init.php:268
+#, php-format
+msgid "Property %s is successfully created."
+msgstr "Свойство% s успешно создано."
+
+#: management/classes/class-prop-management-init.php:270
+#, php-format
+msgid "Property %s is successfully created. Please, wait for approve."
+msgstr "Свойство %s успешно создано. Пожалуйста, дождитесь подтверждения."
+
+#: management/classes/class-prop-management-init.php:306
+#, php-format
+msgid "Post %s successfully copied."
+msgstr ""
+"Пост %s успешно скопирован.\n"
+
+#: management/classes/class-prop-management-init.php:323
+#, php-format
+msgid "The property #%s successfully removed."
+msgstr "Свойство #%s успешно удалено."
+
+#: management/classes/class-prop-management-init.php:336
+#, php-format
+msgid "The property #%s successfully published."
+msgstr "Свойство #%s успешно опубликовано."
+
+#: management/classes/class-prop-management-init.php:341
+msgid "You have no permission to publish properties."
+msgstr "У вас нет разрешения на публикацию свойств."
+
+#: management/classes/class-prop-management-init.php:351
+#, php-format
+msgid "The property #%s successfully unpublished."
+msgstr ""
+"Свойство #%s успешно не опубликовано.\n"
+
+#: admin/classes/class-estatik-upgrade.php:24
+msgid "Messenger can't to be empty."
+msgstr "Сообщение не может быть пустым."
+
+#: admin/classes/class-estatik-upgrade.php:28
+msgid "File can't to be empty."
+msgstr "Файл не может быть пустым."
+
+#: admin/classes/class-estatik-upgrade.php:44
+msgid ""
+"Please, install zip extension for PHP. http://php.net/manual/ru/book.zip.php"
+msgstr ""
+"Пожалуйста, установите расширение zip для PHP. http://php.net/manual/ru/book."
+"zip.php"
+
+#: admin/classes/class-estatik-upgrade.php:60
+msgid ""
+"Invalid array structure. The Archive should not consist plugin sub folder in "
+"archive."
+msgstr ""
+"Неверная структура массива. Архив не должен содержать подпапку плагина в "
+"архиве."
+
+#: admin/classes/class-estatik-upgrade.php:68
+msgid "Estatik successfully upgraded!"
+msgstr "Estatik успешно обновлен!"
+
+#: admin/classes/class-demo-setup.php:101
+msgid "Start setup data."
+msgstr "Начните настройку данных."
+
+#: admin/classes/class-demo-setup.php:138
+#, php-format
+msgid "Created %s page."
+msgstr "Создана страница %s."
+
+#: admin/classes/class-demo-setup.php:220
+#, php-format
+msgid "Property %s successfully imported."
+msgstr "Объект %s успешно импортирован."
+
+#: admin/classes/class-demo-setup.php:228
+#: admin/classes/class-demo-setup.php:243
+msgid "Setup finished."
+msgstr "Настройка завершена."
+
+#: admin/classes/class-demo-setup.php:626
+msgid "List layout"
+msgstr "Список"
+
+#: admin/classes/class-demo-setup.php:631
+msgid "Log In"
+msgstr "Авторизоваться"
+
+#: admin/classes/class-demo-setup.php:636
+msgid "Grid layout"
+msgstr "Макет сетки"
+
+#: admin/classes/class-demo-setup.php:641
+msgid "Reset password"
+msgstr "Сброс пароля"
+
+#: admin/classes/class-demo-setup.php:646
+msgid "Advanced Search & Slideshow"
+msgstr "Расширенный поиск и слайд-шоу"
+
+#: admin/classes/class-demo-setup.php:653
+msgid "Front-end management"
+msgstr "Управление интерфейсом"
+
+#: admin/classes/class-demo-setup.php:658
+#: classes/shortcodes/class-profile-shortcode.php:140
+msgid "My Profile"
+msgstr "Мой профиль"
+
+#: admin/classes/class-demo-setup.php:663
+msgid "Agents list"
+msgstr "Список агентов"
+
+#: admin/classes/class-demo-setup.php:668
+msgid "Registration"
+msgstr ""
+"Регистрация\n"
+
+#: admin/classes/class-demo-setup.php:673
+#: classes/shortcodes/class-property-map-shortcode.php:12
+#: admin/classes/pages/class-settings-page.php:74
+msgid "Map view"
+msgstr "Настройки карты"
+
+#: admin/classes/class-demo-setup.php:678
+msgid "Search Results"
+msgstr "Результаты Поиска"
+
+#: admin/classes/class-data-manager-currency-item.php:31
+msgid "Currency already exists."
+msgstr "Валюта уже существует."
+
+#: admin/classes/class-data-manager-currency-item.php:51
+#: admin/classes/class-data-manager-term-item.php:72
+#: admin/classes/class-data-manager-label-item.php:39
+#: admin/classes/class-data-manager-item.php:127
+msgid "Item is successfully created."
+msgstr "Предмет успешно создан."
+
+#: admin/classes/class-data-manager-currency-item.php:56
+msgid "Please, fill the currency code and label."
+msgstr "Пожалуйста, заполните код валюты и значок."
+
+#: admin/classes/class-data-manager-currency-item.php:59
+#: admin/classes/class-data-manager-term-item.php:84
+#: admin/classes/class-data-manager-term-item.php:123
+#: admin/classes/class-data-manager-address-item.php:59
+#: admin/classes/class-data-manager-label-item.php:55
+#: admin/classes/class-data-manager-item.php:133
+#: admin/classes/class-data-manager-item.php:163
+#: admin/classes/class-data-manager-item.php:186
+msgid "Invalid ajax request."
+msgstr "Неверный запрос ajax."
+
+#: admin/classes/class-data-manager-term-item.php:80
+#: admin/classes/class-data-manager-label-item.php:51
+msgid "Item doesn't create. Please contact support."
+msgstr "Предмет не создается. Пожалуйста, свяжитесь со службой поддержки."
+
+#: admin/classes/class-data-manager-term-item.php:108
+#: admin/classes/class-data-manager-address-item.php:57
+#: admin/classes/class-data-manager-item.php:158
+msgid "Item is successfully deleted."
+msgstr "Элемент успешно удален."
+
+#: admin/classes/class-data-manager-term-item.php:116
+msgid "Item doesn't delete. Please contact support."
+msgstr "Элемент не удаляется. Пожалуйста, свяжитесь со службой поддержки."
+
+#: admin/classes/class-data-manager-term-item.php:120
+msgid "Item doesn't exists."
+msgstr "Предмет не существует."
+
+#: admin/classes/class-data-manager-label-item.php:110
+msgid "Item doesn't updated. Please contact support."
+msgstr "Элемент не обновлен. Пожалуйста, свяжитесь со службой поддержки."
+
+#: admin/classes/class-data-manager-label-item.php:112
+msgid "Color successfully changed."
+msgstr "Цвет успешно изменился."
+
+#: admin/classes/class-data-manager-item.php:109
+msgid "Item already exists."
+msgstr "Предмет уже существует."
+
+#: admin/classes/class-data-manager-item.php:160
+msgid "Nothing for delete."
+msgstr "Ничего для удаления."
+
+#: admin/classes/class-data-manager-item.php:184
+msgid "Item has been selected."
+msgstr "Предмет был выбран."
+
+#: admin/classes/class-fbuilder-helper.php:17
+msgid "Text"
+msgstr "Текст"
+
+#: admin/classes/class-fbuilder-helper.php:18
+msgid "Number"
+msgstr "Число"
+
+#: admin/classes/class-fbuilder-helper.php:21
+msgid "File"
+msgstr "Файл"
+
+#: admin/classes/class-fbuilder-helper.php:22
+msgid "Select"
+msgstr "Выбрать"
+
+#: admin/classes/class-fbuilder-helper.php:23
+msgid "Text area"
+msgstr "Текстовая область"
+
+#: admin/classes/class-fbuilder-helper.php:24
+msgid "Date"
+msgstr "Дата"
+
+#: admin/classes/class-fbuilder-helper.php:25
+msgid "Date time"
+msgstr "Дата и время"
+
+#: admin/classes/class-fbuilder-helper.php:28
+msgid "Url"
+msgstr "Url"
+
+#: admin/classes/class-fbuilder-helper.php:354
+#: classes/pages/class-property-single-page.php:367
+#: classes/pages/class-property-single-page.php:396
+msgid "Basic facts"
+msgstr "Основные факты"
+
+#: admin/classes/class-fbuilder-helper.php:387
+#: classes/pages/class-property-single-page.php:170
+#: classes/pages/class-property-single-page.php:370
+#: classes/pages/class-property-single-page.php:422
+msgid "Video"
+msgstr "Видео"
+
+#: admin/classes/class-property-metabox.php:74
+msgid "Property data"
+msgstr "Данные о недвижимости"
+
+#: admin/classes/class-property-metabox.php:100
+#: management/classes/shortcodes/class-prop-management-shortcode.php:206
+msgid "Basic information"
+msgstr "Основная информация"
+
+#: admin/classes/class-shelterzoom.php:159
+msgid "Offer"
+msgstr ""
+"Предлагает\n"
+
+#: admin/classes/class-shelterzoom.php:160
+msgid "Rent"
+msgstr "Арендная плата"
+
+#: admin/classes/class-shelterzoom.php:169
+msgid "On the left side"
+msgstr ""
+"С левой стороны\n"
+
+#: admin/classes/class-shelterzoom.php:170
+msgid "On the right side"
+msgstr ""
+"На правой стороне\n"
+
+#: admin/classes/class-shelterzoom.php:173
+msgid "Small"
+msgstr "Маленький"
+
+#: admin/classes/class-shelterzoom.php:174
+msgid "Medium"
+msgstr "Средняя"
+
+#: admin/classes/class-shelterzoom.php:210
+msgid "ShelterZoom saved"
+msgstr "ShelterZoom сохранен"
+
+#: admin/classes/class-shelterzoom.php:214
+msgid "ShelterZoom Universal ID"
+msgstr "ShelterZoom Универсальный ID"
+
+#: admin/classes/class-shelterzoom.php:231
+msgid "ShelterZoom"
+msgstr "ShelterZoom"
+
+#: admin/classes/class-shelterzoom.php:285
+msgid "Property successfully saved on ShelterZoom side."
+msgstr "Недвижимость успешно сохранено на стороне ShelterZoom."
+
+#: admin/classes/class-shelterzoom.php:288
+#: admin/classes/class-shelterzoom.php:291
+#, php-format
+msgid "Property isn't saved on ShelterZoom side. Error: %s"
+msgstr "Свойство не сохраняется на стороне ShelterZoom. Ошибка: %s"
+
+#: admin/classes/class-shelterzoom.php:335
+msgid "Property successfully removed on ShelterZoom side."
+msgstr "Недвижимость успешно удалено на стороне ShelterZoom."
+
+#: admin/classes/class-shelterzoom.php:337
+#: admin/classes/class-shelterzoom.php:340
+#, php-format
+msgid "Property isn't removed on ShelterZoom side. Error: %s"
+msgstr "Свойство не удаляется со стороны ShelterZoom. Ошибка: %s"
+
+#: templates/shortcodes/login.php:5 templates/shortcodes/login.php:26
+msgid "Log in"
+msgstr "Авторизоваться"
+
+#: templates/shortcodes/login.php:14
+#: templates/shortcodes/partials/my-profile-tab.php:45
+#: rets/templates/partials/connect-form.php:34
+msgid "Username"
+msgstr "Логин"
+
+#: templates/shortcodes/login.php:21 admin/templates/agents/profile.php:74
+#: admin/templates/buyers/profile.php:57
+#: admin/templates/settings/shelter-zoom-tab.php:35
+#: templates/shortcodes/partials/my-profile-tab.php:106
+#: rets/templates/partials/connect-form.php:41
+msgid "Password"
+msgstr "Пароль"
+
+#: templates/shortcodes/login.php:31
+msgid "I forgot my password"
+msgstr "Я забыл свой пароль"
+
+#: templates/shortcodes/login.php:35
+msgid "I need to register for a new account"
+msgstr "Мне нужно зарегистрировать новый аккаунт"
+
+#: templates/shortcodes/login.php:51 templates/shortcodes/register.php:145
+#: templates/shortcodes/reset.php:47
+msgid "You are already logged in."
+msgstr "Вы уже вошли."
+
+#: templates/shortcodes/login.php:52 templates/shortcodes/register.php:146
+#: templates/shortcodes/reset.php:48
+msgid "Logout"
+msgstr "Выйти"
+
+#: templates/shortcodes/register.php:3
+#: admin/templates/widgets/es-request-widget.php:10
+msgid "Terms of Use"
+msgstr "Условия эксплуатации"
+
+#: templates/shortcodes/register.php:4
+#: admin/templates/widgets/es-request-widget.php:11
+msgid "Privacy Policy"
+msgstr "Политика конфиденциальности"
+
+#: templates/shortcodes/register.php:24
+msgid "Register As"
+msgstr "Зарегистрируйтесь как"
+
+#: templates/shortcodes/register.php:27
+msgid "Buyer"
+msgstr ""
+"Покупатель\n"
+
+#: templates/shortcodes/register.php:46 admin/templates/agents/profile.php:38
+#: admin/templates/buyers/profile.php:36
+msgid "User name"
+msgstr "Имя пользователя"
+
+#: templates/shortcodes/register.php:82
+msgid "Www"
+msgstr "Www"
+
+#: templates/shortcodes/register.php:100
+msgid "Photo/Logo"
+msgstr "Фото/логотип"
+
+#: templates/shortcodes/register.php:107
+msgid "Upload photo"
+msgstr "Загрузка фото"
+
+#: templates/shortcodes/register.php:119
+#: admin/templates/widgets/es-request-widget.php:61
+#, php-format
+msgid "I agree to the %s and %s"
+msgstr "Я согласен с %s и %s"
+
+#: templates/shortcodes/reset.php:14
+msgid "Restore password"
+msgstr "Восстановить пароль"
+
+#: templates/shortcodes/reset.php:21
+msgid "Enter new password"
+msgstr "Введите новый пароль"
+
+#: templates/shortcodes/reset.php:23
+msgid "Username or email address"
+msgstr "Имя пользователя или адрес электронной почты"
+
+#: templates/shortcodes/reset.php:34
+msgid "Get new password"
+msgstr "Получить новый пароль"
+
+#: templates/partials/map-property-overlay.php:57
+msgid "More details"
+msgstr ""
+"Подробнее\n"
+
+#: templates/partials/request-form-response.php:2
+msgid "Your message was sent"
+msgstr "Ваше сообщение было отправлено"
+
+#: templates/partials/request-form-response.php:4
+#: admin/templates/demo-content/demo-step.php:52
+#: admin/templates/demo-content/demo-step.php:74
+msgid "Back"
+msgstr "Назад"
+
+#: templates/partials/request-form-response.php:6
+msgid "Your message was'nt sent"
+msgstr "Ваше сообщение не было отправлено"
+
+#: templates/partials/request-form-response.php:8
+msgid "Try again"
+msgstr "Попробуйте снова"
+
+#: templates/property/agent.php:21
+msgid "Agent profile image"
+msgstr "Изображение профиля агента"
+
+#: templates/property/agent.php:32 templates/property/agent.php:34
+msgid "Properties Qty"
+msgstr "Кол-во Недвижимости"
+
+#: templates/emails/saved-search.php:2
+msgid "These new homes match your saved search"
+msgstr ""
+"Эти новые дома соответствуют вашему сохраненному поиску\n"
+
+#: templates/emails/saved-search.php:77
+msgid "View More Details"
+msgstr "Посмотреть подробнее"
+
+#: templates/emails/saved-search.php:94
+msgid "See All"
+msgstr "Увидеть все"
+
+#: subscriptions/templates/table.php:42
+msgid "Total"
+msgstr "Всего"
+
+#: subscriptions/templates/table.php:43
+msgid "Proceed"
+msgstr "Продолжить"
+
+#: subscriptions/classes/class-subscription-table.php:37
+msgid "All listing"
+msgstr ""
+"Весь список\n"
+
+#: subscriptions/classes/class-subscription-table.php:38
+msgid "Featured listings"
+msgstr ""
+"Избранные списки\n"
+
+#: subscriptions/classes/class-subscription-table.php:42
+msgid "Renewal Price"
+msgstr "Цена Обновления"
+
+#: subscriptions/classes/class-subscription.php:44
+msgid "Property Qty"
+msgstr "Кол-во Объектов"
+
+#: subscriptions/classes/class-subscription.php:54
+msgid "Featured Qty"
+msgstr ""
+"Рекомендуемое Кол-во\n"
+
+#: subscriptions/classes/class-subscription.php:60
+#: rets/templates/actualization-tab.php:81
+msgid "Period"
+msgstr ""
+"Период\n"
+
+#: subscriptions/classes/class-subscription.php:66
+#: admin/classes/pages/class-settings-page.php:70
+msgid "Currency"
+msgstr "Валюта"
+
+#: subscriptions/classes/class-subscription.php:84
+msgid "Renewal price"
+msgstr "Цена обновления"
+
+#: subscriptions/classes/class-subscription.php:89
+msgid "-- Select trial period --"
+msgstr ""
+"-- Выберите пробный период --\n"
+
+#: subscriptions/classes/class-subscription.php:90
+msgid "Trial"
+msgstr ""
+"Пробный\n"
+
+#: subscriptions/classes/class-subscription-table-shortcode.php:24
+msgid "Please, set PayPal credintials on Estatik subscription settings page."
+msgstr ""
+"Пожалуйста, установите кредитные PayPal на странице настроек подписки "
+"Estatik.\n"
+
+#: subscriptions/classes/class-subscription-table-shortcode.php:26
+msgid "Please, set PayPal success page on Estatik subscription settings page."
+msgstr ""
+"Пожалуйста, установите страницу успеха PayPal на странице настроек подписки "
+"Estatik.\n"
+
+#: subscriptions/classes/class-subscription-table-shortcode.php:52
+msgid "Subscription table"
+msgstr "Таблица подписки"
+
+#: subscriptions/classes/class-subscription-init.php:289
+msgid "Agent of this post has no permission for publish this property."
+msgstr ""
+"Агент этого сообщения не имеет разрешения на публикацию этого свойства.\n"
+
+#: subscriptions/classes/class-subscription-init.php:323
+msgid "You subscription plan doesn't allow to publish more listings."
+msgstr "Ваш план подписки не позволяет публиковать больше объявлений."
+
+#: subscriptions/classes/class-subscription-init.php:359
+msgid "You subscription plan doesn't allow to publish more featured listings."
+msgstr "Ваш план подписки не позволяет публиковать более популярные списки."
+
+#: subscriptions/classes/class-subscription-init.php:405
+msgid "Estatik Subscription"
+msgstr "Estatik Подписка"
+
+#: subscriptions/classes/class-subscription-init.php:443
+msgid "Subscription is expired."
+msgstr "Срок подписки истек."
+
+#: subscriptions/classes/class-subscription-init.php:469
+#: admin/templates/agents/profile.php:94
+#: subscriptions/classes/pages/class-order-list-page.php:105
+msgid "Subscription"
+msgstr "Подписка"
+
+#: subscriptions/classes/class-subscription-init.php:472
+msgid "Edit subscription"
+msgstr "Изменить подписку"
+
+#: subscriptions/classes/class-subscription-init.php:484
+msgid "Order"
+msgstr ""
+"Порядок\n"
+
+#: subscriptions/classes/class-subscription-metabox.php:31
+msgid "Subscription data"
+msgstr "Данные подписки"
+
+#: rets/templates/dep-fields.php:8 rets/templates/scheduler-import-tab.php:131
+msgid "Resource"
+msgstr "Ресурс"
+
+#: rets/templates/dep-fields.php:22
+msgid "Classes"
+msgstr ""
+"Классы\n"
+
+#: rets/templates/dep-fields.php:25
+msgid "Loading..."
+msgstr "Loading ..."
+
+#: rets/templates/actualization-tab.php:18
+msgid "Actualize listings"
+msgstr ""
+"Актуализировать списки\n"
+
+#: rets/templates/actualization-tab.php:21
+msgid ""
+"To setup and launch synchronization schedule, please select below Resource, "
+"Class and Entity and click Configure."
+msgstr ""
+"Чтобы настроить и запустить расписание синхронизации, выберите «Ресурс», "
+"«Класс» и «Объект» и нажмите «Настроить»."
+
+#: rets/templates/actualization-tab.php:27
+#: rets/templates/actualization-tab.php:84
+#: rets/templates/custom-import-tab.php:21 rets/templates/fields-tab.php:24
+#: rets/templates/scheduler-import-tab.php:45
+msgid "Entity"
+msgstr "Объект"
+
+#: rets/templates/actualization-tab.php:40
+msgid "Configure"
+msgstr "Конфигурировать"
+
+#: rets/templates/actualization-tab.php:62
+#: rets/templates/scheduler-import-tab.php:109
+msgid "Schedules list"
+msgstr "Список расписаний"
+
+#: rets/templates/actualization-tab.php:68
+#: rets/templates/scheduler-import-tab.php:117
+msgid "Please select schedules you want to delete."
+msgstr "Пожалуйста, выберите расписание, которое вы хотите удалить."
+
+#: rets/templates/actualization-tab.php:69
+#: rets/templates/scheduler-import-tab.php:118
+msgid "Are you sure you want to delete these schedules?"
+msgstr ""
+"Вы уверены, что хотите удалить эти расписания?\n"
+
+#: rets/templates/actualization-tab.php:70
+#: rets/templates/scheduler-import-tab.php:119
+msgid "Remove selected"
+msgstr "Убрать выбранное"
+
+#: rets/templates/actualization-tab.php:82
+#: rets/templates/custom-import-tab.php:35
+#: rets/templates/scheduler-import-tab.php:65
+#: rets/templates/scheduler-import-tab.php:135
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:107
+#: admin/templates/widgets/es-property-map-form.php:76
+#: rets/templates/partials/actualizer-form.php:46
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:96
+#: admin/templates/shortcode-builder/params/es_search_map-params.php:3
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:109
+msgid "Limit"
+msgstr "Максимальное количество объектов"
+
+#: rets/templates/actualization-tab.php:83
+msgid "Actions"
+msgstr ""
+"Действия\n"
+
+#: rets/templates/actualization-tab.php:85
+msgid "Checked"
+msgstr ""
+"Проверено\n"
+
+#: rets/templates/actualization-tab.php:86
+msgid "Updated"
+msgstr "Обновленный"
+
+#: rets/templates/actualization-tab.php:87
+msgid "Deleted"
+msgstr ""
+"Удаленный\n"
+
+#: rets/templates/actualization-tab.php:127
+#: rets/templates/actualization-tab.php:139
+msgid "Press Press if you want to reset values in Updated/Deleted column."
+msgstr ""
+"Нажмите Нажмите, если вы хотите сбросить значения в столбце «Обновленные / "
+"удаленные»."
+
+#: rets/templates/actualization-tab.php:127
+#: rets/templates/actualization-tab.php:139
+msgid "Are you sure you want to reset Updated / Deleted values?"
+msgstr ""
+"Вы уверены, что хотите сбросить Обновленные / Удаленные значения?\n"
+
+#: rets/templates/actualization-tab.php:153
+#: rets/templates/scheduler-import-tab.php:172
+msgid "The List is empty!"
+msgstr "Список пуст!"
+
+#: rets/templates/custom-import-tab.php:10 rets/templates/fields-tab.php:16
+#: rets/classes/pages/class-mls-rets-page.php:290
+msgid "Manual Import"
+msgstr ""
+"Ручной импорт\n"
+
+#: rets/templates/custom-import-tab.php:13
+#, php-format
+msgid ""
+"To import listings manually, please configure settings below and select "
+"which listings you want to import. Then click Save button. %s you will find "
+"additional information."
+msgstr ""
+"Чтобы импортировать списки вручную, настройте параметры ниже и выберите, "
+"какие списки вы хотите импортировать. Затем нажмите кнопку Сохранить. %s вы "
+"найдете дополнительную информацию."
+
+#: rets/templates/custom-import-tab.php:14
+msgid "Here"
+msgstr "Здесь"
+
+#: rets/templates/custom-import-tab.php:44 rets/templates/fields-tab.php:37
+msgid "Submit"
+msgstr "Отправить"
+
+#: rets/templates/logger-popup.php:13
+msgid "Log ID"
+msgstr "Идентификатор журнала"
+
+#: rets/templates/logger-popup.php:14
+msgid "Entity ID"
+msgstr "ID Объекта"
+
+#: rets/templates/logger-popup.php:15
+msgid "Log Message"
+msgstr "Сообщение журнала"
+
+#: rets/templates/logger-popup.php:17
+msgid "UserID"
+msgstr "Идентификатор пользователя"
+
+#: rets/templates/logger-popup.php:18
+msgid "DateTime"
+msgstr "Дата и Время"
+
+#: rets/templates/logger-popup.php:35
+msgid "Nothing to show"
+msgstr ""
+"Нечего показать\n"
+
+#: rets/templates/fields-tab.php:10
+msgid "Fields Settings"
+msgstr "Настройки полей"
+
+#: rets/templates/fields-tab.php:13
+#, php-format
+msgid ""
+"You must assign fields you need for selected resourse, class and entity "
+"below. Click Submit button to view the fields. If there is no Estatik field "
+"for selected MLS field, please use Custom field in drop-down. </br>Check out "
+"our detailed tutorial %s. \n"
+"</br>Once you configured the fields, go to %s or %s tab to make the import."
+msgstr ""
+"Вы должны назначить поля, которые вам нужны для выбранного ресурса, класса и "
+"объекта ниже. Нажмите кнопку Отправить, чтобы просмотреть поля. Если для "
+"выбранного поля MLS поле Estatik отсутствует, используйте поле "
+"«Пользовательский» в раскрывающемся списке. </ br> Ознакомьтесь с нашим "
+"подробным учебником %s.\n"
+"</ br> После настройки полей перейдите на вкладку %s или %s, чтобы выполнить "
+"импорт."
+
+#: rets/templates/fields-tab.php:15 rets/templates/partials/connect-form.php:20
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:69
+#: admin/templates/shortcode-builder/params/es_subscription_table-params.php:1
+#: admin/templates/shortcode-builder/params/es_subscription_paypal_response_page-params.php:1
+msgid "here"
+msgstr "здесь"
+
+#: rets/templates/fields-tab.php:17
+#: rets/classes/pages/class-mls-rets-page.php:285
+msgid "Automatic Import"
+msgstr "Автоматический импорт"
+
+#: rets/templates/fields-tab.php:45
+msgid "Choose entity fields for import"
+msgstr ""
+"Выберите поля объекта для импорта\n"
+
+#: rets/templates/fields-tab.php:52 rets/templates/fields-tab.php:53
+msgid "-- Choose RETS fields --"
+msgstr ""
+"-- Выберите поля RETS --\n"
+
+#: rets/templates/fields-tab.php:63
+msgid "Quick Search"
+msgstr "Быстрый поиск"
+
+#: rets/templates/scheduler-import-tab.php:15
+msgid "Edit Schedule"
+msgstr "Изменить расписание"
+
+#: rets/templates/scheduler-import-tab.php:18
+msgid "Create Schedule"
+msgstr ""
+"Создать расписание\n"
+
+#: rets/templates/scheduler-import-tab.php:22
+#, php-format
+msgid ""
+"If you want to launch automatic import of listings, please configure import "
+"schedule here and set up cron jobs on your hosting. Read these %s to make "
+"everything correctly."
+msgstr ""
+"Если вы хотите запустить автоматический импорт списков, настройте расписание "
+"импорта здесь и настройте задания cron на вашем хостинге. Прочитайте эти %s, "
+"чтобы все сделать правильно."
+
+#: rets/templates/scheduler-import-tab.php:23
+msgid "instructions"
+msgstr ""
+"Инструкции\n"
+
+#: rets/templates/scheduler-import-tab.php:30
+#: rets/templates/partials/actualizer-form.php:33
+msgid "Schedules"
+msgstr "Расписание"
+
+#: rets/templates/scheduler-import-tab.php:74
+msgid "Offset"
+msgstr ""
+"Офсет\n"
+
+#: rets/templates/scheduler-import-tab.php:82
+msgid "Existing property"
+msgstr ""
+"Существующая собственность\n"
+
+#: rets/templates/scheduler-import-tab.php:85
+msgid "Overwrite"
+msgstr "Переписывать"
+
+#: rets/templates/scheduler-import-tab.php:86
+msgid "Skip"
+msgstr "Пропускать"
+
+#: rets/templates/scheduler-import-tab.php:92
+msgid "Enable non-stop import"
+msgstr ""
+"Включить безостановочный импорт\n"
+
+#: rets/templates/scheduler-import-tab.php:100
+#: admin/templates/agents/profile.php:24 admin/templates/buyers/profile.php:21
+#: admin/templates/upgrade-pro/upgrade-pro.php:10
+#: admin/templates/settings/settings.php:14
+#: templates/shortcodes/partials/saved-searches-tab.php:30
+#: templates/shortcodes/partials/my-profile-tab.php:129
+#: rets/templates/partials/connect-form.php:158
+msgid "Save"
+msgstr "Сохранить"
+
+#: rets/templates/scheduler-import-tab.php:130
+#: rets/classes/class-mls-rets-init.php:276
+#: rets/classes/class-mls-rets-init.php:278
+msgid "Schedule"
+msgstr "График"
+
+#: rets/templates/scheduler-import-tab.php:132
+msgid "Query"
+msgstr "Запрос"
+
+#: rets/templates/scheduler-import-tab.php:133
+msgid "Last Import"
+msgstr "Последний импорт"
+
+#: rets/templates/scheduler-import-tab.php:134
+msgid "Executed"
+msgstr ""
+"Выполненный\n"
+
+#: rets/templates/scheduler-import-tab.php:136
+msgid "Items count"
+msgstr ""
+"Количество предметов\n"
+
+#: rets/templates/rets.php:8
+msgid "MLS RETS IMPORT"
+msgstr "MLS RETS ИМПОРТ"
+
+#: rets/templates/rets.php:13
+msgid "Please fill up your credentials and click save to finish."
+msgstr ""
+"Пожалуйста, заполните свои учетные данные и нажмите Сохранить, чтобы "
+"закончить."
+
+#: rets/classes/class-rets-import-room.php:56
+#, php-format
+msgid "Property room %s already exists."
+msgstr "Реквизиторская %s уже существует."
+
+#: rets/classes/class-mls-rets-init.php:73
+msgid "The RETS access successfully removed."
+msgstr ""
+"Доступ RETS успешно удален.\n"
+
+#: rets/classes/class-mls-rets-init.php:81
+#: rets/classes/class-mls-rets-init.php:174
+msgid "Incorrect or empty rets access."
+msgstr "Неправильный или пустой доступ."
+
+#: rets/classes/class-mls-rets-init.php:166
+msgid "Connection is successful!"
+msgstr ""
+"Соединение успешно!\n"
+
+#: rets/classes/class-mls-rets-init.php:242
+msgid "RETS Profile UID"
+msgstr "RETS Профиль UID"
+
+#: rets/classes/class-mls-rets-init.php:260
+#: rets/classes/class-mls-rets-init.php:261
+msgid "MLS RETS Import"
+msgstr "MLS RETS Импорт"
+
+#: rets/classes/class-mls-rets-init.php:289
+#: rets/classes/class-mls-rets-init.php:291
+msgid "Actualizer"
+msgstr ""
+"Актуализатором\n"
+
+#: rets/classes/class-rets-media.php:23
+msgid "Entity Relation ID"
+msgstr "ID Объекта"
+
+#: rets/classes/class-rets-media.php:26
+msgid "Image Unique ID"
+msgstr "Изображение уникальный идентификатор"
+
+#: rets/classes/class-rets-media.php:29
+msgid "Image data / url"
+msgstr "Данные изображения / URL"
+
+#: rets/classes/class-rets-import-property.php:53
+#, php-format
+msgid "Property %s already exists."
+msgstr "Свойство %s уже существует."
+
+#: rets/classes/class-rets-import-property.php:289
+#: rets/classes/class-rets-import-agent.php:157
+msgid "Images via Media resource doesn't exist."
+msgstr "Изображения через медиа-ресурс не существует."
+
+#: rets/classes/class-rets-import-property.php:303
+msgid "Property images doesn't exist."
+msgstr "Свойства изображения не существует."
+
+#: rets/classes/class-rets-import-property.php:338
+#: rets/classes/class-rets-import-agent.php:202
+msgid ""
+"Image URL is empty. Please, use disable <b>Use remote images</b> and <b>Use "
+"object locations</b> options."
+msgstr ""
+"URL изображения пуст. Пожалуйста, используйте опции <b> Использовать "
+"удаленные изображения </ b> и <b> Использовать расположение объектов </ b>."
+
+#: rets/classes/class-rets-import-agent.php:171
+msgid "Agent images doesn't exist."
+msgstr ""
+"Агент изображения не существует.\n"
+
+#: classes/shortcodes/class-labels-shortcode.php:12
+msgid "Properties By Labels"
+msgstr "Недвижимость по меткам"
+
+#: classes/shortcodes/class-state-shortcode.php:12
+msgid "Properties By State"
+msgstr "Недвижимость по штату"
+
+#: classes/shortcodes/class-profile-shortcode.php:11
+msgid "User profile"
+msgstr "Профиль пользователя"
+
+#: classes/shortcodes/class-profile-shortcode.php:130
+#: templates/shortcodes/partials/saved-searches-tab.php:10
+msgid "Saved Searches"
+msgstr "Сохраненные поиски"
+
+#: classes/shortcodes/class-profile-shortcode.php:135
+#: templates/shortcodes/partials/saved-homes-tab.php:9
+msgid "Saved Homes"
+msgstr "Сохраненные дома"
+
+#: classes/shortcodes/class-profile-shortcode.php:145
+msgid "My Listings"
+msgstr "Мои объявления"
+
+#: classes/shortcodes/class-city-shortcode.php:12
+msgid "Properties By City"
+msgstr "Недвижимость по городу"
+
+#: classes/shortcodes/class-property-slideshow-shortcode.php:12
+msgid "Slideshow"
+msgstr "Слайд-шоу"
+
+#: classes/shortcodes/class-restore-password-shortcode.php:41
+msgid "Restore Password"
+msgstr "Восстановить пароль"
+
+#: classes/shortcodes/class-cheapest-props-shortcode.php:12
+msgid "Cheapest Properties"
+msgstr "Самые дешевые объекты"
+
+#: classes/shortcodes/class-search-shortcode.php:12
+msgid "Search results"
+msgstr "Результаты поиска"
+
+#: classes/shortcodes/class-features-shortcode.php:12
+msgid "Properties by Features"
+msgstr "Недвижимость по особенностям"
+
+#: classes/shortcodes/class-expensive-props-shortcode.php:12
+msgid "Expensive Properties"
+msgstr "Дорогая недвижимость"
+
+#: classes/shortcodes/class-search-form-shortcode.php:16
+msgid "Search form"
+msgstr "Форма поиска"
+
+#: classes/shortcodes/class-map-search-shortcode.php:12
+msgid "Map search"
+msgstr ""
+"Поиск по карте\n"
+
+#: classes/shortcodes/class-country-shortcode.php:12
+msgid "Properties By Country"
+msgstr "Недвижимость по стране"
+
+#: classes/shortcodes/class-subscription-paypal-response-page-shortcode.php:42
+msgid "Subscription PayPal"
+msgstr "Подписка PayPal"
+
+#: classes/shortcodes/class-agent-listing-shortcode.php:12
+msgid "Agent Listings"
+msgstr ""
+"Списки агентов\n"
+
+#: classes/shortcodes/class-featured-props-shortcode.php:12
+msgid "Featured Properties"
+msgstr "Популярные объекты"
+
+#: classes/shortcodes/class-single-shortcode.php:12
+msgid "Single property"
+msgstr "Один объект"
+
+#: classes/shortcodes/class-agent-register-shortcode.php:13
+msgid "Register form"
+msgstr "Форма регистрации"
+
+#: classes/shortcodes/class-category-shortcode.php:12
+msgid "Properties By Category"
+msgstr "Объекты  по категориям"
+
+#: classes/shortcodes/class-latest-props-shortcode.php:12
+msgid "Latest Properties"
+msgstr "Последние объекты"
+
+#: classes/shortcodes/class-login-shortcode.php:11
+msgid "Login form"
+msgstr "Форма входа"
+
+#: classes/pages/class-property-single-page.php:125
+msgid "View on map / Neighborhood"
+msgstr "Посмотреть на карте"
+
+#: classes/pages/class-property-single-page.php:371
+msgid "Agent contact"
+msgstr ""
+"Контакт агента\n"
+
+#: classes/pages/class-property-single-page.php:503
+msgid "Area size"
+msgstr "Размер площади"
+
+#: classes/pages/class-property-single-page.php:601
+msgid "To top"
+msgstr "Наверх"
+
+#: management/classes/shortcodes/class-prop-management-shortcode.php:12
+msgid "Listings management"
+msgstr ""
+"Управление листингами\n"
+
+#: admin/templates/data-manager/term-item.php:26
+#: admin/templates/data-manager/label-item.php:53
+#: admin/templates/data-manager/item.php:38
+#: admin/templates/agents/profile.php:170
+#: admin/templates/buyers/profile.php:109
+#: admin/templates/property/custom-fields.php:22
+msgid "text/number"
+msgstr "текст/число "
+
+#: admin/templates/data-manager/term-item.php:28
+#: admin/templates/data-manager/label-item.php:54
+#: admin/templates/data-manager/item.php:40
+#: admin/templates/data-manager/currency-item.php:40
+msgid "Add new item"
+msgstr "Добавить новый пункт"
+
+#: admin/templates/data-manager/currencies-tab.php:7
+#: admin/classes/pages/class-data-manager-page.php:65
+msgid "Currencies"
+msgstr "Валюты"
+
+#: admin/templates/data-manager/dimensions-tab.php:7
+msgid "Area & Lot size unit"
+msgstr "Единица измерения площади и всего участка"
+
+#: admin/templates/data-manager/currency-item.php:37
+msgid "Currency code (USD)"
+msgstr "Код валюты (USD)"
+
+#: admin/templates/data-manager/currency-item.php:38
+msgid "Currency label ($)"
+msgstr "Метка валюты ($)"
+
+#: admin/templates/data-manager/data-manager.php:4
+#: admin/templates/dashboard/dashboard.php:26
+msgid "Data manager"
+msgstr "Менеджер данных"
+
+#: admin/templates/data-manager/data-manager.php:11
+msgid "Are you sure you want to delete it?"
+msgstr "Вы действительно хотите удалить?"
+
+#: admin/templates/agents/profile.php:14
+msgid "Agent info"
+msgstr ""
+"Информация об агенте\n"
+
+#: admin/templates/agents/profile.php:23
+msgid "Please fill up your agent information below and click save to finish."
+msgstr ""
+"Пожалуйста, заполните информацию о вашем агенте ниже и нажмите «Сохранить» "
+"для завершения"
+
+#: admin/templates/agents/profile.php:56
+msgid "Sold properties"
+msgstr "Проданные свойства"
+
+#: admin/templates/agents/profile.php:62 admin/templates/buyers/profile.php:50
+#: templates/shortcodes/partials/my-profile-tab.php:59
+msgid "Telephone"
+msgstr "Телефон"
+
+#: admin/templates/agents/profile.php:68
+#: templates/shortcodes/partials/my-profile-tab.php:76
+msgid "Website"
+msgstr "Веб-сайт"
+
+#: admin/templates/agents/profile.php:82
+msgid "Subscription plan"
+msgstr "План подписки"
+
+#: admin/templates/agents/profile.php:85
+msgid "Expired"
+msgstr ""
+"Истекший\n"
+
+#: admin/templates/agents/profile.php:87
+#: admin/classes/pages/class-agent-list.php:174
+#: admin/classes/pages/class-user-list.php:188
+msgid "Active"
+msgstr "Активный"
+
+#: admin/templates/agents/profile.php:96
+msgid "-- Subscription plan --"
+msgstr ""
+"-- План подписки --\n"
+
+#: admin/templates/agents/profile.php:126 admin/templates/buyers/profile.php:73
+msgid "Profile photo"
+msgstr "Фото профиля"
+
+#: admin/templates/agents/profile.php:128
+#: admin/templates/settings/general-tab.php:187
+#: admin/templates/settings/email-tab.php:7
+msgid "Add image(s) to agent"
+msgstr "Загрузить изображения в профиль агента"
+
+#: admin/templates/agents/profile.php:128
+#: admin/templates/agents/profile.php:129 admin/templates/buyers/profile.php:76
+#: admin/templates/buyers/profile.php:77 admin/templates/property/media.php:29
+#: admin/templates/property/media.php:30
+#: admin/templates/settings/general-tab.php:187
+#: admin/templates/settings/general-tab.php:188
+#: admin/templates/settings/email-tab.php:7
+#: admin/templates/settings/email-tab.php:8
+msgid "Add image(s)"
+msgstr "Добавить новую картинку"
+
+#: admin/templates/agents/profile.php:145
+msgid "Social media Links"
+msgstr "Ссылки на социальные сети"
+
+#: admin/templates/agents/profile.php:171
+#: admin/templates/buyers/profile.php:110
+#: admin/templates/property/custom-fields.php:23
+msgid "Add new field"
+msgstr "Добавить новое значение"
+
+#: admin/templates/agents/filter.php:34 admin/templates/buyers/filter.php:13
+msgid "By Name"
+msgstr "По имени"
+
+#: admin/templates/agents/filter.php:48 admin/templates/buyers/filter.php:27
+msgid "Please select agent you want to delete."
+msgstr "Пожалуйста, выберите агента, которого вы хотите удалить."
+
+#: admin/templates/agents/filter.php:49 admin/templates/buyers/filter.php:28
+msgid "Please select agent you want to active."
+msgstr "Пожалуйста, выберите агента, которого вы хотите активировать."
+
+#: admin/templates/agents/filter.php:49 admin/templates/buyers/filter.php:28
+msgid "Are you sure you want to activate these agents?"
+msgstr "Вы уверены, что хотите активировать этих агентов?"
+
+#: admin/templates/agents/filter.php:49 admin/templates/buyers/filter.php:28
+msgid "Activate"
+msgstr "Активировать"
+
+#: admin/templates/agents/filter.php:50 admin/templates/buyers/filter.php:29
+msgid "Please select agent you want to deactivate."
+msgstr "Пожалуйста, выберите агента, которого вы хотите отключить."
+
+#: admin/templates/agents/filter.php:50 admin/templates/buyers/filter.php:29
+msgid "Are you sure you want to deactivate these agents?"
+msgstr "Вы уверены, что хотите деактивировать этих агентов?"
+
+#: admin/templates/agents/filter.php:50 admin/templates/buyers/filter.php:29
+msgid "Deactivate"
+msgstr "Дезактивировать"
+
+#: admin/templates/dashboard/dashboard.php:32
+msgid "Fields Builder"
+msgstr "Конфигуратор полей"
+
+#: admin/templates/dashboard/dashboard.php:45
+msgid "Get support"
+msgstr "Техподдержка"
+
+#: admin/templates/dashboard/dashboard.php:51
+msgid "Step-by-step guide"
+msgstr "Пошаговая инструкция"
+
+#: admin/templates/dashboard/dashboard.php:57
+msgid "FAQ"
+msgstr "FAQ"
+
+#: admin/templates/dashboard/dashboard.php:63
+msgid "Video Tutorial"
+msgstr "Видео документация"
+
+#: admin/templates/dashboard/dashboard.php:69
+msgid "Submit a ticket"
+msgstr "Связаться с нами"
+
+#: admin/templates/dashboard/dashboard.php:79
+#: admin/templates/settings/map-tab.php:90
+msgid "Shortcodes"
+msgstr "Шорткоды"
+
+#: admin/templates/dashboard/dashboard.php:92
+msgid "Changelog"
+msgstr "Список изменений"
+
+#: admin/templates/dashboard/dashboard.php:106
+msgid "Choose your theme"
+msgstr "Выберите тему"
+
+#: admin/templates/dashboard/dashboard.php:122
+msgid "Upgrade Options"
+msgstr "Варианты обновления"
+
+#: admin/templates/dashboard/dashboard.php:128
+msgid "PRO Pack"
+msgstr "Пакет Pro"
+
+#: admin/templates/dashboard/dashboard.php:129
+msgid ""
+"Unlock advanced features like PDF flyer, Map view, Frontend Submission, "
+"Agents, Subscriptions, CSV import, White Label, etc. PLUS choose one of "
+"Estatik Themes for FREE!"
+msgstr ""
+"Разблокируйте расширенные функции, такие как листовка PDF, Просмотр карты, "
+"Отправка веб-интерфейса, Агенты, Подписки, импорт CSV, White Label и т. д. "
+"ПЛЮС - БЕСПЛАТНО выбирайте одну из тем Estatik!"
+
+#: admin/templates/dashboard/dashboard.php:135
+msgid "Developer's Pack"
+msgstr "Пакет разработчика"
+
+#: admin/templates/dashboard/dashboard.php:136
+msgid ""
+"Great deal for developers! Save money and get Estatik PRO with absolutely "
+"ALL available Estatik Themes. <b>unlimited</b> unlimited number of websites "
+"& get <b>lifetime</b> Estatik updates!"
+msgstr ""
+"Отличная сделка для разработчиков! Сэкономьте деньги и получите Estatik PRO "
+"с абсолютно ВСЕМИ доступными темами Estatik. <b> Неограниченное </ b> "
+"количество веб-сайтов и получение <b> пожизненных </ b> обновлений Estatik!"
+
+#: admin/templates/dashboard/dashboard.php:142
+msgid "Premium Pack"
+msgstr "Пакет Premium"
+
+#: admin/templates/dashboard/dashboard.php:143
+msgid ""
+"All-inclusive Estatik Package with MLS organic import tool via RETS. Sit "
+"back and let us handle everything! Click here to read details."
+msgstr ""
+"Пакет «Все включено» Estatik с инструментом для импорта органических веществ "
+"MLS через RETS. Расслабьтесь и позвольте нам справиться со всем! Нажмите "
+"здесь, чтобы прочитать подробности."
+
+#: admin/templates/migration/migration.php:12
+msgid ""
+"To update the previous version to major version 3.* you need to migrate your "
+"listings \n"
+"                    as the new version of the plugin requires. Before doing "
+"this, please make sure that your version \n"
+"                    of the plugin doesn't have custom changes of the code."
+msgstr ""
+"Чтобы обновить предыдущую версию до основной версии 3. * вам нужно перенести "
+"списки,\n"
+"                   как того требует новая версия плагина. Перед этим "
+"убедитесь, что в вашей версии\n"
+"                   плагина нет пользовательских изменений кода."
+
+#: admin/templates/migration/migration.php:17
+msgid ""
+"Migration process may take some time, especially if you have lots of "
+"properties added. \n"
+"                    Please be patient."
+msgstr ""
+"Процесс перемещения может занять некоторое время, особенно если вы добавили "
+"много свойств.\n"
+"                     Пожалуйста, будьте терпеливы."
+
+#: admin/templates/migration/migration.php:20
+msgid "Migrate"
+msgstr "Переместить"
+
+#: admin/templates/buyers/profile.php:20
+msgid "Please fill up your user information below and click save to finish."
+msgstr ""
+"Пожалуйста, заполните информацию о пользователе ниже и нажмите «Сохранить», "
+"чтобы закончить."
+
+#: admin/templates/buyers/profile.php:76
+msgid "Add image(s) to user"
+msgstr "Добавить изображения для пользователя"
+
+#: admin/templates/demo-content/demo-step.php:7
+msgid "Step 1. Estatik Pages Setup"
+msgstr "Шаг 1. Настройка Estatik Pages"
+
+#: admin/templates/demo-content/demo-step.php:8
+msgid ""
+"Please select the pages you want to setup below and click Next step to "
+"continue. Estatik will create a few listings with demo content and ready-to-"
+"use page you will select below."
+msgstr ""
+"Пожалуйста, выберите страницы, которые вы хотите настроить ниже, и нажмите "
+"Далее, чтобы продолжить. Estatik создаст несколько списков с "
+"демонстрационным контентом и готовой страницей, которую вы выберете ниже."
+
+#: admin/templates/demo-content/demo-step.php:24
+#: admin/templates/demo-content/demo-step.php:53
+msgid "Next step"
+msgstr "Следующий шаг"
+
+#: admin/templates/demo-content/demo-step.php:28
+msgid "Step 2. Setup keys"
+msgstr "Шаг 2. Настройка ключей"
+
+#: admin/templates/demo-content/demo-step.php:29
+msgid ""
+"Add your Google Map API key and Recaptcha keys below. It's required for "
+"Search and Request info widgets."
+msgstr ""
+"Добавьте свой ключ API Google Map и ключи Recaptcha ниже. Это требуется для "
+"виджетов Поиска и Запроса информации."
+
+#: admin/templates/demo-content/demo-step.php:35
+#: admin/templates/demo-content/demo-step.php:41
+#: admin/templates/demo-content/demo-step.php:47
+msgid "Get My Key"
+msgstr "Получить мой ключ"
+
+#: admin/templates/demo-content/demo-step.php:57
+msgid "Step 3. Demo listings setup"
+msgstr "Шаг 3. Настройка списков demo"
+
+#: admin/templates/demo-content/demo-step.php:58
+msgid ""
+"To import demo listings, please click on Import button or click Finish if "
+"you want to skip this step."
+msgstr ""
+"Чтобы импортировать списки demo, нажмите кнопку «Импорт» или «Готово», если "
+"вы хотите пропустить этот шаг."
+
+#: admin/templates/demo-content/demo-step.php:70
+#: rets/templates/partials/property-table.php:39
+#: rets/templates/partials/property-table.php:118
+msgid "Import"
+msgstr "Импортировать"
+
+#: admin/templates/demo-content/demo-step.php:75
+msgid "Finish"
+msgstr "Завершение"
+
+#: admin/templates/demo-content/finished-step.php:7
+msgid "You did it!"
+msgstr "Ты сделал это!"
+
+#: admin/templates/demo-content/finished-step.php:8
+msgid "What to do next:"
+msgstr "Что делать дальше:"
+
+#: admin/templates/demo-content/finished-step.php:15
+msgid "View demo listings"
+msgstr "Посмотреть demo листинги"
+
+#: admin/templates/demo-content/finished-step.php:22
+msgid "Add my first listing"
+msgstr "добавить мое первое объявление"
+
+#: admin/templates/demo-content/finished-step.php:30
+msgid "Go to estatik dashboard"
+msgstr "Перейти к панели инструментов estatik"
+
+#: admin/templates/demo-content/start-step.php:7
+msgid "Thank you for choosing Estatik "
+msgstr "Спасибо, что выбрали Estatik"
+
+#: admin/templates/demo-content/start-step.php:9
+msgid "We are so happy you joined us"
+msgstr "Мы так рады, что вы присоединились к нам"
+
+#: admin/templates/demo-content/start-step.php:10
+#, php-format
+msgid ""
+"Grab your instant <b>5% off on any Estatik products</b> using coupon code "
+"below"
+msgstr ""
+"Получите скидку <b> 5% на любые продукты Estatik </ b>, используя код купона "
+"ниже"
+
+#: admin/templates/demo-content/start-step.php:15
+msgid "THANKYOU"
+msgstr "СПАСИБО"
+
+#: admin/templates/demo-content/start-step.php:22
+#: admin/templates/demo-content/start-step.php:24
+msgid "Skip demo setup"
+msgstr "Пропустить настройку demo "
+
+#: admin/templates/demo-content/start-step.php:27
+msgid "Setup DEMO"
+msgstr "Настройка DEMO"
+
+#: admin/templates/fields-builder/main.php:17
+msgid ""
+"Here you can add new sections and fields that you can find in Add new "
+"listing. Please add Sections first via Listing sections tab and then "
+"continue with fields. To add new field, please configure the fields below "
+"and click Create button."
+msgstr ""
+"Здесь вы можете добавить новые разделы и поля, которые вы можете найти в "
+"Добавить новый список. Пожалуйста, добавьте разделы сначала через вкладку "
+"Список разделов, а затем перейдите к полям. Чтобы добавить новое поле, "
+"настройте поля ниже и нажмите кнопку «Создать»."
+
+#: admin/templates/widgets/es-search-widget.php:63
+#: admin/templates/widgets/es-search-widget.php:65
+msgid "Save search"
+msgstr "Сохранить поиск"
+
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:39
+msgid "Show arrows"
+msgstr "Показывать стрелки"
+
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:50
+msgid "Slide Effect"
+msgstr "Эффект слайда"
+
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:61
+msgid "Filter data"
+msgstr ""
+"Фильтровать данные\n"
+
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:62
+#: admin/templates/widgets/es-property-map-form.php:31
+msgid "-- Select parameters for filtering --"
+msgstr "-- Выберите параметры для фильтрации --"
+
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:87
+msgid "Min Price"
+msgstr "Минимальная цена"
+
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:92
+msgid "Max Price"
+msgstr "Максимальная Цена"
+
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:97
+msgid "Listings IDs"
+msgstr "ID объектов"
+
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:102
+msgid "Space between slides"
+msgstr "Пространство между слайдами"
+
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:112
+msgid "Slides to show"
+msgstr "Количество слайдов в слайд-шоу"
+
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:118
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:11
+#: admin/templates/shortcode-builder/params/es_search-params.php:7
+#: admin/templates/shortcode-builder/params/es_profile-params.php:3
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:81
+#: admin/templates/shortcode-builder/params/es_search_form-params.php:59
+msgid "Layout"
+msgstr "Расположение"
+
+#: admin/templates/widgets/es-search-widget-form.php:31
+msgid "Search Title"
+msgstr "Название поиска"
+
+#: admin/templates/widgets/es-search-widget-form.php:37
+#: admin/templates/widgets/es-property-map-form.php:56
+#: admin/classes/pages/class-settings-page.php:66
+msgid "Layouts"
+msgstr "Расположение"
+
+#: admin/templates/widgets/es-search-widget-form.php:47
+msgid "Show unit converter"
+msgstr "Показать конвертер"
+
+#: admin/templates/widgets/es-search-widget-form.php:52
+msgid "Enable save search"
+msgstr "Включить сохранение поиска"
+
+#: admin/templates/widgets/es-search-widget-form.php:58
+msgid "Add search field"
+msgstr "Добавить поле поиска"
+
+#: admin/templates/widgets/es-search-widget-form.php:60
+msgid "-- Select field --"
+msgstr "-- Выберите поле --"
+
+#: admin/templates/widgets/es-property-map-form.php:26
+msgid "Map Title:"
+msgstr ""
+"Название карты:\n"
+
+#: admin/templates/widgets/es-property-map-form.php:71
+#: admin/templates/settings/map-tab.php:66
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:80
+msgid "Height"
+msgstr ""
+"Рост\n"
+
+#: admin/templates/widgets/es-request-widget-form.php:8
+msgid "Learn more about this property"
+msgstr "Узнать больше об этом объекте недвижимости"
+
+#: admin/templates/widgets/es-request-widget-form.php:11
+msgid ""
+"Hi, I`m interested in the property. Please send me more information about it."
+" Thank you!"
+msgstr ""
+"Добрый день, я заинтересован в этой недвижимости. Пожалуйста, пришлите мне "
+"больше информации о ней. Заранее спасибо!"
+
+#: admin/templates/widgets/es-request-widget-form.php:18
+#: admin/templates/widgets/es-request-widget.php:23
+msgid "Estatik Request Info from"
+msgstr "Estatik запрос от"
+
+#: admin/templates/widgets/es-request-widget-form.php:22
+msgid "Request title"
+msgstr "Запросить название"
+
+#: admin/templates/widgets/es-request-widget-form.php:27
+msgid "Request Message"
+msgstr "Запросить сообщение"
+
+#: admin/templates/widgets/es-request-widget-form.php:32
+msgid "Disable Name field"
+msgstr "Отключить поле Имя"
+
+#: admin/templates/widgets/es-request-widget-form.php:37
+msgid "Disable Phone number field"
+msgstr "Отключить поле Номера телефона"
+
+#: admin/templates/widgets/es-request-widget-form.php:42
+msgid "Send Message To"
+msgstr "Отправить сообщение"
+
+#: admin/templates/widgets/es-request-widget-form.php:53
+msgid "Another email"
+msgstr ""
+"Другое письмо\n"
+
+#: admin/templates/widgets/es-request-widget-form.php:58
+msgid "Email subject"
+msgstr "Тема письма"
+
+#: admin/templates/widgets/es-request-widget.php:40
+msgid "Your name"
+msgstr "Ваше имя"
+
+#: admin/templates/widgets/es-request-widget.php:45
+msgid "Your email"
+msgstr "Ваш E-mail"
+
+#: admin/templates/widgets/es-request-widget.php:50
+msgid "Phone number"
+msgstr "Номер телефона"
+
+#: admin/templates/widgets/es-request-widget.php:78
+msgid "Send"
+msgstr "Отправитъ"
+
+#: admin/templates/upgrade-pro/upgrade-pro.php:4
+msgid "Upload downloaded estatik pro / premium"
+msgstr "Загрузить скачанный estatik pro / premium"
+
+#: admin/templates/upgrade-pro/upgrade-pro.php:9
+msgid ""
+"Please upload your Estatik Pro / Premium version in zip format and click "
+"upload to finish for update to new Version."
+msgstr ""
+"Пожалуйста, загрузите Вашу версию плагина Estatik Pro / Premium в формате "
+"ZIP и нажмите кнопку \"Загрузить\" для обновления до новой версии"
+
+#: admin/templates/upgrade-pro/upgrade-pro.php:14
+msgid "Upload archive"
+msgstr "Загрузить архив"
+
+#: admin/templates/shortcode-builder/popup.php:38
+msgid "Insert shortcode"
+msgstr "Вставить шорткод"
+
+#: admin/templates/shortcode-builder/popup.php:39
+msgid "Please click on a drop-down list and pick up the required shortcode."
+msgstr "Пожалуйста, нажмите на выпадающий список и выберите нужный шорткод."
+
+#: admin/templates/shortcode-builder/popup.php:43
+msgid "Select a shortcode"
+msgstr "Выберите шорткод"
+
+#: admin/templates/shortcode-builder/popup.php:46
+msgid "Choose shortcode"
+msgstr "Выберите шорткод"
+
+#: admin/templates/shortcode-builder/popup.php:62
+msgid "Cancel"
+msgstr "Отмена"
+
+#: admin/templates/shortcode-builder/popup.php:63
+msgid "Generate Shortcode"
+msgstr "Создать шорткод"
+
+#: admin/templates/property/metabox.php:36
+#, php-format
+msgid ""
+"Please enter Google Map API key in <a href=\"%s\" target=\"_blank\">General "
+"Settings</a> of the plugin."
+msgstr ""
+"Введите ключ API Google Map в <a href=\"%s\" target=\"_blank\"> общих "
+"настройках </a> плагина."
+
+#: admin/templates/property/media.php:7
+msgid ""
+"Here you can add video and upload images. Please enter video code in iframe "
+"format, e.g. -"
+msgstr ""
+"Здесь вы можете добавлять видео и загружать изображения. Введите код видео в "
+"формате iframe, например. -"
+
+#: admin/templates/property/media.php:17
+msgid "Embed the code"
+msgstr "Вставьте код"
+
+#: admin/templates/property/media.php:29
+msgid "Add image(s) to property"
+msgstr "Загрузить изображения  "
+
+#: admin/templates/property/media.php:50
+#, php-format
+msgid ""
+"Your theme has no <a href=\"%s\" target=\"_blank\">post thumbnail support</a>"
+"."
+msgstr ""
+"В вашей теме нет <a href=\"%s\" target=\"_blank\"> поддержки миниатюр "
+"сообщений </a>."
+
+#: admin/templates/property/filter.php:69
+msgid "MLS Profile"
+msgstr "Профиль MLS"
+
+#: admin/templates/property/filter.php:71
+msgid "-- None --"
+msgstr ""
+"-- Ничто --\n"
+
+#: admin/templates/property/filter.php:120
+msgid "Please select properties."
+msgstr "Пожалуйста, выберите свойства."
+
+#: admin/templates/property/filter.php:121
+msgid "Are you sure you want to attach this agent to selected properties?"
+msgstr ""
+"Вы уверены, что хотите прикрепить этот агент к выбранным свойствам?\n"
+
+#: admin/templates/property/filter.php:123
+msgid "Assign Agent"
+msgstr ""
+"Назначить агента\n"
+
+#: admin/templates/settings/currency-tab.php:7
+msgid "Default currency"
+msgstr "Валюта по умолчанию"
+
+#: admin/templates/settings/currency-tab.php:10
+msgid "Choose currency"
+msgstr "Выберите валюту"
+
+#: admin/templates/settings/currency-tab.php:13
+msgid "Price format"
+msgstr "Формат цены"
+
+#: admin/templates/settings/currency-tab.php:18
+msgid "Currency sign place"
+msgstr "Расположение знака валюты"
+
+#: admin/templates/settings/disclaimer-tab.php:11
+#: admin/templates/settings/general-tab.php:11
+msgid "-- Select page --"
+msgstr "-- Выберите страницу --"
+
+#: admin/templates/settings/disclaimer-tab.php:19
+msgid "Enable disclaimer"
+msgstr ""
+"Включить отказ от ответственности\n"
+
+#: admin/templates/settings/disclaimer-tab.php:23
+msgid ""
+"Enable this option if you want to show disclaimer text on single property "
+"page"
+msgstr ""
+"Включите эту опцию, если вы хотите, чтобы текст отказа от ответственности "
+"отображался на странице одного свойства"
+
+#: admin/templates/settings/disclaimer-tab.php:26
+msgid "Disclaimer Text"
+msgstr "Текст отказа от ответственности"
+
+#: admin/templates/settings/settings.php:13
+msgid "Please fill up your settings details and click save to finish"
+msgstr ""
+"Пожалуйста, заполните ваши настройки и нажмите кнопку «Сохранить» для "
+"завершения."
+
+#: admin/templates/settings/general-tab.php:19
+msgid "Enable white label"
+msgstr "Включить белую метку"
+
+#: admin/templates/settings/general-tab.php:23
+msgid ""
+"Enable this option if you want to remove estatik logo and powered by link on "
+"estatik pages"
+msgstr ""
+"Включите эту опцию, если вы хотите удалить логотип estatik и ссылку по "
+"ссылкам на страницах estatik"
+
+#: admin/templates/settings/general-tab.php:26
+msgid "Powered by link"
+msgstr "Ссылка Powered by"
+
+#: admin/templates/settings/general-tab.php:32
+msgid "Number of listings per page"
+msgstr "Количество объявлений на странице"
+
+#: admin/templates/settings/general-tab.php:37
+msgid "Custom Property Slug URI"
+msgstr "URI пользовательского свойства"
+
+#: admin/templates/settings/general-tab.php:42
+msgid "Custom Property Name"
+msgstr "Имя пользовательского свойства"
+
+#: admin/templates/settings/general-tab.php:47
+msgid "Listing publishing"
+msgstr ""
+"Листинг публикации\n"
+
+#: admin/templates/settings/general-tab.php:51
+msgid "Show price"
+msgstr "Показать цену"
+
+#: admin/templates/settings/general-tab.php:57
+msgid "Disable Property Featured Image"
+msgstr "Отключить Популярные изображения"
+
+#: admin/templates/settings/general-tab.php:63
+msgid "Title / Address"
+msgstr "Название / Адрес"
+
+#: admin/templates/settings/general-tab.php:67
+msgid "Show Address"
+msgstr "Показать адрес"
+
+#: admin/templates/settings/general-tab.php:73
+msgid "Enable Buyers"
+msgstr "Включить покупателей"
+
+#: admin/templates/settings/general-tab.php:79
+msgid "Hide Property Top Bar"
+msgstr "Скрыть объект  Top Bar"
+
+#: admin/templates/settings/general-tab.php:85
+msgid "Enable Wishlist"
+msgstr "Включить список желаний"
+
+#: admin/templates/settings/general-tab.php:91
+msgid "Disable meta:og tags"
+msgstr "Отключить мета: теги og"
+
+#: admin/templates/settings/general-tab.php:109
+msgid "Date format"
+msgstr "Формат даты"
+
+#: admin/templates/settings/general-tab.php:114
+msgid "Theme style"
+msgstr "Стиль темы"
+
+#: admin/templates/settings/general-tab.php:119
+msgid "Privacy Policy Checkbox"
+msgstr "Флажок Политика конфиденциальности"
+
+#: admin/templates/settings/general-tab.php:123
+msgid "Terms of Use page"
+msgstr "Страница условий использования"
+
+#: admin/templates/settings/general-tab.php:128
+msgid "Privacy Policy page"
+msgstr "Страница политики конфиденциальности"
+
+#: admin/templates/settings/general-tab.php:133
+msgid "Show/hide Contact Agent tab"
+msgstr "Показать / скрыть вкладку Contact Agent"
+
+#: admin/templates/settings/general-tab.php:139
+msgid "Registration page"
+msgstr "Страница регистрации"
+
+#: admin/templates/settings/general-tab.php:144
+msgid "Login page"
+msgstr "Страница авторизации"
+
+#: admin/templates/settings/general-tab.php:149
+msgid "Reset password page"
+msgstr "Страница сброса пароля"
+
+#: admin/templates/settings/general-tab.php:154
+msgid "Property management page"
+msgstr "Страница управления недвижимостью"
+
+#: admin/templates/settings/general-tab.php:159
+msgid "Agent listings page"
+msgstr ""
+"Страница списков агентов\n"
+
+#: admin/templates/settings/general-tab.php:164
+msgid "Search page"
+msgstr "Страница поиска"
+
+#: admin/templates/settings/general-tab.php:169
+msgid "Google map API key"
+msgstr "API ключ карт Google"
+
+#: admin/templates/settings/general-tab.php:173
+msgid "Google Recaptcha SiteKey"
+msgstr "Google Recaptcha SiteKey"
+
+#: admin/templates/settings/general-tab.php:177
+msgid "Google Recaptcha SecretKey"
+msgstr "Google Recaptcha SecretKey"
+
+#: admin/templates/settings/general-tab.php:184
+msgid "Admin and PDF Logo image"
+msgstr ""
+"Админ и картинка логотипа PDF \n"
+
+#: admin/templates/settings/general-tab.php:204
+msgid "Admin Logo Width"
+msgstr ""
+"Ширина логотипа администратора\n"
+
+#: admin/templates/settings/general-tab.php:208
+msgid "Admin Logo Height"
+msgstr ""
+"Высота логотипа администратора\n"
+
+#: admin/templates/settings/general-tab.php:213
+msgid "MLS connection"
+msgstr "MLS соединение"
+
+#: admin/templates/settings/general-tab.php:218
+#: rets/templates/partials/credentials-list.php:22
+#: rets/templates/partials/connect-form.php:162
+msgid "Disconnect"
+msgstr "Отключить"
+
+#: admin/templates/settings/layouts-tab.php:10
+msgid "Listings layout"
+msgstr "Расположение списка"
+
+#: admin/templates/settings/layouts-tab.php:28
+msgid "Single property layout"
+msgstr "Расположение одного объекта"
+
+#: admin/templates/settings/sharing-tab.php:19
+msgid "Google+"
+msgstr "Google+"
+
+#: admin/templates/settings/sharing-tab.php:25
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: admin/templates/settings/sharing-tab.php:31
+msgid "PDF flyer"
+msgstr "PDF брошюра"
+
+#: admin/templates/settings/sharing-tab.php:38
+msgid "PDF flyer layout"
+msgstr "Макет флаера PDF"
+
+#: admin/templates/settings/sharing-tab.php:42
+msgid "Map Zoom"
+msgstr "Увеличить Карту"
+
+#: admin/templates/settings/sharing-tab.php:49
+msgid "QR Code"
+msgstr "QR код"
+
+#: admin/templates/settings/sharing-tab.php:53
+#: admin/classes/widgets/class-request-widget.php:119
+#: templates/property/pdf/footer.php:2
+msgid "Phone"
+msgstr "Телефон"
+
+#: admin/templates/settings/sharing-tab.php:57
+#: templates/shortcodes/partials/my-profile-tab.php:53
+msgid "E-mail"
+msgstr "E-mail"
+
+#: admin/templates/settings/sharing-tab.php:66
+msgid "Sections to show"
+msgstr "Разделы, чтобы показать"
+
+#: admin/templates/settings/email-tab.php:4
+msgid "Email Logo Image"
+msgstr "Иконка электронной почты"
+
+#: admin/templates/settings/color-tab.php:7
+msgid "Main color"
+msgstr "Основной цвет"
+
+#: admin/templates/settings/color-tab.php:9
+msgid "Select color for Details and Search buttons"
+msgstr "Выберите цвет для Деталей и Кнопок поиска"
+
+#: admin/templates/settings/color-tab.php:14
+msgid "Secondary color"
+msgstr "Вторичный цвет"
+
+#: admin/templates/settings/color-tab.php:16
+msgid "Select color for widgets background and other grey elements"
+msgstr "Выберите цвет для фона виджетов и других серых элементов"
+
+#: admin/templates/settings/color-tab.php:21
+msgid "Reset button color"
+msgstr "Сбросить цвет кнопки"
+
+#: admin/templates/settings/color-tab.php:23
+msgid "Select color for reset button of search widget"
+msgstr "Выберите цвет для кнопки сброса поискового виджета"
+
+#: admin/templates/settings/color-tab.php:28
+msgid "Frame color"
+msgstr "Цвет рамки"
+
+#: admin/templates/settings/color-tab.php:30
+msgid "Change color for listing box border appearing when hovering it"
+msgstr "Изменить цвет рамки списка, появляющейся при наведении на нее курсора"
+
+#: admin/templates/settings/map-tab.php:10
+msgid "Set map markers"
+msgstr "Установить маркеры карты"
+
+#: admin/templates/settings/map-tab.php:14
+msgid "Select taxonomy"
+msgstr "Выберите таксономию"
+
+#: admin/templates/settings/map-tab.php:24
+msgid "Select term"
+msgstr "Выберите термин"
+
+#: admin/templates/settings/map-tab.php:59
+msgid "Extra settings"
+msgstr ""
+"Дополнительные настройки\n"
+
+#: admin/templates/settings/map-tab.php:71
+msgid "Number of listings to show"
+msgstr ""
+"Количество объявлений, чтобы показать\n"
+
+#: admin/templates/settings/map-tab.php:76
+msgid ""
+"Zoom <i class=\"fa fa-question-circle js-tooltipster-zoom\" aria-"
+"hidden=\"true\"></i>"
+msgstr ""
+"Zoom <i class=\"fa fa-question-circle js-tooltipster-zoom\" aria-"
+"hidden=\"true\"></i>"
+
+#: admin/templates/settings/map-tab.php:82
+msgid "Enable Clusters"
+msgstr ""
+"Включить кластеры\n"
+
+#: admin/templates/settings/map-tab.php:91
+msgid ""
+"Please create pages with shortcodes below to display map on your website"
+msgstr ""
+"Пожалуйста, создайте страницы с короткими кодами ниже, чтобы отобразить "
+"карту на вашем сайте"
+
+#: admin/templates/settings/map-tab.php:97
+msgid "All properties"
+msgstr ""
+"Все свойства\n"
+
+#: admin/templates/settings/map-tab.php:102
+msgid "Properties by type"
+msgstr "Недвижимость по типу"
+
+#: admin/templates/settings/map-tab.php:107
+msgid "Properties by category"
+msgstr "Недвижимость по категориям"
+
+#: admin/templates/settings/map-tab.php:112
+msgid "Properties by status"
+msgstr "Недвижимость по статусу"
+
+#: admin/templates/settings/map-tab.php:117
+msgid "Properties by rent period"
+msgstr "Недвижимость по сроку аренды"
+
+#: admin/templates/settings/map-tab.php:122
+msgid "Num properties for display"
+msgstr ""
+"Количество свойств для отображения\n"
+
+#: admin/templates/settings/map-tab.php:127
+#: admin/templates/settings/map-tab.php:132
+msgid "Specific properties"
+msgstr "Специфические свойства"
+
+#: admin/templates/settings/shelter-zoom-tab.php:16
+#, php-format
+msgid ""
+"Please register first at <a href=\"%s\" target=\"_blank\">ShelterZoom</a> as "
+"affiliate and enter your login and password here to get API key."
+msgstr ""
+"Сначала зарегистрируйтесь на <a href=\"%s\" target=\"_blank\"> ShelterZoom "
+"</a> в качестве партнера и введите свой логин и пароль здесь, чтобы получить "
+"ключ API."
+
+#: admin/templates/settings/shelter-zoom-tab.php:18
+msgid "Enable ShelterZoom API"
+msgstr ""
+"Включить API ShelterZoom\n"
+
+#: admin/templates/settings/shelter-zoom-tab.php:25
+msgid "Partner credentials"
+msgstr "Учетные данные партнера"
+
+#: admin/templates/settings/shelter-zoom-tab.php:26
+msgid "ShelterZoom ID"
+msgstr "ShelterZoom ID"
+
+#: admin/templates/settings/shelter-zoom-tab.php:40
+msgid "API Key"
+msgstr "Ключ API"
+
+#: admin/templates/settings/shelter-zoom-tab.php:51
+msgid "Layout settings"
+msgstr ""
+"Настройки листинга\n"
+
+#: admin/templates/settings/shelter-zoom-tab.php:52
+msgid "ShelterZoom Layout"
+msgstr "ShelterZoom Layout"
+
+#: admin/templates/settings/shelter-zoom-tab.php:57
+msgid "Rent Now Category"
+msgstr "Категория В аренду"
+
+#: admin/templates/settings/shelter-zoom-tab.php:60
+#: admin/templates/settings/shelter-zoom-tab.php:70
+msgid "-- Select category --"
+msgstr "-- Выбрать категорию --"
+
+#: admin/templates/settings/shelter-zoom-tab.php:67
+msgid "Offer Now Category"
+msgstr "Предложить категорию сейчас"
+
+#: admin/templates/settings/shelter-zoom-tab.php:77
+msgid "ShelterZoom Icon"
+msgstr "Значок ShelterZoom"
+
+#: admin/templates/import/import.php:6
+msgid "Import properties"
+msgstr "Импорт свойств"
+
+#: admin/templates/import/import.php:14
+msgid ""
+"Please Import your property detail with CSV sample and click save to finish"
+msgstr ""
+"Пожалуйста, импортируйте данные о своей собственности с образцом CSV и "
+"нажмите Сохранить, чтобы закончить"
+
+#: admin/templates/import/import.php:15
+msgid "Download Sample File"
+msgstr "Скачать образец файла"
+
+#: admin/templates/import/import.php:17
+msgid "Start import"
+msgstr "Начать импорт"
+
+#: admin/templates/import/import.php:25
+msgid "Choose source file"
+msgstr ""
+"Выберите исходный файл\n"
+
+#: admin/templates/import/import.php:31
+msgid "Property status"
+msgstr "Статус недвижимости"
+
+#: admin/templates/import/import.php:43
+msgid "Skip first line"
+msgstr "Пропустить первую строку"
+
+#: admin/templates/import/import.php:50
+msgid "Choose Import Fields"
+msgstr "Выберите поля импорта"
+
+#: admin/templates/import/import.php:52
+msgid "Choose fields for import"
+msgstr ""
+"Выберите поля для импорта\n"
+
+#: admin/templates/import/import.php:61
+msgid "CSV delimiter"
+msgstr "Разделитель CSV"
+
+#: admin/classes/migration/class-property-migration.php:298
+#, php-format
+msgid "Agent #%s saving failed"
+msgstr ""
+"Агент #%s не удалось сохранить\n"
+
+#: admin/classes/migration/class-property-migration.php:351
+#, php-format
+msgid "Agent #%s successfully migrated."
+msgstr ""
+"Агент #%s успешно перенесен.\n"
+
+#: admin/classes/migration/class-property-migration.php:433
+msgid " doesn't exist."
+msgstr "не существует"
+
+#: admin/classes/migration/class-property-migration.php:450
+msgid " already migrated."
+msgstr "уже перемещено."
+
+#: admin/classes/migration/class-property-migration.php:463
+msgid " isn't updated"
+msgstr "не обновляется"
+
+#: admin/classes/migration/class-property-migration.php:556
+#, php-format
+msgid "Property %s image: %s"
+msgstr "Объект %s изображения: %s"
+
+#: admin/classes/migration/class-property-migration.php:626
+#, php-format
+msgid "Property %s successfully migrated"
+msgstr "Объект %s успешно перенесен"
+
+#: admin/classes/widgets/class-property-slideshow-widget.php:13
+msgid "Estatik Slideshow"
+msgstr "Estatik слайд-шоу"
+
+#: admin/classes/widgets/class-property-map-widget.php:13
+msgid "Estatik Map View"
+msgstr "Estatik Map View"
+
+#: admin/classes/widgets/class-property-map-widget.php:14
+msgid "Shows your listings on the map"
+msgstr "Показывает ваши списки на карте"
+
+#: admin/classes/widgets/class-widget.php:48
+msgid "Archive page"
+msgstr "Архив страницы"
+
+#: admin/classes/widgets/class-widget.php:49
+msgid "Single Page"
+msgstr "Страница одного объекта"
+
+#: admin/classes/widgets/class-widget.php:50
+msgid "Single Property Page"
+msgstr "Единственная страница собственности"
+
+#: admin/classes/widgets/class-widget.php:51
+msgid "Archive Property Page"
+msgstr "Страница  архива"
+
+#: admin/classes/widgets/class-widget.php:52
+msgid "Category Page"
+msgstr "Страница категории"
+
+#: admin/classes/widgets/class-widget.php:53
+msgid "Search Page"
+msgstr "Страница поиска"
+
+#: admin/classes/widgets/class-widget.php:54
+msgid "Author Page"
+msgstr "Страница автора"
+
+#: admin/classes/widgets/class-widget.php:81
+msgid "Show on pages:"
+msgstr "Показать на страницах:"
+
+#: admin/classes/widgets/class-widget.php:92
+msgid "Select pages"
+msgstr "Выбрать страницы"
+
+#: admin/classes/widgets/class-widget.php:119
+msgid "All pages"
+msgstr "Все страницы"
+
+#: admin/classes/widgets/class-widget.php:120
+msgid "Show on checked pages"
+msgstr "Показывать на отмеченных страницах"
+
+#: admin/classes/widgets/class-widget.php:121
+msgid "Hide on checked pages"
+msgstr "Скрыть на отмеченных страницах"
+
+#: admin/classes/widgets/class-search-widget.php:13
+msgid "Estatik Search"
+msgstr "Поиск Estatik"
+
+#: admin/classes/widgets/class-search-widget.php:14
+msgid "Estatik Search is advanced search widget developed for Estatik plugins."
+msgstr ""
+"Estatik Search - расширенный виджет поиска, разработанный для плагинов "
+"Estatik."
+
+#: admin/classes/widgets/class-search-widget.php:24
+msgid "WP Search Page"
+msgstr "Страница поиска WP"
+
+#: admin/classes/widgets/class-search-widget.php:35
+msgid "Search page:"
+msgstr "Страница поиска:"
+
+#: admin/classes/widgets/class-search-widget.php:52
+#: admin/templates/shortcode-builder/params/es_profile-params.php:7
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:75
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:85
+#: admin/templates/shortcode-builder/params/es_search_form-params.php:63
+msgid "Horizontal"
+msgstr "Горизонтально"
+
+#: admin/classes/widgets/class-search-widget.php:52
+#: admin/templates/shortcode-builder/params/es_profile-params.php:6
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:74
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:84
+#: admin/templates/shortcode-builder/params/es_search_form-params.php:62
+msgid "Vertical"
+msgstr "Вертикально"
+
+#: admin/classes/widgets/class-search-widget.php:251
+msgid "min"
+msgstr "мин"
+
+#: admin/classes/widgets/class-search-widget.php:252
+msgid "max"
+msgstr "макс"
+
+#: admin/classes/widgets/class-request-widget.php:30
+msgid "Estatik Request Form"
+msgstr "Форма запроса Estatik"
+
+#: admin/classes/widgets/class-request-widget.php:31
+msgid "Displayed only on single property page."
+msgstr ""
+"Отображается только на одной странице свойств.\n"
+
+#: admin/classes/widgets/class-request-widget.php:43
+msgid "Admin"
+msgstr "Администратор"
+
+#: admin/classes/widgets/class-request-widget.php:45
+msgid "Admin & Agent"
+msgstr "Администратор и Агент"
+
+#: admin/classes/widgets/class-request-widget.php:46
+msgid "Other email"
+msgstr ""
+"Другое письмо\n"
+
+#: admin/classes/widgets/class-request-widget.php:106
+msgid "Invalid captcha."
+msgstr "Неверная капча."
+
+#: admin/classes/widgets/class-request-widget.php:121
+msgid "Property Link"
+msgstr "Ссылка на недвижимость"
+
+#: admin/classes/widgets/class-request-widget.php:122
+msgid "Property Address"
+msgstr "Адрес"
+
+#: admin/classes/widgets/class-request-widget.php:123
+msgid "Request"
+msgstr "Запрос"
+
+#: admin/classes/widgets/class-request-widget.php:130
+#, php-format
+msgid "Request about property #%s"
+msgstr "Запрос о недвижимости #%s"
+
+#: admin/classes/widgets/class-request-widget.php:134
+msgid "Thank you for your message! We will contact you as soon as we can."
+msgstr "Спасибо за ваше сообщение! Мы свяжемся с вами в ближайшее время."
+
+#: admin/classes/widgets/class-request-widget.php:136
+msgid "Your message wasn't sent. Please, contact support."
+msgstr ""
+"Ваше сообщение не было отправлено. Пожалуйста, свяжитесь со службой "
+"поддержки."
+
+#: admin/classes/widgets/class-request-widget.php:140
+msgid "Incorrect post."
+msgstr "Неверный пост."
+
+#: admin/classes/pages/class-import-page.php:111
+msgid "File is empty or incorrect file format."
+msgstr ""
+"Файл пуст или неверный формат файла.\n"
+
+#: admin/classes/pages/class-import-page.php:116
+msgid "File isn't uploaded. Check permissions for upload directory."
+msgstr ""
+"Файл не загружен. Проверьте разрешения для загрузки каталога.\n"
+
+#: admin/classes/pages/class-import-page.php:142
+msgid "Done!"
+msgstr "Готово!"
+
+#: admin/classes/pages/class-fields-builder-page.php:36
+#, php-format
+msgid ""
+"If you lack some fields, please go to <a href=\"%s\">Fields Builder</a> and "
+"add your own custom fields."
+msgstr ""
+"Если вам не хватает некоторых полей, перейдите на страницу <a href=\"%s\"> "
+"Fields Builder </a> и добавьте свои собственные настраиваемые поля."
+
+#: admin/classes/pages/class-fields-builder-page.php:91
+msgid "Listing fields"
+msgstr "Список полей"
+
+#: admin/classes/pages/class-fields-builder-page.php:96
+msgid "Listing sections"
+msgstr ""
+"Листинг разделов\n"
+
+#: admin/classes/pages/class-fields-builder-page.php:142
+#, php-format
+msgid "Field %s successfully created."
+msgstr "Поле% s успешно создано."
+
+#: admin/classes/pages/class-fields-builder-page.php:144
+#, php-format
+msgid "Field %s doesn't created."
+msgstr "Поле% s не создано."
+
+#: admin/classes/pages/class-fields-builder-page.php:175
+#, php-format
+msgid "Section %s successfully created."
+msgstr "Раздел% s успешно создан."
+
+#: admin/classes/pages/class-fields-builder-page.php:177
+#, php-format
+msgid "Section %s doesn't created."
+msgstr "Раздел %s не создан."
+
+#: admin/classes/pages/class-fields-builder-page.php:208
+msgid "Field successfully restored."
+msgstr "Поле успешно восстановлено."
+
+#: admin/classes/pages/class-fields-builder-page.php:211
+#: admin/classes/pages/class-fields-builder-page.php:249
+#, php-format
+msgid "Field #%s isn't exist."
+msgstr "Поле #% s не существует."
+
+#: admin/classes/pages/class-fields-builder-page.php:246
+#, php-format
+msgid "Field %s successfully removed."
+msgstr "Поле% s успешно удалено."
+
+#: admin/classes/pages/class-fields-builder-page.php:271
+#, php-format
+msgid "Section %s successfully removed."
+msgstr "Раздел% s успешно удален."
+
+#: admin/classes/pages/class-fields-builder-page.php:274
+#, php-format
+msgid "Section #%s isn't exist."
+msgstr "Раздел #%s не существует."
+
+#: admin/classes/pages/class-agent-list.php:250
+msgid "Agent ID"
+msgstr "Идентификатор агента"
+
+#: admin/classes/pages/class-agent-list.php:252
+#: admin/classes/pages/class-user-list.php:281
+msgid "Properties Q-ty"
+msgstr "Кол-во Недвижимости"
+
+#: admin/classes/pages/class-user-profile-page.php:66
+msgid "Buyer Info"
+msgstr "Информация для покупателя"
+
+#: admin/classes/pages/class-user-profile-page.php:70
+msgid "Agent Info"
+msgstr ""
+"Информация об агенте\n"
+
+#: admin/classes/pages/class-dashboard-page.php:100
+msgid "3.8.9 (July, 29, 2019) "
+msgstr "3.8.9 (July, 29, 2019) "
+
+#: admin/classes/pages/class-dashboard-page.php:108
+msgid "3.8.8 (July, 10, 2019)"
+msgstr "3.8.8 (July, 10, 2019)"
+
+#: admin/classes/pages/class-dashboard-page.php:129
+msgid "3.8.7.1 (May, 16, 2019)"
+msgstr "3.8.7.1 (May, 16, 2019)"
+
+#: admin/classes/pages/class-dashboard-page.php:133
+msgid "3.8.7 (May, 16, 2019)"
+msgstr "3.8.7 (May, 16, 2019)"
+
+#: admin/classes/pages/class-dashboard-page.php:143
+msgid "3.8.6 (April, 23, 2019)"
+msgstr "3.8.6 (April, 23, 2019)"
+
+#: admin/classes/pages/class-dashboard-page.php:152
+msgid "3.8.5 (April, 08, 2019)"
+msgstr "3.8.5 (April, 08, 2019)"
+
+#: admin/classes/pages/class-dashboard-page.php:171
+msgid "3.8.4 (March, 20, 2019)"
+msgstr "3.8.4 (March, 20, 2019)"
+
+#: admin/classes/pages/class-dashboard-page.php:178
+msgid "3.8.3 (March, 05, 2019)"
+msgstr "3.8.3 (March, 05, 2019)"
+
+#: admin/classes/pages/class-dashboard-page.php:195
+msgid "3.8.2 (January, 16, 2019)"
+msgstr "3.8.2 (January, 16, 2019)"
+
+#: admin/classes/pages/class-dashboard-page.php:212
+msgid "3.8.1 (November, 09, 2018)"
+msgstr "3.8.1 (November, 09, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:230
+msgid "3.8.0 (November, 01, 2018)"
+msgstr "3.8.0 (November, 01, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:246
+msgid "3.7.2 (October, 03, 2018)"
+msgstr "3.7.2 (October, 03, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:258
+msgid "3.7.1 (September, 14, 2018)"
+msgstr "3.7.1 (September, 14, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:267
+msgid "3.7.0 (September, 7, 2018)"
+msgstr "3.7.0 (September, 7, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:284
+#: admin/classes/pages/class-dashboard-page.php:297
+msgid "3.6.6 (August, 14, 2018)"
+msgstr "3.6.6 (August, 14, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:314
+msgid "3.6.5 (July, 6, 2018)"
+msgstr "3.6.5 (July, 6, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:327
+msgid "3.6.4 (May 29, 2018)"
+msgstr "3.6.4 (May 29, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:339
+msgid "3.6.3 (May 05, 2018)"
+msgstr "3.6.3 (May 05, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:364
+msgid "3.6.2 (March 23, 2018)"
+msgstr "3.6.2 (March 23, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:376
+msgid "3.6.1 (March 12, 2018)"
+msgstr "3.6.1 (March 12, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:387
+msgid "3.6.0 (February 10, 2018)"
+msgstr "3.6.0 (February 10, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:397
+msgid "3.5.0 (January 25, 2018)"
+msgstr "3.5.0 (January 25, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:408
+msgid "3.4.0 (January 10, 2018)"
+msgstr "3.4.0 (January 10, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:421
+msgid "3.3.7 (December 29, 2017)"
+msgstr "3.3.7 (December 29, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:429
+msgid "3.3.6 (December 13, 2017)"
+msgstr "3.3.6 (December 13, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:442
+msgid "3.3.5 (November 15, 2017)"
+msgstr "3.3.5 (November 15, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:454
+msgid "3.3.4 (November 1, 2017)"
+msgstr "3.3.4 (November 1, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:471
+msgid "3.3.3 (October 9, 2017)"
+msgstr "3.3.3 (October 9, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:487
+msgid "3.3.2 (August 11, 2017)"
+msgstr "3.3.2 (August 11, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:492
+msgid "3.3.1 (July 21, 2017)"
+msgstr "3.3.1 (July 21, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:496
+msgid "3.3.0 (Juy 17, 2017)"
+msgstr "3.3.0 (Juy 17, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:505
+msgid "3.2.1 (July 8, 2017)"
+msgstr "3.2.1 (July 8, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:513
+msgid "3.2.0 (June, 17, 2017)"
+msgstr "3.2.0 (June, 17, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:522
+msgid "3.1.0 (MAY, 24, 2017)"
+msgstr "3.1.0 (MAY, 24, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:533
+msgid "3.0.2 (May, 10, 2017)"
+msgstr "3.0.2 (May, 10, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:543
+msgid "3.0.1 (APRIL, 18, 2017)"
+msgstr "3.0.1 (APRIL, 18, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:550
+msgid "3.0.0 (April, 12, 2017)"
+msgstr "3.0.0 (April, 12, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:566
+msgid "2.4.0 (September 26, 2016)"
+msgstr "2.4.0 (September 26, 2016)"
+
+#: admin/classes/pages/class-dashboard-page.php:570
+msgid "2.3.1 (August 21, 2016)"
+msgstr "2.3.1 (August 21, 2016)"
+
+#: admin/classes/pages/class-dashboard-page.php:574
+msgid "2.3.0 (August 15, 2016)"
+msgstr "2.3.0 (August 15, 2016)"
+
+#: admin/classes/pages/class-dashboard-page.php:580
+msgid "2.2.3 (March 30, 2016)"
+msgstr "2.2.3 (March 30, 2016)"
+
+#: admin/classes/pages/class-dashboard-page.php:591
+msgid "2.2.2 (November 21, 2015)"
+msgstr "2.2.2 (November 21, 2015)"
+
+#: admin/classes/pages/class-dashboard-page.php:601
+msgid "2.2.1 (October 22, 2015)"
+msgstr "2.2.1 (October 22, 2015)"
+
+#: admin/classes/pages/class-dashboard-page.php:605
+msgid "2.2.0 (October 22, 2015)"
+msgstr "2.2.0 (October 22, 2015)"
+
+#: admin/classes/pages/class-dashboard-page.php:617
+msgid "2.1.0 (July 7, 2015)"
+msgstr "2.1.0 (July 7, 2015)"
+
+#: admin/classes/pages/class-dashboard-page.php:631
+msgid "2.0.1"
+msgstr "0.1"
+
+#: admin/classes/pages/class-dashboard-page.php:637
+msgid "2.0 (May 16, 2015)"
+msgstr "2.0 (May 16, 2015)"
+
+#: admin/classes/pages/class-dashboard-page.php:648
+msgid "1.1.1"
+msgstr "1.1.1"
+
+#: admin/classes/pages/class-dashboard-page.php:653
+msgid "1.0.1"
+msgstr "1.0.1"
+
+#: admin/classes/pages/class-dashboard-page.php:658
+msgid "1.0.0 (March 24, 2015)"
+msgstr "1.0.0 (March 24, 2015)"
+
+#: admin/classes/pages/class-settings-page.php:33
+msgid "The Taxonomy is empty."
+msgstr ""
+"Таксономия пуста.\n"
+
+#: admin/classes/pages/class-settings-page.php:36
+msgid "The Taxonomy doesn't exist"
+msgstr ""
+"Таксономия не существует\n"
+
+#: admin/classes/pages/class-settings-page.php:62
+#: rets/classes/pages/class-mls-rets-page.php:272
+msgid "General"
+msgstr "Общие"
+
+#: admin/classes/pages/class-settings-page.php:78
+msgid "Emails"
+msgstr "Сообщения электронной почты"
+
+#: admin/classes/pages/class-settings-page.php:82
+msgid "Sharing & PDF"
+msgstr "Обмен & PDF"
+
+#: admin/classes/pages/class-migration-page.php:141
+msgid "Estatik settings successfully migrated"
+msgstr "Настройки Estatik успешно перенесены"
+
+#: admin/classes/pages/class-data-manager-page.php:53
+msgid "Properties details"
+msgstr "Детали недвижимости"
+
+#: admin/classes/pages/class-data-manager-page.php:73
+msgid "Addresses"
+msgstr "Адреса"
+
+#: admin/classes/import/class-import.php:43
+msgid "Source file can't to be empty."
+msgstr "Исходный файл не может быть пустым."
+
+#: admin/classes/import/class-import.php:138
+msgid "Can't return a data provider. Source file is empty."
+msgstr ""
+"Не удается вернуть поставщика данных. Исходный файл пуст.\n"
+
+#: admin/classes/import/class-import.php:264
+#, php-format
+msgid "File of %s field didn't upload"
+msgstr ""
+"Файл поля %s не загружен\n"
+
+#: admin/classes/import/class-import.php:287
+msgid "Image field"
+msgstr "Поле изображения"
+
+#: admin/classes/import/class-import.php:344
+msgid "Incorrect property address string or coordinates."
+msgstr ""
+"Неверная строка адреса свойства или координаты.\n"
+
+#: admin/classes/import/class-import.php:362
+msgid " created!"
+msgstr "создан!"
+
+#: admin/classes/import/class-import.php:365
+msgid "Post isn't created!"
+msgstr ""
+"Пост не создан!\n"
+
+#: admin/classes/import/class-data-provider.php:39
+msgid "File doesn't exist."
+msgstr ""
+"Файл не существует\n"
+
+#: templates/shortcodes/partials/saved-searches-tab.php:12
+msgid ""
+"Your saved searches can be found here. You can delete or view new listings "
+"matching your searches."
+msgstr ""
+"Ваши сохраненные поиски можно найти здесь. Вы можете удалить или просмотреть "
+"новые списки, соответствующие вашим запросам."
+
+#: templates/shortcodes/partials/saved-searches-tab.php:20
+#, php-format
+msgid "Saved Search #%s"
+msgstr "Сохраненный поиск #%s"
+
+#: templates/shortcodes/partials/saved-searches-tab.php:73
+msgid "View Listings"
+msgstr "Просмотр листингов"
+
+#: templates/shortcodes/partials/saved-searches-tab.php:77
+msgid "Delete Search"
+msgstr "Удалить поиск"
+
+#: templates/shortcodes/partials/saved-homes-tab.php:10
+msgid ""
+"Your saved homes can be found here. You can view details or delete your "
+"favourite listings."
+msgstr ""
+"Ваши сохраненные дома можно найти здесь. Вы можете просмотреть детали или "
+"удалить свои любимые списки."
+
+#: templates/shortcodes/partials/my-profile-tab.php:30
+msgid "Change Photo"
+msgstr "Изменить фотографию"
+
+#: templates/shortcodes/partials/my-profile-tab.php:112
+msgid "Confirm Password"
+msgstr "Подтвердите Пароль"
+
+#: templates/property/pdf/footer.php:72
+msgid "Call us now"
+msgstr "Позвоните нам сейчас"
+
+#: subscriptions/templates/widgets/dashboard-subscription.php:17
+msgid "Current subscription plan"
+msgstr ""
+"Текущий план подписки\n"
+
+#: subscriptions/templates/widgets/dashboard-subscription.php:26
+msgid "Property qty"
+msgstr "Кол-во объектов"
+
+#: subscriptions/templates/widgets/dashboard-subscription.php:34
+msgid "Featured qty"
+msgstr ""
+"Рекомендуемое кол-во\n"
+
+#: subscriptions/templates/widgets/dashboard-subscription.php:43
+msgid "Amount"
+msgstr ""
+"Количество\n"
+
+#: subscriptions/templates/widgets/dashboard-subscription.php:53
+msgid "Initial Amount"
+msgstr ""
+"Начальная сумма\n"
+
+#: subscriptions/templates/widgets/dashboard-subscription.php:63
+msgid "Subscription period"
+msgstr "Период подписки"
+
+#: subscriptions/templates/widgets/dashboard-subscription.php:73
+msgid "Trial period"
+msgstr ""
+"Испытательный срок\n"
+
+#: subscriptions/templates/settings/tab.php:12
+msgid "Enable subscriptions"
+msgstr "Включить подписки"
+
+#: subscriptions/templates/settings/tab.php:20
+msgid "Subscription expired subject"
+msgstr "Тема подписки просрочена"
+
+#: subscriptions/templates/settings/tab.php:25
+msgid "Subscription expired message"
+msgstr "Сообщение об истечении срока подписки"
+
+#: subscriptions/templates/settings/tab.php:33
+msgid "Checkout page"
+msgstr ""
+"Страница оформления заказа\n"
+
+#: subscriptions/templates/settings/payment.php:4
+msgid "-- Select PayPal Success Page --"
+msgstr "-- Выберите страницу успеха PayPal --"
+
+#: subscriptions/templates/settings/payment.php:12
+msgid "PayPal Subscription settings"
+msgstr ""
+"Настройки подписки PayPal\n"
+
+#: subscriptions/templates/settings/payment.php:14
+msgid "PayPal mode"
+msgstr "Режим PayPal"
+
+#: subscriptions/templates/settings/payment.php:19
+msgid "PayPal Username"
+msgstr ""
+"PayPal Имя пользователя\n"
+
+#: subscriptions/templates/settings/payment.php:23
+msgid "PayPal password"
+msgstr ""
+"PayPal пароль\n"
+
+#: subscriptions/templates/settings/payment.php:27
+msgid "Signature"
+msgstr "Подпись"
+
+#: subscriptions/templates/settings/payment.php:31
+msgid "PayPal Response Page"
+msgstr ""
+"Страница ответов PayPal\n"
+
+#: subscriptions/templates/settings/payment.php:39
+msgid ""
+"Use <b>[es_subscription_paypal_response_page]</b> shortcode if you want "
+"create a custom PayPal page."
+msgstr ""
+"Используйте <b> [es_subscription_paypal_response_page] </ b> шорткод, если "
+"вы хотите создать пользовательскую страницу PayPal."
+
+#: subscriptions/templates/settings/payment.php:43
+msgid "PayPal Return URL"
+msgstr "Обратный URL PayPal"
+
+#: subscriptions/templates/settings/payment.php:49
+msgid "PayPal Cancel URL"
+msgstr "URL отмены PayPal"
+
+#: subscriptions/templates/settings/payment.php:55
+msgid "PayPal Notify URL (for IPN)"
+msgstr ""
+"URL уведомления PayPal (для IPN)\n"
+
+#: subscriptions/classes/pages/class-subscription-list-page.php:101
+msgid "Properties q-ty"
+msgstr "Кол-во недвижимости"
+
+#: subscriptions/classes/pages/class-order-list-page.php:104
+msgid "Order status"
+msgstr ""
+"Статус заказа\n"
+
+#: subscriptions/classes/pages/class-order-list-page.php:135
+#: subscriptions/classes/pages/class-order-list-page.php:143
+#: subscriptions/classes/pages/class-order-list-page.php:151
+#: subscriptions/classes/pages/class-order-list-page.php:159
+msgid "Not set"
+msgstr ""
+"Не установлен\n"
+
+#: subscriptions/classes/payments/class-paypal-subscription-payment-method.php:264
+msgid "Live"
+msgstr "Live"
+
+#: subscriptions/classes/payments/class-paypal-subscription-payment-method.php:265
+msgid "Sandbox (test mode)"
+msgstr "Песочница (тестовый режим)"
+
+#: subscriptions/classes/payments/class-paypal-subscription-payment-method.php:339
+#, php-format
+msgid "Payment successful. Your subscription plan is <b>%s</b>."
+msgstr "Оплата успешна. Ваш тарифный план <b>%s</ b>."
+
+#: subscriptions/classes/payments/class-paypal-subscription-payment-method.php:341
+msgid "Payment successful. Please, wait for PayPal approve."
+msgstr "Оплата успешна. Пожалуйста, подождите, пока PayPal утвердит."
+
+#: subscriptions/classes/payments/class-paypal-subscription-payment-method.php:344
+msgid "Invalid PayPal subscription response."
+msgstr ""
+"Неверный ответ подписки PayPal.\n"
+
+#: subscriptions/classes/payments/class-paypal-subscription-payment-method.php:350
+msgid "Invalid PayPal Token or Order."
+msgstr ""
+"Неверный токен PayPal или заказ.\n"
+
+#: subscriptions/classes/payments/class-paypal-subscription-payment-method.php:409
+msgid "Payment successfully canceled."
+msgstr "Платеж успешно отменен."
+
+#: rets/templates/partials/filter-fields.php:35
+msgid "From"
+msgstr ""
+"От\n"
+
+#: rets/templates/partials/filter-fields.php:36
+msgid "To"
+msgstr "К"
+
+#: rets/templates/partials/filter-fields.php:49
+msgid "Set filter fields"
+msgstr "Установить поля фильтра"
+
+#: rets/templates/partials/field.php:31
+msgid "-- Choose property field --"
+msgstr ""
+"-- Выберите поле свойства --\n"
+
+#: rets/templates/partials/field.php:32
+msgid "-- NEW FIELD --"
+msgstr ""
+"-- НОВОЕ ПОЛЕ --\n"
+
+#: rets/templates/partials/field.php:46
+msgid "-- Choose object type --"
+msgstr ""
+"-- Выберите тип объекта --\n"
+
+#: rets/templates/partials/field.php:60
+msgid "Filterable"
+msgstr "Фильтрующийся"
+
+#: rets/templates/partials/actualizer-form.php:56
+msgid "Delete entities"
+msgstr ""
+"Удалить объекты\n"
+
+#: rets/templates/partials/actualizer-form.php:59
+msgid "Delete on field"
+msgstr ""
+"Удалить на поле\n"
+
+#: rets/templates/partials/actualizer-form.php:62
+#: rets/templates/partials/actualizer-form.php:89
+#: rets/templates/partials/actualizer-form.php:114
+#: rets/templates/partials/actualizer-form.php:127
+msgid "--- Select field ---"
+msgstr "--- Выберите поле ---"
+
+#: rets/templates/partials/actualizer-form.php:72
+#: rets/templates/partials/actualizer-form.php:99
+msgid "Loading ..."
+msgstr ""
+"Загрузка ...\n"
+
+#: rets/templates/partials/actualizer-form.php:76
+msgid ""
+"Here you can map the field that will be checked and listings with this field "
+"value removed from your server. For example, when selected Status - Expired, "
+"it means all listings with Status Expired will be removed after "
+"synchronization."
+msgstr ""
+"Здесь вы можете сопоставить поле, которое будет проверяться, и списки со "
+"значением этого поля, удаленным с вашего сервера. Например, когда выбрано "
+"«Статус - истек», это означает, что все списки с «Истекшим статусом» будут "
+"удалены после синхронизации."
+
+#: rets/templates/partials/actualizer-form.php:83
+msgid "Unpublish entities"
+msgstr ""
+"Отменить публикацию\n"
+
+#: rets/templates/partials/actualizer-form.php:86
+msgid "Unpublish on field"
+msgstr ""
+"Отменить публикацию на поле\n"
+
+#: rets/templates/partials/actualizer-form.php:103
+msgid ""
+"Here you can map the field for listings get unpublished. For example, Status "
+"- Pending."
+msgstr ""
+"Здесь вы можете отобразить поле для списков неопубликованных. Например, "
+"Статус - Ожидание."
+
+#: rets/templates/partials/actualizer-form.php:108
+msgid "Update entities"
+msgstr "Обновить объекты"
+
+#: rets/templates/partials/actualizer-form.php:111
+msgid "Compare field"
+msgstr ""
+"Сравнить поле\n"
+
+#: rets/templates/partials/actualizer-form.php:124
+msgid "Compare with"
+msgstr ""
+"Сравнить с\n"
+"\n"
+
+#: rets/templates/partials/actualizer-form.php:137
+msgid ""
+"Here you can map the field that will be checked to update or skip listings. "
+"For example MLS Update date = Last Change Date."
+msgstr ""
+"Здесь вы можете сопоставить поле, которое будет проверяться для обновления "
+"или пропустить списки. Например, дата обновления MLS = дата последнего "
+"изменения."
+
+#: rets/templates/partials/actualizer-form.php:145
+#: admin/templates/fields-builder/forms/section-form.php:14
+#: admin/templates/fields-builder/forms/field-form.php:14
+msgid "Update"
+msgstr "Обновить"
+
+#: rets/templates/partials/actualizer-form.php:147
+#: admin/templates/fields-builder/forms/section-form.php:17
+#: admin/templates/fields-builder/forms/field-form.php:18
+msgid "Create"
+msgstr "Создать"
+
+#: rets/templates/partials/actualizer-form.php:155
+msgid ""
+"You have no any predefined schedules. Please, contact the estatik support "
+"for check this problem."
+msgstr ""
+"У вас нет предопределенных расписаний. Пожалуйста, обратитесь в службу "
+"поддержки estatik для проверки этой проблемы."
+
+#: rets/templates/partials/property-table.php:38
+#, php-format
+msgid "Total: <b>%d</b> items"
+msgstr ""
+"Итого: %d предметов\n"
+
+#: rets/templates/partials/property-table.php:95
+#, php-format
+msgid "Please, set <b>%s</b> field in %s tab."
+msgstr "Пожалуйста, установите поле <b>%s</ b> на вкладке %s."
+
+#: rets/templates/partials/property-table.php:103
+msgid "Show values"
+msgstr "Показать значения"
+
+#: rets/templates/partials/credentials-list.php:1
+msgid "RETS credentials list"
+msgstr "RETS список учетных данных"
+
+#: rets/templates/partials/credentials-list.php:3
+msgid ""
+"In this area you can check your multiple RETS profiles, edit credentials, "
+"connect/disconnect or remove them. "
+msgstr ""
+"В этой области вы можете проверить несколько профилей RETS, отредактировать "
+"учетные данные, подключить / отключить или удалить их."
+
+#: rets/templates/partials/credentials-list.php:26
+#: rets/templates/partials/connect-form.php:164
+msgid "Connect"
+msgstr ""
+"соединять\n"
+
+#: rets/templates/partials/credentials-list.php:31
+msgid "Edit credentials"
+msgstr "Изменить учетные данные"
+
+#: rets/templates/partials/connect-form.php:12
+msgid "Edit rets credentials"
+msgstr "Изменить учетные данные"
+
+#: rets/templates/partials/connect-form.php:14
+msgid "Add rets credentials"
+msgstr ""
+"Добавить учетные данные\n"
+
+#: rets/templates/partials/connect-form.php:19
+#, php-format
+msgid ""
+"Please enter here your RETS link and credentials that can be provided by "
+"your MLS provider. Read %s details."
+msgstr ""
+"Пожалуйста, введите здесь свою ссылку RETS и учетные данные, которые могут "
+"быть предоставлены вашим поставщиком MLS. Прочитайте %s подробности."
+
+#: rets/templates/partials/connect-form.php:27
+msgid "RETS Login URL"
+msgstr "RETS Логин URL"
+
+#: rets/templates/partials/connect-form.php:47
+msgid "Advanced"
+msgstr ""
+"Продвинутый\n"
+
+#: rets/templates/partials/connect-form.php:52
+msgid "RETS Version"
+msgstr "Версия RETS"
+
+#: rets/templates/partials/connect-form.php:59
+msgid "User agent"
+msgstr "Пользовательский агент"
+
+#: rets/templates/partials/connect-form.php:66
+msgid "User agent password"
+msgstr "Пароль агента пользователя"
+
+#: rets/templates/partials/connect-form.php:72
+msgid "Http authentication method"
+msgstr "Http метод аутентификации"
+
+#: rets/templates/partials/connect-form.php:75
+msgid "Digest"
+msgstr ""
+"Дайджест\n"
+
+#: rets/templates/partials/connect-form.php:76
+msgid "Basic"
+msgstr ""
+"Основной\n"
+
+#: rets/templates/partials/connect-form.php:80
+msgid "Images q-ty per listing"
+msgstr "Количество изображений в списке"
+
+#: rets/templates/partials/connect-form.php:85
+msgid "Disable follow location"
+msgstr "Отключить отслеживание местоположения"
+
+#: rets/templates/partials/connect-form.php:91
+msgid "Use object locations"
+msgstr "Использовать местоположение объекта"
+
+#: rets/templates/partials/connect-form.php:97
+msgid "Use remote images"
+msgstr "Используйте удаленные изображения"
+
+#: rets/templates/partials/connect-form.php:103
+msgid "Disable thumbnails generation"
+msgstr "Отключить создание миниатюр"
+
+#: rets/templates/partials/connect-form.php:109
+msgid "Offset fix"
+msgstr ""
+"Смещение исправить\n"
+
+#: rets/templates/partials/connect-form.php:115
+msgid "Skip first import image"
+msgstr "Пропустить первый импорт изображения"
+
+#: rets/templates/partials/connect-form.php:121
+msgid "Enable google address validation"
+msgstr ""
+"Включить проверку адреса Google\n"
+
+#: rets/templates/partials/connect-form.php:127
+msgid "Disable address formatting"
+msgstr "Отключить форматирование адреса"
+
+#: rets/templates/partials/connect-form.php:133
+msgid "Disable Fields Select"
+msgstr "Отключить выбор полей"
+
+#: rets/templates/partials/connect-form.php:139
+msgid "Use Post Method"
+msgstr "Использовать почтовый метод"
+
+#: rets/templates/partials/connect-form.php:145
+msgid "Miscellaneous Search Error Fix"
+msgstr "Исправлена ошибка поиска по-разному"
+
+#: rets/classes/pages/class-mls-rets-page.php:27
+#, php-format
+msgid "%s RETS profile active now: <b>%s</b> (RETS User)"
+msgstr "Профиль %s RETS активен: <b>%s</ b> (пользователь RETS)"
+
+#: rets/classes/pages/class-mls-rets-page.php:51
+msgid "Credentials successfully saved."
+msgstr ""
+"Учетные данные успешно сохранены.\n"
+
+#: rets/classes/pages/class-mls-rets-page.php:57
+msgid "Credentials data are empty."
+msgstr ""
+"Данные для учетных данных пусты.\n"
+
+#: rets/classes/pages/class-mls-rets-page.php:81
+msgid "Resource, Class or Entity is empty. Please set these fields."
+msgstr "Ресурс, класс или сущность пустые. Пожалуйста, установите эти поля."
+
+#: rets/classes/pages/class-mls-rets-page.php:89
+#, php-format
+msgid ""
+"Schedule didn't saved! Please, set %s MLS ID field on the %s tab for <b>"
+"%s</b> resource of <b>%s</b> class."
+msgstr ""
+"Расписание не сохранено! Пожалуйста, установите поле %s MLS ID на вкладке %s "
+"для ресурса <b>%s</ b> класса <b>%s</ b>."
+
+#: rets/classes/pages/class-mls-rets-page.php:152
+msgid "The Schedule successfully saved."
+msgstr ""
+"Расписание успешно сохранено.\n"
+
+#: rets/classes/pages/class-mls-rets-page.php:154
+msgid "Schedule didn'n saved: "
+msgstr "Расписание не сохранилось:"
+
+#: rets/classes/pages/class-mls-rets-page.php:233
+msgid "Actualizator successfully saved."
+msgstr ""
+"Актуализатор успешно сохранен.\n"
+
+#: rets/classes/pages/class-mls-rets-page.php:280
+msgid "Fields Configuration"
+msgstr ""
+"Конфигурация полей\n"
+
+#: rets/classes/pages/class-mls-rets-page.php:295
+msgid "Synchronization"
+msgstr "Синхронизация"
+
+#: admin/templates/demo-content/partials/step-pagination.php:15
+msgid "Pages setup"
+msgstr "Настройка страниц"
+
+#: admin/templates/demo-content/partials/step-pagination.php:19
+msgid "Setup keys"
+msgstr "Настройка ключей"
+
+#: admin/templates/demo-content/partials/step-pagination.php:23
+msgid "Demo listing"
+msgstr "Демо листинг"
+
+#: admin/templates/fields-builder/partials/_field.php:14
+#, php-format
+msgid "Machine name: <b>%s</b>"
+msgstr "Имя машины: <b>%s</ b>"
+
+#: admin/templates/fields-builder/partials/_field.php:14
+msgid "Copy to Clipboard"
+msgstr ""
+"Скопировать в буфер обмена\n"
+
+#: admin/templates/fields-builder/partials/_field.php:19
+#: admin/templates/fields-builder/partials/_field.php:29
+msgid "Remove field"
+msgstr "Удалить поле"
+
+#: admin/templates/fields-builder/partials/_field.php:22
+msgid "Edit field"
+msgstr "Редактировать поле"
+
+#: admin/templates/fields-builder/partials/_field.php:26
+msgid "Restore field"
+msgstr "Восстановить поле"
+
+#: admin/templates/fields-builder/partials/_section.php:20
+msgid "Remove section"
+msgstr "Удалить раздел"
+
+#: admin/templates/fields-builder/partials/_section.php:23
+msgid "Edit Section"
+msgstr "Редактировать раздел"
+
+#: admin/templates/fields-builder/forms/section-form.php:13
+msgid "Update section"
+msgstr "Обновить раздел"
+
+#: admin/templates/fields-builder/forms/section-form.php:16
+msgid "Create section"
+msgstr "Создать раздел"
+
+#: admin/templates/fields-builder/forms/section-form.php:33
+msgid "Section Name"
+msgstr "Название раздела"
+
+#: admin/templates/fields-builder/forms/section-form.php:39
+msgid "Show tab"
+msgstr "Показать вкладку"
+
+#: admin/templates/fields-builder/forms/section-form.php:51
+#: admin/templates/fields-builder/forms/field-form.php:105
+msgid "Visible for"
+msgstr "Видимый для"
+
+#: admin/templates/fields-builder/forms/section-form.php:53
+#: admin/templates/fields-builder/forms/field-form.php:107
+msgid "All Users"
+msgstr "Все пользователи"
+
+#: admin/templates/fields-builder/forms/section-form.php:54
+#: admin/templates/fields-builder/forms/field-form.php:108
+msgid "Admins"
+msgstr "Админы"
+
+#: admin/templates/fields-builder/forms/section-form.php:55
+#: admin/templates/fields-builder/forms/field-form.php:109
+msgid "Admins & Agents"
+msgstr ""
+"Администраторы и Агенты\n"
+
+#: admin/templates/fields-builder/forms/field-form.php:13
+msgid "Update field"
+msgstr "Обновить поле"
+
+#: admin/templates/fields-builder/forms/field-form.php:17
+msgid "Create field"
+msgstr "Создать поле"
+
+#: admin/templates/fields-builder/forms/field-form.php:37
+msgid "Field Name"
+msgstr "Имя поля"
+
+#: admin/templates/fields-builder/forms/field-form.php:45
+msgid "-- Choose field type --"
+msgstr "-- Выберите тип поля --"
+
+#: admin/templates/fields-builder/forms/field-form.php:66
+msgid "Page Section / Admin tab"
+msgstr ""
+"Раздел страницы / Вкладка администратора\n"
+
+#: admin/templates/fields-builder/forms/field-form.php:78
+msgid "Mandatory"
+msgstr "Обязательный"
+
+#: admin/templates/fields-builder/forms/field-form.php:85
+msgid "Search Support"
+msgstr "Поиск поддержки"
+
+#: admin/templates/fields-builder/forms/field-form.php:92
+msgid "CSV Import support"
+msgstr ""
+"CSV Import поддержка\n"
+
+#: admin/templates/fields-builder/forms/field-form.php:99
+msgid "RETS Support"
+msgstr "Поддержка RETS"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:4
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:3
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:3
+msgid "General settings"
+msgstr ""
+"Общие настройки\n"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:12
+msgid "Choose the layout for listings."
+msgstr "Выберите макет для объявлений."
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:24
+msgid "Properties Per Page"
+msgstr "Объекты  на странице"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:31
+msgid "Sort By"
+msgstr "Сортировать По"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:34
+msgid "Select Sort"
+msgstr "Выбрать сортировку"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:76
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:38
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:38
+msgid "Rent Period"
+msgstr "Срок аренды"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:105
+msgid "Show Properties"
+msgstr "Показать объекты"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:108
+#: admin/templates/shortcode-builder/params/es_single-params.php:10
+msgid "Type Property ID or Title"
+msgstr "Тип ID недвижимости или заголовок"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:118
+msgid "Use this field to show listings of specific agent(s)."
+msgstr "Используйте это поле, чтобы показать списки конкретных агентов."
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:135
+msgid "Show Filter"
+msgstr "Показать фильтр"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:145
+msgid "Address settings"
+msgstr "Настройки адреса"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:151
+msgid "Address String"
+msgstr "Строка адреса"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:166
+msgid "Select Country"
+msgstr "Выберите страну"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:181
+msgid "Select State"
+msgstr "Выберите штат"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:196
+msgid "Select City"
+msgstr "Выберите город"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:210
+msgid "Specific Features"
+msgstr "Особенности"
+
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:66
+msgid "Map settings"
+msgstr "Настройки карты"
+
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:69
+#, php-format
+msgid "You can setup map icons and color, enable clusters %s."
+msgstr "Вы можете настроить значки и цвет карты, включить кластеры %s."
+
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:87
+msgid "CSS Classes"
+msgstr ""
+"CSS классы\n"
+
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:103
+#: admin/templates/shortcode-builder/params/es_search_map-params.php:10
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:116
+msgid "Show All Properties"
+msgstr "Показать все свойства"
+
+#: admin/templates/shortcode-builder/params/es_listing_agent-params.php:4
+msgid "Agent Name"
+msgstr ""
+"Имя агента\n"
+
+#: admin/templates/shortcode-builder/params/es_single-params.php:5
+msgid "Show Property"
+msgstr "Показать недвижимость"
+
+#: admin/templates/shortcode-builder/params/es_single-params.php:6
+msgid "Please start typing the listing TITLE and select the correct one below."
+msgstr ""
+"Пожалуйста, начните вводить название заголовка и выберите правильный ниже."
+
+#: admin/templates/shortcode-builder/params/es_search-params.php:8
+msgid "Choose the layout for listings on Search results page."
+msgstr "Выберите макет для списков на странице результатов поиска."
+
+#: admin/templates/shortcode-builder/params/es_search_map-params.php:19
+msgid "Search Form Settings"
+msgstr "Настройки формы поиска"
+
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:66
+msgid "Slider settings"
+msgstr "Настройки слайдера"
+
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:71
+msgid "Slider effect"
+msgstr "Эффект слайдера"
+
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:93
+msgid "Slides To Show"
+msgstr "Слайды, чтобы показать"
+
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:100
+msgid "Margin"
+msgstr "Поле"
+
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:123
+msgid "Show Arrows"
+msgstr "Показать стрелки"
+
+#: admin/templates/shortcode-builder/params/es_subscription_table-params.php:1
+#: admin/templates/shortcode-builder/params/es_subscription_paypal_response_page-params.php:1
+#, php-format
+msgid "Please make sure you have configured Subscriptions settings %s."
+msgstr "Убедитесь, что вы настроили параметры подписки %s."
+
+#: admin/templates/shortcode-builder/params/es_search_form-params.php:22
+msgid "Search Result Page"
+msgstr "Страница результатов поиска"
+
+#: admin/templates/shortcode-builder/params/es_search_form-params.php:23
+msgid "Select here the correct page with shortcode [es_search]."
+msgstr "Выберите здесь правильную страницу с коротким кодом [es_search]."
+
+#: admin/templates/shortcode-builder/params/es_search_form-params.php:27
+msgid "Select page"
+msgstr "Выберите страницу"
+
+#: admin/templates/shortcode-builder/params/es_search_form-params.php:30
+msgid "-- Current Page --"
+msgstr "-- Текущая страница --"
+
+#: admin/templates/shortcode-builder/params/es_search_form-params.php:46
+msgid "Search Fields"
+msgstr "Поля поиска"
+
+#: admin/templates/shortcode-builder/params/es_search_form-params.php:69
+msgid "Enable Save Search"
+msgstr ""
+"Включить сохранение поиска\n"
+
+#: admin/templates/fields-builder/partials/options/file.php:4
+msgid "Mime types"
+msgstr "MIME типы "
+
+#: admin/templates/fields-builder/partials/options/file.php:8
+msgid "Show as thumbnail"
+msgstr "Показать как миниатюру"
+
+#: admin/templates/fields-builder/partials/options/number.php:4
+msgid "Min"
+msgstr "Min"
+
+#: admin/templates/fields-builder/partials/options/number.php:9
+msgid "Max"
+msgstr "Максимум"
+
+#: admin/templates/fields-builder/partials/options/number.php:14
+msgid "Step"
+msgstr "Шаг"
+
+#: admin/templates/fields-builder/partials/options/number.php:18
+#: admin/templates/fields-builder/partials/options/range.php:3
+msgid "Show search range"
+msgstr "Показать диапазон поиска"
+
+#: admin/templates/fields-builder/partials/options/multiple.php:15
+msgid "-- Input value --"
+msgstr "-- входное значение --"
+
+#: admin/templates/fields-builder/partials/options/multiple.php:28
+msgid "Multiple"
+msgstr "Множественный"
+
+#: admin/templates/fields-builder/partials/options/range.php:9
+msgid "Field range mode"
+msgstr "Режим диапазона поля"
+
+#. Name of the plugin
+msgid "Estatik Premium"
+msgstr "Estatik Premium"
+
+#. Description of the plugin
+msgid "An advanced-featured Wordpress real estate plugin from Estatik."
+msgstr ""
+"Продвинутый плагин Wordpress для недвижимости от Estatik.\n"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://estatik.net"
+msgstr "http://estatik.net"

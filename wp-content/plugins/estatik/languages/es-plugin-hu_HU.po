@@ -1,0 +1,5165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Estatik\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-01 12:43+0000\n"
+"PO-Revision-Date: 2019-08-07 10:59+0000\n"
+"Last-Translator: estatik4wp@gmail.com <estatik4wp@gmail.com>\n"
+"Language-Team: Hungarian\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: ru_RU\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SearchPath-0: estatik\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Loco-Version: 2.3.0; wp-4.9.10"
+
+#: functions.php:219
+msgid "Ver"
+msgstr "Ver"
+
+#: functions.php:305
+#, php-format
+msgid "%g bath"
+msgstr "%g fürdő"
+
+#: functions.php:305
+#, php-format
+msgid "%g baths"
+msgstr "%g fürdő"
+
+#: functions.php:339
+#, php-format
+msgid "%g bed"
+msgstr "%g ágy"
+
+#: functions.php:339
+#, php-format
+msgid "%g beds"
+msgstr "%g ágy"
+
+#: functions.php:440 classes/class-property.php:385
+msgid "Call for price"
+msgstr "Hívjon árat"
+
+#: functions.php:758
+#: subscriptions/classes/pages/class-subscription-list-page.php:103
+msgid "Featured"
+msgstr "Kiemelt"
+
+#: functions.php:759
+msgid "Hot"
+msgstr "Legfrissebb"
+
+#: functions.php:760 rets/functions.php:503
+msgid "Open House"
+msgstr "Nyitott ház"
+
+#: functions.php:761
+msgid "Foreclosure"
+msgstr "Kizárás"
+
+#: functions.php:1654 functions.php:1657
+msgid "Edit property"
+msgstr "Tulajdonság szerkesztése"
+
+#: functions.php:1739
+msgid "Item didn't added to the wishlist"
+msgstr "Az elem nem lett hozzáadva a kívánságlistához"
+
+#: functions.php:1742
+msgid "Incorrect wishlist action."
+msgstr "Helytelen kívánságlista művelet."
+
+#: functions.php:1745
+msgid "Incorrect property type."
+msgstr "Helytelen tulajdonságtípus."
+
+#: functions.php:1748
+msgid "Incorrect property."
+msgstr "Helytelen tulajdonság."
+
+#: functions.php:1751 classes/class-saved-search-component.php:93
+msgid "Invalid security nonce. Please, refresh the page."
+msgstr "Érvénytelen biztonsági nonce. Kérjük, frissítse az oldalt."
+
+#: functions.php:1917
+msgid "New listings matching your saved search"
+msgstr ""
+"Új listák, amelyek megfelelnek a mentett keresésnek\n"
+
+#: functions.php:1937
+msgid "Daily"
+msgstr ""
+"Napi\n"
+
+#: functions.php:1944
+msgid "Weekly"
+msgstr ""
+"Heti\n"
+
+#: functions.php:1951
+msgid "Monthly"
+msgstr ""
+"Havi\n"
+
+#: functions.php:2006 functions.php:2007
+msgid "Estatik Shortcode Builder"
+msgstr "Estatik Shortcode Builder"
+
+#: functions.php:2210 admin/classes/pages/class-settings-page.php:92
+msgid "Disclaimer"
+msgstr "Lemondás"
+
+#: functions.php:2408 admin/templates/settings/sharing-tab.php:13
+msgid "Facebook"
+msgstr "Facebook"
+
+#: functions.php:2412 admin/templates/settings/sharing-tab.php:7
+msgid "Twitter"
+msgstr "Twitter"
+
+#: functions.php:2416
+msgid "Google Plus"
+msgstr "Google Plusz"
+
+#: functions.php:2420
+msgid "Pinterest"
+msgstr ""
+"Pinterest\n"
+
+#: functions.php:2424
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: functions.php:2428
+msgid "Youtube"
+msgstr "Youtube"
+
+#: templates/search.php:3
+msgid "Search properties"
+msgstr "Keresési tulajdonságok"
+
+#: templates/content-archive.php:29
+msgid "No image"
+msgstr "Következő lépés"
+
+#: templates/content-archive.php:116
+msgid "View on map"
+msgstr "Mutasd térképen"
+
+#: templates/content-archive.php:120 rets/templates/actualization-tab.php:126
+#: rets/templates/actualization-tab.php:138
+msgid "Details"
+msgstr "Részletek"
+
+#: templates/archive-properties.php:15
+msgid "Properties"
+msgstr "Ingatlan"
+
+#: templates/archive-properties.php:29 rets/ajax.php:410
+#: subscriptions/classes/class-subscription-table-shortcode.php:29
+#: classes/shortcodes/class-subscription-paypal-response-page-shortcode.php:24
+msgid "Nothing to display."
+msgstr "Semmi nem látható."
+
+#: templates/powered.php:6
+#, php-format
+msgid "Powered by <a href=\"%s\" target=\"_blank\">Estatik</a>"
+msgstr "Powered by <a href=\"%s\" target=\"_blank\"> Estatik </a>"
+
+#: subscriptions/functions.php:16
+msgid "Week"
+msgstr ""
+"Hét\n"
+
+#: subscriptions/functions.php:17
+msgid "Month"
+msgstr ""
+"Hónap\n"
+
+#: subscriptions/functions.php:18
+msgid "Year"
+msgstr "Év"
+
+#: subscriptions/functions.php:160
+msgid "PayPal Subscription"
+msgstr ""
+"PayPal előfizetés\n"
+
+#: subscriptions/functions.php:489
+msgid "subscription plan"
+msgstr ""
+"Előfizetési terv\n"
+
+#: subscriptions/functions.php:496
+#, php-format
+msgid "Your subscription is expired, please update your %s."
+msgstr "Előfizetése lejárt, kérjük, frissítse a %s fájlt."
+
+#: subscriptions/functions.php:501
+#, php-format
+msgid ""
+"You subscription plan doesn't allow to publish more than %s listings, please "
+"update your %s or unpublish some properties."
+msgstr ""
+"Az előfizetési terv nem engedélyezi a %s adatainak közzétételét, kérjük, "
+"frissítse a %s szolgáltatást, vagy vonja vissza az egyes tulajdonságok "
+"közzétételét."
+
+#: subscriptions/functions.php:508
+#, php-format
+msgid ""
+"Your have no subscription to publish new properties, please update your %s."
+msgstr "Nincs előfizetése új ingatlanok közzétételére, kérjük, frissítse %s."
+
+#: rets/functions.php:44
+msgid "Each 2 min"
+msgstr "Mindegyik 2 perc"
+
+#: rets/functions.php:45
+msgid "Each 5 min"
+msgstr "Minden 5 perc"
+
+#: rets/functions.php:46
+msgid "Once Weekly"
+msgstr ""
+"Hetente egyszer\n"
+
+#: rets/functions.php:47
+msgid "Once a Month"
+msgstr "Havonta egyszer"
+
+#: rets/functions.php:500 classes/class-estatik-init.php:1321
+msgid "Property"
+msgstr "Ingatlan"
+
+#: rets/functions.php:501 classes/class-property.php:322
+#: classes/class-property.php:329 admin/classes/class-fbuilder-helper.php:393
+#: templates/shortcodes/register.php:28
+#: classes/pages/class-property-single-page.php:190
+#: classes/pages/class-property-single-page.php:428
+#: admin/templates/property/filter.php:45
+#: admin/classes/widgets/class-request-widget.php:44
+#: subscriptions/classes/pages/class-order-list-page.php:107
+msgid "Agent"
+msgstr "Ügynök"
+
+#: rets/functions.php:502 classes/class-estatik-init.php:1342
+msgid "Room"
+msgstr ""
+"Szoba\n"
+
+#: rets/functions.php:504 admin/classes/class-property-metabox.php:102
+#: management/classes/shortcodes/class-prop-management-shortcode.php:209
+msgid "Media"
+msgstr "Média"
+
+#: rets/functions.php:907
+msgid "Pages"
+msgstr ""
+"Oldalak\n"
+
+#: rets/functions.php:910
+msgid "First"
+msgstr ""
+"Első\n"
+
+#: rets/functions.php:915
+msgid "Prev"
+msgstr "Előző"
+
+#: rets/functions.php:926
+msgid "Next"
+msgstr ""
+"Következő\n"
+
+#: rets/functions.php:927
+msgid "Last"
+msgstr "Utolsó"
+
+#: rets/functions.php:1290 rets/functions.php:1305
+msgid "Display label"
+msgstr "Kijelző címke"
+
+#: rets/functions.php:1293 rets/functions.php:1307
+msgid "Alternative label for display on frontend"
+msgstr ""
+"Alternatív címke az előlapon történő megjelenítéshez\n"
+
+#: rets/ajax.php:96
+#, php-format
+msgid "Automatically used %s resource."
+msgstr ""
+"%s automatikusan felhasznált erőforrás.\n"
+
+#: rets/ajax.php:388
+#, php-format
+msgid ""
+"Please, set %s MLS ID field on the %s tab for <b>%s</b> resource of <b>%s</b>"
+" class."
+msgstr ""
+"Kérjük, állítsa be a %s MLS ID mezőt a %s lapon a <b>%s</b> osztály <b>%s</b>"
+" erőforrásához."
+
+#: rets/ajax.php:390 rets/ajax.php:407
+#: rets/templates/partials/property-table.php:98
+#: rets/classes/pages/class-mls-rets-page.php:91
+msgid "Manage fields"
+msgstr ""
+"Kezelje a mezőket\n"
+
+#: rets/ajax.php:406
+#, php-format
+msgid "Please, set MLS fields on the %s tab."
+msgstr "Kérjük, állítsa be az MLS mezőket a %s lapon."
+
+#: rets/ajax.php:438
+msgid "Start import entities."
+msgstr "Indítsa el az entitásokat."
+
+#: rets/ajax.php:500
+msgid "Nothing to import."
+msgstr ""
+"Nincs importálás.\n"
+
+#: rets/ajax.php:508
+msgid "Finish."
+msgstr ""
+"Befejez.\n"
+
+#: rets/ajax.php:525
+msgid "Incorrect actualizer form request. Please, contact the support"
+msgstr ""
+"Helytelen aktualizáló űrlap kérés. Kérjük, vegye fel a kapcsolatot az "
+"ügyfélszolgálattal"
+
+#: rets/ajax.php:580
+msgid "Delete on value"
+msgstr "Törölje az értéket"
+
+#: rets/ajax.php:584 rets/ajax.php:642
+#, php-format
+msgid "-- Select %s value --"
+msgstr "-- Válassza ki a %s értéket --"
+
+#: rets/ajax.php:638
+msgid "Unpublish on value"
+msgstr "Visszavonja az értéket"
+
+#: classes/class-settings-container.php:91
+msgid "sq ft"
+msgstr "sq ft"
+
+#: classes/class-settings-container.php:92
+msgid "m²"
+msgstr "m²"
+
+#: classes/class-settings-container.php:93
+msgid "acres"
+msgstr "acres"
+
+#: classes/class-settings-container.php:94
+msgid "hectares"
+msgstr "ha"
+
+#: classes/class-settings-container.php:95
+msgid "m³"
+msgstr "m³"
+
+#: classes/class-settings-container.php:125
+msgid "List"
+msgstr "Lista"
+
+#: classes/class-settings-container.php:126
+msgid "2 Columns"
+msgstr "2 Oszlopok"
+
+#: classes/class-settings-container.php:127
+msgid "3 Columns"
+msgstr "3 Oszlopok"
+
+#: classes/class-settings-container.php:133
+msgid "Left layout"
+msgstr "Bal elrendezés"
+
+#: classes/class-settings-container.php:134
+msgid "Right layout"
+msgstr "Jobb elrendezés"
+
+#: classes/class-settings-container.php:135
+msgid "Center layout"
+msgstr "Központ elrendezése"
+
+#: classes/class-settings-container.php:165
+msgid "After price"
+msgstr "Ár után"
+
+#: classes/class-settings-container.php:166
+msgid "Before price"
+msgstr "Ár előtt"
+
+#: classes/class-settings-container.php:171 classes/class-property.php:336
+#: management/classes/class-prop-management-init.php:137
+#: rets/templates/actualization-tab.php:80
+#: rets/templates/scheduler-import-tab.php:129
+#: management/classes/table/class-post-list-table.php:59
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:34
+#: admin/templates/shortcode-builder/params/es_search_form-params.php:14
+msgid "Title"
+msgstr "Cím"
+
+#: classes/class-settings-container.php:171 classes/class-property.php:516
+#: management/templates/filter.php:56
+#: management/classes/class-prop-management-init.php:139
+#: admin/classes/class-property-metabox.php:101
+#: templates/emails/saved-search.php:54
+#: management/classes/shortcodes/class-prop-management-shortcode.php:207
+#: admin/templates/property/filter.php:59
+#: admin/templates/settings/sharing-tab.php:61
+#: admin/classes/widgets/class-search-widget.php:639
+#: admin/classes/pages/class-property-list-page.php:154
+#: templates/property/pdf/footer.php:4
+msgid "Address"
+msgstr "Cím"
+
+#: classes/class-settings-container.php:187
+msgid "Light"
+msgstr "Fény"
+
+#: classes/class-settings-container.php:187
+msgid "Dark"
+msgstr "Sötét"
+
+#: classes/class-settings-container.php:226
+msgid "Single Photo"
+msgstr ""
+"Egyetlen fénykép\n"
+
+#: classes/class-settings-container.php:227
+msgid "Photo Gallery"
+msgstr ""
+"Képgaléria\n"
+
+#: classes/class-settings-container.php:227
+msgid ""
+"If thumb images do not look ok on PDF flyer, please re-upload them in "
+"Add/Edit single property page -> Media"
+msgstr ""
+"Ha a hüvelykujj nem tűnik rendben a PDF-szórólapon, kérjük, töltse fel újra "
+"az Egyetlen tulajdonság hozzáadása / szerkesztése oldal -> Média részben"
+
+#: classes/class-settings-container.php:234
+msgid "Disable"
+msgstr "Kikapcsolja"
+
+#: classes/class-settings-container.php:235
+msgid "Enable"
+msgstr ""
+"Engedélyezze\n"
+
+#: classes/class-settings-container.php:258 classes/class-property.php:498
+msgid "Excerpt"
+msgstr "Szemelvény"
+
+#: classes/class-settings-container.php:259 classes/class-property.php:507
+#: admin/classes/class-fbuilder-helper.php:368
+#: classes/pages/class-property-single-page.php:104
+#: classes/pages/class-property-single-page.php:410
+#: templates/shortcodes/partials/my-profile-tab.php:121
+msgid "Description"
+msgstr "Leírás"
+
+#: classes/class-settings-container.php:298 classes/class-estatik-init.php:1381
+#: classes/class-estatik-init.php:1382 management/templates/filter.php:14
+#: management/classes/class-prop-management-init.php:140
+#: admin/classes/class-taxonomy.php:95 rets/templates/logger-popup.php:16
+#: admin/templates/property/filter.php:19
+#: admin/classes/pages/class-property-list-page.php:156
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:89
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:51
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:51
+msgid "Category"
+msgstr "Kategória"
+
+#: classes/class-settings-container.php:299 classes/class-estatik-init.php:1391
+#: classes/class-estatik-init.php:1392 classes/class-agent.php:169
+#: management/templates/filter.php:34
+#: management/classes/class-prop-management-init.php:142
+#: admin/classes/class-taxonomy.php:96
+#: classes/pages/class-property-single-page.php:507
+#: admin/templates/property/filter.php:39
+#: admin/classes/pages/class-agent-list.php:254
+#: admin/classes/pages/class-property-list-page.php:160
+#: admin/classes/pages/class-user-list.php:285
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:47
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:9
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:9
+msgid "Status"
+msgstr "Állapot"
+
+#: classes/class-settings-container.php:300 classes/class-estatik-init.php:1401
+#: classes/class-estatik-init.php:1402 management/templates/filter.php:24
+#: management/classes/class-prop-management-init.php:141
+#: admin/classes/class-taxonomy.php:97
+#: classes/pages/class-property-single-page.php:506
+#: admin/templates/property/filter.php:29
+#: admin/classes/pages/class-property-list-page.php:158
+#: admin/templates/fields-builder/forms/field-form.php:43
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:60
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:22
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:22
+msgid "Type"
+msgstr "Típus"
+
+#: classes/class-settings-container.php:301 classes/class-estatik-init.php:1461
+#: admin/classes/class-taxonomy.php:101
+#: admin/templates/settings/general-tab.php:97
+#: admin/classes/pages/class-data-manager-page.php:61
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:242
+msgid "Labels"
+msgstr "Címkék"
+
+#: classes/class-settings-container.php:329
+msgid "Automatic"
+msgstr ""
+"Automatikus\n"
+
+#: classes/class-settings-container.php:330
+msgid "Manual"
+msgstr ""
+"Kézikönyv\n"
+
+#: classes/class-settings-container.php:414
+msgid "Required"
+msgstr "Kívánt"
+
+#: classes/class-settings-container.php:415
+msgid "Optional"
+msgstr "Választható"
+
+#: classes/class-html-helper.php:22
+msgid "Field type parameter can't be empty"
+msgstr "A mezőtípus paraméter nem lehet üres"
+
+#: classes/class-html-helper.php:124
+#: admin/classes/widgets/class-search-widget.php:209
+msgid "Choose value"
+msgstr "Válassza ki az értéket"
+
+#: classes/class-html-helper.php:175
+msgid "Link name"
+msgstr "Link neve"
+
+#: classes/class-html-helper.php:176
+msgid "Link URL"
+msgstr "Link URL"
+
+#: classes/class-html-helper.php:186
+msgid "Date From"
+msgstr "Dátum:"
+
+#: classes/class-html-helper.php:187
+msgid "Date to"
+msgstr "Dátum:"
+
+#: classes/class-property.php:312 management/templates/filter.php:42
+#: admin/classes/widgets/class-request-widget.php:120
+#: admin/classes/pages/class-property-list-page.php:148
+msgid "Property ID"
+msgstr "Listaazonosító"
+
+#: classes/class-property.php:326
+msgid "-- Choose agent --"
+msgstr ""
+"-- Válasszon ügynököt --\n"
+
+#: classes/class-property.php:345 management/templates/filter.php:64
+#: management/classes/class-prop-management-init.php:138
+#: classes/pages/class-property-single-page.php:502
+#: admin/templates/property/filter.php:64
+#: admin/templates/settings/general-tab.php:103
+#: admin/classes/pages/class-property-list-page.php:152
+msgid "Date added"
+msgstr "Hozzádva"
+
+#: classes/class-property.php:350
+msgid "Post Updated"
+msgstr ""
+"Bejegyzés frissítve\n"
+
+#: classes/class-property.php:358 admin/classes/class-fbuilder-helper.php:19
+#: subscriptions/classes/class-subscription-table.php:41
+#: subscriptions/classes/class-subscription.php:76
+#: subscriptions/classes/pages/class-subscription-list-page.php:105
+#: subscriptions/classes/pages/class-order-list-page.php:58
+#: subscriptions/classes/pages/class-order-list-page.php:106
+msgid "Price"
+msgstr "Ár"
+
+#: classes/class-property.php:371
+msgid "Is Open House"
+msgstr "Nyílt Ház"
+
+#: classes/class-property.php:378
+msgid "Price note"
+msgstr "Árjegyzet"
+
+#: classes/class-property.php:395 templates/emails/saved-search.php:60
+#: classes/pages/class-property-single-page.php:508
+msgid "Bedrooms"
+msgstr "Hálószoba"
+
+#: classes/class-property.php:405 templates/emails/saved-search.php:63
+#: classes/pages/class-property-single-page.php:509
+msgid "Bathrooms"
+msgstr "Fürdőszoba"
+
+#: classes/class-property.php:416
+#: classes/pages/class-property-single-page.php:510
+msgid "Floors"
+msgstr "Szintjei"
+
+#: classes/class-property.php:426 admin/classes/class-fbuilder-helper.php:20
+#: templates/partials/map-property-overlay.php:52
+#: templates/emails/saved-search.php:71
+msgid "Area"
+msgstr "Terület"
+
+#: classes/class-property.php:453
+#: classes/pages/class-property-single-page.php:504
+msgid "Lot size"
+msgstr "Telekméret"
+
+#: classes/class-property.php:481
+#: classes/pages/class-property-single-page.php:511
+msgid "Year built"
+msgstr "Építés éve"
+
+#: classes/class-property.php:489 admin/templates/property/filter.php:54
+msgid "MLS #"
+msgstr ""
+"MLS #\n"
+
+#: classes/class-property.php:518
+msgid "Address, City, ZIP"
+msgstr "Cím, város, ZIP"
+
+#: classes/class-property.php:526
+msgid "Update Photo Date \\ Timestamp"
+msgstr ""
+"Frissítse a fénykép dátumát \\ Időbélyegzőt\n"
+
+#: classes/class-property.php:531
+msgid "Keywords"
+msgstr "Kulcsszavak"
+
+#: classes/class-property.php:538
+msgid "Latitude"
+msgstr "Szélesség"
+
+#: classes/class-property.php:552
+msgid "Longitude"
+msgstr "Hosszúság"
+
+#: classes/class-property.php:570
+msgid "Images"
+msgstr "Képek"
+
+#: classes/class-property.php:580 classes/class-address-components.php:46
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:163
+msgid "Country"
+msgstr "Ország"
+
+#: classes/class-property.php:586 classes/class-property.php:599
+#: classes/class-property.php:612 classes/class-estatik-init.php:951
+msgid "Select location"
+msgstr "Válassza ki a helyet"
+
+#: classes/class-property.php:593 classes/class-address-components.php:44
+#: classes/class-address-components.php:45
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:178
+msgid "State"
+msgstr "Állapot"
+
+#: classes/class-property.php:606 classes/class-address-components.php:42
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:193
+msgid "City"
+msgstr "Város"
+
+#: classes/class-property.php:619
+msgid "Postcode"
+msgstr "Irányítószám"
+
+#: classes/class-property.php:626 classes/class-property.php:627
+#: classes/class-address-components.php:41
+#: admin/classes/class-fbuilder-helper.php:374
+#: classes/pages/class-property-single-page.php:368
+#: classes/pages/class-property-single-page.php:416
+msgid "Neighborhood"
+msgstr "Szomszédság"
+
+#: classes/class-property.php:638 classes/class-property.php:639
+#: classes/class-address-components.php:40
+msgid "Street"
+msgstr "Utca"
+
+#: classes/class-property.php:652
+msgid "Property MLS ID"
+msgstr "Ingatlan MLS ID"
+
+#: classes/class-property.php:657 classes/class-room.php:93
+#: classes/class-agent.php:197
+msgid "RETS Class"
+msgstr ""
+"RETS osztály\n"
+
+#: classes/class-property.php:663 classes/class-room.php:103
+#: classes/class-agent.php:202
+msgid "RETS Resource"
+msgstr ""
+"RETS erőforrás\n"
+
+#: classes/class-property.php:669 classes/class-agent.php:179
+msgid "Agent MLS ID"
+msgstr "MLS ügynök azonosítója"
+
+#: classes/class-property.php:675 classes/class-agent.php:192
+msgid "MLS Update date"
+msgstr "MLS frissítés dátuma"
+
+#: classes/class-property.php:708 classes/class-room.php:46
+#, php-format
+msgid "-- Choose %s --"
+msgstr "-- Válasszon %s --"
+
+#: classes/class-property.php:773 classes/class-agent.php:184
+msgid "New field"
+msgstr "Új mező"
+
+#: classes/class-address-components.php:38
+msgid "St. №"
+msgstr "St. №"
+
+#: classes/class-address-components.php:39
+msgid "District"
+msgstr "Kerület"
+
+#: classes/class-address-components.php:43
+msgid "County"
+msgstr "Megye"
+
+#: classes/class-address-components.php:47
+msgid "Postal code"
+msgstr "Irányítószám"
+
+#: classes/class-address-components.php:50
+msgid "Unknown"
+msgstr "Ismeretlen"
+
+#: classes/class-estatik-init.php:463
+msgid "Estatik Agent"
+msgstr "Estatik ügynök"
+
+#: classes/class-estatik-init.php:477
+msgid "Estatik Buyer"
+msgstr "Estatik vevő"
+
+#: classes/class-estatik-init.php:939
+msgid "Something was wrong. Please, contact the support."
+msgstr "Valami baj van. Kérjük, lépjen kapcsolatba a támogatással."
+
+#: classes/class-estatik-init.php:940
+msgid "Remove image"
+msgstr "Kép eltávolítása"
+
+#: classes/class-estatik-init.php:941
+#: management/classes/class-prop-management-init.php:199
+msgid "Remove"
+msgstr "Eltávolít"
+
+#: classes/class-estatik-init.php:942
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:40
+msgid "Yes"
+msgstr "Igen"
+
+#: classes/class-estatik-init.php:943
+msgid "Generating"
+msgstr "Generálása"
+
+#: classes/class-estatik-init.php:944
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:43
+msgid "No"
+msgstr "Nem"
+
+#: classes/class-estatik-init.php:945
+msgid "Loading filter fields"
+msgstr ""
+"A szűrőmezők betöltése\n"
+
+#: classes/class-estatik-init.php:946
+msgid "Saved"
+msgstr "Mentett"
+
+#: classes/class-estatik-init.php:947
+msgid "Loading Shortcode Attributes..."
+msgstr "Rövid kód betöltése ..."
+
+#: classes/class-estatik-init.php:948
+msgid "Saving"
+msgstr "Megtakarítás"
+
+#: classes/class-estatik-init.php:949
+msgid "Error"
+msgstr "Hiba"
+
+#: classes/class-estatik-init.php:950
+msgid "Ok"
+msgstr "Ok"
+
+#: classes/class-estatik-init.php:952
+msgid "Sort by"
+msgstr "Sorrend"
+
+#: classes/class-estatik-init.php:953
+msgid "Enable if you need to use multiselect feature for this drop-down field."
+msgstr ""
+"Engedélyezze, ha a legördülő mezőben többfunkciós funkciót kell használnia."
+
+#: classes/class-estatik-init.php:954
+msgid "Are you sure you want to delete this item?"
+msgstr "Biztosan törölni szeretné ezt az elemet?"
+
+#: classes/class-estatik-init.php:955
+#, php-format
+msgid "The RETS integration feature <br>is available in %s version."
+msgstr ""
+"A RETS integrációs szolgáltatás elérhető% s verzióban.\n"
+
+#: classes/class-estatik-init.php:956
+msgid "Premium"
+msgstr "Premium"
+
+#: classes/class-estatik-init.php:957
+#: admin/classes/pages/class-settings-page.php:87
+msgid "Color"
+msgstr "Szín"
+
+#: classes/class-estatik-init.php:958
+msgid "If zoom field is empty then google map calculate zoom automatically."
+msgstr ""
+"Ha a zoom mező üres, akkor a google map automatikusan kiszámítja a zoomot."
+
+#: classes/class-estatik-init.php:959
+msgid "Icons"
+msgstr "Ikonok"
+
+#: classes/class-estatik-init.php:960
+msgid "Replace photo"
+msgstr ""
+"Cserélje ki a fényképet\n"
+
+#: classes/class-estatik-init.php:961
+msgid "Select one or more entities for import."
+msgstr "Válasszon egy vagy több entitást az importáláshoz."
+
+#: classes/class-estatik-init.php:962
+msgid ""
+"Select how often cron will send requests to MLS server. We would recommend "
+"Each 2 min."
+msgstr ""
+"Válassza ki, hogy a cron milyen gyakran küldjön kéréseket az MLS szervernek. "
+"Azt javasoljuk, hogy minden 2 perc."
+
+#: classes/class-estatik-init.php:963
+msgid ""
+"How many listings it will pull during 1 server connection. 5 is recommended."
+msgstr "Hány listát húz egy szerverkapcsolat során. 5-ös ajánlott."
+
+#: classes/class-estatik-init.php:964
+msgid ""
+"Means that import will never stop working and constantly will be checking "
+"and importing newly added MLS listings."
+msgstr ""
+"Az importálás soha nem fog működni, és folyamatosan ellenőrzi és importálja "
+"az újonnan hozzáadott MLS-adatokat."
+
+#: classes/class-estatik-init.php:965
+msgid "Loading"
+msgstr ""
+"Betöltés\n"
+
+#: classes/class-estatik-init.php:966
+msgid "Hold down Ctrl key to drag multiple fields at once."
+msgstr "Tartsa lenyomva a Ctrl gombot, hogy egyszerre több mezőt húzzon."
+
+#: classes/class-estatik-init.php:967
+msgid "Copied"
+msgstr "Másolt"
+
+#: classes/class-estatik-init.php:1037
+msgid ""
+"Your account is not approved, please contact admin of this website to get "
+"approved."
+msgstr ""
+"Fiókja nincs jóváhagyva, kérjük, lépjen kapcsolatba e webhely "
+"adminisztrátoraival, hogy jóváhagyást kapjon."
+
+#: classes/class-estatik-init.php:1063 classes/class-manage-users.php:173
+msgid "Account disabled."
+msgstr "Fiók korlátozva."
+
+#. Name of the plugin
+#. Author of the plugin
+#: classes/class-estatik-init.php:1114 classes/class-estatik-init.php:1115
+#: classes/class-manage-users.php:233 classes/class-manage-users.php:246
+#: classes/class-manage-users.php:259 classes/class-manage-users.php:271
+#: admin/classes/class-shelterzoom.php:432
+#: subscriptions/classes/class-subscription-init.php:288
+#: subscriptions/classes/payments/class-paypal-subscription-payment-method.php:124
+msgid "Estatik"
+msgstr "Estatik"
+
+#: classes/class-estatik-init.php:1127 classes/class-estatik-init.php:1128
+#: admin/templates/dashboard/dashboard.php:4
+msgid "Dashboard"
+msgstr "Műszerfal"
+
+#: classes/class-estatik-init.php:1137 classes/class-estatik-init.php:1138
+#: classes/shortcodes/class-my-listing-shortcode.php:21
+#: admin/templates/dashboard/dashboard.php:14
+#: admin/templates/property/list.php:11
+msgid "My listings"
+msgstr "Saját listám"
+
+#: classes/class-estatik-init.php:1145 classes/class-estatik-init.php:1146
+msgid "Add new property"
+msgstr "Új lista hozzáadása"
+
+#: classes/class-estatik-init.php:1153 classes/class-estatik-init.php:1154
+msgid "Data Manager"
+msgstr "Adatkezelő"
+
+#: classes/class-estatik-init.php:1163 classes/class-estatik-init.php:1164
+msgid "Buyers"
+msgstr "Vevők"
+
+#: classes/class-estatik-init.php:1170 classes/class-estatik-init.php:1171
+msgid "Add New Buyer"
+msgstr "Új vevő hozzáadása"
+
+#: classes/class-estatik-init.php:1180 classes/class-estatik-init.php:1181
+#: classes/shortcodes/class-agent-list-shortcode.php:12
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:117
+msgid "Agents"
+msgstr ""
+"Minőségben\n"
+
+#: classes/class-estatik-init.php:1187 classes/class-estatik-init.php:1188
+msgid "Add New Agent"
+msgstr ""
+"Új ügynök hozzáadása\n"
+
+#: classes/class-estatik-init.php:1196 classes/class-estatik-init.php:1197
+msgid "CSV Import"
+msgstr ""
+"CSV Import\n"
+
+#: classes/class-estatik-init.php:1206 classes/class-estatik-init.php:1207
+#: subscriptions/classes/class-subscription-init.php:456
+#: subscriptions/classes/class-subscription-init.php:471
+msgid "Subscriptions"
+msgstr "Előfizetői"
+
+#: classes/class-estatik-init.php:1214 classes/class-estatik-init.php:1215
+msgid "Add subscription"
+msgstr ""
+"Feliratkozás hozzáadása\n"
+
+#: classes/class-estatik-init.php:1222 classes/class-estatik-init.php:1223
+#: subscriptions/classes/class-subscription-init.php:486
+msgid "Orders"
+msgstr ""
+"Rendelés\n"
+
+#: classes/class-estatik-init.php:1231 classes/class-estatik-init.php:1232
+#: admin/templates/fields-builder/main.php:13
+msgid "Fields builder"
+msgstr "Mezők építője"
+
+#: classes/class-estatik-init.php:1240 classes/class-estatik-init.php:1241
+#: admin/templates/dashboard/dashboard.php:38
+#: admin/templates/settings/settings.php:6
+msgid "Settings"
+msgstr "Beállítások"
+
+#: classes/class-estatik-init.php:1250 classes/class-estatik-init.php:1251
+msgid "Demo content"
+msgstr "Demó tartalom"
+
+#: classes/class-estatik-init.php:1261 classes/class-estatik-init.php:1262
+#: admin/templates/migration/migration.php:5
+msgid "Migration"
+msgstr "Migración"
+
+#: classes/class-estatik-init.php:1344
+#: classes/pages/class-property-single-page.php:144
+msgid "Rooms"
+msgstr ""
+"Szobák\n"
+
+#: classes/class-estatik-init.php:1355 classes/class-estatik-init.php:1357
+msgid "Saved Search"
+msgstr "Mentett keresés"
+
+#: classes/class-estatik-init.php:1411 classes/class-estatik-init.php:1412
+msgid "Room Type"
+msgstr ""
+"Szoba típus\n"
+
+#: classes/class-estatik-init.php:1421
+msgid "Room Features"
+msgstr "Szoba Jellemzői"
+
+#: classes/class-estatik-init.php:1422
+msgid "Room Feature"
+msgstr ""
+"Szoba Jellemzői\n"
+
+#: classes/class-estatik-init.php:1431 classes/class-room.php:25
+#: admin/classes/class-taxonomy.php:98
+#: admin/classes/class-fbuilder-helper.php:380
+#: classes/pages/class-property-single-page.php:215
+#: classes/pages/class-property-single-page.php:369
+#: classes/pages/class-property-single-page.php:434
+#: classes/pages/class-property-single-page.php:461
+#: management/classes/shortcodes/class-prop-management-shortcode.php:208
+#: admin/classes/pages/class-data-manager-page.php:57
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:216
+msgid "Features"
+msgstr "Jellemzők"
+
+#: classes/class-estatik-init.php:1432
+msgid "Feature"
+msgstr "Funkció"
+
+#: classes/class-estatik-init.php:1441 classes/class-estatik-init.php:1442
+#: admin/classes/class-taxonomy.php:99
+#: classes/pages/class-property-single-page.php:505
+msgid "Rent period"
+msgstr "Bérleti időszak"
+
+#: classes/class-estatik-init.php:1451 classes/class-estatik-init.php:1452
+#: admin/classes/class-taxonomy.php:100
+#: classes/pages/class-property-single-page.php:465
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:229
+msgid "Amenities"
+msgstr "Felszerelés"
+
+#: classes/class-estatik-init.php:1462
+msgid "Label"
+msgstr "Címke"
+
+#: classes/class-room.php:18
+msgid "Types"
+msgstr ""
+"Típusai\n"
+
+#: classes/class-room.php:64 admin/classes/pages/class-data-manager-page.php:69
+msgid "Dimensions"
+msgstr "Méretek"
+
+#: classes/class-room.php:69
+#: admin/templates/widgets/es-property-map-form.php:66
+#: admin/templates/settings/map-tab.php:61
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:73
+msgid "Width"
+msgstr "Szélesség"
+
+#: classes/class-room.php:74
+msgid "Level"
+msgstr ""
+"Szint\n"
+
+#: classes/class-room.php:79
+msgid "Length"
+msgstr ""
+"Hossz\n"
+
+#: classes/class-room.php:87
+msgid "Property identifier"
+msgstr "Tulajdonos azonosító"
+
+#: classes/class-room.php:98
+msgid "Room MLS ID"
+msgstr ""
+"Szoba MLS ID\n"
+
+#: classes/class-user.php:27 templates/shortcodes/register.php:37
+#: subscriptions/classes/class-subscription-table.php:36
+#: admin/templates/agents/profile.php:32 admin/templates/buyers/profile.php:29
+#: admin/classes/widgets/class-request-widget.php:117
+#: templates/shortcodes/partials/my-profile-tab.php:39
+#: subscriptions/classes/pages/class-subscription-list-page.php:97
+#: subscriptions/classes/pages/class-order-list-page.php:103
+msgid "Name"
+msgstr "Név"
+
+#: classes/class-user.php:31
+msgid "Profile Image"
+msgstr ""
+"Profilkép\n"
+
+#: classes/class-user.php:36 admin/classes/class-fbuilder-helper.php:27
+#: templates/shortcodes/register.php:73
+msgid "Tel"
+msgstr "Tel"
+
+#: classes/class-user.php:182 classes/class-agent.php:397
+msgid "Email or username is empty."
+msgstr "Az e-mail vagy a felhasználónév üres."
+
+#: classes/class-saved-search-component.php:85
+#: classes/class-saved-search-component.php:89
+msgid "Choose search fields"
+msgstr ""
+"\n"
+"20/5000\n"
+"Válassza ki a keresési mezőket"
+
+#: classes/class-saved-search-component.php:115
+#: classes/class-saved-search-component.php:142
+msgid "Incorrect security nonce, please refresh the page."
+msgstr "Helytelen biztonsági nonce, kérjük, frissítse az oldalt."
+
+#: classes/class-saved-search-component.php:127
+msgid "The update method successfully changed."
+msgstr "A frissítési módszer sikeresen megváltozott."
+
+#: classes/class-saved-search-component.php:129
+msgid "Incorrect update method"
+msgstr "Helytelen frissítési módszer"
+
+#: classes/class-saved-search-component.php:133
+#: classes/class-saved-search-component.php:201
+msgid "Incorrect entity"
+msgstr "Helytelen entitás"
+
+#: classes/class-saved-search-component.php:155
+msgid "The title successfully changed."
+msgstr "A cím sikeresen megváltozott."
+
+#: classes/class-saved-search-component.php:160
+msgid "Incorrect saved search entity."
+msgstr "Helytelen mentett keresési entitás."
+
+#: classes/class-saved-search-component.php:163
+msgid "The title field is required."
+msgstr "Szükség van a cím mezőre."
+
+#: classes/class-saved-search-component.php:192
+#, php-format
+msgid "The saved search %s successfully removed."
+msgstr "A mentett keresés %s sikeresen eltávolítva."
+
+#: classes/class-saved-search-component.php:198
+msgid "You have no permissions for remove this search."
+msgstr "Nincs engedélye a keresés eltávolításához."
+
+#: classes/class-saved-search.php:175
+msgid "Daily Update"
+msgstr "Napi frissítés"
+
+#: classes/class-saved-search.php:176
+msgid "Weekly Update"
+msgstr "Heti frissítés"
+
+#: classes/class-saved-search.php:177
+msgid "Monthly Update"
+msgstr ""
+"Havi frissítés\n"
+
+#: classes/class-saved-search.php:178
+msgid "No Update"
+msgstr "Nincs frissítés"
+
+#: classes/class-post-duplicate.php:33
+msgid "Property for clone doesn't exists."
+msgstr "A klón tulajdonsága nem létezik."
+
+#: classes/class-post-duplicate.php:51 management/templates/manage-block.php:19
+#: admin/templates/property/filter.php:96
+msgid "Copy"
+msgstr "Másolat"
+
+#: classes/class-property-pdf.php:203
+msgid "Basic Facts"
+msgstr ""
+"Alapvető tények\n"
+
+#: classes/class-manage-users.php:84
+#: admin/classes/pages/class-user-profile-page.php:155
+msgid "User successfully saved"
+msgstr "A felhasználó sikeresen mentett"
+
+#: classes/class-manage-users.php:104
+#: admin/classes/pages/class-user-profile-page.php:177
+msgid "User doesn't save"
+msgstr "A felhasználó nem ment"
+
+#: classes/class-manage-users.php:207
+msgid "Someone has requested a password reset for the following account:"
+msgstr "Valaki kérte a következő fiók jelszavának visszaállítását:"
+
+#: classes/class-manage-users.php:209
+#, php-format
+msgid "Username: %s"
+msgstr "Felhasználónév: %s"
+
+#: classes/class-manage-users.php:210
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+"Ha ez hiba volt, csak figyelmen kívül hagyja ezt az e-mailt, és semmi nem "
+"fog történni."
+
+#: classes/class-manage-users.php:211
+msgid "To reset your password, visit the following address:"
+msgstr "A jelszó visszaállításához keresse fel a következő címet:"
+
+#: classes/class-manage-users.php:235
+#, php-format
+msgid ""
+"Please, create a registration page with <b>[es_register]</b> shortcode and "
+"set it on %s page."
+msgstr ""
+"Kérjük, hozzon létre egy regisztrációs oldalt a <b> [es_register] </b> rövid "
+"kóddal, és állítsa be a %s oldalra."
+
+#: classes/class-manage-users.php:248
+#, php-format
+msgid ""
+"Please, create a login page with <b>[es_login]</b> shortcode and set it on "
+"%s page."
+msgstr ""
+"Kérjük, hozzon létre egy bejelentkezési oldalt a <b> [es_login] </b> rövid "
+"kóddal, és állítsa be a %s oldalon."
+
+#: classes/class-manage-users.php:261
+#, php-format
+msgid ""
+"Please, create a password reset page with <b>[es_reset_pwd]</b> shortcode "
+"and set it on %s page."
+msgstr ""
+"Kérjük, hozzon létre egy jelszó-visszaállítási oldalt a <b> [es_reset_pwd] "
+"</b> rövid kóddal, és állítsa be a %s oldalra."
+
+#: classes/class-manage-users.php:305
+msgid "Captcha validation failed."
+msgstr "A Captcha érvényesítése sikertelen."
+
+#: classes/class-manage-users.php:309
+msgid "Can't connect to google services. Please, contact the support."
+msgstr ""
+"Nem lehet kapcsolódni a Google szolgáltatásaihoz. Kérjük, lépjen kapcsolatba "
+"a támogatással."
+
+#: classes/class-manage-users.php:313
+msgid "Invalid recaptcha."
+msgstr "Érvénytelen recaptcha."
+
+#: classes/class-manage-users.php:342
+msgid ""
+"You are registered at our website. <br>Your username and password were sent "
+"to your email address."
+msgstr ""
+"Ön regisztrált a honlapunkon. <br> Felhasználónév és jelszó elküldve az e-"
+"mail címére."
+
+#: classes/class-manage-users.php:347
+msgid "You are not registered to our website. <br>Please, contact a support."
+msgstr ""
+"Ön nem regisztrált a honlapunkra. <br> Kérjük, lépjen kapcsolatba egy "
+"támogatással."
+
+#: classes/class-manage-users.php:350
+msgid "You are not registered to our website. <br>Invalid user role."
+msgstr ""
+"Ön nem regisztrált a honlapunkra. <br> Érvénytelen felhasználói szerepkör."
+
+#: classes/class-manage-users.php:366
+msgid "You are logged out."
+msgstr "Ön kijelentkezett."
+
+#: classes/class-manage-users.php:494
+msgid "Password successfully changed."
+msgstr "Jelszó sikeresen megváltoztatva."
+
+#: classes/class-manage-users.php:508
+msgid "New password emailed to you."
+msgstr "Új jelszót küldünk Önnek."
+
+#: classes/class-manage-users.php:541 classes/class-manage-users.php:581
+msgid "New user registered"
+msgstr "Új felhasználó regisztrált"
+
+#: classes/class-agent.php:131
+msgid "User login"
+msgstr ""
+"Bejelentkezés\n"
+
+#: classes/class-agent.php:137 admin/classes/class-fbuilder-helper.php:26
+#: templates/shortcodes/register.php:55 admin/templates/agents/profile.php:44
+#: admin/templates/buyers/profile.php:43
+#: admin/classes/widgets/class-request-widget.php:118
+#: templates/property/pdf/footer.php:3
+msgid "Email"
+msgstr "Email"
+
+#: classes/class-agent.php:143
+msgid "URL"
+msgstr ""
+"URL\n"
+
+#: classes/class-agent.php:149
+msgid "Nickname"
+msgstr ""
+"Becenév\n"
+
+#: classes/class-agent.php:154 templates/shortcodes/register.php:64
+#: templates/property/agent.php:70 admin/templates/agents/profile.php:50
+#: admin/templates/agents/filter.php:16
+#: admin/classes/pages/class-agent-list.php:251
+#: admin/classes/pages/class-user-list.php:280
+#: templates/shortcodes/partials/my-profile-tab.php:70
+msgid "Company"
+msgstr ""
+"Vállalat\n"
+
+#: classes/class-agent.php:159 templates/property/agent.php:40
+#: admin/templates/agents/profile.php:110 admin/templates/agents/filter.php:25
+#: admin/classes/pages/class-agent-list.php:253
+#: admin/classes/pages/class-user-list.php:282
+msgid "Rating"
+msgstr ""
+"Értékelés\n"
+
+#: classes/class-agent.php:164 templates/shortcodes/register.php:91
+#: admin/templates/agents/profile.php:120 admin/templates/buyers/profile.php:66
+msgid "About"
+msgstr "Miatt"
+
+#: classes/class-agent.php:173
+#: templates/shortcodes/partials/my-profile-tab.php:24
+msgid "Profile image"
+msgstr "Profilkép"
+
+#: classes/class-agent.php:188 admin/classes/pages/class-agent-list.php:176
+#: admin/classes/pages/class-user-list.php:190
+msgid "Disabled"
+msgstr "Tiltva"
+
+#: classes/class-agent.php:250
+msgid "Bad"
+msgstr "Rossz"
+
+#: classes/class-agent.php:251
+msgid "Poor"
+msgstr "Szegény"
+
+#: classes/class-agent.php:252
+msgid "Regular"
+msgstr "Szabályos"
+
+#: classes/class-agent.php:253
+msgid "Good"
+msgstr ""
+"Jó\n"
+
+#: classes/class-agent.php:254
+msgid "Excellent"
+msgstr "Kiváló"
+
+#: classes/class-archive-sorting.php:120
+msgid "Most recent"
+msgstr "Legfrissebb"
+
+#: classes/class-archive-sorting.php:121
+msgid "Highest price"
+msgstr "Legmagasabb ár"
+
+#: classes/class-archive-sorting.php:122
+msgid "Lowest price"
+msgstr ""
+"Legalacsonyabb ár\n"
+
+#: classes/class-archive-sorting.php:123
+msgid "Most popular"
+msgstr "Legnepszerubb"
+
+#: management/templates/manage-property.php:20
+msgid "Enter your listing details below and click 'Save' button to finish."
+msgstr ""
+"Írja be adatainak adatait az alábbiakba, és a befejezéshez kattintson a "
+"„Mentés” gombra."
+
+#: management/templates/manage-property.php:23
+#: management/templates/properties.php:16
+#: admin/templates/dashboard/dashboard.php:20
+#: admin/templates/property/list.php:12
+#: admin/templates/fields-builder/forms/section-form.php:24
+#: admin/templates/fields-builder/forms/field-form.php:28
+msgid "Add new"
+msgstr "Új hozzáadása"
+
+#: management/templates/manage-property.php:24
+msgid "Save & Close"
+msgstr "Mentés és bezárás"
+
+#: management/templates/no_access_2.php:11
+msgid "You have no permissions for access to this page."
+msgstr "Nincs engedély az oldal eléréséhez."
+
+#: management/templates/manage-block.php:6 admin/templates/agents/filter.php:46
+#: admin/templates/buyers/filter.php:25 admin/templates/property/filter.php:87
+msgid "Manage"
+msgstr "Kezel"
+
+#: management/templates/manage-block.php:10
+#: admin/templates/agents/filter.php:47 admin/templates/buyers/filter.php:26
+#: admin/templates/property/filter.php:90
+msgid "Select / deselect all"
+msgstr "Az összes kijelölése / törlése"
+
+#: management/templates/manage-block.php:14
+#: admin/templates/property/filter.php:93
+msgid "Please select properties you want to copy."
+msgstr "Válassza ki a másolni kívánt tulajdonságokat."
+
+#: management/templates/manage-block.php:15
+#: admin/templates/property/filter.php:94
+msgid "Are you sure you want to copy these items?"
+msgstr "Biztosan másolja ezeket az elemeket?"
+
+#: management/templates/manage-block.php:24
+#: admin/templates/property/filter.php:99
+msgid "Please select properties you want to delete."
+msgstr "Kérjük, válassza ki a törölni kívánt tulajdonságokat."
+
+#: management/templates/manage-block.php:25
+#: admin/templates/agents/filter.php:48 admin/templates/buyers/filter.php:27
+#: admin/templates/property/filter.php:100
+msgid "Are you sure you want to delete these items?"
+msgstr "Biztosan törölni szeretné ezeket az elemeket?"
+
+#: management/templates/manage-block.php:28
+#: rets/templates/actualization-tab.php:147
+#: rets/templates/scheduler-import-tab.php:166
+#: admin/templates/agents/filter.php:48 admin/templates/buyers/filter.php:27
+#: admin/templates/property/filter.php:102
+#: rets/templates/partials/credentials-list.php:33
+msgid "Delete"
+msgstr "Töröl"
+
+#: management/templates/manage-block.php:33
+#: admin/templates/property/filter.php:105
+msgid "Please select properties you want to publish."
+msgstr "Kérjük, válassza ki a közzétenni kívánt tulajdonságokat."
+
+#: management/templates/manage-block.php:34
+#: admin/templates/property/filter.php:106
+msgid "Are you sure you want to publish these items?"
+msgstr "Biztosan közzéteszi ezeket az elemeket?"
+
+#: management/templates/manage-block.php:36
+#: admin/templates/property/filter.php:108
+msgid "Publish"
+msgstr "Közzétesz"
+
+#: management/templates/manage-block.php:40
+#: admin/templates/property/filter.php:111
+msgid "Please select properties you want to unpublish."
+msgstr ""
+"Kérjük, válassza ki azokat a tulajdonságokat, melyeket közzétenni kíván."
+
+#: management/templates/manage-block.php:41
+#: admin/templates/property/filter.php:112
+msgid "Are you sure you want to unpublish these items?"
+msgstr "Biztos, hogy ezeket az elemeket közzéteszi?"
+
+#: management/templates/manage-block.php:43
+#: admin/templates/property/filter.php:114
+msgid "Unpublish"
+msgstr "Közzétételének"
+
+#: management/templates/table.php:36 templates/shortcodes/my-listing.php:32
+#: classes/shortcodes/class-property-map-shortcode.php:162
+#: templates/shortcodes/partials/saved-homes-tab.php:33
+msgid "Nothing to display"
+msgstr "Semmi nem látható"
+
+#: management/templates/no_access.php:12
+#, php-format
+msgid "You are not Agent. Please %s as Agent to submit your properties."
+msgstr "Nem vagy ügynök. Kérjük, %s mint ügynök küldje el ingatlanát."
+
+#: management/templates/no_access.php:13 templates/shortcodes/register.php:13
+#: templates/shortcodes/register.php:135
+msgid "Register"
+msgstr "Regisztráció"
+
+#: management/templates/no_access.php:14 management/templates/no_access.php:15
+#: admin/templates/settings/shelter-zoom-tab.php:30
+msgid "Login"
+msgstr "Belépés"
+
+#: management/templates/filter.php:5 admin/templates/agents/filter.php:11
+#: admin/templates/property/filter.php:10
+msgid "Filter by"
+msgstr "Szűrés vlami alapján"
+
+#: management/templates/filter.php:69
+#: admin/templates/data-manager/address-item.php:8
+#: admin/templates/agents/filter.php:41 admin/templates/buyers/filter.php:20
+#: admin/templates/widgets/es-search-widget.php:58
+#: admin/templates/property/filter.php:80
+msgid "Search"
+msgstr "Keresés"
+
+#: management/templates/filter.php:71 rets/templates/actualization-tab.php:127
+#: rets/templates/actualization-tab.php:139
+#: admin/templates/agents/filter.php:42 admin/templates/buyers/filter.php:21
+#: admin/templates/widgets/es-search-widget.php:55
+#: admin/templates/property/filter.php:81
+msgid "Reset"
+msgstr "Törlés"
+
+#: management/templates/404.php:2
+msgid "The page you requested could not be found."
+msgstr ""
+"A kért oldal nem található.\n"
+
+#: management/classes/class-prop-management-init.php:135
+#: management/classes/table/class-post-list-table.php:58
+#: admin/classes/pages/class-user-list.php:277
+msgid "ID"
+msgstr "ID"
+
+#: management/classes/class-prop-management-init.php:136
+#: admin/classes/pages/class-property-list-page.php:150
+msgid "Image"
+msgstr "Kép"
+
+#: management/classes/class-prop-management-init.php:194
+#: rets/templates/actualization-tab.php:144
+#: rets/templates/scheduler-import-tab.php:163
+msgid "Edit"
+msgstr ""
+"Szerkesztése\n"
+
+#: management/classes/class-prop-management-init.php:268
+#, php-format
+msgid "Property %s is successfully created."
+msgstr ""
+"A %s tulajdonság sikeresen létrehozva.\n"
+
+#: management/classes/class-prop-management-init.php:270
+#, php-format
+msgid "Property %s is successfully created. Please, wait for approve."
+msgstr ""
+"A %s tulajdonság sikeresen létrehozva. Kérjük, várja meg a jóváhagyást.\n"
+
+#: management/classes/class-prop-management-init.php:306
+#, php-format
+msgid "Post %s successfully copied."
+msgstr "A %s bejegyzés sikeresen lemásolva."
+
+#: management/classes/class-prop-management-init.php:323
+#, php-format
+msgid "The property #%s successfully removed."
+msgstr ""
+"A #%s tulajdonság sikeresen eltávolítva.\n"
+
+#: management/classes/class-prop-management-init.php:336
+#, php-format
+msgid "The property #%s successfully published."
+msgstr ""
+"A #%s tulajdonság sikeresen megjelent.\n"
+
+#: management/classes/class-prop-management-init.php:341
+msgid "You have no permission to publish properties."
+msgstr "Nincs engedélye a tulajdonságok közzétételére."
+
+#: management/classes/class-prop-management-init.php:351
+#, php-format
+msgid "The property #%s successfully unpublished."
+msgstr ""
+"A #%s tulajdonság sikeresen közzétéve.\n"
+
+#: admin/classes/class-estatik-upgrade.php:24
+msgid "Messenger can't to be empty."
+msgstr "A Messenger nem lehet üres."
+
+#: admin/classes/class-estatik-upgrade.php:28
+msgid "File can't to be empty."
+msgstr "A fájl nem lehet üres."
+
+#: admin/classes/class-estatik-upgrade.php:44
+msgid ""
+"Please, install zip extension for PHP. http://php.net/manual/ru/book.zip.php"
+msgstr ""
+"Kérjük, telepítse a zip kiterjesztést a PHP-hez. http://php."
+"net/manual/ru/book.zip.php"
+
+#: admin/classes/class-estatik-upgrade.php:60
+msgid ""
+"Invalid array structure. The Archive should not consist plugin sub folder in "
+"archive."
+msgstr ""
+"Érvénytelen tömbszerkezet. Az archívum nem tartalmazhat az archívumban "
+"található plugin almappát."
+
+#: admin/classes/class-estatik-upgrade.php:68
+msgid "Estatik successfully upgraded!"
+msgstr "Estatik sikeresen frissítette!"
+
+#: admin/classes/class-demo-setup.php:101
+msgid "Start setup data."
+msgstr "Indítsa el a beállítási adatokat."
+
+#: admin/classes/class-demo-setup.php:138
+#, php-format
+msgid "Created %s page."
+msgstr "Létrehozta a (z) %s oldalt."
+
+#: admin/classes/class-demo-setup.php:220
+#, php-format
+msgid "Property %s successfully imported."
+msgstr "A (z) %s tulajdonság sikeresen importált."
+
+#: admin/classes/class-demo-setup.php:228
+#: admin/classes/class-demo-setup.php:243
+msgid "Setup finished."
+msgstr "A telepítés befejeződött."
+
+#: admin/classes/class-demo-setup.php:626
+msgid "List layout"
+msgstr "Lista elrendezése"
+
+#: admin/classes/class-demo-setup.php:631
+msgid "Log In"
+msgstr "Belépés"
+
+#: admin/classes/class-demo-setup.php:636
+msgid "Grid layout"
+msgstr "Rácsszerkezet"
+
+#: admin/classes/class-demo-setup.php:641
+msgid "Reset password"
+msgstr "Jelszó visszaállítása"
+
+#: admin/classes/class-demo-setup.php:646
+msgid "Advanced Search & Slideshow"
+msgstr "Részletes keresés és diavetítés"
+
+#: admin/classes/class-demo-setup.php:653
+msgid "Front-end management"
+msgstr "Front-end kezelés"
+
+#: admin/classes/class-demo-setup.php:658
+#: classes/shortcodes/class-profile-shortcode.php:140
+msgid "My Profile"
+msgstr "A profilom"
+
+#: admin/classes/class-demo-setup.php:663
+msgid "Agents list"
+msgstr "Ügynökök listája"
+
+#: admin/classes/class-demo-setup.php:668
+msgid "Registration"
+msgstr "Bejegyzés"
+
+#: admin/classes/class-demo-setup.php:673
+#: classes/shortcodes/class-property-map-shortcode.php:12
+#: admin/classes/pages/class-settings-page.php:74
+msgid "Map view"
+msgstr "Térképnézet"
+
+#: admin/classes/class-demo-setup.php:678
+msgid "Search Results"
+msgstr "Keresési eredmények"
+
+#: admin/classes/class-data-manager-currency-item.php:31
+msgid "Currency already exists."
+msgstr "A pénznem már létezik."
+
+#: admin/classes/class-data-manager-currency-item.php:51
+#: admin/classes/class-data-manager-term-item.php:72
+#: admin/classes/class-data-manager-label-item.php:39
+#: admin/classes/class-data-manager-item.php:127
+msgid "Item is successfully created."
+msgstr "A tétel sikeresen létrejön."
+
+#: admin/classes/class-data-manager-currency-item.php:56
+msgid "Please, fill the currency code and label."
+msgstr "Kérjük, töltse ki a pénznem kódját és címkéjét."
+
+#: admin/classes/class-data-manager-currency-item.php:59
+#: admin/classes/class-data-manager-term-item.php:84
+#: admin/classes/class-data-manager-term-item.php:123
+#: admin/classes/class-data-manager-address-item.php:59
+#: admin/classes/class-data-manager-label-item.php:55
+#: admin/classes/class-data-manager-item.php:133
+#: admin/classes/class-data-manager-item.php:163
+#: admin/classes/class-data-manager-item.php:186
+msgid "Invalid ajax request."
+msgstr "Érvénytelen ajax kérés."
+
+#: admin/classes/class-data-manager-term-item.php:80
+#: admin/classes/class-data-manager-label-item.php:51
+msgid "Item doesn't create. Please contact support."
+msgstr "Az elem nem hoz létre. Kérjük, lépjen kapcsolatba a támogatással."
+
+#: admin/classes/class-data-manager-term-item.php:108
+#: admin/classes/class-data-manager-address-item.php:57
+#: admin/classes/class-data-manager-item.php:158
+msgid "Item is successfully deleted."
+msgstr "Az elem sikeresen törölve."
+
+#: admin/classes/class-data-manager-term-item.php:116
+msgid "Item doesn't delete. Please contact support."
+msgstr "Az elem nem törlődik. Kérjük, lépjen kapcsolatba a támogatással."
+
+#: admin/classes/class-data-manager-term-item.php:120
+msgid "Item doesn't exists."
+msgstr "Az elem nem létezik."
+
+#: admin/classes/class-data-manager-label-item.php:110
+msgid "Item doesn't updated. Please contact support."
+msgstr "Az elem nem frissül. Kérjük, lépjen kapcsolatba a támogatással."
+
+#: admin/classes/class-data-manager-label-item.php:112
+msgid "Color successfully changed."
+msgstr "A szín sikeresen megváltozott."
+
+#: admin/classes/class-data-manager-item.php:109
+msgid "Item already exists."
+msgstr "Az elem már létezik."
+
+#: admin/classes/class-data-manager-item.php:160
+msgid "Nothing for delete."
+msgstr "Semmi sem törölhető."
+
+#: admin/classes/class-data-manager-item.php:184
+msgid "Item has been selected."
+msgstr "Az elem kiválasztva."
+
+#: admin/classes/class-fbuilder-helper.php:17
+msgid "Text"
+msgstr "Szöveg"
+
+#: admin/classes/class-fbuilder-helper.php:18
+msgid "Number"
+msgstr "Szám"
+
+#: admin/classes/class-fbuilder-helper.php:21
+msgid "File"
+msgstr "Fájl"
+
+#: admin/classes/class-fbuilder-helper.php:22
+msgid "Select"
+msgstr "Választ"
+
+#: admin/classes/class-fbuilder-helper.php:23
+msgid "Text area"
+msgstr "Szöveg terület"
+
+#: admin/classes/class-fbuilder-helper.php:24
+msgid "Date"
+msgstr "Dátum"
+
+#: admin/classes/class-fbuilder-helper.php:25
+msgid "Date time"
+msgstr "Dátum idő"
+
+#: admin/classes/class-fbuilder-helper.php:28
+msgid "Url"
+msgstr "Url"
+
+#: admin/classes/class-fbuilder-helper.php:354
+#: classes/pages/class-property-single-page.php:367
+#: classes/pages/class-property-single-page.php:396
+msgid "Basic facts"
+msgstr "Alap adatok"
+
+#: admin/classes/class-fbuilder-helper.php:387
+#: classes/pages/class-property-single-page.php:170
+#: classes/pages/class-property-single-page.php:370
+#: classes/pages/class-property-single-page.php:422
+msgid "Video"
+msgstr "Videó"
+
+#: admin/classes/class-property-metabox.php:74
+msgid "Property data"
+msgstr "Tulajdonság adatok"
+
+#: admin/classes/class-property-metabox.php:100
+#: management/classes/shortcodes/class-prop-management-shortcode.php:206
+msgid "Basic information"
+msgstr "Alapinformációk"
+
+#: admin/classes/class-shelterzoom.php:159
+msgid "Offer"
+msgstr "Ajánlat"
+
+#: admin/classes/class-shelterzoom.php:160
+msgid "Rent"
+msgstr "Bérlés"
+
+#: admin/classes/class-shelterzoom.php:169
+msgid "On the left side"
+msgstr ""
+"A bal oldalon\n"
+
+#: admin/classes/class-shelterzoom.php:170
+msgid "On the right side"
+msgstr ""
+"A jobb oldalon\n"
+
+#: admin/classes/class-shelterzoom.php:173
+msgid "Small"
+msgstr ""
+"Kicsi\n"
+
+#: admin/classes/class-shelterzoom.php:174
+msgid "Medium"
+msgstr "Közepes"
+
+#: admin/classes/class-shelterzoom.php:210
+msgid "ShelterZoom saved"
+msgstr ""
+"A ShelterZoom mentve\n"
+
+#: admin/classes/class-shelterzoom.php:214
+msgid "ShelterZoom Universal ID"
+msgstr ""
+"ShelterZoom Universal ID\n"
+
+#: admin/classes/class-shelterzoom.php:231
+msgid "ShelterZoom"
+msgstr ""
+"ShelterZoom\n"
+
+#: admin/classes/class-shelterzoom.php:285
+msgid "Property successfully saved on ShelterZoom side."
+msgstr ""
+"Ingatlan sikeresen mentve a ShelterZoom oldalon.\n"
+
+#: admin/classes/class-shelterzoom.php:288
+#: admin/classes/class-shelterzoom.php:291
+#, php-format
+msgid "Property isn't saved on ShelterZoom side. Error: %s"
+msgstr "Az ingatlan nem mentésre kerül a ShelterZoom oldalon. Hiba: %s"
+
+#: admin/classes/class-shelterzoom.php:335
+msgid "Property successfully removed on ShelterZoom side."
+msgstr ""
+"Az ingatlan sikeresen eltávolítva a ShelterZoom oldalról.\n"
+
+#: admin/classes/class-shelterzoom.php:337
+#: admin/classes/class-shelterzoom.php:340
+#, php-format
+msgid "Property isn't removed on ShelterZoom side. Error: %s"
+msgstr "Az ingatlan nem került eltávolításra a ShelterZoom oldalán. Hiba: %s"
+
+#: templates/shortcodes/login.php:5 templates/shortcodes/login.php:26
+msgid "Log in"
+msgstr "Belépés"
+
+#: templates/shortcodes/login.php:14
+#: templates/shortcodes/partials/my-profile-tab.php:45
+#: rets/templates/partials/connect-form.php:34
+msgid "Username"
+msgstr "Felhasználónév"
+
+#: templates/shortcodes/login.php:21 admin/templates/agents/profile.php:74
+#: admin/templates/buyers/profile.php:57
+#: admin/templates/settings/shelter-zoom-tab.php:35
+#: templates/shortcodes/partials/my-profile-tab.php:106
+#: rets/templates/partials/connect-form.php:41
+msgid "Password"
+msgstr "Jelszó"
+
+#: templates/shortcodes/login.php:31
+msgid "I forgot my password"
+msgstr "Elfelejtettem a jelszavamat"
+
+#: templates/shortcodes/login.php:35
+msgid "I need to register for a new account"
+msgstr "Regisztrálnom kell egy új fiókhoz"
+
+#: templates/shortcodes/login.php:51 templates/shortcodes/register.php:145
+#: templates/shortcodes/reset.php:47
+msgid "You are already logged in."
+msgstr "Ön már bejelentkezett."
+
+#: templates/shortcodes/login.php:52 templates/shortcodes/register.php:146
+#: templates/shortcodes/reset.php:48
+msgid "Logout"
+msgstr "Kijelentkezés"
+
+#: templates/shortcodes/register.php:3
+#: admin/templates/widgets/es-request-widget.php:10
+msgid "Terms of Use"
+msgstr "Használati feltételek"
+
+#: templates/shortcodes/register.php:4
+#: admin/templates/widgets/es-request-widget.php:11
+msgid "Privacy Policy"
+msgstr "Adatvédelmi irányelvek"
+
+#: templates/shortcodes/register.php:24
+msgid "Register As"
+msgstr ""
+"Regisztrálj\n"
+
+#: templates/shortcodes/register.php:27
+msgid "Buyer"
+msgstr ""
+"Vevő\n"
+
+#: templates/shortcodes/register.php:46 admin/templates/agents/profile.php:38
+#: admin/templates/buyers/profile.php:36
+msgid "User name"
+msgstr "Felhasználónév"
+
+#: templates/shortcodes/register.php:82
+msgid "Www"
+msgstr "Www"
+
+#: templates/shortcodes/register.php:100
+msgid "Photo/Logo"
+msgstr "Fotó / Logo"
+
+#: templates/shortcodes/register.php:107
+msgid "Upload photo"
+msgstr "Fénykép feltöltése"
+
+#: templates/shortcodes/register.php:119
+#: admin/templates/widgets/es-request-widget.php:61
+#, php-format
+msgid "I agree to the %s and %s"
+msgstr "Egyetértek a %s és a %s értékekkel"
+
+#: templates/shortcodes/reset.php:14
+msgid "Restore password"
+msgstr "Jelszó visszaállítása"
+
+#: templates/shortcodes/reset.php:21
+msgid "Enter new password"
+msgstr "Adjon meg új jelszót"
+
+#: templates/shortcodes/reset.php:23
+msgid "Username or email address"
+msgstr "Felhasználónév vagy E-mail cím"
+
+#: templates/shortcodes/reset.php:34
+msgid "Get new password"
+msgstr "Új jelszó"
+
+#: templates/partials/map-property-overlay.php:57
+msgid "More details"
+msgstr ""
+"További részletek\n"
+
+#: templates/partials/request-form-response.php:2
+msgid "Your message was sent"
+msgstr "Az üzenet elküldve"
+
+#: templates/partials/request-form-response.php:4
+#: admin/templates/demo-content/demo-step.php:52
+#: admin/templates/demo-content/demo-step.php:74
+msgid "Back"
+msgstr "Hát"
+
+#: templates/partials/request-form-response.php:6
+msgid "Your message was'nt sent"
+msgstr "Az üzenet nem lett elküldve"
+
+#: templates/partials/request-form-response.php:8
+msgid "Try again"
+msgstr "Próbáld újra"
+
+#: templates/property/agent.php:21
+msgid "Agent profile image"
+msgstr "Ügynök profilképe"
+
+#: templates/property/agent.php:32 templates/property/agent.php:34
+msgid "Properties Qty"
+msgstr "Tulajdonságok Mennyiség"
+
+#: templates/emails/saved-search.php:2
+msgid "These new homes match your saved search"
+msgstr "Ezek az új otthonok megegyeznek a mentett kereséssel"
+
+#: templates/emails/saved-search.php:77
+msgid "View More Details"
+msgstr ""
+"További részletek megtekintése\n"
+
+#: templates/emails/saved-search.php:94
+msgid "See All"
+msgstr "Az összes megtekintése"
+
+#: subscriptions/templates/table.php:42
+msgid "Total"
+msgstr "Teljes"
+
+#: subscriptions/templates/table.php:43
+msgid "Proceed"
+msgstr ""
+"Folytassa\n"
+"Profilkép\n"
+"Tulajdonságok kategóriánként\n"
+"Ingatlanok város szerint"
+
+#: subscriptions/classes/class-subscription-table.php:37
+msgid "All listing"
+msgstr ""
+"Minden lista\n"
+
+#: subscriptions/classes/class-subscription-table.php:38
+msgid "Featured listings"
+msgstr "Kiemelt listák"
+
+#: subscriptions/classes/class-subscription-table.php:42
+msgid "Renewal Price"
+msgstr ""
+"Megújítási ár\n"
+
+#: subscriptions/classes/class-subscription.php:44
+msgid "Property Qty"
+msgstr ""
+"Ingatlan Mennyiség\n"
+
+#: subscriptions/classes/class-subscription.php:54
+msgid "Featured Qty"
+msgstr "Kiemelt Mennyiség"
+
+#: subscriptions/classes/class-subscription.php:60
+#: rets/templates/actualization-tab.php:81
+msgid "Period"
+msgstr ""
+"Időszak\n"
+
+#: subscriptions/classes/class-subscription.php:66
+#: admin/classes/pages/class-settings-page.php:70
+msgid "Currency"
+msgstr "Valuta"
+
+#: subscriptions/classes/class-subscription.php:84
+msgid "Renewal price"
+msgstr ""
+"Megújítási ár\n"
+
+#: subscriptions/classes/class-subscription.php:89
+msgid "-- Select trial period --"
+msgstr ""
+"-- Válassza ki a próbaidőt --\n"
+
+#: subscriptions/classes/class-subscription.php:90
+msgid "Trial"
+msgstr ""
+"Próba\n"
+
+#: subscriptions/classes/class-subscription-table-shortcode.php:24
+msgid "Please, set PayPal credintials on Estatik subscription settings page."
+msgstr ""
+"Kérjük, állítsa be a PayPal hitelesítő adatait az Estatik előfizetési "
+"beállítások oldalán."
+
+#: subscriptions/classes/class-subscription-table-shortcode.php:26
+msgid "Please, set PayPal success page on Estatik subscription settings page."
+msgstr ""
+"Kérjük, állítsa be a PayPal siker oldalát az Estatik előfizetési beállítások "
+"oldalán."
+
+#: subscriptions/classes/class-subscription-table-shortcode.php:52
+msgid "Subscription table"
+msgstr ""
+"Előfizetési táblázat\n"
+
+#: subscriptions/classes/class-subscription-init.php:289
+msgid "Agent of this post has no permission for publish this property."
+msgstr ""
+"A hozzászólás ügynöke nem rendelkezik engedéllyel az ingatlan közzétételére."
+
+#: subscriptions/classes/class-subscription-init.php:323
+msgid "You subscription plan doesn't allow to publish more listings."
+msgstr "Az előfizetési terv nem engedélyezi további adatok közzétételét."
+
+#: subscriptions/classes/class-subscription-init.php:359
+msgid "You subscription plan doesn't allow to publish more featured listings."
+msgstr "Az előfizetési terv nem engedélyezi a kiemelt listák közzétételét."
+
+#: subscriptions/classes/class-subscription-init.php:405
+msgid "Estatik Subscription"
+msgstr "Estatik előfizetés"
+
+#: subscriptions/classes/class-subscription-init.php:443
+msgid "Subscription is expired."
+msgstr "Az előfizetés lejárt."
+
+#: subscriptions/classes/class-subscription-init.php:469
+#: admin/templates/agents/profile.php:94
+#: subscriptions/classes/pages/class-order-list-page.php:105
+msgid "Subscription"
+msgstr "Előfizetés"
+
+#: subscriptions/classes/class-subscription-init.php:472
+msgid "Edit subscription"
+msgstr ""
+"Az előfizetés szerkesztése\n"
+
+#: subscriptions/classes/class-subscription-init.php:484
+msgid "Order"
+msgstr ""
+"Sorrend\n"
+
+#: subscriptions/classes/class-subscription-metabox.php:31
+msgid "Subscription data"
+msgstr "Előfizetési adatok"
+
+#: rets/templates/dep-fields.php:8 rets/templates/scheduler-import-tab.php:131
+msgid "Resource"
+msgstr ""
+"Forrás\n"
+
+#: rets/templates/dep-fields.php:22
+msgid "Classes"
+msgstr ""
+"Osztályok\n"
+
+#: rets/templates/dep-fields.php:25
+msgid "Loading..."
+msgstr "Betöltés..."
+
+#: rets/templates/actualization-tab.php:18
+msgid "Actualize listings"
+msgstr ""
+"A listák aktualizálása\n"
+
+#: rets/templates/actualization-tab.php:21
+msgid ""
+"To setup and launch synchronization schedule, please select below Resource, "
+"Class and Entity and click Configure."
+msgstr ""
+"A szinkronizálási ütemezés beállításához és indításához válassza az "
+"Erőforrás, osztály és entitás elemet, majd kattintson a Konfigurálás gombra."
+
+#: rets/templates/actualization-tab.php:27
+#: rets/templates/actualization-tab.php:84
+#: rets/templates/custom-import-tab.php:21 rets/templates/fields-tab.php:24
+#: rets/templates/scheduler-import-tab.php:45
+msgid "Entity"
+msgstr "Entity"
+
+#: rets/templates/actualization-tab.php:40
+msgid "Configure"
+msgstr "Beállítás"
+
+#: rets/templates/actualization-tab.php:62
+#: rets/templates/scheduler-import-tab.php:109
+msgid "Schedules list"
+msgstr ""
+"Ütemezések listája\n"
+
+#: rets/templates/actualization-tab.php:68
+#: rets/templates/scheduler-import-tab.php:117
+msgid "Please select schedules you want to delete."
+msgstr "Please select schedules you want to delete."
+
+#: rets/templates/actualization-tab.php:69
+#: rets/templates/scheduler-import-tab.php:118
+msgid "Are you sure you want to delete these schedules?"
+msgstr ""
+"Biztosan törli ezeket az ütemezéseket?\n"
+
+#: rets/templates/actualization-tab.php:70
+#: rets/templates/scheduler-import-tab.php:119
+msgid "Remove selected"
+msgstr ""
+"A kiválasztott eltávolítása\n"
+
+#: rets/templates/actualization-tab.php:82
+#: rets/templates/custom-import-tab.php:35
+#: rets/templates/scheduler-import-tab.php:65
+#: rets/templates/scheduler-import-tab.php:135
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:107
+#: admin/templates/widgets/es-property-map-form.php:76
+#: rets/templates/partials/actualizer-form.php:46
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:96
+#: admin/templates/shortcode-builder/params/es_search_map-params.php:3
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:109
+msgid "Limit"
+msgstr "Határ"
+
+#: rets/templates/actualization-tab.php:83
+msgid "Actions"
+msgstr ""
+"Hozzászólások\n"
+
+#: rets/templates/actualization-tab.php:85
+msgid "Checked"
+msgstr ""
+"Kockás\n"
+
+#: rets/templates/actualization-tab.php:86
+msgid "Updated"
+msgstr ""
+"Korszerűsített\n"
+
+#: rets/templates/actualization-tab.php:87
+msgid "Deleted"
+msgstr "Törölve"
+
+#: rets/templates/actualization-tab.php:127
+#: rets/templates/actualization-tab.php:139
+msgid "Press Press if you want to reset values in Updated/Deleted column."
+msgstr ""
+"Nyomja meg a Nyomja meg a gombot, ha vissza szeretné állítani az értékeket a "
+"Frissített / Törölt oszlopban."
+
+#: rets/templates/actualization-tab.php:127
+#: rets/templates/actualization-tab.php:139
+msgid "Are you sure you want to reset Updated / Deleted values?"
+msgstr ""
+"Biztos benne, hogy visszaállítja a frissített / törölt értékeket?\n"
+
+#: rets/templates/actualization-tab.php:153
+#: rets/templates/scheduler-import-tab.php:172
+msgid "The List is empty!"
+msgstr ""
+"A lista üres!\n"
+
+#: rets/templates/custom-import-tab.php:10 rets/templates/fields-tab.php:16
+#: rets/classes/pages/class-mls-rets-page.php:290
+msgid "Manual Import"
+msgstr ""
+"Kézi importálás\n"
+
+#: rets/templates/custom-import-tab.php:13
+#, php-format
+msgid ""
+"To import listings manually, please configure settings below and select "
+"which listings you want to import. Then click Save button. %s you will find "
+"additional information."
+msgstr ""
+"Az adatok manuális importálásához kérjük, konfigurálja az alábbi "
+"beállításokat, és válassza ki az importálni kívánt adatokat. Ezután "
+"kattintson a Mentés gombra. %s további információkat talál."
+
+#: rets/templates/custom-import-tab.php:14
+msgid "Here"
+msgstr "Itt"
+
+#: rets/templates/custom-import-tab.php:44 rets/templates/fields-tab.php:37
+msgid "Submit"
+msgstr "beküldése"
+
+#: rets/templates/logger-popup.php:13
+msgid "Log ID"
+msgstr "Napló azonosítója"
+
+#: rets/templates/logger-popup.php:14
+msgid "Entity ID"
+msgstr "Entitás azonosítója"
+
+#: rets/templates/logger-popup.php:15
+msgid "Log Message"
+msgstr "Naplóüzenet"
+
+#: rets/templates/logger-popup.php:17
+msgid "UserID"
+msgstr ""
+"Felhasználói azonosító\n"
+
+#: rets/templates/logger-popup.php:18
+msgid "DateTime"
+msgstr ""
+"Dátum idő\n"
+
+#: rets/templates/logger-popup.php:35
+msgid "Nothing to show"
+msgstr ""
+"Nincs mit megmutatni\n"
+
+#: rets/templates/fields-tab.php:10
+msgid "Fields Settings"
+msgstr "Mezők beállításai"
+
+#: rets/templates/fields-tab.php:13
+#, php-format
+msgid ""
+"You must assign fields you need for selected resourse, class and entity "
+"below. Click Submit button to view the fields. If there is no Estatik field "
+"for selected MLS field, please use Custom field in drop-down. </br>Check out "
+"our detailed tutorial %s. \n"
+"</br>Once you configured the fields, go to %s or %s tab to make the import."
+msgstr ""
+"Az alábbiakban meg kell adnia a kiválasztott erőforráshoz, osztályhoz és "
+"entitáshoz szükséges mezőket. A mezők megtekintéséhez kattintson a Küldés "
+"gombra. Ha a kiválasztott MLS mezőben nincs Estatik mező, használja a Custom "
+"mezőt a legördülő menüben. </br> Nézze meg a %s részletes bemutatónkat.\n"
+"</br> Miután konfigurálta a mezőket, lépjen a %s vagy %s fülre az "
+"importáláshoz."
+
+#: rets/templates/fields-tab.php:15 rets/templates/partials/connect-form.php:20
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:69
+#: admin/templates/shortcode-builder/params/es_subscription_table-params.php:1
+#: admin/templates/shortcode-builder/params/es_subscription_paypal_response_page-params.php:1
+msgid "here"
+msgstr "itt"
+
+#: rets/templates/fields-tab.php:17
+#: rets/classes/pages/class-mls-rets-page.php:285
+msgid "Automatic Import"
+msgstr ""
+"Automatikus importálás\n"
+
+#: rets/templates/fields-tab.php:45
+msgid "Choose entity fields for import"
+msgstr "Válassza az entitás mezőket az importáláshoz"
+
+#: rets/templates/fields-tab.php:52 rets/templates/fields-tab.php:53
+msgid "-- Choose RETS fields --"
+msgstr ""
+"-- Válasszon RETS mezőket --\n"
+
+#: rets/templates/fields-tab.php:63
+msgid "Quick Search"
+msgstr ""
+"Gyors keresés\n"
+
+#: rets/templates/scheduler-import-tab.php:15
+msgid "Edit Schedule"
+msgstr ""
+"Ütemezés szerkesztése\n"
+
+#: rets/templates/scheduler-import-tab.php:18
+msgid "Create Schedule"
+msgstr "Ütemezés létrehozása"
+
+#: rets/templates/scheduler-import-tab.php:22
+#, php-format
+msgid ""
+"If you want to launch automatic import of listings, please configure import "
+"schedule here and set up cron jobs on your hosting. Read these %s to make "
+"everything correctly."
+msgstr ""
+"Ha el akarja indítani a listák automatikus importálását, kérjük, itt "
+"konfigurálja az import ütemezését, és állítsa be a cron feladatokat a "
+"tárhelyén. Olvassa el ezeket a %s-t, hogy mindent helyesen készítsen."
+
+#: rets/templates/scheduler-import-tab.php:23
+msgid "instructions"
+msgstr "Utasítás"
+
+#: rets/templates/scheduler-import-tab.php:30
+#: rets/templates/partials/actualizer-form.php:33
+msgid "Schedules"
+msgstr "Menetrendek"
+
+#: rets/templates/scheduler-import-tab.php:74
+msgid "Offset"
+msgstr ""
+"Eltolt\n"
+
+#: rets/templates/scheduler-import-tab.php:82
+msgid "Existing property"
+msgstr "Meglévő ingatlan"
+
+#: rets/templates/scheduler-import-tab.php:85
+msgid "Overwrite"
+msgstr ""
+"Átír\n"
+
+#: rets/templates/scheduler-import-tab.php:86
+msgid "Skip"
+msgstr ""
+"Skip\n"
+
+#: rets/templates/scheduler-import-tab.php:92
+msgid "Enable non-stop import"
+msgstr "A non-stop import engedélyezése"
+
+#: rets/templates/scheduler-import-tab.php:100
+#: admin/templates/agents/profile.php:24 admin/templates/buyers/profile.php:21
+#: admin/templates/upgrade-pro/upgrade-pro.php:10
+#: admin/templates/settings/settings.php:14
+#: templates/shortcodes/partials/saved-searches-tab.php:30
+#: templates/shortcodes/partials/my-profile-tab.php:129
+#: rets/templates/partials/connect-form.php:158
+msgid "Save"
+msgstr "Mentés "
+
+#: rets/templates/scheduler-import-tab.php:130
+#: rets/classes/class-mls-rets-init.php:276
+#: rets/classes/class-mls-rets-init.php:278
+msgid "Schedule"
+msgstr "Menetrend"
+
+#: rets/templates/scheduler-import-tab.php:132
+msgid "Query"
+msgstr "Kérdés"
+
+#: rets/templates/scheduler-import-tab.php:133
+msgid "Last Import"
+msgstr "Utolsó importálás"
+
+#: rets/templates/scheduler-import-tab.php:134
+msgid "Executed"
+msgstr "Végrehajtott"
+
+#: rets/templates/scheduler-import-tab.php:136
+msgid "Items count"
+msgstr "Tételek számítanak"
+
+#: rets/templates/rets.php:8
+msgid "MLS RETS IMPORT"
+msgstr ""
+"MLS RETS IMPORT\n"
+
+#: rets/templates/rets.php:13
+msgid "Please fill up your credentials and click save to finish."
+msgstr ""
+"Töltse ki a hitelesítő adatait, és a befejezéshez kattintson a Mentés gombra."
+"\n"
+
+#: rets/classes/class-rets-import-room.php:56
+#, php-format
+msgid "Property room %s already exists."
+msgstr "A %s ingatlanszoba már létezik."
+
+#: rets/classes/class-mls-rets-init.php:73
+msgid "The RETS access successfully removed."
+msgstr ""
+"A RETS hozzáférés sikeresen eltávolítva.\n"
+
+#: rets/classes/class-mls-rets-init.php:81
+#: rets/classes/class-mls-rets-init.php:174
+msgid "Incorrect or empty rets access."
+msgstr "Helytelen vagy üres rets-hozzáférés."
+
+#: rets/classes/class-mls-rets-init.php:166
+msgid "Connection is successful!"
+msgstr "A kapcsolat sikeres!"
+
+#: rets/classes/class-mls-rets-init.php:242
+msgid "RETS Profile UID"
+msgstr "RETS profil UID"
+
+#: rets/classes/class-mls-rets-init.php:260
+#: rets/classes/class-mls-rets-init.php:261
+msgid "MLS RETS Import"
+msgstr ""
+"MLS RETS Import\n"
+
+#: rets/classes/class-mls-rets-init.php:289
+#: rets/classes/class-mls-rets-init.php:291
+msgid "Actualizer"
+msgstr ""
+"Megvalósító\n"
+
+#: rets/classes/class-rets-media.php:23
+msgid "Entity Relation ID"
+msgstr "Entitás kapcsolat azonosítója"
+
+#: rets/classes/class-rets-media.php:26
+msgid "Image Unique ID"
+msgstr "Kép egyedi azonosítója"
+
+#: rets/classes/class-rets-media.php:29
+msgid "Image data / url"
+msgstr "Kép adatok / URL"
+
+#: rets/classes/class-rets-import-property.php:53
+#, php-format
+msgid "Property %s already exists."
+msgstr ""
+"A %s tulajdonság már létezik.\n"
+
+#: rets/classes/class-rets-import-property.php:289
+#: rets/classes/class-rets-import-agent.php:157
+msgid "Images via Media resource doesn't exist."
+msgstr "A médiaforráson keresztüli képek nem léteznek."
+
+#: rets/classes/class-rets-import-property.php:303
+msgid "Property images doesn't exist."
+msgstr "Az ingatlanképek nem léteznek."
+
+#: rets/classes/class-rets-import-property.php:338
+#: rets/classes/class-rets-import-agent.php:202
+msgid ""
+"Image URL is empty. Please, use disable <b>Use remote images</b> and <b>Use "
+"object locations</b> options."
+msgstr ""
+"A kép URL-címe üres. Kérjük, használja a <b> Távoli képek használata </b> és "
+"a <b> Objektumok helyének használata </b> lehetőségeket."
+
+#: rets/classes/class-rets-import-agent.php:171
+msgid "Agent images doesn't exist."
+msgstr "Az ügynökképek nem léteznek."
+
+#: classes/shortcodes/class-labels-shortcode.php:12
+msgid "Properties By Labels"
+msgstr ""
+"Ingatlan bérleti idő szerint\n"
+
+#: classes/shortcodes/class-state-shortcode.php:12
+msgid "Properties By State"
+msgstr "Tulajdonságok állam szerint"
+
+#: classes/shortcodes/class-profile-shortcode.php:11
+msgid "User profile"
+msgstr "Felhasználói profil"
+
+#: classes/shortcodes/class-profile-shortcode.php:130
+#: templates/shortcodes/partials/saved-searches-tab.php:10
+msgid "Saved Searches"
+msgstr "Elmentett keresések"
+
+#: classes/shortcodes/class-profile-shortcode.php:135
+#: templates/shortcodes/partials/saved-homes-tab.php:9
+msgid "Saved Homes"
+msgstr "Mentett házak"
+
+#: classes/shortcodes/class-profile-shortcode.php:145
+msgid "My Listings"
+msgstr ""
+"Saját listáim\n"
+
+#: classes/shortcodes/class-city-shortcode.php:12
+msgid "Properties By City"
+msgstr ""
+"Tulajdonságok országonként\n"
+
+#: classes/shortcodes/class-property-slideshow-shortcode.php:12
+msgid "Slideshow"
+msgstr "Diavetítés"
+
+#: classes/shortcodes/class-restore-password-shortcode.php:41
+msgid "Restore Password"
+msgstr "Jelszó Visszaállítása"
+
+#: classes/shortcodes/class-cheapest-props-shortcode.php:12
+msgid "Cheapest Properties"
+msgstr "Legolcsóbb tulajdonságok"
+
+#: classes/shortcodes/class-search-shortcode.php:12
+msgid "Search results"
+msgstr "Keresési eredmények"
+
+#: classes/shortcodes/class-features-shortcode.php:12
+msgid "Properties by Features"
+msgstr ""
+"Tulajdonságok címkék szerint\n"
+
+#: classes/shortcodes/class-expensive-props-shortcode.php:12
+msgid "Expensive Properties"
+msgstr "Drága tulajdonságok"
+
+#: classes/shortcodes/class-search-form-shortcode.php:16
+msgid "Search form"
+msgstr ""
+"Keresési űrlap\n"
+" \n"
+
+#: classes/shortcodes/class-map-search-shortcode.php:12
+msgid "Map search"
+msgstr ""
+"Térkép keresés\n"
+
+#: classes/shortcodes/class-country-shortcode.php:12
+msgid "Properties By Country"
+msgstr ""
+"Tulajdonságok tulajdonságok szerint\n"
+
+#: classes/shortcodes/class-subscription-paypal-response-page-shortcode.php:42
+msgid "Subscription PayPal"
+msgstr "Előfizetés PayPal"
+
+#: classes/shortcodes/class-agent-listing-shortcode.php:12
+msgid "Agent Listings"
+msgstr "Ügynökök listája"
+
+#: classes/shortcodes/class-featured-props-shortcode.php:12
+msgid "Featured Properties"
+msgstr "Kiemelt tulajdonságok"
+
+#: classes/shortcodes/class-single-shortcode.php:12
+msgid "Single property"
+msgstr "Egyetlen ingatlan"
+
+#: classes/shortcodes/class-agent-register-shortcode.php:13
+msgid "Register form"
+msgstr "Regisztrációs űrlap"
+
+#: classes/shortcodes/class-category-shortcode.php:12
+msgid "Properties By Category"
+msgstr "Tulajdonságok kategória szerint"
+
+#: classes/shortcodes/class-latest-props-shortcode.php:12
+msgid "Latest Properties"
+msgstr "Legújabb tulajdonságok"
+
+#: classes/shortcodes/class-login-shortcode.php:11
+msgid "Login form"
+msgstr "Bejelentkezési űrlap"
+
+#: classes/pages/class-property-single-page.php:125
+msgid "View on map / Neighborhood"
+msgstr "Nézd meg a térképen / a környéken"
+
+#: classes/pages/class-property-single-page.php:371
+msgid "Agent contact"
+msgstr "Ügynök kapcsolat"
+
+#: classes/pages/class-property-single-page.php:503
+msgid "Area size"
+msgstr "Terület mérete"
+
+#: classes/pages/class-property-single-page.php:601
+msgid "To top"
+msgstr "Oldal tetéjre"
+
+#: management/classes/shortcodes/class-prop-management-shortcode.php:12
+msgid "Listings management"
+msgstr "A listák kezelése"
+
+#: admin/templates/data-manager/term-item.php:26
+#: admin/templates/data-manager/label-item.php:53
+#: admin/templates/data-manager/item.php:38
+#: admin/templates/agents/profile.php:170
+#: admin/templates/buyers/profile.php:109
+#: admin/templates/property/custom-fields.php:22
+msgid "text/number"
+msgstr "szöveg / szám"
+
+#: admin/templates/data-manager/term-item.php:28
+#: admin/templates/data-manager/label-item.php:54
+#: admin/templates/data-manager/item.php:40
+#: admin/templates/data-manager/currency-item.php:40
+msgid "Add new item"
+msgstr "Új elem hozzáadása"
+
+#: admin/templates/data-manager/currencies-tab.php:7
+#: admin/classes/pages/class-data-manager-page.php:65
+msgid "Currencies"
+msgstr "Pénznemek"
+
+#: admin/templates/data-manager/dimensions-tab.php:7
+msgid "Area & Lot size unit"
+msgstr "Terület és tétel méretegység"
+
+#: admin/templates/data-manager/currency-item.php:37
+msgid "Currency code (USD)"
+msgstr "Valuta kód (USD)"
+
+#: admin/templates/data-manager/currency-item.php:38
+msgid "Currency label ($)"
+msgstr "Valuta címke ($)"
+
+#: admin/templates/data-manager/data-manager.php:4
+#: admin/templates/dashboard/dashboard.php:26
+msgid "Data manager"
+msgstr "Adatkezelő"
+
+#: admin/templates/data-manager/data-manager.php:11
+msgid "Are you sure you want to delete it?"
+msgstr "Biztosan törölni akarja?"
+
+#: admin/templates/agents/profile.php:14
+msgid "Agent info"
+msgstr "Agent információ"
+
+#: admin/templates/agents/profile.php:23
+msgid "Please fill up your agent information below and click save to finish."
+msgstr ""
+"Kérjük, töltse ki az alábbi képviselői adatait, és kattintson a mentésre a "
+"befejezéshez.\n"
+
+#: admin/templates/agents/profile.php:56
+msgid "Sold properties"
+msgstr ""
+"Eladott tulajdonságok\n"
+
+#: admin/templates/agents/profile.php:62 admin/templates/buyers/profile.php:50
+#: templates/shortcodes/partials/my-profile-tab.php:59
+msgid "Telephone"
+msgstr "Telefon"
+
+#: admin/templates/agents/profile.php:68
+#: templates/shortcodes/partials/my-profile-tab.php:76
+msgid "Website"
+msgstr ""
+"Weboldal\n"
+
+#: admin/templates/agents/profile.php:82
+msgid "Subscription plan"
+msgstr ""
+"Előfizetési terv\n"
+
+#: admin/templates/agents/profile.php:85
+msgid "Expired"
+msgstr "Lejárt"
+
+#: admin/templates/agents/profile.php:87
+#: admin/classes/pages/class-agent-list.php:174
+#: admin/classes/pages/class-user-list.php:188
+msgid "Active"
+msgstr "Aktív"
+
+#: admin/templates/agents/profile.php:96
+msgid "-- Subscription plan --"
+msgstr ""
+"-- Előfizetési terv --\n"
+
+#: admin/templates/agents/profile.php:126 admin/templates/buyers/profile.php:73
+msgid "Profile photo"
+msgstr "Profilkép"
+
+#: admin/templates/agents/profile.php:128
+#: admin/templates/settings/general-tab.php:187
+#: admin/templates/settings/email-tab.php:7
+msgid "Add image(s) to agent"
+msgstr "Kép (ek) hozzáadása az ügynökhöz"
+
+#: admin/templates/agents/profile.php:128
+#: admin/templates/agents/profile.php:129 admin/templates/buyers/profile.php:76
+#: admin/templates/buyers/profile.php:77 admin/templates/property/media.php:29
+#: admin/templates/property/media.php:30
+#: admin/templates/settings/general-tab.php:187
+#: admin/templates/settings/general-tab.php:188
+#: admin/templates/settings/email-tab.php:7
+#: admin/templates/settings/email-tab.php:8
+msgid "Add image(s)"
+msgstr "Kép hozzáadása"
+
+#: admin/templates/agents/profile.php:145
+msgid "Social media Links"
+msgstr ""
+"Közösségi média linkek\n"
+
+#: admin/templates/agents/profile.php:171
+#: admin/templates/buyers/profile.php:110
+#: admin/templates/property/custom-fields.php:23
+msgid "Add new field"
+msgstr "Új mező hozzáadása"
+
+#: admin/templates/agents/filter.php:34 admin/templates/buyers/filter.php:13
+msgid "By Name"
+msgstr "Név szerint"
+
+#: admin/templates/agents/filter.php:48 admin/templates/buyers/filter.php:27
+msgid "Please select agent you want to delete."
+msgstr "Kérjük, válassza ki a törölni kívánt ügynököt."
+
+#: admin/templates/agents/filter.php:49 admin/templates/buyers/filter.php:28
+msgid "Please select agent you want to active."
+msgstr "Kérjük, válassza ki az aktiválni kívánt ügynököt."
+
+#: admin/templates/agents/filter.php:49 admin/templates/buyers/filter.php:28
+msgid "Are you sure you want to activate these agents?"
+msgstr "Biztosan aktiválja ezeket az ügynököket?"
+
+#: admin/templates/agents/filter.php:49 admin/templates/buyers/filter.php:28
+msgid "Activate"
+msgstr "Aktiválja"
+
+#: admin/templates/agents/filter.php:50 admin/templates/buyers/filter.php:29
+msgid "Please select agent you want to deactivate."
+msgstr "Kérjük, válassza ki a deaktiválni kívánt ügynököt."
+
+#: admin/templates/agents/filter.php:50 admin/templates/buyers/filter.php:29
+msgid "Are you sure you want to deactivate these agents?"
+msgstr "Biztosan le szeretné kapcsolni ezeket az ügynököket?"
+
+#: admin/templates/agents/filter.php:50 admin/templates/buyers/filter.php:29
+msgid "Deactivate"
+msgstr ""
+"Atástalanít\n"
+
+#: admin/templates/dashboard/dashboard.php:32
+msgid "Fields Builder"
+msgstr "Fields Builder"
+
+#: admin/templates/dashboard/dashboard.php:45
+msgid "Get support"
+msgstr "Támogatást kapni"
+
+#: admin/templates/dashboard/dashboard.php:51
+msgid "Step-by-step guide"
+msgstr "Lépésről-lépésre útmutató"
+
+#: admin/templates/dashboard/dashboard.php:57
+msgid "FAQ"
+msgstr "FAQ"
+
+#: admin/templates/dashboard/dashboard.php:63
+msgid "Video Tutorial"
+msgstr "Videó bemutató"
+
+#: admin/templates/dashboard/dashboard.php:69
+msgid "Submit a ticket"
+msgstr "Jegy bejelentkezése"
+
+#: admin/templates/dashboard/dashboard.php:79
+#: admin/templates/settings/map-tab.php:90
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: admin/templates/dashboard/dashboard.php:92
+msgid "Changelog"
+msgstr "Változási napló"
+
+#: admin/templates/dashboard/dashboard.php:106
+msgid "Choose your theme"
+msgstr "Válassza ki a témát"
+
+#: admin/templates/dashboard/dashboard.php:122
+msgid "Upgrade Options"
+msgstr "Frissítési beállítások"
+
+#: admin/templates/dashboard/dashboard.php:128
+msgid "PRO Pack"
+msgstr "PRO csomag"
+
+#: admin/templates/dashboard/dashboard.php:129
+msgid ""
+"Unlock advanced features like PDF flyer, Map view, Frontend Submission, "
+"Agents, Subscriptions, CSV import, White Label, etc. PLUS choose one of "
+"Estatik Themes for FREE!"
+msgstr ""
+"Nyissa meg a speciális funkciókat, mint például a PDF szórólap, a "
+"térképnézet, a Frontend Submission, az ügynökök, a feliratkozások, a CSV "
+"import, a White Label stb. PLUS!"
+
+#: admin/templates/dashboard/dashboard.php:135
+msgid "Developer's Pack"
+msgstr "Fejlesztői csomag"
+
+#: admin/templates/dashboard/dashboard.php:136
+msgid ""
+"Great deal for developers! Save money and get Estatik PRO with absolutely "
+"ALL available Estatik Themes. <b>unlimited</b> unlimited number of websites "
+"& get <b>lifetime</b> Estatik updates!"
+msgstr ""
+"Sok a fejlesztők számára! Pénzt takarít meg, és az Estatik PRO-t teljesen "
+"MINDEN rendelkezésre álló Estatik témákkal kapja meg. <b> Korlátlan </b> "
+"webhelyek száma és <b> élettartam </b> Estatik frissítések!"
+
+#: admin/templates/dashboard/dashboard.php:142
+msgid "Premium Pack"
+msgstr "Prémium csomag"
+
+#: admin/templates/dashboard/dashboard.php:143
+msgid ""
+"All-inclusive Estatik Package with MLS organic import tool via RETS. Sit "
+"back and let us handle everything! Click here to read details."
+msgstr ""
+"Átalányos Estatik csomag MLS organikus import eszközzel a RETS-en keresztül. "
+"Üljön le és kezelje mindent! A részletek megtekintéséhez kattintson ide."
+
+#: admin/templates/migration/migration.php:12
+msgid ""
+"To update the previous version to major version 3.* you need to migrate your "
+"listings \n"
+"                    as the new version of the plugin requires. Before doing "
+"this, please make sure that your version \n"
+"                    of the plugin doesn't have custom changes of the code."
+msgstr ""
+"Ahhoz, hogy az előző verziót a 3. fő verzióra frissítse. * Át kell helyeznie "
+"a listáját\n"
+"                     mivel a bővítmény új verziója szükséges. Mielőtt ezt "
+"megtenné, győződjön meg róla, hogy a verziója megtörtént\n"
+"                     a plugin nem rendelkezik egyedi módosításokkal a kódban."
+
+#: admin/templates/migration/migration.php:17
+msgid ""
+"Migration process may take some time, especially if you have lots of "
+"properties added. \n"
+"                    Please be patient."
+msgstr ""
+"Az áttelepítési folyamat eltarthat egy ideig, különösen, ha sok "
+"tulajdonsággal rendelkezik.\n"
+"                     Kérjük várjon."
+
+#: admin/templates/migration/migration.php:20
+msgid "Migrate"
+msgstr "Vándorol"
+
+#: admin/templates/buyers/profile.php:20
+msgid "Please fill up your user information below and click save to finish."
+msgstr ""
+"Kérjük, töltse ki az alábbi felhasználói információkat, és kattintson a "
+"Mentés gombra a befejezéshez."
+
+#: admin/templates/buyers/profile.php:76
+msgid "Add image(s) to user"
+msgstr "Kép (ek) hozzáadása a felhasználóhoz"
+
+#: admin/templates/demo-content/demo-step.php:7
+msgid "Step 1. Estatik Pages Setup"
+msgstr "1. lépés: Estatik Pages Setup"
+
+#: admin/templates/demo-content/demo-step.php:8
+msgid ""
+"Please select the pages you want to setup below and click Next step to "
+"continue. Estatik will create a few listings with demo content and ready-to-"
+"use page you will select below."
+msgstr ""
+"Kérjük, válassza ki az alábbi oldalakat, és kattintson a Tovább gombra a "
+"folytatáshoz. Az Estatik néhány listát készít demo tartalommal és "
+"használatra kész oldallal."
+
+#: admin/templates/demo-content/demo-step.php:24
+#: admin/templates/demo-content/demo-step.php:53
+msgid "Next step"
+msgstr "Következő lépés"
+
+#: admin/templates/demo-content/demo-step.php:28
+msgid "Step 2. Setup keys"
+msgstr "2. lépés: A gombok beállítása"
+
+#: admin/templates/demo-content/demo-step.php:29
+msgid ""
+"Add your Google Map API key and Recaptcha keys below. It's required for "
+"Search and Request info widgets."
+msgstr ""
+"Adja hozzá a Google Térkép API kulcsát és a Recaptcha kulcsokat. A keresési "
+"és kérési információs widgetekhez szükséges."
+
+#: admin/templates/demo-content/demo-step.php:35
+#: admin/templates/demo-content/demo-step.php:41
+#: admin/templates/demo-content/demo-step.php:47
+msgid "Get My Key"
+msgstr "Get My Key"
+
+#: admin/templates/demo-content/demo-step.php:57
+msgid "Step 3. Demo listings setup"
+msgstr "3. lépés. Demo listák beállítása"
+
+#: admin/templates/demo-content/demo-step.php:58
+msgid ""
+"To import demo listings, please click on Import button or click Finish if "
+"you want to skip this step."
+msgstr ""
+"A demo listák importálásához kattintson az Importálás gombra, vagy "
+"kattintson a Befejezés gombra, ha ki akarja hagyni ezt a lépést."
+
+#: admin/templates/demo-content/demo-step.php:70
+#: rets/templates/partials/property-table.php:39
+#: rets/templates/partials/property-table.php:118
+msgid "Import"
+msgstr "Import"
+
+#: admin/templates/demo-content/demo-step.php:75
+msgid "Finish"
+msgstr "Befejez"
+
+#: admin/templates/demo-content/finished-step.php:7
+msgid "You did it!"
+msgstr "Megcsináltad!"
+
+#: admin/templates/demo-content/finished-step.php:8
+msgid "What to do next:"
+msgstr "Mi legyen a következő:"
+
+#: admin/templates/demo-content/finished-step.php:15
+msgid "View demo listings"
+msgstr "Demo listák megtekintése"
+
+#: admin/templates/demo-content/finished-step.php:22
+msgid "Add my first listing"
+msgstr "Az első listám hozzáadása"
+
+#: admin/templates/demo-content/finished-step.php:30
+msgid "Go to estatik dashboard"
+msgstr "Ugrás az estatik műszerfalra"
+
+#: admin/templates/demo-content/start-step.php:7
+msgid "Thank you for choosing Estatik "
+msgstr "Köszönjük, hogy az Estatik-t választotta"
+
+#: admin/templates/demo-content/start-step.php:9
+msgid "We are so happy you joined us"
+msgstr "Annyira boldogok vagyunk, hogy csatlakoztak hozzánk"
+
+#: admin/templates/demo-content/start-step.php:10
+#, php-format
+msgid ""
+"Grab your instant <b>5% off on any Estatik products</b> using coupon code "
+"below"
+msgstr ""
+"Fogd meg azonnali <b> 5% kedvezményt bármely Estatik termékről </b> az "
+"alábbi kuponkód használatával"
+
+#: admin/templates/demo-content/start-step.php:15
+msgid "THANKYOU"
+msgstr "KÖSZÖNÖM"
+
+#: admin/templates/demo-content/start-step.php:22
+#: admin/templates/demo-content/start-step.php:24
+msgid "Skip demo setup"
+msgstr "Indítsa el a demó beállításait"
+
+#: admin/templates/demo-content/start-step.php:27
+msgid "Setup DEMO"
+msgstr "DEMO telepítése"
+
+#: admin/templates/fields-builder/main.php:17
+msgid ""
+"Here you can add new sections and fields that you can find in Add new "
+"listing. Please add Sections first via Listing sections tab and then "
+"continue with fields. To add new field, please configure the fields below "
+"and click Create button."
+msgstr ""
+"Itt új szakaszokat és mezőket adhat hozzá, amelyeket megtalálhat az Új lista "
+"hozzáadása részben. Először adja hozzá a Szekciókat a Szakaszok felsorolása "
+"lapon, majd folytassa a mezőkkel. Új mező hozzáadásához konfigurálja az "
+"alábbi mezőket, majd kattintson a Létrehozás gombra."
+
+#: admin/templates/widgets/es-search-widget.php:63
+#: admin/templates/widgets/es-search-widget.php:65
+msgid "Save search"
+msgstr "Keresés mentése"
+
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:39
+msgid "Show arrows"
+msgstr "Mutasson nyilakat"
+
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:50
+msgid "Slide Effect"
+msgstr "Diahatás"
+
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:61
+msgid "Filter data"
+msgstr ""
+"Adatok szűrése\n"
+
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:62
+#: admin/templates/widgets/es-property-map-form.php:31
+msgid "-- Select parameters for filtering --"
+msgstr "-- Válassza ki a szűrési paramétereket --"
+
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:87
+msgid "Min Price"
+msgstr "Min. Ár"
+
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:92
+msgid "Max Price"
+msgstr ""
+"\n"
+"9/5000\n"
+"Max. Ár"
+
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:97
+msgid "Listings IDs"
+msgstr "listák IDs"
+
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:102
+msgid "Space between slides"
+msgstr "Hely a lemezek között"
+
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:112
+msgid "Slides to show"
+msgstr "A megjelenítendő diák"
+
+#: admin/templates/widgets/es-property-slideshow-widget-form.php:118
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:11
+#: admin/templates/shortcode-builder/params/es_search-params.php:7
+#: admin/templates/shortcode-builder/params/es_profile-params.php:3
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:81
+#: admin/templates/shortcode-builder/params/es_search_form-params.php:59
+msgid "Layout"
+msgstr "Elrendezés"
+
+#: admin/templates/widgets/es-search-widget-form.php:31
+msgid "Search Title"
+msgstr "Keresés címe"
+
+#: admin/templates/widgets/es-search-widget-form.php:37
+#: admin/templates/widgets/es-property-map-form.php:56
+#: admin/classes/pages/class-settings-page.php:66
+msgid "Layouts"
+msgstr "Elrendezések"
+
+#: admin/templates/widgets/es-search-widget-form.php:47
+msgid "Show unit converter"
+msgstr "Az egység konverter megjelenítése"
+
+#: admin/templates/widgets/es-search-widget-form.php:52
+msgid "Enable save search"
+msgstr "A mentési keresés engedélyezése"
+
+#: admin/templates/widgets/es-search-widget-form.php:58
+msgid "Add search field"
+msgstr "Keresés mező hozzáadása"
+
+#: admin/templates/widgets/es-search-widget-form.php:60
+msgid "-- Select field --"
+msgstr "-- Válasszon mezőt --"
+
+#: admin/templates/widgets/es-property-map-form.php:26
+msgid "Map Title:"
+msgstr ""
+"Térkép címe:\n"
+
+#: admin/templates/widgets/es-property-map-form.php:71
+#: admin/templates/settings/map-tab.php:66
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:80
+msgid "Height"
+msgstr "Magasság"
+
+#: admin/templates/widgets/es-request-widget-form.php:8
+msgid "Learn more about this property"
+msgstr "Tudjon meg többet erről a tulajdonságról"
+
+#: admin/templates/widgets/es-request-widget-form.php:11
+msgid ""
+"Hi, I`m interested in the property. Please send me more information about it."
+" Thank you!"
+msgstr ""
+"Szia, érdekel az ingatlan. Kérem, küldjön nekem több információt erről. "
+"Köszönöm!"
+
+#: admin/templates/widgets/es-request-widget-form.php:18
+#: admin/templates/widgets/es-request-widget.php:23
+msgid "Estatik Request Info from"
+msgstr "Estatik Információ kérése"
+
+#: admin/templates/widgets/es-request-widget-form.php:22
+msgid "Request title"
+msgstr "Cím megadása"
+
+#: admin/templates/widgets/es-request-widget-form.php:27
+msgid "Request Message"
+msgstr "Üzenet kérése"
+
+#: admin/templates/widgets/es-request-widget-form.php:32
+msgid "Disable Name field"
+msgstr "Név mező letiltása"
+
+#: admin/templates/widgets/es-request-widget-form.php:37
+msgid "Disable Phone number field"
+msgstr "A telefonszám mező letiltása"
+
+#: admin/templates/widgets/es-request-widget-form.php:42
+msgid "Send Message To"
+msgstr "Üzenet küldése"
+
+#: admin/templates/widgets/es-request-widget-form.php:53
+msgid "Another email"
+msgstr "Egy másik e-mail"
+
+#: admin/templates/widgets/es-request-widget-form.php:58
+msgid "Email subject"
+msgstr "Email tárgy"
+
+#: admin/templates/widgets/es-request-widget.php:40
+msgid "Your name"
+msgstr "A neved"
+
+#: admin/templates/widgets/es-request-widget.php:45
+msgid "Your email"
+msgstr "Az email címed"
+
+#: admin/templates/widgets/es-request-widget.php:50
+msgid "Phone number"
+msgstr "Telefonszám"
+
+#: admin/templates/widgets/es-request-widget.php:78
+msgid "Send"
+msgstr "Elküld"
+
+#: admin/templates/upgrade-pro/upgrade-pro.php:4
+msgid "Upload downloaded estatik pro / premium"
+msgstr "Feltöltött letöltés estatik pro / premium"
+
+#: admin/templates/upgrade-pro/upgrade-pro.php:9
+msgid ""
+"Please upload your Estatik Pro / Premium version in zip format and click "
+"upload to finish for update to new Version."
+msgstr ""
+"Kérjük, töltse fel az Estatik Pro / Premium verziót zip formátumban, és "
+"kattintson a feltöltés befejezéséhez az új verzió frissítéséhez."
+
+#: admin/templates/upgrade-pro/upgrade-pro.php:14
+msgid "Upload archive"
+msgstr "Feltöltés archívum"
+
+#: admin/templates/shortcode-builder/popup.php:38
+msgid "Insert shortcode"
+msgstr "Helyezzen be egy rövid kódot"
+
+#: admin/templates/shortcode-builder/popup.php:39
+msgid "Please click on a drop-down list and pick up the required shortcode."
+msgstr ""
+"Kérjük, kattintson a legördülő listára, és vegye fel a szükséges rövid kódot."
+
+#: admin/templates/shortcode-builder/popup.php:43
+msgid "Select a shortcode"
+msgstr "Jelöljön ki egy rövid kódot"
+
+#: admin/templates/shortcode-builder/popup.php:46
+msgid "Choose shortcode"
+msgstr "Válassza ki a rövid kódot"
+
+#: admin/templates/shortcode-builder/popup.php:62
+msgid "Cancel"
+msgstr "Megszünteti"
+
+#: admin/templates/shortcode-builder/popup.php:63
+msgid "Generate Shortcode"
+msgstr "Gyorskód létrehozása"
+
+#: admin/templates/property/metabox.php:36
+#, php-format
+msgid ""
+"Please enter Google Map API key in <a href=\"%s\" target=\"_blank\">General "
+"Settings</a> of the plugin."
+msgstr ""
+"Kérjük, adja meg a Google Térkép API kulcsát a bővítmény <a href=\"%s\" "
+"target=\"_blank\"> Általános beállításaiban </a>."
+
+#: admin/templates/property/media.php:7
+msgid ""
+"Here you can add video and upload images. Please enter video code in iframe "
+"format, e.g. -"
+msgstr ""
+"Itt felveheti a képeket és feltölthet képeket. Kérjük, írja be video kódját "
+"iframe formátumba, pl. -"
+
+#: admin/templates/property/media.php:17
+msgid "Embed the code"
+msgstr "A kód beágyazása"
+
+#: admin/templates/property/media.php:29
+msgid "Add image(s) to property"
+msgstr "Kép (ek) hozzáadása a tulajdonhoz"
+
+#: admin/templates/property/media.php:50
+#, php-format
+msgid ""
+"Your theme has no <a href=\"%s\" target=\"_blank\">post thumbnail support</a>"
+"."
+msgstr ""
+"A téma nem rendelkezik <a href=\"%s\" target=\"_blank\"> előnézeti "
+"támogatással </a>."
+
+#: admin/templates/property/filter.php:69
+msgid "MLS Profile"
+msgstr ""
+"MLS profil\n"
+
+#: admin/templates/property/filter.php:71
+msgid "-- None --"
+msgstr ""
+"-- Egyik sem --\n"
+
+#: admin/templates/property/filter.php:120
+msgid "Please select properties."
+msgstr "Kérjük, válassza ki a tulajdonságokat."
+
+#: admin/templates/property/filter.php:121
+msgid "Are you sure you want to attach this agent to selected properties?"
+msgstr "Biztosan csatolja ezt az ügynököt a kiválasztott tulajdonságokhoz?"
+
+#: admin/templates/property/filter.php:123
+msgid "Assign Agent"
+msgstr ""
+"Jelöljön ki ügynököt\n"
+
+#: admin/templates/settings/currency-tab.php:7
+msgid "Default currency"
+msgstr "Alapértelmezett pénznem"
+
+#: admin/templates/settings/currency-tab.php:10
+msgid "Choose currency"
+msgstr "Válasszon pénznemet"
+
+#: admin/templates/settings/currency-tab.php:13
+msgid "Price format"
+msgstr "Árformátum"
+
+#: admin/templates/settings/currency-tab.php:18
+msgid "Currency sign place"
+msgstr "Pénznem megjelölés helye"
+
+#: admin/templates/settings/disclaimer-tab.php:11
+#: admin/templates/settings/general-tab.php:11
+msgid "-- Select page --"
+msgstr "-- Oldal kiválasztása --"
+
+#: admin/templates/settings/disclaimer-tab.php:19
+msgid "Enable disclaimer"
+msgstr ""
+"Engedélyezze a felelősség kizárását\n"
+
+#: admin/templates/settings/disclaimer-tab.php:23
+msgid ""
+"Enable this option if you want to show disclaimer text on single property "
+"page"
+msgstr ""
+"Engedélyezze ezt a beállítást, ha a felelősségkizárás szövegét az egyetlen "
+"ingatlanoldalon szeretné megjeleníteni"
+
+#: admin/templates/settings/disclaimer-tab.php:26
+msgid "Disclaimer Text"
+msgstr "Jogi nyilatkozat szövege"
+
+#: admin/templates/settings/settings.php:13
+msgid "Please fill up your settings details and click save to finish"
+msgstr ""
+"Kérjük, töltse ki a beállításait, és kattintson a Mentés gombra a "
+"befejezéshez"
+
+#: admin/templates/settings/general-tab.php:19
+msgid "Enable white label"
+msgstr "A fehér címke engedélyezése"
+
+#: admin/templates/settings/general-tab.php:23
+msgid ""
+"Enable this option if you want to remove estatik logo and powered by link on "
+"estatik pages"
+msgstr ""
+"Engedélyezze ezt a beállítást, ha el szeretné távolítani az estatik emblémát "
+"és az estatik oldalakon található linken alapuló linket"
+
+#: admin/templates/settings/general-tab.php:26
+msgid "Powered by link"
+msgstr "Hivatkozással"
+
+#: admin/templates/settings/general-tab.php:32
+msgid "Number of listings per page"
+msgstr "Oldalankénti listák száma"
+
+#: admin/templates/settings/general-tab.php:37
+msgid "Custom Property Slug URI"
+msgstr "Egyedi tulajdonság slug URI"
+
+#: admin/templates/settings/general-tab.php:42
+msgid "Custom Property Name"
+msgstr "Egyéni tulajdonságnév"
+
+#: admin/templates/settings/general-tab.php:47
+msgid "Listing publishing"
+msgstr "Listázás közzététele"
+
+#: admin/templates/settings/general-tab.php:51
+msgid "Show price"
+msgstr "Ár megjelenítése"
+
+#: admin/templates/settings/general-tab.php:57
+msgid "Disable Property Featured Image"
+msgstr "A Tulajdonságok kiemelt képének letiltása"
+
+#: admin/templates/settings/general-tab.php:63
+msgid "Title / Address"
+msgstr "Cím"
+
+#: admin/templates/settings/general-tab.php:67
+msgid "Show Address"
+msgstr "Cím megjelenítése"
+
+#: admin/templates/settings/general-tab.php:73
+msgid "Enable Buyers"
+msgstr "A Vásárlók engedélyezése"
+
+#: admin/templates/settings/general-tab.php:79
+msgid "Hide Property Top Bar"
+msgstr "Hide Property Top Bar"
+
+#: admin/templates/settings/general-tab.php:85
+msgid "Enable Wishlist"
+msgstr "Kívánságlista engedélyezése"
+
+#: admin/templates/settings/general-tab.php:91
+msgid "Disable meta:og tags"
+msgstr "A meta: og címkék letiltása"
+
+#: admin/templates/settings/general-tab.php:109
+msgid "Date format"
+msgstr "Dátum formátum"
+
+#: admin/templates/settings/general-tab.php:114
+msgid "Theme style"
+msgstr "Téma stílus"
+
+#: admin/templates/settings/general-tab.php:119
+msgid "Privacy Policy Checkbox"
+msgstr "Adatvédelmi irányelvek jelölőnégyzete"
+
+#: admin/templates/settings/general-tab.php:123
+msgid "Terms of Use page"
+msgstr "Használati feltételek oldal"
+
+#: admin/templates/settings/general-tab.php:128
+msgid "Privacy Policy page"
+msgstr "Adatvédelmi oldal"
+
+#: admin/templates/settings/general-tab.php:133
+msgid "Show/hide Contact Agent tab"
+msgstr ""
+"Megjeleníti / elrejti a Kapcsolattartó fület\n"
+
+#: admin/templates/settings/general-tab.php:139
+msgid "Registration page"
+msgstr "Regisztrációs oldal"
+
+#: admin/templates/settings/general-tab.php:144
+msgid "Login page"
+msgstr "Bejelentkezési oldal"
+
+#: admin/templates/settings/general-tab.php:149
+msgid "Reset password page"
+msgstr "Jelszó visszaállítása"
+
+#: admin/templates/settings/general-tab.php:154
+msgid "Property management page"
+msgstr "Ingatlankezelési oldal"
+
+#: admin/templates/settings/general-tab.php:159
+msgid "Agent listings page"
+msgstr "Ügynökök listája"
+
+#: admin/templates/settings/general-tab.php:164
+msgid "Search page"
+msgstr "Keresési oldal"
+
+#: admin/templates/settings/general-tab.php:169
+msgid "Google map API key"
+msgstr "Google térkép API kulcs"
+
+#: admin/templates/settings/general-tab.php:173
+msgid "Google Recaptcha SiteKey"
+msgstr "Google Recaptcha SiteKey"
+
+#: admin/templates/settings/general-tab.php:177
+msgid "Google Recaptcha SecretKey"
+msgstr "Google Recaptcha SecretKey"
+
+#: admin/templates/settings/general-tab.php:184
+msgid "Admin and PDF Logo image"
+msgstr ""
+"Rendszergazda és PDF logó kép\n"
+
+#: admin/templates/settings/general-tab.php:204
+msgid "Admin Logo Width"
+msgstr ""
+"Rendszergazda logó szélessége\n"
+
+#: admin/templates/settings/general-tab.php:208
+msgid "Admin Logo Height"
+msgstr ""
+"Rendszergazda embléma magassága\n"
+
+#: admin/templates/settings/general-tab.php:213
+msgid "MLS connection"
+msgstr ""
+"MLS kapcsolat\n"
+
+#: admin/templates/settings/general-tab.php:218
+#: rets/templates/partials/credentials-list.php:22
+#: rets/templates/partials/connect-form.php:162
+msgid "Disconnect"
+msgstr "Szétkapcsol"
+
+#: admin/templates/settings/layouts-tab.php:10
+msgid "Listings layout"
+msgstr "A hirdetések elrendezése"
+
+#: admin/templates/settings/layouts-tab.php:28
+msgid "Single property layout"
+msgstr "Egyetlen listaelrendezés"
+
+#: admin/templates/settings/sharing-tab.php:19
+msgid "Google+"
+msgstr "Google+"
+
+#: admin/templates/settings/sharing-tab.php:25
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: admin/templates/settings/sharing-tab.php:31
+msgid "PDF flyer"
+msgstr "PDF szórólap"
+
+#: admin/templates/settings/sharing-tab.php:38
+msgid "PDF flyer layout"
+msgstr ""
+"PDF szórólap elrendezése\n"
+
+#: admin/templates/settings/sharing-tab.php:42
+msgid "Map Zoom"
+msgstr "Térkép zoom"
+
+#: admin/templates/settings/sharing-tab.php:49
+msgid "QR Code"
+msgstr ""
+"QR-kód\n"
+
+#: admin/templates/settings/sharing-tab.php:53
+#: admin/classes/widgets/class-request-widget.php:119
+#: templates/property/pdf/footer.php:2
+msgid "Phone"
+msgstr "Telefon"
+
+#: admin/templates/settings/sharing-tab.php:57
+#: templates/shortcodes/partials/my-profile-tab.php:53
+msgid "E-mail"
+msgstr "Email"
+
+#: admin/templates/settings/sharing-tab.php:66
+msgid "Sections to show"
+msgstr ""
+"Megmutatandó szakaszok\n"
+
+#: admin/templates/settings/email-tab.php:4
+msgid "Email Logo Image"
+msgstr "E-mail logó kép"
+
+#: admin/templates/settings/color-tab.php:7
+msgid "Main color"
+msgstr "Fő szín"
+
+#: admin/templates/settings/color-tab.php:9
+msgid "Select color for Details and Search buttons"
+msgstr "Válasszon színt a Részletek és a Keresés gombokhoz"
+
+#: admin/templates/settings/color-tab.php:14
+msgid "Secondary color"
+msgstr "Másodlagos szín"
+
+#: admin/templates/settings/color-tab.php:16
+msgid "Select color for widgets background and other grey elements"
+msgstr "Válasszon színt a widgetek háttér és más szürke elemek számára"
+
+#: admin/templates/settings/color-tab.php:21
+msgid "Reset button color"
+msgstr "Reset gomb színe"
+
+#: admin/templates/settings/color-tab.php:23
+msgid "Select color for reset button of search widget"
+msgstr "Válassza ki a keresési widget reset gombjának színét"
+
+#: admin/templates/settings/color-tab.php:28
+msgid "Frame color"
+msgstr "Keret színe"
+
+#: admin/templates/settings/color-tab.php:30
+msgid "Change color for listing box border appearing when hovering it"
+msgstr ""
+"Változtassa meg a színt a dobozok határának megjelenítéséhez, amikor azt "
+"lebeg"
+
+#: admin/templates/settings/map-tab.php:10
+msgid "Set map markers"
+msgstr ""
+"Állítsa be a jelölőket\n"
+
+#: admin/templates/settings/map-tab.php:14
+msgid "Select taxonomy"
+msgstr ""
+"Válassza ki a taxonómiát\n"
+
+#: admin/templates/settings/map-tab.php:24
+msgid "Select term"
+msgstr ""
+"Válassza ki a kifejezést\n"
+
+#: admin/templates/settings/map-tab.php:59
+msgid "Extra settings"
+msgstr "További beállítások"
+
+#: admin/templates/settings/map-tab.php:71
+msgid "Number of listings to show"
+msgstr ""
+"A megjelenítendő listák száma\n"
+
+#: admin/templates/settings/map-tab.php:76
+msgid ""
+"Zoom <i class=\"fa fa-question-circle js-tooltipster-zoom\" aria-"
+"hidden=\"true\"></i>"
+msgstr ""
+"Zoom <i class=\"fa fa-question-circle js-tooltipster-zoom\" aria-"
+"hidden=\"true\"></i>"
+
+#: admin/templates/settings/map-tab.php:82
+msgid "Enable Clusters"
+msgstr ""
+"Klaszterek engedélyezése\n"
+
+#: admin/templates/settings/map-tab.php:91
+msgid ""
+"Please create pages with shortcodes below to display map on your website"
+msgstr ""
+"Kérjük, hozzon létre alább rövid kódokkal rendelkező oldalakat, hogy a "
+"térképet megjelenítse webhelyén"
+
+#: admin/templates/settings/map-tab.php:97
+msgid "All properties"
+msgstr ""
+"Minden ingatlan\n"
+
+#: admin/templates/settings/map-tab.php:102
+msgid "Properties by type"
+msgstr "Tulajdonságok típus szerint"
+
+#: admin/templates/settings/map-tab.php:107
+msgid "Properties by category"
+msgstr ""
+"Tulajdonságok kategóriánként\n"
+"Ingatlanok város szerint\n"
+
+#: admin/templates/settings/map-tab.php:112
+msgid "Properties by status"
+msgstr "Tulajdonságok állapot szerint"
+
+#: admin/templates/settings/map-tab.php:117
+msgid "Properties by rent period"
+msgstr "Tulajdonságok állam szerint"
+
+#: admin/templates/settings/map-tab.php:122
+msgid "Num properties for display"
+msgstr ""
+"Megjelenítéshez tartozó tulajdonságok száma\n"
+
+#: admin/templates/settings/map-tab.php:127
+#: admin/templates/settings/map-tab.php:132
+msgid "Specific properties"
+msgstr "Sajátos tulajdonságok"
+
+#: admin/templates/settings/shelter-zoom-tab.php:16
+#, php-format
+msgid ""
+"Please register first at <a href=\"%s\" target=\"_blank\">ShelterZoom</a> as "
+"affiliate and enter your login and password here to get API key."
+msgstr ""
+"Először regisztrálja a <a href=\"%s\" target=\"_blank\"> ShelterZoom </a> "
+"fiókot, és írja be ide felhasználónevét és jelszavát, hogy megkapja az API-"
+"kulcsot."
+
+#: admin/templates/settings/shelter-zoom-tab.php:18
+msgid "Enable ShelterZoom API"
+msgstr "Engedélyezze a ShelterZoom API-t"
+
+#: admin/templates/settings/shelter-zoom-tab.php:25
+msgid "Partner credentials"
+msgstr "Partneri hitelesítő adatok"
+
+#: admin/templates/settings/shelter-zoom-tab.php:26
+msgid "ShelterZoom ID"
+msgstr ""
+"ShelterZoom ID\n"
+
+#: admin/templates/settings/shelter-zoom-tab.php:40
+msgid "API Key"
+msgstr "API kulcs"
+
+#: admin/templates/settings/shelter-zoom-tab.php:51
+msgid "Layout settings"
+msgstr ""
+"Elrendezés beállításai\n"
+
+#: admin/templates/settings/shelter-zoom-tab.php:52
+msgid "ShelterZoom Layout"
+msgstr ""
+"ShelterZoom elrendezés\n"
+
+#: admin/templates/settings/shelter-zoom-tab.php:57
+msgid "Rent Now Category"
+msgstr ""
+"Béreljen most kategóriát\n"
+
+#: admin/templates/settings/shelter-zoom-tab.php:60
+#: admin/templates/settings/shelter-zoom-tab.php:70
+msgid "-- Select category --"
+msgstr ""
+"-- Válassz kategóriát --\n"
+
+#: admin/templates/settings/shelter-zoom-tab.php:67
+msgid "Offer Now Category"
+msgstr ""
+"Ajánlat most kategória\n"
+
+#: admin/templates/settings/shelter-zoom-tab.php:77
+msgid "ShelterZoom Icon"
+msgstr ""
+"ShelterZoom ikonra\n"
+
+#: admin/templates/import/import.php:6
+msgid "Import properties"
+msgstr "Tulajdonságok importálása"
+
+#: admin/templates/import/import.php:14
+msgid ""
+"Please Import your property detail with CSV sample and click save to finish"
+msgstr ""
+"Kérjük, importálja az ingatlan adatait a CSV mintával, majd kattintson a "
+"mentés gombra a befejezéshez\n"
+
+#: admin/templates/import/import.php:15
+msgid "Download Sample File"
+msgstr "Töltse le a mintafájlt"
+
+#: admin/templates/import/import.php:17
+msgid "Start import"
+msgstr "Indítsa el az importot"
+
+#: admin/templates/import/import.php:25
+msgid "Choose source file"
+msgstr ""
+"Válassza ki a forrásfájlt\n"
+
+#: admin/templates/import/import.php:31
+msgid "Property status"
+msgstr ""
+"Ingatlan státusza\n"
+
+#: admin/templates/import/import.php:43
+msgid "Skip first line"
+msgstr ""
+"Az első sor átugrása\n"
+
+#: admin/templates/import/import.php:50
+msgid "Choose Import Fields"
+msgstr ""
+"Válassza az Import mezők lehetőséget\n"
+
+#: admin/templates/import/import.php:52
+msgid "Choose fields for import"
+msgstr ""
+"Válassza ki az importálni kívánt mezőket\n"
+
+#: admin/templates/import/import.php:61
+msgid "CSV delimiter"
+msgstr "CSV elválasztó"
+
+#: admin/classes/migration/class-property-migration.php:298
+#, php-format
+msgid "Agent #%s saving failed"
+msgstr ""
+"A #%s ügynök mentése sikertelen\n"
+
+#: admin/classes/migration/class-property-migration.php:351
+#, php-format
+msgid "Agent #%s successfully migrated."
+msgstr "A #%s ügynök sikeresen migrál."
+
+#: admin/classes/migration/class-property-migration.php:433
+msgid " doesn't exist."
+msgstr "nem létezik."
+
+#: admin/classes/migration/class-property-migration.php:450
+msgid " already migrated."
+msgstr "már migrált."
+
+#: admin/classes/migration/class-property-migration.php:463
+msgid " isn't updated"
+msgstr "nincs frissítve"
+
+#: admin/classes/migration/class-property-migration.php:556
+#, php-format
+msgid "Property %s image: %s"
+msgstr "Tulajdonság %s kép: %s"
+
+#: admin/classes/migration/class-property-migration.php:626
+#, php-format
+msgid "Property %s successfully migrated"
+msgstr "A %s tulajdonság sikeresen áttelepült"
+
+#: admin/classes/widgets/class-property-slideshow-widget.php:13
+msgid "Estatik Slideshow"
+msgstr "Estatik diavetítés"
+
+#: admin/classes/widgets/class-property-map-widget.php:13
+msgid "Estatik Map View"
+msgstr "Estatik térkép nézet"
+
+#: admin/classes/widgets/class-property-map-widget.php:14
+msgid "Shows your listings on the map"
+msgstr ""
+"Megjeleníti az Ön adatait a térképen\n"
+
+#: admin/classes/widgets/class-widget.php:48
+msgid "Archive page"
+msgstr "Archív oldal"
+
+#: admin/classes/widgets/class-widget.php:49
+msgid "Single Page"
+msgstr "Egyetlen oldal"
+
+#: admin/classes/widgets/class-widget.php:50
+msgid "Single Property Page"
+msgstr "Egyszeri tulajdonság oldal"
+
+#: admin/classes/widgets/class-widget.php:51
+msgid "Archive Property Page"
+msgstr "Archívum tulajdonság oldal"
+
+#: admin/classes/widgets/class-widget.php:52
+msgid "Category Page"
+msgstr "Kategória oldal"
+
+#: admin/classes/widgets/class-widget.php:53
+msgid "Search Page"
+msgstr "Keresési oldal"
+
+#: admin/classes/widgets/class-widget.php:54
+msgid "Author Page"
+msgstr "Szerző oldal"
+
+#: admin/classes/widgets/class-widget.php:81
+msgid "Show on pages:"
+msgstr "Megjelenítés oldalakon:"
+
+#: admin/classes/widgets/class-widget.php:92
+msgid "Select pages"
+msgstr "Válassza ki az oldalakat"
+
+#: admin/classes/widgets/class-widget.php:119
+msgid "All pages"
+msgstr "Az összes oldal"
+
+#: admin/classes/widgets/class-widget.php:120
+msgid "Show on checked pages"
+msgstr "Mutasson az ellenőrzött oldalakon"
+
+#: admin/classes/widgets/class-widget.php:121
+msgid "Hide on checked pages"
+msgstr "Elrejti az ellenőrzött oldalakat"
+
+#: admin/classes/widgets/class-search-widget.php:13
+msgid "Estatik Search"
+msgstr "Estatik Keresés"
+
+#: admin/classes/widgets/class-search-widget.php:14
+msgid "Estatik Search is advanced search widget developed for Estatik plugins."
+msgstr ""
+"Az Estatik Search egy fejlett keresési widget, amelyet az Estatik "
+"bővítményekhez fejlesztettek ki."
+
+#: admin/classes/widgets/class-search-widget.php:24
+msgid "WP Search Page"
+msgstr "WP keresés oldal"
+
+#: admin/classes/widgets/class-search-widget.php:35
+msgid "Search page:"
+msgstr "Keresési oldal:"
+
+#: admin/classes/widgets/class-search-widget.php:52
+#: admin/templates/shortcode-builder/params/es_profile-params.php:7
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:75
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:85
+#: admin/templates/shortcode-builder/params/es_search_form-params.php:63
+msgid "Horizontal"
+msgstr "Vízszintes"
+
+#: admin/classes/widgets/class-search-widget.php:52
+#: admin/templates/shortcode-builder/params/es_profile-params.php:6
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:74
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:84
+#: admin/templates/shortcode-builder/params/es_search_form-params.php:62
+msgid "Vertical"
+msgstr "Függőleges"
+
+#: admin/classes/widgets/class-search-widget.php:251
+msgid "min"
+msgstr "min"
+
+#: admin/classes/widgets/class-search-widget.php:252
+msgid "max"
+msgstr "max"
+
+#: admin/classes/widgets/class-request-widget.php:30
+msgid "Estatik Request Form"
+msgstr "Estatik kérési űrlap"
+
+#: admin/classes/widgets/class-request-widget.php:31
+msgid "Displayed only on single property page."
+msgstr "Csak egyetlen ingatlanoldalon jelenik meg."
+
+#: admin/classes/widgets/class-request-widget.php:43
+msgid "Admin"
+msgstr "Admin"
+
+#: admin/classes/widgets/class-request-widget.php:45
+msgid "Admin & Agent"
+msgstr "Rendszergazda és ügynök"
+
+#: admin/classes/widgets/class-request-widget.php:46
+msgid "Other email"
+msgstr ""
+"Egyéb e-mail\n"
+
+#: admin/classes/widgets/class-request-widget.php:106
+msgid "Invalid captcha."
+msgstr "Érvénytelen CAPTCHA."
+
+#: admin/classes/widgets/class-request-widget.php:121
+msgid "Property Link"
+msgstr "Tulajdonság link"
+
+#: admin/classes/widgets/class-request-widget.php:122
+msgid "Property Address"
+msgstr "Tulajdonság címe"
+
+#: admin/classes/widgets/class-request-widget.php:123
+msgid "Request"
+msgstr "Kérés"
+
+#: admin/classes/widgets/class-request-widget.php:130
+#, php-format
+msgid "Request about property #%s"
+msgstr "#%s tulajdonság tulajdonság kérése"
+
+#: admin/classes/widgets/class-request-widget.php:134
+msgid "Thank you for your message! We will contact you as soon as we can."
+msgstr ""
+"Köszönöm az üzenetet! A lehető leghamarabb felvesszük Önnel a kapcsolatot."
+
+#: admin/classes/widgets/class-request-widget.php:136
+msgid "Your message wasn't sent. Please, contact support."
+msgstr ""
+"Az üzenet nem lett elküldve. Kérjük, lépjen kapcsolatba a támogatással."
+
+#: admin/classes/widgets/class-request-widget.php:140
+msgid "Incorrect post."
+msgstr "Helytelen üzenet."
+
+#: admin/classes/pages/class-import-page.php:111
+msgid "File is empty or incorrect file format."
+msgstr ""
+"A fájl üres vagy hibás formátumú.\n"
+
+#: admin/classes/pages/class-import-page.php:116
+msgid "File isn't uploaded. Check permissions for upload directory."
+msgstr ""
+"A fájl nincs feltöltve. Ellenőrizze a feltöltési könyvtár engedélyét.\n"
+
+#: admin/classes/pages/class-import-page.php:142
+msgid "Done!"
+msgstr "Kész!"
+
+#: admin/classes/pages/class-fields-builder-page.php:36
+#, php-format
+msgid ""
+"If you lack some fields, please go to <a href=\"%s\">Fields Builder</a> and "
+"add your own custom fields."
+msgstr ""
+"Ha hiányzik néhány mező, látogasson el a <a href=\"%s\"> Fields Builder </a> "
+"oldalra, és adjon hozzá saját egyéni mezőket."
+
+#: admin/classes/pages/class-fields-builder-page.php:91
+msgid "Listing fields"
+msgstr "Listázási mezők"
+
+#: admin/classes/pages/class-fields-builder-page.php:96
+msgid "Listing sections"
+msgstr "Felsorolási szakaszok"
+
+#: admin/classes/pages/class-fields-builder-page.php:142
+#, php-format
+msgid "Field %s successfully created."
+msgstr "A (z) %s mező sikeresen létrehozott."
+
+#: admin/classes/pages/class-fields-builder-page.php:144
+#, php-format
+msgid "Field %s doesn't created."
+msgstr "A (z) %s mező nem hozható létre."
+
+#: admin/classes/pages/class-fields-builder-page.php:175
+#, php-format
+msgid "Section %s successfully created."
+msgstr "A (z) %s szakasz sikeresen létrehozott."
+
+#: admin/classes/pages/class-fields-builder-page.php:177
+#, php-format
+msgid "Section %s doesn't created."
+msgstr "A (z) %s szakasz nem jön létre."
+
+#: admin/classes/pages/class-fields-builder-page.php:208
+msgid "Field successfully restored."
+msgstr "A mező sikeresen visszaállítva."
+
+#: admin/classes/pages/class-fields-builder-page.php:211
+#: admin/classes/pages/class-fields-builder-page.php:249
+#, php-format
+msgid "Field #%s isn't exist."
+msgstr "A (z) #%s mező nem létezik."
+
+#: admin/classes/pages/class-fields-builder-page.php:246
+#, php-format
+msgid "Field %s successfully removed."
+msgstr "A (z) %s mező sikeresen eltávolítva."
+
+#: admin/classes/pages/class-fields-builder-page.php:271
+#, php-format
+msgid "Section %s successfully removed."
+msgstr "A (z) %s szakasz sikeresen eltávolítva."
+
+#: admin/classes/pages/class-fields-builder-page.php:274
+#, php-format
+msgid "Section #%s isn't exist."
+msgstr "A (z) #%s nem létezik."
+
+#: admin/classes/pages/class-agent-list.php:250
+msgid "Agent ID"
+msgstr "Agent ID"
+
+#: admin/classes/pages/class-agent-list.php:252
+#: admin/classes/pages/class-user-list.php:281
+msgid "Properties Q-ty"
+msgstr "Tulajdonságok Mennyiség"
+
+#: admin/classes/pages/class-user-profile-page.php:66
+msgid "Buyer Info"
+msgstr "Vevőadatok"
+
+#: admin/classes/pages/class-user-profile-page.php:70
+msgid "Agent Info"
+msgstr "Agent Információ"
+
+#: admin/classes/pages/class-dashboard-page.php:100
+msgid "3.8.9 (July, 29, 2019) "
+msgstr "3.8.9 (July, 29, 2019) "
+
+#: admin/classes/pages/class-dashboard-page.php:108
+msgid "3.8.8 (July, 10, 2019)"
+msgstr "3.8.8 (2019. július 10.)"
+
+#: admin/classes/pages/class-dashboard-page.php:129
+msgid "3.8.7.1 (May, 16, 2019)"
+msgstr "3.8.7.1 (May, 16, 2019)"
+
+#: admin/classes/pages/class-dashboard-page.php:133
+msgid "3.8.7 (May, 16, 2019)"
+msgstr "3.8.7 (May, 16, 2019)"
+
+#: admin/classes/pages/class-dashboard-page.php:143
+msgid "3.8.6 (April, 23, 2019)"
+msgstr "3.8.6 (April, 23, 2019)"
+
+#: admin/classes/pages/class-dashboard-page.php:152
+msgid "3.8.5 (April, 08, 2019)"
+msgstr "3.8.5 (April, 08, 2019)"
+
+#: admin/classes/pages/class-dashboard-page.php:171
+msgid "3.8.4 (March, 20, 2019)"
+msgstr "3.8.4 (March, 20, 2019)"
+
+#: admin/classes/pages/class-dashboard-page.php:178
+msgid "3.8.3 (March, 05, 2019)"
+msgstr "3.8.3 (March, 05, 2019)"
+
+#: admin/classes/pages/class-dashboard-page.php:195
+msgid "3.8.2 (January, 16, 2019)"
+msgstr "3.8.2 (January, 16, 2019)"
+
+#: admin/classes/pages/class-dashboard-page.php:212
+msgid "3.8.1 (November, 09, 2018)"
+msgstr "3.8.1 (November, 09, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:230
+msgid "3.8.0 (November, 01, 2018)"
+msgstr "3.8.0 (November, 01, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:246
+msgid "3.7.2 (October, 03, 2018)"
+msgstr "3.7.2 (October, 03, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:258
+msgid "3.7.1 (September, 14, 2018)"
+msgstr "3.7.1 (September, 14, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:267
+msgid "3.7.0 (September, 7, 2018)"
+msgstr "3.7.0 (September, 7, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:284
+#: admin/classes/pages/class-dashboard-page.php:297
+msgid "3.6.6 (August, 14, 2018)"
+msgstr "3.6.6 (August, 14, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:314
+msgid "3.6.5 (July, 6, 2018)"
+msgstr "3.6.5 (July, 6, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:327
+msgid "3.6.4 (May 29, 2018)"
+msgstr "3.6.4 (May 29, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:339
+msgid "3.6.3 (May 05, 2018)"
+msgstr "3.6.3 (May 05, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:364
+msgid "3.6.2 (March 23, 2018)"
+msgstr "3.6.2 (March 23, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:376
+msgid "3.6.1 (March 12, 2018)"
+msgstr "3.6.1 (March 12, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:387
+msgid "3.6.0 (February 10, 2018)"
+msgstr "3.6.0 (February 10, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:397
+msgid "3.5.0 (January 25, 2018)"
+msgstr "3.5.0 (January 25, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:408
+msgid "3.4.0 (January 10, 2018)"
+msgstr "3.4.0 (January 10, 2018)"
+
+#: admin/classes/pages/class-dashboard-page.php:421
+msgid "3.3.7 (December 29, 2017)"
+msgstr "3.3.7 (December 29, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:429
+msgid "3.3.6 (December 13, 2017)"
+msgstr "3.3.6 (December 13, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:442
+msgid "3.3.5 (November 15, 2017)"
+msgstr "3.3.5 (November 15, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:454
+msgid "3.3.4 (November 1, 2017)"
+msgstr "3.3.4 (November 1, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:471
+msgid "3.3.3 (October 9, 2017)"
+msgstr "3.3.3 (October 9, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:487
+msgid "3.3.2 (August 11, 2017)"
+msgstr "3.3.2 (August 11, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:492
+msgid "3.3.1 (July 21, 2017)"
+msgstr "3.3.1 (July 21, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:496
+msgid "3.3.0 (Juy 17, 2017)"
+msgstr "3.3.0 (Juy 17, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:505
+msgid "3.2.1 (July 8, 2017)"
+msgstr "3.2.1 (July 8, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:513
+msgid "3.2.0 (June, 17, 2017)"
+msgstr "3.2.0 (June, 17, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:522
+msgid "3.1.0 (MAY, 24, 2017)"
+msgstr "3.1.0 (MAY, 24, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:533
+msgid "3.0.2 (May, 10, 2017)"
+msgstr "3.0.2 (May, 10, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:543
+msgid "3.0.1 (APRIL, 18, 2017)"
+msgstr "3.0.1 (APRIL, 18, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:550
+msgid "3.0.0 (April, 12, 2017)"
+msgstr "3.0.0 (April, 12, 2017)"
+
+#: admin/classes/pages/class-dashboard-page.php:566
+msgid "2.4.0 (September 26, 2016)"
+msgstr "2.4.0 (September 26, 2016)"
+
+#: admin/classes/pages/class-dashboard-page.php:570
+msgid "2.3.1 (August 21, 2016)"
+msgstr "2.3.1 (August 21, 2016)"
+
+#: admin/classes/pages/class-dashboard-page.php:574
+msgid "2.3.0 (August 15, 2016)"
+msgstr "2.3.0 (August 15, 2016)"
+
+#: admin/classes/pages/class-dashboard-page.php:580
+msgid "2.2.3 (March 30, 2016)"
+msgstr "2.2.3 (March 30, 2016)"
+
+#: admin/classes/pages/class-dashboard-page.php:591
+msgid "2.2.2 (November 21, 2015)"
+msgstr "2.2.2 (November 21, 2015)"
+
+#: admin/classes/pages/class-dashboard-page.php:601
+msgid "2.2.1 (October 22, 2015)"
+msgstr "2.2.1 (October 22, 2015)"
+
+#: admin/classes/pages/class-dashboard-page.php:605
+msgid "2.2.0 (October 22, 2015)"
+msgstr "2.2.0 (October 22, 2015)"
+
+#: admin/classes/pages/class-dashboard-page.php:617
+msgid "2.1.0 (July 7, 2015)"
+msgstr "2.1.0 (July 7, 2015)"
+
+#: admin/classes/pages/class-dashboard-page.php:631
+msgid "2.0.1"
+msgstr "2.0.1"
+
+#: admin/classes/pages/class-dashboard-page.php:637
+msgid "2.0 (May 16, 2015)"
+msgstr "2.0 (May 16, 2015)"
+
+#: admin/classes/pages/class-dashboard-page.php:648
+msgid "1.1.1"
+msgstr "1.1.1"
+
+#: admin/classes/pages/class-dashboard-page.php:653
+msgid "1.0.1"
+msgstr "1.0.1"
+
+#: admin/classes/pages/class-dashboard-page.php:658
+msgid "1.0.0 (March 24, 2015)"
+msgstr "1.0.0 (March 24, 2015)"
+
+#: admin/classes/pages/class-settings-page.php:33
+msgid "The Taxonomy is empty."
+msgstr "A taxonómia üres."
+
+#: admin/classes/pages/class-settings-page.php:36
+msgid "The Taxonomy doesn't exist"
+msgstr "A taxonómia nem létezik"
+
+#: admin/classes/pages/class-settings-page.php:62
+#: rets/classes/pages/class-mls-rets-page.php:272
+msgid "General"
+msgstr "Általános"
+
+#: admin/classes/pages/class-settings-page.php:78
+msgid "Emails"
+msgstr "E-mailek"
+
+#: admin/classes/pages/class-settings-page.php:82
+msgid "Sharing & PDF"
+msgstr "Megosztás és PDF"
+
+#: admin/classes/pages/class-migration-page.php:141
+msgid "Estatik settings successfully migrated"
+msgstr "Az Estatik beállítások sikeresen áttelepültek"
+
+#: admin/classes/pages/class-data-manager-page.php:53
+msgid "Properties details"
+msgstr "Tulajdonság részletei"
+
+#: admin/classes/pages/class-data-manager-page.php:73
+msgid "Addresses"
+msgstr "Címek"
+
+#: admin/classes/import/class-import.php:43
+msgid "Source file can't to be empty."
+msgstr "A forrásfájl nem lehet üres."
+
+#: admin/classes/import/class-import.php:138
+msgid "Can't return a data provider. Source file is empty."
+msgstr ""
+"Nem lehet visszaadni az adatszolgáltatót. A forrásfájl üres.\n"
+
+#: admin/classes/import/class-import.php:264
+#, php-format
+msgid "File of %s field didn't upload"
+msgstr ""
+"A %s mező fájlját nem töltötték fel\n"
+
+#: admin/classes/import/class-import.php:287
+msgid "Image field"
+msgstr "Képmező"
+
+#: admin/classes/import/class-import.php:344
+msgid "Incorrect property address string or coordinates."
+msgstr "Helytelen tulajdonságcím-karakterlánc vagy koordináták."
+
+#: admin/classes/import/class-import.php:362
+msgid " created!"
+msgstr "létre!"
+
+#: admin/classes/import/class-import.php:365
+msgid "Post isn't created!"
+msgstr "A bejegyzés nem jött létre!"
+
+#: admin/classes/import/class-data-provider.php:39
+msgid "File doesn't exist."
+msgstr ""
+"A fájl nem létezik.\n"
+
+#: templates/shortcodes/partials/saved-searches-tab.php:12
+msgid ""
+"Your saved searches can be found here. You can delete or view new listings "
+"matching your searches."
+msgstr ""
+"A mentett keresések itt találhatók. Törölheti vagy megtekintheti a "
+"kereséseknek megfelelő új listákat."
+
+#: templates/shortcodes/partials/saved-searches-tab.php:20
+#, php-format
+msgid "Saved Search #%s"
+msgstr "Mentett keresés #%s"
+
+#: templates/shortcodes/partials/saved-searches-tab.php:73
+msgid "View Listings"
+msgstr "Kilátás listák"
+
+#: templates/shortcodes/partials/saved-searches-tab.php:77
+msgid "Delete Search"
+msgstr "Keresés törlése"
+
+#: templates/shortcodes/partials/saved-homes-tab.php:10
+msgid ""
+"Your saved homes can be found here. You can view details or delete your "
+"favourite listings."
+msgstr ""
+"A megmentett otthonok itt találhatók. Megtekintheti a részleteket vagy "
+"törölheti kedvenc listáját."
+
+#: templates/shortcodes/partials/my-profile-tab.php:30
+msgid "Change Photo"
+msgstr "Fotó megváltoztatása"
+
+#: templates/shortcodes/partials/my-profile-tab.php:112
+msgid "Confirm Password"
+msgstr "Jelszó megerősítése"
+
+#: templates/property/pdf/footer.php:72
+msgid "Call us now"
+msgstr ""
+"Hívj minket most\n"
+
+#: subscriptions/templates/widgets/dashboard-subscription.php:17
+msgid "Current subscription plan"
+msgstr ""
+"Jelenlegi előfizetési terv\n"
+
+#: subscriptions/templates/widgets/dashboard-subscription.php:26
+msgid "Property qty"
+msgstr ""
+"Ingatlan mennyiség\n"
+
+#: subscriptions/templates/widgets/dashboard-subscription.php:34
+msgid "Featured qty"
+msgstr "Kiemelt mennyiség"
+
+#: subscriptions/templates/widgets/dashboard-subscription.php:43
+msgid "Amount"
+msgstr "Összeg"
+
+#: subscriptions/templates/widgets/dashboard-subscription.php:53
+msgid "Initial Amount"
+msgstr "Kezdeti összeg"
+
+#: subscriptions/templates/widgets/dashboard-subscription.php:63
+msgid "Subscription period"
+msgstr ""
+"Előfizetési időszak\n"
+
+#: subscriptions/templates/widgets/dashboard-subscription.php:73
+msgid "Trial period"
+msgstr ""
+"Próbaidő\n"
+
+#: subscriptions/templates/settings/tab.php:12
+msgid "Enable subscriptions"
+msgstr "Az előfizetések engedélyezése"
+
+#: subscriptions/templates/settings/tab.php:20
+msgid "Subscription expired subject"
+msgstr "Az előfizetés tárgya lejárt"
+
+#: subscriptions/templates/settings/tab.php:25
+msgid "Subscription expired message"
+msgstr "Az előfizetés lejárt üzenet"
+
+#: subscriptions/templates/settings/tab.php:33
+msgid "Checkout page"
+msgstr "Pénztár oldal"
+
+#: subscriptions/templates/settings/payment.php:4
+msgid "-- Select PayPal Success Page --"
+msgstr ""
+"-- Válassza a PayPal sikeres oldal --\n"
+
+#: subscriptions/templates/settings/payment.php:12
+msgid "PayPal Subscription settings"
+msgstr ""
+"PayPal előfizetési beállítások\n"
+
+#: subscriptions/templates/settings/payment.php:14
+msgid "PayPal mode"
+msgstr ""
+"PayPal mód\n"
+
+#: subscriptions/templates/settings/payment.php:19
+msgid "PayPal Username"
+msgstr ""
+"PayPal felhasználónév\n"
+
+#: subscriptions/templates/settings/payment.php:23
+msgid "PayPal password"
+msgstr ""
+"PayPal jelszó\n"
+
+#: subscriptions/templates/settings/payment.php:27
+msgid "Signature"
+msgstr ""
+"Aláírás\n"
+
+#: subscriptions/templates/settings/payment.php:31
+msgid "PayPal Response Page"
+msgstr ""
+"PayPal válaszoldal\n"
+
+#: subscriptions/templates/settings/payment.php:39
+msgid ""
+"Use <b>[es_subscription_paypal_response_page]</b> shortcode if you want "
+"create a custom PayPal page."
+msgstr ""
+"Használjon [es_subscription_paypal_response_page] rövid kódot, ha egyedi "
+"PayPal oldalt szeretne létrehozni.\n"
+
+#: subscriptions/templates/settings/payment.php:43
+msgid "PayPal Return URL"
+msgstr "PayPal visszatérő URL"
+
+#: subscriptions/templates/settings/payment.php:49
+msgid "PayPal Cancel URL"
+msgstr ""
+"PayPal URL lemondása\n"
+
+#: subscriptions/templates/settings/payment.php:55
+msgid "PayPal Notify URL (for IPN)"
+msgstr ""
+"PayPal értesítési URL (IPN esetén)\n"
+
+#: subscriptions/classes/pages/class-subscription-list-page.php:101
+msgid "Properties q-ty"
+msgstr "Tulajdonságok mennyiség"
+
+#: subscriptions/classes/pages/class-order-list-page.php:104
+msgid "Order status"
+msgstr ""
+"Rendelési státusz\n"
+
+#: subscriptions/classes/pages/class-order-list-page.php:135
+#: subscriptions/classes/pages/class-order-list-page.php:143
+#: subscriptions/classes/pages/class-order-list-page.php:151
+#: subscriptions/classes/pages/class-order-list-page.php:159
+msgid "Not set"
+msgstr ""
+"Nincs beállítva\n"
+
+#: subscriptions/classes/payments/class-paypal-subscription-payment-method.php:264
+msgid "Live"
+msgstr "Élő"
+
+#: subscriptions/classes/payments/class-paypal-subscription-payment-method.php:265
+msgid "Sandbox (test mode)"
+msgstr ""
+"Homokozó (teszt mód)\n"
+
+#: subscriptions/classes/payments/class-paypal-subscription-payment-method.php:339
+#, php-format
+msgid "Payment successful. Your subscription plan is <b>%s</b>."
+msgstr ""
+"Sikeres fizetés. Az előfizetési terv% s.\n"
+
+#: subscriptions/classes/payments/class-paypal-subscription-payment-method.php:341
+msgid "Payment successful. Please, wait for PayPal approve."
+msgstr ""
+"Sikeres fizetés. Kérjük, várjon, amíg a PayPal jóváhagy.\n"
+
+#: subscriptions/classes/payments/class-paypal-subscription-payment-method.php:344
+msgid "Invalid PayPal subscription response."
+msgstr "Érvénytelen PayPal előfizetési válasz."
+
+#: subscriptions/classes/payments/class-paypal-subscription-payment-method.php:350
+msgid "Invalid PayPal Token or Order."
+msgstr "Érvénytelen PayPal token vagy megrendelés."
+
+#: subscriptions/classes/payments/class-paypal-subscription-payment-method.php:409
+msgid "Payment successfully canceled."
+msgstr ""
+"A fizetés sikeresen törölve.\n"
+
+#: rets/templates/partials/filter-fields.php:35
+msgid "From"
+msgstr ""
+"Tól től\n"
+
+#: rets/templates/partials/filter-fields.php:36
+msgid "To"
+msgstr "Nak nek"
+
+#: rets/templates/partials/filter-fields.php:49
+msgid "Set filter fields"
+msgstr ""
+"Állítsa be a szűrőmezőket\n"
+
+#: rets/templates/partials/field.php:31
+msgid "-- Choose property field --"
+msgstr ""
+"-- Válassza az ingatlanmezőt --\n"
+
+#: rets/templates/partials/field.php:32
+msgid "-- NEW FIELD --"
+msgstr ""
+"-- ÚJ MEZŐ --\n"
+
+#: rets/templates/partials/field.php:46
+msgid "-- Choose object type --"
+msgstr ""
+"-- Válasszon objektumtípust --\n"
+
+#: rets/templates/partials/field.php:60
+msgid "Filterable"
+msgstr ""
+"Szűrhető\n"
+
+#: rets/templates/partials/actualizer-form.php:56
+msgid "Delete entities"
+msgstr ""
+"Törölje az entitásokat\n"
+
+#: rets/templates/partials/actualizer-form.php:59
+msgid "Delete on field"
+msgstr "Törlés a mezőn"
+
+#: rets/templates/partials/actualizer-form.php:62
+#: rets/templates/partials/actualizer-form.php:89
+#: rets/templates/partials/actualizer-form.php:114
+#: rets/templates/partials/actualizer-form.php:127
+msgid "--- Select field ---"
+msgstr ""
+"--- Mező kiválasztása ---\n"
+
+#: rets/templates/partials/actualizer-form.php:72
+#: rets/templates/partials/actualizer-form.php:99
+msgid "Loading ..."
+msgstr ""
+"Betöltés ...\n"
+
+#: rets/templates/partials/actualizer-form.php:76
+msgid ""
+"Here you can map the field that will be checked and listings with this field "
+"value removed from your server. For example, when selected Status - Expired, "
+"it means all listings with Status Expired will be removed after "
+"synchronization."
+msgstr ""
+"Itt leképezheti az ellenőrizni kívánt mezőt, és eltávolíthatja a "
+"kiszolgálóról az ezen mező értékkel rendelkező felsorolásokat. Például, ha "
+"az Állapot - Lejárt állapotot választja, ez azt jelenti, hogy az összes "
+"lejárt állapotú listát szinkronizálás után eltávolítják."
+
+#: rets/templates/partials/actualizer-form.php:83
+msgid "Unpublish entities"
+msgstr ""
+"Tárgyak közzététele\n"
+
+#: rets/templates/partials/actualizer-form.php:86
+msgid "Unpublish on field"
+msgstr ""
+"Közzététel a pályán\n"
+
+#: rets/templates/partials/actualizer-form.php:103
+msgid ""
+"Here you can map the field for listings get unpublished. For example, Status "
+"- Pending."
+msgstr ""
+"Itt feltérképezheti azt a mezőt, amelyben az adatok nem kerülnek "
+"közzétételre. Például Állapot - függőben."
+
+#: rets/templates/partials/actualizer-form.php:108
+msgid "Update entities"
+msgstr ""
+"Az entitások frissítése\n"
+
+#: rets/templates/partials/actualizer-form.php:111
+msgid "Compare field"
+msgstr "Hasonlítsa össze a mezőt"
+
+#: rets/templates/partials/actualizer-form.php:124
+msgid "Compare with"
+msgstr "Összehasonlít"
+
+#: rets/templates/partials/actualizer-form.php:137
+msgid ""
+"Here you can map the field that will be checked to update or skip listings. "
+"For example MLS Update date = Last Change Date."
+msgstr ""
+"Itt leképezheti azt a mezőt, amelyet ellenőrizni kell a listák frissítéséhez "
+"vagy átugrásához. Például MLS frissítés dátuma = Utolsó módosítás dátuma."
+
+#: rets/templates/partials/actualizer-form.php:145
+#: admin/templates/fields-builder/forms/section-form.php:14
+#: admin/templates/fields-builder/forms/field-form.php:14
+msgid "Update"
+msgstr "Frissítés"
+
+#: rets/templates/partials/actualizer-form.php:147
+#: admin/templates/fields-builder/forms/section-form.php:17
+#: admin/templates/fields-builder/forms/field-form.php:18
+msgid "Create"
+msgstr "Teremt"
+
+#: rets/templates/partials/actualizer-form.php:155
+msgid ""
+"You have no any predefined schedules. Please, contact the estatik support "
+"for check this problem."
+msgstr ""
+"Nincs előre meghatározott ütemezése. Kérjük, forduljon az estatik "
+"ügyfélszolgálatához a probléma ellenőrzéséhez."
+
+#: rets/templates/partials/property-table.php:38
+#, php-format
+msgid "Total: <b>%d</b> items"
+msgstr ""
+"Összesen: %d elem\n"
+
+#: rets/templates/partials/property-table.php:95
+#, php-format
+msgid "Please, set <b>%s</b> field in %s tab."
+msgstr "Kérjük, állítsa be a <b>%s</b> mezőt a %s lapon."
+
+#: rets/templates/partials/property-table.php:103
+msgid "Show values"
+msgstr "Értékek megjelenítése"
+
+#: rets/templates/partials/credentials-list.php:1
+msgid "RETS credentials list"
+msgstr ""
+"A RETS hitelesítő adatok listája\n"
+
+#: rets/templates/partials/credentials-list.php:3
+msgid ""
+"In this area you can check your multiple RETS profiles, edit credentials, "
+"connect/disconnect or remove them. "
+msgstr ""
+"Ezen a területen ellenőrizheti több RETS profilját, szerkesztheti a "
+"hitelesítő adatokat, csatlakoztathatja / leválaszthatja vagy eltávolíthatja "
+"őket."
+
+#: rets/templates/partials/credentials-list.php:26
+#: rets/templates/partials/connect-form.php:164
+msgid "Connect"
+msgstr "Csatlakozás"
+
+#: rets/templates/partials/credentials-list.php:31
+msgid "Edit credentials"
+msgstr ""
+"Hitelesítő adatok szerkesztése\n"
+
+#: rets/templates/partials/connect-form.php:12
+msgid "Edit rets credentials"
+msgstr ""
+"A hitelesítő adatok szerkesztése\n"
+
+#: rets/templates/partials/connect-form.php:14
+msgid "Add rets credentials"
+msgstr ""
+"Adjon hozzá újból hitelesítő adatokat\n"
+
+#: rets/templates/partials/connect-form.php:19
+#, php-format
+msgid ""
+"Please enter here your RETS link and credentials that can be provided by "
+"your MLS provider. Read %s details."
+msgstr ""
+"Kérjük, ide írja be a RETS linket és az MLS szolgáltatója által biztosított "
+"hitelesítő adatokat. Olvassa el% s részleteit."
+
+#: rets/templates/partials/connect-form.php:27
+msgid "RETS Login URL"
+msgstr ""
+"RETS bejelentkezési URL\n"
+
+#: rets/templates/partials/connect-form.php:47
+msgid "Advanced"
+msgstr ""
+"Fejlett\n"
+
+#: rets/templates/partials/connect-form.php:52
+msgid "RETS Version"
+msgstr ""
+"RETS verzió\n"
+
+#: rets/templates/partials/connect-form.php:59
+msgid "User agent"
+msgstr "Felhasználói ügynök"
+
+#: rets/templates/partials/connect-form.php:66
+msgid "User agent password"
+msgstr ""
+"Felhasználói ügynök jelszava\n"
+
+#: rets/templates/partials/connect-form.php:72
+msgid "Http authentication method"
+msgstr "Http-hitelesítési módszer"
+
+#: rets/templates/partials/connect-form.php:75
+msgid "Digest"
+msgstr "Megemészteni"
+
+#: rets/templates/partials/connect-form.php:76
+msgid "Basic"
+msgstr ""
+"Alapvető\n"
+
+#: rets/templates/partials/connect-form.php:80
+msgid "Images q-ty per listing"
+msgstr "Képek száma bejegyzésenként"
+
+#: rets/templates/partials/connect-form.php:85
+msgid "Disable follow location"
+msgstr "A helymeghatározás letiltása"
+
+#: rets/templates/partials/connect-form.php:91
+msgid "Use object locations"
+msgstr ""
+"Használja az objektumok helyét\n"
+
+#: rets/templates/partials/connect-form.php:97
+msgid "Use remote images"
+msgstr ""
+"Használjon távoli képeket\n"
+
+#: rets/templates/partials/connect-form.php:103
+msgid "Disable thumbnails generation"
+msgstr "Tiltsa le a miniatűrök generálását"
+
+#: rets/templates/partials/connect-form.php:109
+msgid "Offset fix"
+msgstr ""
+"Offset fix\n"
+
+#: rets/templates/partials/connect-form.php:115
+msgid "Skip first import image"
+msgstr ""
+"Az első import kép átugrása\n"
+
+#: rets/templates/partials/connect-form.php:121
+msgid "Enable google address validation"
+msgstr "Engedélyezze a Google cím érvényesítését"
+
+#: rets/templates/partials/connect-form.php:127
+msgid "Disable address formatting"
+msgstr "A cím formázásának letiltása"
+
+#: rets/templates/partials/connect-form.php:133
+msgid "Disable Fields Select"
+msgstr "A mezők kiválasztásának letiltása"
+
+#: rets/templates/partials/connect-form.php:139
+msgid "Use Post Method"
+msgstr ""
+"Használja a Post módszert\n"
+
+#: rets/templates/partials/connect-form.php:145
+msgid "Miscellaneous Search Error Fix"
+msgstr ""
+"Egyéb keresési hibajavítás\n"
+
+#: rets/classes/pages/class-mls-rets-page.php:27
+#, php-format
+msgid "%s RETS profile active now: <b>%s</b> (RETS User)"
+msgstr ""
+"%s RETS profil aktív most:% s (RETS felhasználó)\n"
+
+#: rets/classes/pages/class-mls-rets-page.php:51
+msgid "Credentials successfully saved."
+msgstr "A hitelesítő adatok sikeresen mentésre kerültek."
+
+#: rets/classes/pages/class-mls-rets-page.php:57
+msgid "Credentials data are empty."
+msgstr "A hitelesítési adatok üresek."
+
+#: rets/classes/pages/class-mls-rets-page.php:81
+msgid "Resource, Class or Entity is empty. Please set these fields."
+msgstr ""
+"Az erőforrás, osztály vagy entitás üres. Kérjük, állítsa be ezeket a mezőket."
+
+#: rets/classes/pages/class-mls-rets-page.php:89
+#, php-format
+msgid ""
+"Schedule didn't saved! Please, set %s MLS ID field on the %s tab for <b>"
+"%s</b> resource of <b>%s</b> class."
+msgstr ""
+"Az ütemtervet nem mentette el! Kérjük, állítsa be a %s MLS ID mezőt a %s "
+"lapon a <b>%s</b> osztály <b>%s</b> erőforrásához."
+
+#: rets/classes/pages/class-mls-rets-page.php:152
+msgid "The Schedule successfully saved."
+msgstr ""
+"Az ütemezés sikeresen mentésre került.\n"
+
+#: rets/classes/pages/class-mls-rets-page.php:154
+msgid "Schedule didn'n saved: "
+msgstr "Az ütemtervet nem sikerült menteni:"
+
+#: rets/classes/pages/class-mls-rets-page.php:233
+msgid "Actualizator successfully saved."
+msgstr ""
+"Az Actualizator sikeresen mentve.\n"
+
+#: rets/classes/pages/class-mls-rets-page.php:280
+msgid "Fields Configuration"
+msgstr "Mezők konfigurálása"
+
+#: rets/classes/pages/class-mls-rets-page.php:295
+msgid "Synchronization"
+msgstr "összehangolás"
+
+#: admin/templates/demo-content/partials/step-pagination.php:15
+msgid "Pages setup"
+msgstr "Oldalak beállítása"
+
+#: admin/templates/demo-content/partials/step-pagination.php:19
+msgid "Setup keys"
+msgstr "Beállítás gombok"
+
+#: admin/templates/demo-content/partials/step-pagination.php:23
+msgid "Demo listing"
+msgstr "Demo lista"
+
+#: admin/templates/fields-builder/partials/_field.php:14
+#, php-format
+msgid "Machine name: <b>%s</b>"
+msgstr ""
+"Gép neve: %s\n"
+
+#: admin/templates/fields-builder/partials/_field.php:14
+msgid "Copy to Clipboard"
+msgstr "Másolja a vágólapra"
+
+#: admin/templates/fields-builder/partials/_field.php:19
+#: admin/templates/fields-builder/partials/_field.php:29
+msgid "Remove field"
+msgstr "Távolítsa el a mezőt"
+
+#: admin/templates/fields-builder/partials/_field.php:22
+msgid "Edit field"
+msgstr "Szerkesztés mező"
+
+#: admin/templates/fields-builder/partials/_field.php:26
+msgid "Restore field"
+msgstr "Visszaállítás mező"
+
+#: admin/templates/fields-builder/partials/_section.php:20
+msgid "Remove section"
+msgstr "Eltávolítás szakasz"
+
+#: admin/templates/fields-builder/partials/_section.php:23
+msgid "Edit Section"
+msgstr "Szekció szerkesztése"
+
+#: admin/templates/fields-builder/forms/section-form.php:13
+msgid "Update section"
+msgstr "Frissítési szakasz"
+
+#: admin/templates/fields-builder/forms/section-form.php:16
+msgid "Create section"
+msgstr "Szakasz létrehozása"
+
+#: admin/templates/fields-builder/forms/section-form.php:33
+msgid "Section Name"
+msgstr "Szakasz neve"
+
+#: admin/templates/fields-builder/forms/section-form.php:39
+msgid "Show tab"
+msgstr "Megjelenítés lap"
+
+#: admin/templates/fields-builder/forms/section-form.php:51
+#: admin/templates/fields-builder/forms/field-form.php:105
+msgid "Visible for"
+msgstr "Látható"
+
+#: admin/templates/fields-builder/forms/section-form.php:53
+#: admin/templates/fields-builder/forms/field-form.php:107
+msgid "All Users"
+msgstr "Minden felhasználó"
+
+#: admin/templates/fields-builder/forms/section-form.php:54
+#: admin/templates/fields-builder/forms/field-form.php:108
+msgid "Admins"
+msgstr "Adminok"
+
+#: admin/templates/fields-builder/forms/section-form.php:55
+#: admin/templates/fields-builder/forms/field-form.php:109
+msgid "Admins & Agents"
+msgstr ""
+"Rendszergazdák és ügynökök\n"
+
+#: admin/templates/fields-builder/forms/field-form.php:13
+msgid "Update field"
+msgstr "Frissítési mező"
+
+#: admin/templates/fields-builder/forms/field-form.php:17
+msgid "Create field"
+msgstr "Terület létrehozása"
+
+#: admin/templates/fields-builder/forms/field-form.php:37
+msgid "Field Name"
+msgstr "Mező neve"
+
+#: admin/templates/fields-builder/forms/field-form.php:45
+msgid "-- Choose field type --"
+msgstr "-- Válasszon mezőt --"
+
+#: admin/templates/fields-builder/forms/field-form.php:66
+msgid "Page Section / Admin tab"
+msgstr ""
+"Oldal szakasz / Rendszergazda fül\n"
+
+#: admin/templates/fields-builder/forms/field-form.php:78
+msgid "Mandatory"
+msgstr "Kötelező"
+
+#: admin/templates/fields-builder/forms/field-form.php:85
+msgid "Search Support"
+msgstr "Keresési támogatás"
+
+#: admin/templates/fields-builder/forms/field-form.php:92
+msgid "CSV Import support"
+msgstr ""
+"CSV Import támogatás\n"
+
+#: admin/templates/fields-builder/forms/field-form.php:99
+msgid "RETS Support"
+msgstr "RETS támogatás"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:4
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:3
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:3
+msgid "General settings"
+msgstr ""
+"Általános beállítások\n"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:12
+msgid "Choose the layout for listings."
+msgstr "Válassza ki a listák elrendezését."
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:24
+msgid "Properties Per Page"
+msgstr "Tulajdonságok oldalanként"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:31
+msgid "Sort By"
+msgstr "Sorrend"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:34
+msgid "Select Sort"
+msgstr "Válassza a Rendezés lehetőséget"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:76
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:38
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:38
+msgid "Rent Period"
+msgstr "Bérleti időszak"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:105
+msgid "Show Properties"
+msgstr "Tulajdonságok megjelenítése"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:108
+#: admin/templates/shortcode-builder/params/es_single-params.php:10
+msgid "Type Property ID or Title"
+msgstr "Írja be a tulajdonságazonosítót vagy a címet"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:118
+msgid "Use this field to show listings of specific agent(s)."
+msgstr ""
+"Ezzel a mezővel megjelenítheti az adott ügynök (k) listáját.\n"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:135
+msgid "Show Filter"
+msgstr "Szűrő megjelenítése"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:145
+msgid "Address settings"
+msgstr "Cím beállításai"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:151
+msgid "Address String"
+msgstr "Cím karakterlánc"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:166
+msgid "Select Country"
+msgstr "Válassz országot"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:181
+msgid "Select State"
+msgstr "Válassza az államot"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:196
+msgid "Select City"
+msgstr "Válassza a Város lehetőséget"
+
+#: admin/templates/shortcode-builder/params/es_my_listing-params.php:210
+msgid "Specific Features"
+msgstr "Sajátosságok"
+
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:66
+msgid "Map settings"
+msgstr ""
+"Térképbeállítások\n"
+
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:69
+#, php-format
+msgid "You can setup map icons and color, enable clusters %s."
+msgstr ""
+"Beállíthatja a térképikonokat és a színeket, engedélyezheti a %s "
+"klasztereket."
+
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:87
+msgid "CSS Classes"
+msgstr "CSS Osztályok"
+
+#: admin/templates/shortcode-builder/params/es_property_map-params.php:103
+#: admin/templates/shortcode-builder/params/es_search_map-params.php:10
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:116
+msgid "Show All Properties"
+msgstr "Az összes tulajdonság megjelenítése"
+
+#: admin/templates/shortcode-builder/params/es_listing_agent-params.php:4
+msgid "Agent Name"
+msgstr "Ügynök neve"
+
+#: admin/templates/shortcode-builder/params/es_single-params.php:5
+msgid "Show Property"
+msgstr "Tulajdonság megjelenítése"
+
+#: admin/templates/shortcode-builder/params/es_single-params.php:6
+msgid "Please start typing the listing TITLE and select the correct one below."
+msgstr "Kérjük, kezdje be a TITLE listát, és válassza ki a megfelelőt."
+
+#: admin/templates/shortcode-builder/params/es_search-params.php:8
+msgid "Choose the layout for listings on Search results page."
+msgstr "A keresési eredmények oldalon válassza ki a listák elrendezését."
+
+#: admin/templates/shortcode-builder/params/es_search_map-params.php:19
+msgid "Search Form Settings"
+msgstr ""
+"Keressen az űrlapbeállításokban\n"
+
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:66
+msgid "Slider settings"
+msgstr "Csúszka beállításai"
+
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:71
+msgid "Slider effect"
+msgstr "Csúszka Hatás"
+
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:93
+msgid "Slides To Show"
+msgstr "Diavetítés megjelenítése"
+
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:100
+msgid "Margin"
+msgstr "Margó"
+
+#: admin/templates/shortcode-builder/params/es_property_slideshow-params.php:123
+msgid "Show Arrows"
+msgstr "Nyilak megjelenítése"
+
+#: admin/templates/shortcode-builder/params/es_subscription_table-params.php:1
+#: admin/templates/shortcode-builder/params/es_subscription_paypal_response_page-params.php:1
+#, php-format
+msgid "Please make sure you have configured Subscriptions settings %s."
+msgstr ""
+"Kérjük, ellenőrizze, hogy konfigurálta-e a %s előfizetési beállításokat."
+
+#: admin/templates/shortcode-builder/params/es_search_form-params.php:22
+msgid "Search Result Page"
+msgstr "Keresési eredmény oldal"
+
+#: admin/templates/shortcode-builder/params/es_search_form-params.php:23
+msgid "Select here the correct page with shortcode [es_search]."
+msgstr "Itt válassza ki a megfelelő oldalt a rövid kóddal [es_search]."
+
+#: admin/templates/shortcode-builder/params/es_search_form-params.php:27
+msgid "Select page"
+msgstr "Válassza ki az oldalt"
+
+#: admin/templates/shortcode-builder/params/es_search_form-params.php:30
+msgid "-- Current Page --"
+msgstr ""
+"-- Aktuális oldal --\n"
+
+#: admin/templates/shortcode-builder/params/es_search_form-params.php:46
+msgid "Search Fields"
+msgstr "Keresés mezők"
+
+#: admin/templates/shortcode-builder/params/es_search_form-params.php:69
+msgid "Enable Save Search"
+msgstr "Engedélyezze a Keresés mentése lehetőséget"
+
+#: admin/templates/fields-builder/partials/options/file.php:4
+msgid "Mime types"
+msgstr "MIME típusok"
+
+#: admin/templates/fields-builder/partials/options/file.php:8
+msgid "Show as thumbnail"
+msgstr "Megjelenítés miniatűrként"
+
+#: admin/templates/fields-builder/partials/options/number.php:4
+msgid "Min"
+msgstr "Min"
+
+#: admin/templates/fields-builder/partials/options/number.php:9
+msgid "Max"
+msgstr "Max"
+
+#: admin/templates/fields-builder/partials/options/number.php:14
+msgid "Step"
+msgstr "Lépés"
+
+#: admin/templates/fields-builder/partials/options/number.php:18
+#: admin/templates/fields-builder/partials/options/range.php:3
+msgid "Show search range"
+msgstr "A keresési tartomány megjelenítése"
+
+#: admin/templates/fields-builder/partials/options/multiple.php:15
+msgid "-- Input value --"
+msgstr "-- Bemeneti érték --"
+
+#: admin/templates/fields-builder/partials/options/multiple.php:28
+msgid "Multiple"
+msgstr "Többszörös"
+
+#: admin/templates/fields-builder/partials/options/range.php:9
+msgid "Field range mode"
+msgstr "Terepi üzemmód"
+
+#. Name of the plugin
+msgid "Estatik Premium"
+msgstr "Estatik Premium"
+
+#. Description of the plugin
+msgid "An advanced-featured Wordpress real estate plugin from Estatik."
+msgstr "Egy speciális kiemelt Wordpress ingatlan-bővítmény az Estatik-től."
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://estatik.net"
+msgstr "http://estatik.net"
